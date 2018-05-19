@@ -25,8 +25,8 @@ public class Item10QProcessor {
 	private static final Logger LOGGER = LoggerFactory.getLogger(Item10QProcessor.class);
 	private static String EMPTY_STRING = "";
 	
-	static String localInput = "test/input/10q/";
-	static String localOutput = "test/output/10q/";
+	static String localInput = "test/input/10q-100/";
+	static String localOutput = "test/output/10q-100/";
 	static String localTemplate = "test/template/";
 	
 	
@@ -35,8 +35,9 @@ public class Item10QProcessor {
 		LOGGER.info(" ***** FORM 10Q EXTRATION STARTED ***** ");
 		
 		//1. Read the xhtml from the file by passing the file path
-		String inputFile = localInput + "form10Q_xhtml_3.txt";
+		String inputFile = localInput + "form10q_xtxt_10.txt";
 		String xhtml = readInputFile(inputFile);
+		LOGGER.info(" ***** EXTRATING ***** " + inputFile);
 		
 		//2. get the list of sec items
 		List<SECItemSection> listOfItemSections = fetchSecItemSection(xhtml);
