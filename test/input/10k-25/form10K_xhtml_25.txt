@@ -1,0 +1,1716 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+<p style="margin: 0"></p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 1pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 10pt"><b>UNITEDSTATES</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Washington, D.C. 20549</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Form&nbsp;10-K/A</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>(Amendment No. 1)</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>(Mark One)</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+☒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ANNUALREPORT PURSUANT TO
+SECTION&nbsp;13 OR 15(d) OF THE&nbsp;SECURITIES EXCHANGE ACT
+OF&nbsp;1934</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>For the fiscal year ended December 31,2017</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Or</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+☐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>TRANSITIONREPORT PURSUANT TO
+SECTION&nbsp;13 OR 15(d) OF THE&nbsp;SECURITIES EXCHANGE ACT
+OF&nbsp;1934</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>For the transition period
+from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Commission file number: 001- 37593</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>BORQS TECHNOLOGIES, INC.</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Exact name of registrant as specified inits charter)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+<td style=
+"width: 50%; border-bottom: black 1.5pt solid; font-size: 10pt; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>British
+Virgin Islands</b></font></td>
+<td style=
+"width: 5%; padding-bottom: 1.5pt; font-size: 10pt; text-align: center">
+&nbsp;</td>
+<td style=
+"width: 45%; border-bottom: black 1.5pt solid; font-size: 10pt; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>N/A</b></font></td>
+</tr>
+<tr style="vertical-align: top">
+<td>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(State or other jurisdiction of</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+incorporation or organization)</p>
+</td>
+<td style="font-size: 10pt; text-align: center">&nbsp;</td>
+<td>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(I.R.S. Employer</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+Identification Number)</p>
+</td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Building B23-A,</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Universal Business Park</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>No. 10 Jiuxianqiao Road</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Chaoyang District, Beijing, 100015 China</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Address of principal executive offices,including zip code)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>(86) 10-5975-6336</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Registrant’s Telephone Number, includingarea code)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27pt">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+Securities registered pursuant to Section&nbsp;12(b)of the Act:</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27pt">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+<td style=
+"width: 46%; border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title
+of Each Class</b></font></td>
+<td style="width: 4%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 50%; border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Name
+of Each Exchange on Which Registered</b></font></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Ordinary
+Shares, no par value per share</font></td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Nasdaq Stock Market</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27pt">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+Securities registered pursuant to Section&nbsp;12(g)of the
+Act:&nbsp;<b>None</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Indicate by check mark if the Registrantis a well-known seasoned
+issuer, as defined in Rule&nbsp;405 of the Securities
+Act.&nbsp;Yes&nbsp;☐&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;☒</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Indicate by check mark whether the Registrantis not required to
+file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of
+the Act.&nbsp;Yes&nbsp;☐&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;☒</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-family: Times New Roman, Times, Serif">Indicateby
+check mark whether the Registrant (1)&nbsp;has filed all reports
+required to be filed by Section&nbsp;13 or 15(d) of the
+SecuritiesExchange Act of 1934 during the preceding 12&nbsp;months
+(or for such shorter period that the registrant was required to
+file suchreports) and (2)&nbsp;has been subject to such
+requirements for the past 90&nbsp;days.&nbsp;
+Yes&nbsp;☒&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;</font><font style=
+"font-family: Wingdings">o</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Indicate by check mark whether the registranthas submitted
+electronically and posted on its corporate Web site, if any, every
+Interactive Data File required to be submittedand posted pursuant
+to Rule&nbsp;405 of Regulation&nbsp;S-T (§232.405 of this chapter)
+during the preceding 12&nbsp;months(or for such shorter period that
+the registrant was required to submit and post such
+files).&nbsp;Yes&nbsp;☒&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;☐</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Indicate by check mark if disclosure ofdelinquent filers pursuant
+to Item&nbsp;405 of Regulation&nbsp;S-K is not contained herein,
+and will not be contained, to the bestof registrant’s knowledge, in
+definitive proxy or information statements incorporated by
+reference in Part&nbsp;III of theForm&nbsp;10-K or any amendment to
+this Form&nbsp;10-K.&nbsp;☐</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Indicate by check mark whether the registrantis a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitionsof “large accelerated filer,”
+“accelerated filer” and “smaller reporting company” in
+Rule&nbsp;12b-2of the Exchange Act (Check one):</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27pt">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+<td nowrap="nowrap" style=
+"width: 18%; padding-top: 2pt; padding-bottom: 2pt; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Large
+accelerated filer&nbsp;&nbsp;☐</font></td>
+<td nowrap="nowrap" style=
+"width: 16%; padding-top: 2pt; padding-bottom: 2pt; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Accelerated
+filer ☐</font></td>
+<td nowrap="nowrap" style=
+"width: 24%; padding-right: 3pt; padding-left: 3pt">
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+Non-accelerated filer ☒</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Do not check if a</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+smaller reporting company)</p>
+</td>
+<td nowrap="nowrap" style=
+"width: 21%; padding-top: 2pt; padding-bottom: 2pt; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Smaller
+reporting company ☐</font></td>
+<td nowrap="nowrap" style=
+"width: 21%; padding-top: 2pt; padding-bottom: 2pt; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Emerging
+growth company ☒</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27pt">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+If an emerging growth company, indicateby check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financialaccounting standards
+provided pursuant to Section 13(a) of the Exchange Act.☐</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Indicate by check mark whether the registrantis a shell company (as
+defined in Rule&nbsp;12b-2 of the Exchange Act).
+Yes&nbsp;☐&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;☒</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<font style="font-size: 6pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+The aggregate market value of the votingand non-voting stock held
+by non-affiliates of the Registrant, which was Pacific Special
+Acquisition Corp as of June 30, 2017 with5,042,817 shares held by
+non-affiliates, based on the closing sale price of the Registrant’s
+ordinary shares on June&nbsp;30,2017, the last business day of the
+Registrant’s most recently completed second fiscal quarter, as
+reported on The NasdaqStock Market which was $10.25 per share, was
+approximately $51.7 million. Ordinary shares held by each executive
+officer and directorand by each person who may be deemed to be an
+affiliate of the Registrant have been excluded from this
+computation. The determinationof affiliate status for this purpose
+is not necessarily a conclusive determination for other purposes.
+As of March 27, 2018, theRegistrant had 31,307,522 of its ordinary
+shares, no par value, outstanding.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<!-- Field: Page; Sequence: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>EXPLANATORY NOTE</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+This Annual Report on Form&nbsp;10-K/A (this“Amendment”) is being
+filed as an amendment to the Annual Report on Form&nbsp;10-K for
+the fiscal year ended December31, 2017 filed by Borqs
+Technologies,&nbsp;Inc. (the “Company”) on April 2, 2018 (the “10-K”
+). The solepurpose of this Amendment is to provide additional
+clarifying disclosures in Part II, Item 9A of the 10-K with respect
+to management’sassessment of the Company’s internal control over
+financial reporting and changes thereto.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+As required by Rule 12b-15 under the SecuritiesExchange Act of
+1934, as amended, Amendment No. 1 includes new certifications from
+the Company’s principal executive officerand principal financial
+officer dated as of the date of filing of this Amendment No. 1.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+This Amendment No. 1 consists solely ofthe preceding cover page,
+this explanatory note, Part II, Item 9A, “Controls and Procedures,”
+in its entirety, PartIV, Item 15, “Exhibits and Financial Statement
+Schedules,” in its entirety, the signature page, and the new
+certificationsfrom the Company’s Principal Executive Officer and
+Principal Financial Officer.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Except as described above, no other changeshave been made to the
+10-K. The 10-K continues to speak as of the date of the 10-K, and
+we have not updated the disclosures containedtherein to reflect any
+events which occurred at a date subsequent to the filing of the
+10-K. Accordingly, this Amendment shouldbe read in conjunction with
+our 10-K and our other filings made with the Securities and
+Exchange Commission subsequent to the filingof the Form 10-K.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<!-- Field: Page; Sequence: 2 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>Item&nbsp;9A.&nbsp;&nbsp;&nbsp;&nbsp;<i>Controls and
+Procedures</i></b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>(a)&nbsp;&nbsp;&nbsp;Disclosure Controls and Procedures</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Our Chief Executive Officer and our ChiefFinancial Officer, after
+evaluating the effectiveness of our “disclosure controls and
+procedures” (as defined in theSecurities Exchange Act of 1934 (
+“Exchange Act”) Rules&nbsp;13a-15(e) or 15d-15(e)) as of the end of
+the period coveredby this Annual Report, have concluded that, in
+light of the material weakness in our internal controls over
+financial reportingidentified below, our disclosure controls and
+procedures were ineffective as of December 31, 2017 based on our
+evaluation of thecontrols and procedures required by
+paragraph&nbsp;(b) of Exchange Act Rules&nbsp;13a-15 or 15d-15.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>(b)&nbsp;&nbsp;&nbsp;Management’s Annual Report onInternal
+Control over Financial Reporting</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Our management is responsible for establishingand maintaining
+adequate internal control over financial reporting. Our internal
+control over financial reporting is a processdesigned under the
+supervision of our Chief Executive Officer and Chief Financial
+Officer to provide reasonable assurance regardingthe reliability of
+financial reporting and the preparation of our consolidated
+financial statements for external reporting purposesin accordance
+with U.S. generally accepted accounting principles.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Management assessed the effectiveness ofour internal control over
+financial reporting as of December 31, 2017. In making this
+assessment, management used the frameworkset forth in the report
+Internal Control - Integrated Framework (2013) issued by the
+Committee of Sponsoring Organizations of theTreadway Commission, or
+COSO. The COSO framework summarizes each of the components of a
+company’s internal control system,including: (i) the control
+environment; (ii) risk assessment; (iii) control activities; (iv)
+information and communication; and(v) monitoring.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Based on that evaluation, our managementconcluded that the Company’
+s internal controls over financial reporting were not effective at
+December 31, 2017. We did notmaintain sufficient controls over
+financial reporting processes due to a lack of sufficient number of
+financial reporting personnelwith an appropriate level of knowledge
+and experience in U.S. GAAP and SEC reporting requirements and
+financial reporting programsto ensure that the consolidated
+financial statements were prepared in compliance with U.S. GAAP and
+SEC requirements properly.This deficiency constitutes a material
+weakness of our internal control over financial reporting.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in; color: #454545">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>(c)&nbsp;&nbsp;&nbsp;Changes in Internal Control over
+FinancialReporting</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+We identified two material weaknesses ininternal control over
+financial reporting during our preparation of the consolidated
+financial statements for the year ended December31, 2016: (i) a
+lack of sufficient personnel with sound knowledge of U.S. GAAP
+reporting systems; and (ii) insufficient controlsto ensure that
+appropriate accruals were made for expenses. Below is a discussion
+about the remedial efforts undertaken by managementto address each
+of these material weaknesses.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<i>Lack of sufficient accounting personnel.</i>Management
+identified the following steps to remediate this material
+weakness:</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<table cellpadding="0" cellspacing="0" width="100%" style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style="vertical-align: top">
+<td style="width: 0.5in"></td>
+<td style="width: 0.5in">●</td>
+<td>Launching a recruitment program to hire additional senior
+professional qualified accounting staff with knowledge of U.S.
+GAAPand SEC reporting.</td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in">
+<i>Action taken</i>: We hired a senior manager of financewith
+proper qualifications and experience in 2017 to establish,
+implement and improve our internal control system including
+entitylevel and process level controls as well as policies
+according to the COSO internal control integrated framework.
+Additionally,in connection with our business combination in August
+2017, we established an independent audit committee in August 2017,
+which,among other things, oversees the design and implementation
+effectiveness of the Company’s internal control over
+financialreporting at the end of each quarter.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">
+&nbsp;</p>
+<table cellpadding="0" cellspacing="0" width="100%" style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style="vertical-align: top">
+<td style="width: 0.5in"></td>
+<td style="width: 0.5in">●</td>
+<td>Implementing U.S. GAAP accounting and financial reporting
+programs, both internal and external, for the Company’s
+existingaccounting and reporting personnel including formulating
+internal policies relating to internal control over financial
+reporting,including preparing a comprehensive written accounting
+policies and procedures manual that can effectively and efficiently
+guideits finance and accounting personnel in addressing significant
+accounting issues and assist in preparing financial statements
+thatare in compliance with U.S. GAAP and SEC requirements.</td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in">
+<i>Action taken:</i> We implemented a new ERP systemthat was
+launched in the first quarter of 2018. The new ERP system runs
+parallel to our existing accounting systems for projectcosts. As
+our accounting staff together with our supply management team adapt
+to the new ERP system, we believe our costs reportingand analysis
+will be more efficient and reliable.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<!-- Field: Page; Sequence: 3; Options: NewSection; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->1
+<!-- Field: /Sequence -->&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+<i>Insufficient controls in expense accruals.</i> In 2017,
+wedeveloped additional controls to ensure that appropriate accruals
+are made for expenses, including (a) a thorough review of
+invoicesbefore closing the accounting records for the period, (b)
+capturing data about purchases made for goods and services in a
+periodeven where the invoice has not yet been received and (c)
+developing expectations as to period expenses level by category to
+beused to monitor the adequacy of the accruals made.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Following the above-mentioned efforts, asof December&nbsp;31, 2017,
+based on an assessment performed by our management on the
+performance of the remediation measures describedabove, we
+determined that the material weakness in providing for effective
+accruals in internal control over financial reportinghad been
+remediated. However the material weakness relating to hiring
+sufficient U.S. GAAP-qualified accounting personal had notyet been
+fully remediated.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+We plan to take additional measures to improveour internal control
+over financial reporting, including: (i) hiring additional
+qualified professionals with U.S. GAAP accountingexperience in the
+year 2018; (ii) providing U.S. GAAP and SEC reporting training to
+our accounting personnel; and (iii) preparinga comprehensive
+written accounting policies and procedures manual that can
+effectively and efficiently guide our finance and
+accountingpersonnel in addressing significant accounting issues and
+preparing financial statements that are in compliance with U.S.
+GAAPand SEC requirements. In addition, we intend to engage an
+external service provider by the end of 2018 to assist management
+inevaluating our current internal control over financial reporting
+and implementing necessary controls and measures to assist itin
+preparing for compliance with internal control reporting. We
+believe that an external service provider will assist our effortsto
+staff sufficient personnel who can execute the tasks of reporting
+our financial results routinely and accurately, as well ashelp to
+identify and mitigate risks and address problems in an efficient
+manner.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+However, the implementation of these initiativesmay not fully
+address the material weaknesses and significant deficiencies in our
+internal control over financial reporting. See“Item 1A. Risk
+Factors — Risks Related to our Business and Industry – “If we fail
+to maintain effectiveinternal control over financial reporting, we
+may not be able to accurately and timely report our financial
+results or preventfraud, and investor confidence and the market
+price of our ordinary shares may be adversely impacted.”</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<!-- Field: Page; Sequence: 4; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->2
+<!-- Field: /Sequence -->&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>PART IV</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>Item&nbsp;15.&nbsp;&nbsp;&nbsp;&nbsp;<i>Exhibits and
+FinancialStatement Schedules</i></b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>(a)&nbsp;&nbsp;&nbsp;Consolidated financial statements,
+consolidatedfinancial statements schedule and exhibits</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+1.&nbsp;&nbsp;&nbsp;&nbsp;Consolidated
+financialstatements.&nbsp;The consolidated financial statements as
+listed in the accompanying “Index to Consolidated
+FinancialInformation” are filed as part of this Annual Report on
+Form&nbsp;10-K.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+2.&nbsp;&nbsp;&nbsp;&nbsp;All schedulesnot listed in the
+accompanying index have been omitted as they are either not
+required or not applicable, or the required informationis included
+in the consolidated financial statements or the notes thereto.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+3.&nbsp;&nbsp;&nbsp;&nbsp;Exhibits.&nbsp;The exhibits listedin the
+accompanying Exhibit Index are filed or incorporated by reference
+as part of this Annual Report on Form&nbsp;10-K.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>EXHIBITINDEX</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+<td style="vertical-align: top; padding-bottom: 1.5pt">&nbsp;</td>
+<td style="vertical-align: top; padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="11" style=
+"vertical-align: bottom; text-align: center; border-bottom: Black 1.5pt solid">
+<b>Incorporated by Reference</b></td>
+</tr>
+<tr>
+<td style=
+"vertical-align: top; width: 9%; border-bottom: Black 1.5pt solid">
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<b>Exhibit</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<b>Number</b></p>
+</td>
+<td style="vertical-align: top; width: 1%; padding-bottom: 1.5pt">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; width: 46%; border-bottom: Black 1.5pt solid; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>Exhibit
+Title</b></font></td>
+<td style="width: 1%">&nbsp;</td>
+<td style=
+"vertical-align: bottom; width: 8%; border-bottom: Black 1.5pt solid; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>Form</b></font></td>
+<td style=
+"vertical-align: top; width: 1%; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; width: 9%; border-bottom: Black 1.5pt solid; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>File
+No.</b></font></td>
+<td style=
+"vertical-align: top; width: 1%; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; width: 5%; border-bottom: Black 1.5pt solid; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>Exhibit</b></font></td>
+<td style=
+"vertical-align: top; width: 1%; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; width: 9%; border-bottom: Black 1.5pt solid; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>Filing
+Date</b></font></td>
+<td style=
+"vertical-align: top; width: 1%; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; width: 8%; border-bottom: Black 1.5pt solid">
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Filed</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Herewith</b></p>
+</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">2.1</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex2-1_borqstech.htm">
+Merger Agreement dated December 27, 2016, as amended on May 10,
+2017 and June 29, 2017, by and among Pacific, Borqs International,
+Sellers, the Purchaser Representative, the Seller Representative
+and, for certain limited purposes thereof, Zhengqi (incorporated by
+reference from Annex A to the Registrant’s Definitive Proxy
+Statement, filed with the SEC on July 14, 2017)</a></td>
+<td>&nbsp;</td>
+<td style=
+"vertical-align: top; padding-left: 0.5in; text-align: center; text-indent: -0.5in">
+8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">2.1</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">3.1</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex3-1_borqstech.htm">
+Amended and Restated Memorandum and Articles of
+Association</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">3.1</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.1</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-1_borqstech.htm">
+Registration Rights Agreement, dated August 18, 2017, by and among
+each of Selling Shareholders and the Purchaser
+Representative</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.1</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.2</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-2_borqstech.htm">
+Form of Lock-Up Agreement, by and among each of the Selling
+Shareholders, Pacific and the Purchaser Representative</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.2</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.3</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-3_borqstech.htm">
+Form of Non-Competition and Non-Solicitation Agreement, dated
+August 18, 2017, by and among certain shareholders of Pacific,
+Pacific, Borqs International and the Purchaser
+Representative</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.3</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.4</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-4_borqstech.htm">
+Escrow Agreement, dated August 18, 2017, by and among the
+Registrant, the Purchaser Representative, Seller Representative and
+the Escrow Agent</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.4</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.5</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-5_borqstech.htm">
+Form of Letter of Transmittal</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.5</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.6</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-6_borqstech.htm">
+Backstop and Subscription Agreement, dated May 11, 2017, by and
+among Pacific and Zhengqi</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.6</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.7+</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-7_borqstech.htm">
+Employment Contract, dated July 1, 2013, by and between Borqs
+International and Pat Sek Yuen Chan</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.7</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.8+</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-8_borqstech.htm">
+Employment Contract, dated July 1, 2013, by and between Borqs
+International and Bob Xiao Bo Li</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.8</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.9+</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-9_borqstech.htm">
+Employment Agreement, dated January 1, 2018, by and between Borqs
+Hong Kong Limited and Anthony K. Chan</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">99.1</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">3/26/18</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.10+</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-10_borqs.htm">
+Borqs Technologies, Inc. 2017 Equity Incentive Plan, as
+amended</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.10</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.11</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-11_borqstech.htm">
+Form of Warrant, dated August 18, 2017, by and between the Company
+and each of Warrant Holders</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.11</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.12</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-12_borqstech.htm">
+Partial Assignment and Amendment of Backstop and Subscription
+Agreement, dated August 18, 2017, by and between Zhengqi,
+EarlyBirdCapital, Pacific and Borqs International</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">10.12</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8/24/17</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+</table>
+<p style="margin: 0">&nbsp;</p>
+<p style="margin: 0"></p>
+<!-- Field: Page; Sequence: 6; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->4
+<!-- Field: /Sequence -->&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="margin: 0">&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+<td style="vertical-align: top; padding-bottom: 1.5pt">&nbsp;</td>
+<td style="vertical-align: top; padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="11" style=
+"vertical-align: bottom; text-align: center; border-bottom: Black 1.5pt solid">
+<b>Incorporated by Reference</b></td>
+</tr>
+<tr>
+<td style="vertical-align: top; border-bottom: Black 1.5pt solid">
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<b>Exhibit</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<b>Number</b></p>
+</td>
+<td style="vertical-align: top; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"vertical-align: bottom; border-bottom: Black 1.5pt solid; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>Exhibit
+Title</b></font></td>
+<td>&nbsp;</td>
+<td style=
+"vertical-align: bottom; border-bottom: Black 1.5pt solid; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>Form</b></font></td>
+<td style=
+"vertical-align: top; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; border-bottom: Black 1.5pt solid; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>File
+No.</b></font></td>
+<td style=
+"vertical-align: top; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; border-bottom: Black 1.5pt solid; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>Exhibit</b></font></td>
+<td style=
+"vertical-align: top; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; border-bottom: Black 1.5pt solid; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>Filing
+Date</b></font></td>
+<td style=
+"vertical-align: top; padding-bottom: 1.5pt; text-align: center">
+&nbsp;</td>
+<td style=
+"vertical-align: bottom; border-bottom: Black 1.5pt solid">
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Filed</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Herewith</b></p>
+</td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: left; width: 9%">
+10.13</td>
+<td style="vertical-align: bottom; text-align: left; width: 1%">
+&nbsp;</td>
+<td style="vertical-align: bottom; width: 46%"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390017009163/f8k081817ex10-13_borqstech.htm">
+Amended and Restated Registration Rights Agreement, dated August
+18, 2017, by and among Pacific and certain shareholders of
+Pacific</a></td>
+<td style="width: 1%">&nbsp;</td>
+<td style="vertical-align: top; text-align: center; width: 8%">
+8-K</td>
+<td style="vertical-align: top; text-align: center; width: 1%">
+&nbsp;</td>
+<td style="vertical-align: top; text-align: center; width: 9%">
+001-37593</td>
+<td style="vertical-align: top; text-align: center; width: 1%">
+&nbsp;</td>
+<td style="vertical-align: top; text-align: center; width: 5%">
+10.13</td>
+<td style="vertical-align: top; text-align: center; width: 1%">
+&nbsp;</td>
+<td style="vertical-align: top; text-align: center; width: 9%">
+8/24/17</td>
+<td style="vertical-align: top; text-align: center; width: 1%">
+&nbsp;</td>
+<td style="vertical-align: top; text-align: center; width: 8%">
+&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.14*</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390018003858/f10k2017ex10-14_borqstech.htm"
+style="-sec-extract: exhibit">Letter of Intent, dated January 8,
+2018, by and between Borqs Technologies, Inc. and Shanghai KADI
+Technologies Co., Ltd.</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center"></td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.15</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390018000745/f8k011818ex99-1_borqstech.htm">
+Share Purchase Agreement, dated January 18, 2018, by and among with
+Borqs Technologies, Inc. and Colmei Technology International
+Limited, Shenzhen Crave Communication Company, Limited, and their
+respective shareholders.</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">8-K</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">001-37593</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">99.1</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">1/22/18</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.16*</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390018003858/f10k2017ex10-16_borqstech.htm"
+style="-sec-extract: exhibit">Alpha Network Ltd. Manufacturing
+&amp; Service Agreement and Form of Purchase Order, dated September
+1, 2015</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center"></td>
+</tr>
+<tr style="background-color: #CCEEFF">
+<td style="vertical-align: top; text-align: justify">10.17*</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390018003858/f10k2017ex10-17_borqstech.htm"
+style="-sec-extract: exhibit">Colmei Technology International
+Limited Master Manufacturing Agreement and Form of Purchase Order,
+dated March 6, 2017.</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center"></td>
+</tr>
+<tr style="background-color: white">
+<td style="vertical-align: top; text-align: justify">10.18*</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390018003858/f10k2017ex10-18_borqstech.htm"
+style="-sec-extract: exhibit">Reliance Retail Limited Form of
+Purchase Order, dated November 23, 2015</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center"></td>
+</tr>
+<tr style="background-color: rgb(204,238,255)">
+<td style="vertical-align: top; text-align: justify">10.19+*</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390018003858/f10k2017ex10-19_borqstech.htm"
+style="-sec-extract: exhibit">Form of Indemnification Agreement,
+dated August 18, 2017, by and Borqs Technologies, Inc. and each of
+its directors and executive officers</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center"></td>
+</tr>
+<tr style="background-color: White">
+<td style="vertical-align: top; text-align: justify">21.1</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"http://www.sec.gov/Archives/edgar/data/1650575/000121390018001895/fs12018ex21-1_borqstech.htm">
+List of subsidiaries</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">S-1</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">
+<p style="margin: 0pt 0">001-37593</p>
+</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">
+<p style="margin: 0pt 0">21.1</p>
+</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">
+<p style="margin: 0pt 0">2/14/18</p>
+</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: rgb(204,238,255)">
+<td style="vertical-align: top; text-align: justify">31.1</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"f10k2017a1ex31-1_borqstech.htm">Certification of Chief Executive
+Officer Pursuant to Rule 13a-14(a) of the Securities Exchange Act
+of 1934, as adopted by Section 302 of the of the Sarbanes-Oxley Act
+of 2002</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">X</td>
+</tr>
+<tr style="background-color: White">
+<td style="vertical-align: top; text-align: justify">31.2</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"f10k2017a1ex31-2_borqstech.htm">Certification of Chief Financial
+Officer Pursuant to Rule 13a-14(a) of the Securities Exchange Act
+of 1934, as adopted by Section 302 of the of the Sarbanes-Oxley Act
+of 2002</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">X</td>
+</tr>
+<tr style="background-color: rgb(204,238,255)">
+<td style="vertical-align: top; text-align: justify">32.1</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"f10k2017a1ex32-1_borqstech.htm">Certification of Chief Executive
+Officer Pursuant to 18 U.S.C. section 1350, as adopted by Section
+906 of the Sarbanes-Oxley Act of 2002</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">X</td>
+</tr>
+<tr style="background-color: White">
+<td style="vertical-align: top; text-align: justify">32.2</td>
+<td style="vertical-align: bottom; text-align: justify">&nbsp;</td>
+<td style="vertical-align: bottom"><a href=
+"f10k2017a1ex32-2_borqstech.htm">Certification of Chief Financial
+Officer Pursuant to 18 U.S.C. section 1350, as adopted by Section
+906 of the Sarbanes-Oxley Act of 2002</a></td>
+<td>&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">&nbsp;</td>
+<td style="vertical-align: top; text-align: center">X</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 1.5pt solid; width: 25%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0">
++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Managementcontract or
+compensatory plan or arrangement</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0">
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previouslyfiled with the
+10-K filed on April 2, 2018.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<!-- Field: Page; Sequence: 7; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->5
+<!-- Field: /Sequence -->&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>SIGNATURES</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Pursuant to the requirements of Section&nbsp;13or 15(d) of the
+Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersignedthereunto
+duly authorized on May 14, 2018.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td colspan="2" style="vertical-align: top"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">BORQS
+TECHNOLOGIES, INC.</font></td>
+</tr>
+<tr>
+<td style="vertical-align: bottom; width: 53%">&nbsp;</td>
+<td style="vertical-align: top; width: 6%">&nbsp;</td>
+<td style="vertical-align: bottom; width: 41%">&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td style="vertical-align: top"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</font></td>
+<td style=
+"vertical-align: bottom; border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+Anthony K. Chan</font></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+Anthony K. Chan</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<i>Chief Financial Officer</i></p>
+</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+Pursuant to the requirements of the SecuritiesExchange Act of 1934,
+this report has been signed below by the following persons on
+behalf of the Registrant and in the capacitiesand on the dates
+indicated below.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+<td style=
+"width: 31%; border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Signature</b></font></td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 53%; border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title</b></font></td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 14%; border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Date</b></font></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+Pat Sek Yuen Chan</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">May
+14, 2018</font></td>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pat
+Sek Yuen Chan</font></td>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td style="vertical-align: bottom"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief
+Executive Officer and Director<br />
+(Principal Executive Officer)</font></td>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td style="vertical-align: bottom">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+Anthony K. Chan</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">May
+14, 2018</font></td>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Anthony
+K. Chan</font></td>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td style="vertical-align: bottom"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief
+Financial Officer<br />
+(Principal Financial Officer,<br />
+Principal Accounting Officer)</font></td>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td style="vertical-align: bottom">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style=
+"vertical-align: bottom; border-bottom: black 1.5pt solid; text-align: center">
+</td>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td style="vertical-align: bottom; text-align: center"></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Honghui
+Deng</font></td>
+<td>&nbsp;</td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="border-bottom: black 1.5pt solid; text-align: center">
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: center"></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Yaqi
+Feng</font></td>
+<td>&nbsp;</td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+Bill Huang</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">May
+14, 2018</font></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Bill
+Huang</font></td>
+<td>&nbsp;</td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="border-bottom: black 1.5pt solid; text-align: center">
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: center"></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Jason
+Zexian Shen</font></td>
+<td>&nbsp;</td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+Eric Tao</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">May
+14, 2018</font></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Eric
+Tao</font></td>
+<td>&nbsp;</td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="border-bottom: black 1.5pt solid; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+Joseph Wai Leung Wong</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">May
+14, 2018</font></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="text-align: center"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Joseph
+Wai Leung Wong</font></td>
+<td>&nbsp;</td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</font></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<!-- Field: Page; Sequence: 8; Options: Last -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->6
+<!-- Field: /Sequence -->&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+</body>
+</html>
+

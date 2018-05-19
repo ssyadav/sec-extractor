@@ -1,0 +1,3742 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s5309E6E7ED485DD2B6013686027BEB17" id=
+"s5309E6E7ED485DD2B6013686027BEB17"></a></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="1"></td>
+</tr>
+<tr>
+<td style="width:100%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:16pt;">
+<font style=
+"font-family:inherit;font-size:16pt;font-weight:bold;">UNITED
+STATES</font></div>
+<div style="line-height:120%;text-align:center;font-size:16pt;">
+<font style=
+"font-family:inherit;font-size:16pt;font-weight:bold;">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Washington,
+D.C. 20549</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:34%;"></td>
+<td style="width:33%;"></td>
+<td style="width:33%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:16pt;">
+<font style=
+"font-family:inherit;font-size:16pt;font-weight:bold;">Form
+10-K/A</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">(Amendment
+No.&nbsp;1)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:34%;"></td>
+<td style="width:33%;"></td>
+<td style="width:33%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">(Mark
+One)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:96%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;">x</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">For the
+fiscal year ended December&nbsp;31, 2017</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">OR</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:96%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;">¬</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">For the
+transition period from
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+to</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Commission
+file number: 001-37779</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:25%;"></td>
+<td style="width:51%;"></td>
+<td style="width:24%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:22pt;">
+<font style=
+"font-family:inherit;font-size:22pt;font-weight:bold;">FGL
+HOLDINGS</font></div>
+<div style="line-height:120%;text-align:center;font-size:22pt;">
+<font style=
+"font-family:inherit;font-size:22pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">(Exact name
+of registrant as specified in its charter)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:25%;"></td>
+<td style="width:51%;"></td>
+<td style="width:24%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:33%;"></td>
+<td style="width:33%;"></td>
+<td style="width:34%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Cayman
+Islands</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">98-1354810</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="padding-top:2px;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(State or
+other jurisdiction of</font></div>
+<div style="padding-bottom:2px;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">incorporation
+or organization)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">&nbsp;4</font><font style="font-family:inherit;font-size:7pt;font-weight:bold;"><sup style="vertical-align:top;line-height:120%;font-size:5pt">th</sup></font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">&nbsp;Floor</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Boundary
+Hall, Cricket Square</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Grand
+Cayman, Cayman Islands</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">KY1-1102</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="padding-top:2px;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(I.R.S.
+Employer</font></div>
+<div style="padding-bottom:2px;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Identification
+No.)</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(Address of
+principal executive offices, including zip code)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:17px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:17px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:17px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">1 (345)
+947-5614</font></div>
+<div style="line-height:120%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(Registrant’s
+telephone number, including area code)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Not
+Applicable</font></div>
+<div style="line-height:120%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(Former name,
+former address and former fiscal year, if changed since last
+report)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:25%;"></td>
+<td style="width:51%;"></td>
+<td style="width:24%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Securities
+registered pursuant to Section&nbsp;12(b) of the Act:</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:50%;"></td>
+<td style="width:1%;"></td>
+<td style="width:49%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Title of each
+class:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Name&nbsp;of&nbsp;each&nbsp;exchange&nbsp;on&nbsp;which&nbsp;registered:</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Ordinary
+shares, par value $.0001 per share</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">New York
+Stock&nbsp;Exchange</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Warrants to
+purchase ordinary shares</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">New York
+Stock Exchange</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:174%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Securities
+registered pursuant to Section&nbsp;12(g) of the Act:
+None</font></div>
+<div style="line-height:174%;text-align:left;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">Indicate by check
+mark if the registrant is a well-known seasoned issuer, as defined
+in Rule&nbsp;405 of the Securities Act.
+Yes&nbsp;&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">¬</font><font style=
+"font-family:inherit;font-size:8pt;">&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;&nbsp;No
+&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">x</font></div>
+<div style="line-height:174%;text-align:left;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">Indicate by check
+mark if the registrant is not required to file reports pursuant to
+Section&nbsp;13 or Section&nbsp;15(d) of the Act.
+Yes&nbsp;&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">¬</font><font style=
+"font-family:inherit;font-size:8pt;">&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;&nbsp;No
+&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">x</font></div>
+<div style="line-height:174%;text-align:justify;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">Indicate by check
+mark whether the registrant (1)&nbsp;has filed all reports required
+to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and
+(2)&nbsp;has been subject to such filing requirements for the past
+90 days. Yes&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">x</font><font style=
+"font-family:inherit;font-size:8pt;">&nbsp;&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;&nbsp;No</font>
+<font style="font-family:Wingdings;font-size:8pt;">¬</font></div>
+<div style="line-height:174%;text-align:justify;font-size:9pt;">
+<font style="font-family:inherit;font-size:8pt;">Indicate by check
+mark whether the registrant has submitted electronically and posted
+on its corporate Web site, if any, every Interactive Data File
+required to be submitted and posted pursuant to Rule 405 of
+Regulation S-T (</font><font style=
+"font-family:inherit;font-size:9pt;">§</font> <font style=
+"font-family:inherit;font-size:8pt;">232.405) during the preceding
+12 months (or for such shorter period that the registrant was
+required to submit and post such files).&nbsp;&nbsp;&nbsp;&nbsp;
+Yes&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">x</font><font style=
+"font-family:inherit;font-size:8pt;">&nbsp;&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;&nbsp;No</font>
+<font style="font-family:Wingdings;font-size:8pt;">¬</font></div>
+<div style="line-height:174%;text-align:left;font-size:9pt;">
+<font style="font-family:inherit;font-size:8pt;">Indicate by check
+mark if disclosure of delinquent filers pursuant to Item&nbsp;405
+of Regulation&nbsp;S-K (</font><font style=
+"font-family:inherit;font-size:9pt;">§</font> <font style=
+"font-family:inherit;font-size:8pt;">229.405) is not contained
+herein, and will not be contained, to the best of registrant’s
+knowledge, in definitive proxy or information statements
+incorporated by reference in Part&nbsp;III of this Form&nbsp;10-K
+or any amendment to this Form&nbsp;10-K.</font> <font style=
+"font-family:Wingdings;font-size:8pt;">¬</font></div>
+<div style="line-height:174%;text-align:left;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">Indicate by check
+mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, smaller reporting
+company, or an emerging growth company. See the definitions of
+"large accelerated filer," "accelerated filer," "smaller reporting
+company," and “emerging growth company” in Rule 12b-2 of the
+Exchange Act.</font></div>
+<div style="line-height:174%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:76.41325536062378%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td style="width:41%;"></td>
+<td style="width:9%;"></td>
+<td style="width:41%;"></td>
+<td style="width:9%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;">Large&nbsp;Accelerated&nbsp;Filer</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:Wingdings;font-size:8pt;">x</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;">Accelerated&nbsp;Filer</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:8pt;"><font style=
+"font-family:Wingdings;font-size:8pt;">¬</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;">Non-accelerated
+Filer</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:Wingdings;font-size:8pt;">¬</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;">(Do not check if a smaller
+reporting company)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;">Smaller reporting
+Company</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:Wingdings;font-size:8pt;">¬</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;">Emerging growth
+company</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:8pt;"><font style=
+"font-family:Wingdings;font-size:8pt;">¬</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:174%;text-align:left;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.</font> <font style=
+"font-family:Wingdings;font-size:8pt;">¬</font></div>
+<div style="line-height:174%;text-align:justify;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">Indicate by check
+mark whether the registrant is a shell company (as defined in Rule
+12b-2 of the Exchange Act). Yes&nbsp;&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">¬</font><font style=
+"font-family:inherit;font-size:8pt;">&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;&nbsp;No
+&nbsp;</font><font style=
+"font-family:Wingdings;font-size:8pt;">x</font></div>
+<div style="line-height:174%;text-align:left;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">The aggregate
+market value of the ordinary shares held by non-affiliates of the
+registrant as of the last business day of the registrant's most
+recently completed second fiscal quarter, computer by reference to
+the closing price reported on the NASDAQ Capital Market as of June
+30, 2017 was approximately $776,250,000.</font></div>
+<div style="line-height:174%;text-align:left;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">As of March 14,
+2018, there were 214,370,000 ordinary shares, $.0001 par value,
+issued and outstanding.</font></div>
+<div style="line-height:174%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">DOCUMENTS
+INCORPORATED BY REFERENCE</font></div>
+<div style=
+"line-height:174%;text-align:justify;text-indent:48px;font-size:8pt;">
+<font style="font-family:inherit;font-size:8pt;">Certain
+information required by Part III of this document is incorporated
+by reference herein to specific portions of the registrant's
+definitive proxy statement relating to its the 2018 Annual Meeting
+of Shareholders filed on April 2, 2018.</font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="1"></td>
+</tr>
+<tr>
+<td style="width:100%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><a name="s91EACFFA589352C1AB583D58D71E96EB" id=
+"s91EACFFA589352C1AB583D58D71E96EB"></a></div>
+<div><br /></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Explanatory
+Note</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">FGL Holdings (the
+“Company,” “we,” “us,” and “our”) is filing this Amendment
+No.&nbsp;1 (the “Amendment”) on Form 10-K/A to amend our Annual
+Report on Form 10-K for the fiscal year ended December&nbsp;31,
+2017 (the “Original 10-K”), filed with the Securities and Exchange
+Commission on March&nbsp;15, 2018 (the “Original Filing Date”). The
+sole purposes of this Amendment are to correct the incorporation by
+reference of Exhibit 10.53 and the hyperlinks in Exhibits 4.2 and
+10.8 listed in Item 15 - List of Exhibits of the Original
+10-K.</font></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">As required by
+Rule 12b-15 under the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”), the Company’s principal executive officer and
+principal financial officer are providing new currently dated
+certifications required pursuant to Exchange Act Rules 13a-14(a)
+and 15d-14(a), as adopted pursuant Section 302 of the
+Sarbanes-Oxley Act of 2002, which are attached hereto.</font></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Except as
+described above, this Amendment does not amend, update or change
+any other items or disclosures in the Original 10-K. This Amendment
+speaks only as of the Original Filing Date, and the Company has not
+undertaken herein to amend, supplement or update any information
+contained in the Original 10-K to give effect to any subsequent
+events. Accordingly, this Amendment should be read in conjunction
+with the Original 10-K and the Company’s filings made with the SEC
+subsequent to the filing of the Original Filing, including any
+amendment to those filings.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><a name="s275DBA2745C8556BA533E298B32336CD" id=
+"s275DBA2745C8556BA533E298B32336CD"></a></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">PART
+IV</font></div>
+<div><a name="s98D88FDCA7245196BB9230182583FD1F" id=
+"s98D88FDCA7245196BB9230182583FD1F"></a></div>
+<div style=
+"line-height:174%;padding-top:12px;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;color:#222222;font-weight:bold;">
+Item 15.</font><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+<font style=
+"font-family:inherit;font-size:10pt;color:#222222;font-weight:bold;">
+Exhibits, Financial Statements and Schedules</font></div>
+<div style="line-height:174%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;color:#222222;font-style:italic;">
+List of Documents Filed</font></div>
+<div style="line-height:174%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;color:#222222;">1)
+Financial Statements</font></div>
+<div style=
+"line-height:174%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">All financial
+statements of the Registrant are included in the Original
+10-K.</font></div>
+<div style="line-height:174%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;color:#222222;">2)
+Financial Statement Schedules</font></div>
+<div style=
+"line-height:174%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">All financial
+statement schedules have been omitted since they are either not
+applicable or not required, or the information is contained within
+the consolidated financial statements included in the Original
+10-K.</font></div>
+<div style=
+"line-height:120%;padding-top:9px;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:9px;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">3</font></div>
+</div>
+<hr style="page-break-after:always" />
+<div><a name="s6D924F6CDBE258F393FCF2C87047891E" id=
+"s6D924F6CDBE258F393FCF2C87047891E"></a></div>
+<div>
+<div style=
+"line-height:120%;text-align:left;padding-left:42px;font-size:10pt;">
+<a style="font-family:inherit;font-size:10pt;" href=
+"#sC2C44A44787A58AA99FCC808E23D6599"><font style=
+"font-family:inherit;font-size:10pt;">Table of
+Contents</font></a></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:174%;padding-top:12px;text-align:justify;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">List of
+Exhibits</font> <font style=
+"font-family:inherit;font-size:9pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;color:#222222;">The
+following is a list of exhibits filed or incorporated by reference
+as a part of this Annual Report on</font> <font style=
+"font-family:inherit;font-size:10pt;">Form 10-K/A.</font></div>
+<div style=
+"line-height:120%;padding-bottom:12px;padding-top:12px;text-align:left;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:12%;"></td>
+<td style="width:1%;"></td>
+<td style="width:87%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Exhibit</font></div>
+<div style="padding-bottom:1px;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">No.&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Description
+of Exhibits</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:5px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">2.1</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917005546/t1701700_ex2-1.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Agreement and Plan of Merger, dated as of May 24, 2017, by and
+between CF Corporation, FGL US Holdings Inc., FGL Merger Sub Inc.
+and Fidelity &amp; Guaranty Life (incorporated by reference to
+Exhibit 2.1 of the Current Report on Form 8-K filed by CF
+Corporation on May 31, 2017).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">2.2</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex2-2.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Amendment No. 1 to Agreement and Plan of Merger, dated as of June
+30, 2017, by and between CF Corporation, FGL US Holdings Inc., FGL
+Merger Sub Inc. and Fidelity &amp; Guaranty Life (incorporated by
+reference to Exhibit 2.2 of the Quarterly Report on Form 10-Q filed
+by CF Corporation on August 14, 2017).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">2.3</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312517180474/d392156dex22.htm">
+<font style="font-family:inherit;font-size:10pt;">Voting Agreement,
+dated as of May 24, 2017, by and among Fidelity &amp; Guaranty
+Life, CF Capital Growth, LLC, Fidelity National Financial, Inc.,
+CFS Holdings (Cayman), L.P., CC Capital Management, LLC, BilCar,
+LLC, Richard N. Massey and James A. Quella (incorporated by
+reference to Exhibit 2.2 to our Form 8-K, filed on May 24, 2017
+(File No. 001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">3.1</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex3-1.htm">
+<font style="font-family:inherit;font-size:10pt;">Amended and
+Restated Memorandum and Articles of Association (incorporated by
+reference to Exhibit 3.1 of the Registrant’s Current Report on Form
+8-K filed with the SEC on December 1, 2017).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">3.2</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex3-2.htm">
+<font style="font-family:inherit;font-size:10pt;">Certificate of
+Designations of Series A Cumulative Convertible Preferred Shares
+(incorporated by reference to Exhibit 3.2 of the Registrant’s
+Current Report on Form 8-K filed with the SEC on December 1,
+2017).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">3.3</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex3-3.htm">
+<font style="font-family:inherit;font-size:10pt;">Certificate of
+Designations of Series B Cumulative Convertible Preferred Shares
+(incorporated by reference to Exhibit 3.3 of the Registrant’s
+Registration Statement on Form S-3 filed on December 21, 2017 (File
+No. 333-222232).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.1</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex4-1.htm">
+<font style="font-family:inherit;font-size:10pt;">Specimen Ordinary
+Share Certificate (incorporated by reference to Exhibit 4.1 to the
+Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.2</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex4-2.htm">
+<font style="font-family:inherit;font-size:10pt;">Specimen Warrant
+Certificate (incorporated by reference to Exhibit 4.2 to the
+Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.3</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex4-4.htm">
+<font style="font-family:inherit;font-size:10pt;">Warrant
+Agreement, dated May 19, 2016, by and between CF Corporation and
+Continental Stock Transfer &amp; Trust Company, as warrant agent
+(incorporated by reference to Exhibit 4.4 of the Current Report on
+Form 8-K, filed by CF Corporation on May 25, 2016 (File No.
+001-37779)).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.4</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312513401460/d588103dex42.htm">
+<font style="font-family:inherit;font-size:10pt;">Indenture, dated
+March 27, 2013, among Fidelity &amp; Guaranty Life Holdings, Inc.,
+as issuer, the Subsidiary Guarantors from time to time parties
+thereto and Wells Fargo Bank, National Association, as trustee,
+relating to the 6.375% Senior Notes due 2021 (incorporated by
+reference to Exhibit 4.2 to the Registrant’s Registration Statement
+on Form S-1/A, filed on October 17, 2013 (File No.
+333-192849)).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.5</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312513401460/d588103dex43.htm">
+<font style="font-family:inherit;font-size:10pt;">First
+Supplemental Indenture, dated March 27, 2013, among Fidelity &amp;
+Guaranty Life Holdings, Inc., as issuer, the Subsidiary Guarantors
+from named therein and Wells Fargo Bank, National Association,
+relating to the 6.375% Senior Notes due 2021 (incorporated by
+reference to Exhibit 4.3 to the Registrant’s Registration Statement
+on Form S-1/A, filed on October 17, 2013 (File No.
+333-192849)).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.6</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex4-4.htm">
+<font style="font-family:inherit;font-size:10pt;">Amended and
+Restated Indenture, dated November&nbsp;20, 2017, among Fidelity
+&amp; Guaranty Life Holdings, Inc., as issuer, the Subsidiary
+Guarantors from time to time parties thereto and Wells Fargo Bank,
+National Association, as trustee, relating to the 6.375% Senior
+Notes due 2021 (incorporated by reference to Exhibit&nbsp;4.4 to
+the Registrant’s Current Report on Form 8-K filed with the SEC on
+December&nbsp;1, 2017).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.1</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-1.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Letter Agreement, dated May 19, 2016, by and among CF Corporation,
+CF Capital Growth, LLC, Chinh E. Chu, William P. Foley, II, James
+A. Quella, Douglas B. Newton, David Ducommun and Richard N. Massey
+(incorporated by reference to Exhibit 10.1 of the Current Report on
+Form 8-K, filed by CF Corporation on May 25, 2016 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.3</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917005108/t1701592_ex10-2.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Letter Agreement, dated May 17, 2017, by and between CF Corporation
+and Keith W. Abell (incorporated by reference to Exhibit 10.2 of
+the Current Report on Form 8-K, filed by CF Corporation on May 18,
+2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">4</font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style=
+"line-height:120%;text-align:left;padding-left:42px;font-size:10pt;">
+<a style="font-family:inherit;font-size:10pt;" href=
+"#sC2C44A44787A58AA99FCC808E23D6599"><font style=
+"font-family:inherit;font-size:10pt;">Table of
+Contents</font></a></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-bottom:12px;padding-top:12px;text-align:left;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:12%;"></td>
+<td style="width:1%;"></td>
+<td style="width:87%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.4</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-2.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Investment Management Trust Agreement, dated May 19, 2016, by and
+between CF Corporation and Continental Stock Transfer &amp; Trust
+Company, as trustee (incorporated by reference to Exhibit 10.2 of
+Current Report on Form 8-K, filed by CF Corporation on May 25, 2016
+(File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.5</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-3.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Registration Rights Agreement, dated May 19, 2016, by and among CF
+Corporation, CF Capital Growth, LLC and the Holders signatory
+thereto (incorporated by reference to Exhibit 10.3 of the Current
+Report on Form 8-K, filed by CF Corporation on May 25, 2016 (File
+No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.6</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-4.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Administrative Services Agreement, dated May 19, 2016, by and
+between CF Corporation and CF Capital Growth, LLC (incorporated by
+reference to Exhibit 10.4 of the Current Report on Form 8-K, filed
+by CF Corporation on May 25, 2016 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.7</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-5.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Private Placement Warrants Purchase Agreement, dated May 19, 2016,
+by and between CF Corporation and CF Capital Growth, LLC
+(incorporated by reference to Exhibit 10.5 of the Current Report on
+Form 8-K, filed by CF Corporation on May 25, 2016 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.8</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916014107/t1600950_ex10-6.htm">
+<font style="font-family:inherit;font-size:10pt;">Promissory Note,
+dated as of February 29, 2016, issued to CF Capital Growth, LLC
+(f/k/a CF Capital Partners, LLC) (incorporated by reference to
+Exhibit 10.6 of the Registration Statement on Form S-1, filed by CF
+Corporation on April 21, 2016 (File No.
+333-210854)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.9</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916014107/t1600950_ex10-7.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Securities Subscription Agreement, dated February 29, 2016, between
+CF Capital Growth, LLC (f/k/a CF Capital Partners, LLC) and CF
+Corporation (incorporated by reference to Exhibit 10.7 of the
+Registration Statement on Form S-1, filed by CF Corporation on
+April 21, 2016 (File No. 333-210854)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.10</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916014708/t1601083_ex10-9.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Form of Forward Purchase Agreement (incorporated by reference to
+Exhibit 10.9 of the Registration Statement on Form S-1/A filed by
+CF Corporation on May 3, 2016 (File No.
+333-210854)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.11</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-15.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Form of Amendment to Forward Purchase Agreement, dated as of May
+24, 2017, by and among CF Corporation, the investor listed as the
+purchaser on the signature page thereof and CF Capital Growth, LLC
+(incorporated by reference to Exhibit 10.15 of the Quarterly Report
+on Form 10-Q filed by CF Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.12</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916014708/t1601083_ex10-10.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Forward Purchase Agreement, dated as of April 18, 2016, among the
+Registrant, CFS Holdings (Cayman), L.P. and CF Capital Growth, LLC,
+as amended (incorporated by reference to Exhibit 10.10 to Amendment
+No. 1 to the Registration Statement on Form S-1, filed by CF
+Corporation on May 3, 2016 (File No. 333-210854)). &nbsp;
+&nbsp;</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.13</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-6.htm">
+<font style="font-family:inherit;font-size:10pt;">Indemnity
+Agreement, dated May 19, 2016, between the Registrant and Chinh E.
+Chu (incorporated by reference to Exhibit 10.6 to the Registrant’s
+Current Report on Form 8-K filed with the SEC on May 25, 2016 (File
+No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.14</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-7.htm">
+<font style="font-family:inherit;font-size:10pt;">Indemnity
+Agreement, dated May 19, 2016, between the Registrant and William
+P. Foley, II (incorporated by reference to Exhibit 10.7 to the
+Registrant’s Current Report on Form 8-K filed with the SEC on May
+25, 2016 (File No. 001-37779) ).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.15</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-8.htm">
+<font style="font-family:inherit;font-size:10pt;">Indemnity
+Agreement, dated May 19, 2016, between the Registrant and Douglas
+B. Newton (incorporated by reference to Exhibit 10.8 to the
+Registrant’s Current Report on Form 8-K filed with the SEC on May
+25, 2016 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.16</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-9.htm">
+<font style="font-family:inherit;font-size:10pt;">Indemnity
+Agreement, dated May 19, 2016, between the Registrant and James A.
+Quella (incorporated by reference to Exhibit 10.9 to the Registrant’
+s Current Report on Form 8-K filed with the SEC on May 25, 2016
+(File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.17</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-10.htm">
+<font style="font-family:inherit;font-size:10pt;">Indemnity
+Agreement, dated May 19, 2016, between the Registrant and Richard
+N. Massey (incorporated by reference to Exhibit 10.10 to the
+Registrant’s Current Report on Form 8-K filed with the SEC on May
+25, 2016 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.18</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104916015519/t1601397_ex10-11.htm">
+<font style="font-family:inherit;font-size:10pt;">Indemnity
+Agreement, dated May 19, 2016, between the Registrant and David
+Ducommun (incorporated by reference to Exhibit 10.11 to the
+Registrant’s Current Report on Form 8-K filed with the SEC on May
+25, 2016 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.19</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-16.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Amendment to Forward Purchase Agreement, dated as of May 24, 2017,
+by and among CF Corporation, CFS Holdings (Cayman), L.P. and CF
+Capital Growth, LLC (incorporated by reference to Exhibit 10.16 of
+the Quarterly Report on Form 10-Q filed by CF Corporation on August
+14, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.20</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-1.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation and Blackstone Tactical Opportunities Fund II, L.P.
+(incorporated by reference to Exhibit 10.1 of the Quarterly Report
+on Form 10-Q filed by CF Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">5</font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style=
+"line-height:120%;text-align:left;padding-left:42px;font-size:10pt;">
+<a style="font-family:inherit;font-size:10pt;" href=
+"#sC2C44A44787A58AA99FCC808E23D6599"><font style=
+"font-family:inherit;font-size:10pt;">Table of
+Contents</font></a></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-bottom:12px;padding-top:12px;text-align:left;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:12%;"></td>
+<td style="width:1%;"></td>
+<td style="width:87%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.21</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-2.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation and Blackstone Tactical Opportunities Fund II, L.P.
+(incorporated by reference to Exhibit 10.2 of the Quarterly Report
+on Form 10-Q filed by CF Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.22</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-3.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation and Fidelity National Financial, Inc. (incorporated by
+reference to Exhibit 10.3 of the Quarterly Report on Form 10-Q
+filed by CF Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.23</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-4.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation and Fidelity National Financial, Inc. (incorporated by
+reference to Exhibit 10.4 of the Quarterly Report on Form 10-Q
+filed by CF Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.24</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-5.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation and GSO Capital Partners LP (incorporated by reference
+to Exhibit 10.5 of the Quarterly Report on Form 10-Q filed by CF
+Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.25</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-6.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation and GSO Capital Partners LP (incorporated by reference
+to Exhibit 10.6 of the Quarterly Report on Form 10-Q filed by CF
+Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.26</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-7.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation, Blackstone Tactical Opportunities Fund II, L.P. and
+Fidelity National Financial, Inc. (incorporated by reference to
+Exhibit 10.7 of the Quarterly Report on Form 10-Q filed by CF
+Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.27</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-8.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Equity Commitment Letter, dated as of May 24, 2017, by and among CF
+Corporation, Blackstone Tactical Opportunities Fund II, L.P. and
+Fidelity National Financial, Inc. (incorporated by reference to
+Exhibit 10.8 of the Quarterly Report on Form 10-Q filed by CF
+Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.28</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-9.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Amended and Restated Investor Agreement, dated as of June 6, 2017,
+by and among CF Corporation, Blackstone Tactical Opportunities Fund
+II, L.P., GSO Capital Partners LP and Fidelity National Financial,
+Inc. (incorporated by reference to Exhibit 10.9 of the Quarterly
+Report on Form 10-Q filed by CF Corporation on August 14, 2017
+(File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.29</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-10.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Fee Letter, dated as of May 24, 2017, by and among CF Corporation
+and Fidelity National Financial, Inc. (incorporated by reference to
+Exhibit 10.10 of the Quarterly Report on Form 10-Q filed by CF
+Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.30</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-11.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Fee Letter, dated as of May 24, 2017, by and among CF Corporation
+and GSO Capital Partners LP (incorporated by reference to Exhibit
+10.11 of the Quarterly Report on Form 10-Q filed by CF Corporation
+on August 14, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.31</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-12.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Side Letter, dated as of May 24, 2017, by and among CF Corporation
+and GSO Capital Partners LP (incorporated by reference to Exhibit
+10.12 of the Quarterly Report on Form 10-Q filed by CF Corporation
+on August 14, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.32</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-13.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Amended and Restated Debt Commitment Letter, dated as of May 31,
+2017, by and among FGL US Holdings Inc., Royal Bank of Canada, RBC
+Capital Markets, LLC, Bank of America, N.A. and Merrill Lynch,
+Pierce, Fenner &amp; Smith Incorporated (incorporated by reference
+to Exhibit 10.13 of the Quarterly Report on Form 10-Q filed by CF
+Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.33</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-14.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Letter Agreement, dated as of May 24, 2017, by and among CF
+Corporation, FS Holdco II Ltd., HRG Group, Inc. and FGL US Holdings
+Inc. (incorporated by reference to Exhibit 10.14 of the Quarterly
+Report on Form 10-Q filed by CF Corporation on August 14, 2017
+(File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.34</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000157104917007485/t1702356_ex10-17.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Form of Additional Equity Purchase Agreement (incorporated by
+reference to Exhibit 10.17 of the Quarterly Report on Form 10-Q
+filed by CF Corporation on August 14, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.35</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-28.htm">
+<font style="font-family:inherit;font-size:10pt;">Equity Purchase
+Agreement, dated as of November 29, 2017, by and between the
+Company and CFS Holdings II (Cayman), L.P. (incorporated by
+reference to Exhibit 10.28 of the Registrant’s Current Report on
+Form 8-K filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.36</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-29.htm">
+<font style="font-family:inherit;font-size:10pt;">Equity Purchase
+Agreement, dated as of November 29, 2017, by and between the
+Company and Fidelity National Financial, Inc. (incorporated by
+reference to Exhibit 10.29 of the Registrant’s Current Report on
+Form 8-K filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.37</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-30.htm">
+<font style="font-family:inherit;font-size:10pt;">Equity Purchase
+Agreement, dated as of November 29, 2017, by and between the
+Company and Fidelity National Title Insurance Company (incorporated
+by reference to Exhibit 10.30 of the Registrant’s Current Report on
+Form 8-K filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">6</font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style=
+"line-height:120%;text-align:left;padding-left:42px;font-size:10pt;">
+<a style="font-family:inherit;font-size:10pt;" href=
+"#sC2C44A44787A58AA99FCC808E23D6599"><font style=
+"font-family:inherit;font-size:10pt;">Table of
+Contents</font></a></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-bottom:12px;padding-top:12px;text-align:left;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:12%;"></td>
+<td style="width:1%;"></td>
+<td style="width:87%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.38</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-31.htm">
+<font style="font-family:inherit;font-size:10pt;">Equity Purchase
+Agreement, dated as of November 29, 2017, by and between the
+Company and Chicago Title Insurance Company (incorporated by
+reference to Exhibit 10.31 of the Registrant’s Current Report on
+Form 8-K filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.39</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-32.htm">
+<font style="font-family:inherit;font-size:10pt;">Equity Purchase
+Agreement, dated as of November 29, 2017, by and between the
+Company and Commonwealth Land Title Insurance Company (incorporated
+by reference to Exhibit 10.32 of the Registrant’s Current Report on
+Form 8-K filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.40</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-33.htm">
+<font style="font-family:inherit;font-size:10pt;">Equity Purchase
+Agreement, dated as of November 29, 2017, by and between the
+Company and Corvex Master Fund LP (incorporated by reference to
+Exhibit 10.33 of the Registrant’s Current Report on Form 8-K filed
+with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.41</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-34.htm">
+<font style="font-family:inherit;font-size:10pt;">Investment
+Agreement, dated as of November 30, 2017, by and among the Company,
+GSO COF III AIV-5 LP, GSO COF III Co-Investment AIV-5 LP, GSO
+Co-Investment Fund-D LP, GSO Credit Alpha Fund LP, GSO Aiguille des
+Grands Montets Fund II LP, GSO Churchill Partners LP, GSO Credit-A
+Partners LP, GSO Harrington Credit Alpha Fund (Cayman) L.P.,
+Fidelity National Title Insurance Company, Chicago Title Insurance
+Company and Commonwealth Land Title Insurance Company (incorporated
+by reference to Exhibit 10.34 of the Registrant’s Current Report on
+Form 8-K filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.42</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-35.htm">
+<font style="font-family:inherit;font-size:10pt;">Investment
+Management Agreement, dated as of November 30, 2017, by and between
+Fidelity &amp; Guaranty Life Insurance Company and Blackstone ISG-I
+Advisors L.L.C. (incorporated by reference to Exhibit 10.35 of the
+Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.43</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-36.htm">
+<font style="font-family:inherit;font-size:10pt;">Investment
+Management Agreement, dated as of November 30, 2017, by and between
+FGL US Holdings Inc. and Blackstone ISG-I Advisors L.L.C.
+(incorporated by reference to Exhibit 10.36 of the Registrant’s
+Current Report on Form 8-K filed with the SEC on December 1, 2017
+(File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.44</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-37.htm">
+<font style="font-family:inherit;font-size:10pt;">Investment
+Management Agreement, dated as of November 30, 2017, by and between
+Fidelity &amp; Guaranty Life Holdings, Inc. and Blackstone ISG-I
+Advisors L.L.C. (incorporated by reference to Exhibit 10.37 of the
+Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.45</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-38.htm">
+<font style="font-family:inherit;font-size:10pt;">Investment
+Management Agreement, dated as of November 30, 2017, by and between
+Front Street Re (Cayman) Ltd. and Blackstone ISG-I Advisors L.L.C.
+(incorporated by reference to Exhibit 10.38 of the Registrant’s
+Current Report on Form 8-K filed with the SEC on December 1, 2017
+(File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.46</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-39.htm">
+<font style="font-family:inherit;font-size:10pt;">Investment
+Management Agreement Termination Side Letter, dated as of November
+30, 2017, by and between the Company and Blackstone ISG-I Advisors
+L.L.C. (incorporated by reference to Exhibit 10.39 of the
+Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.47</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-40.htm">
+<font style="font-family:inherit;font-size:10pt;">Letter Agreement,
+dated as of November 30, 2017, by and between CF Corporation and
+Blackstone Tactical Opportunities Advisors LLC (incorporated by
+reference to Exhibit 10.40 of the Registrant’s Current Report on
+Form 8-K filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.48</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-41.htm">
+<font style="font-family:inherit;font-size:10pt;">Letter Agreement,
+dated as of November 30, 2017, by and between CF Corporation,
+Blackstone Tactical Opportunities Advisors LLC and Fidelity
+National Financial, Inc. (incorporated by reference to Exhibit
+10.41 of the Registrant’s Current Report on Form 8-K filed with the
+SEC on December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.49</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-42.htm">
+<font style="font-family:inherit;font-size:10pt;">Nominating and
+Voting Agreement, dated as of November 30, 2017, by and among
+Blackstone Tactical Opportunities Fund II L.P., Chinh E. Chu,
+William P. Foley, II and CF Corporation (incorporated by reference
+to Exhibit 10.42 of the Registrant’s Current Report on Form 8-K
+filed with the SEC on December 1, 2017 (File No.
+001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.50</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-43.htm">
+<font style="font-family:inherit;font-size:10pt;">Credit Agreement,
+dated as of November 30, 2017, by and among CF Bermuda Holdings
+Limited, Fidelity &amp; Guaranty Life Holdings, Inc., the financial
+institutions party thereto, as lenders, and Royal Bank of Canada,
+as administrative agent (incorporated by reference to Exhibit 10.43
+of the Registrant’s Current Report on Form 8-K filed with the SEC
+on December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.51</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-44.htm">
+<font style="font-family:inherit;font-size:10pt;">Guarantee
+Agreement, dated as of November 30, 2017, by and among Fidelity
+&amp; Guaranty Life, FGL US Holdings Inc., Fidelity &amp; Guaranty
+Life Business Services, Inc. and Royal Bank of Canada, as
+administrative agent (incorporated by reference to Exhibit 10.44 of
+the Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">7</font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style=
+"line-height:120%;text-align:left;padding-left:42px;font-size:10pt;">
+<a style="font-family:inherit;font-size:10pt;" href=
+"#sC2C44A44787A58AA99FCC808E23D6599"><font style=
+"font-family:inherit;font-size:10pt;">Table of
+Contents</font></a></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-bottom:12px;padding-top:12px;text-align:left;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:12%;"></td>
+<td style="width:1%;"></td>
+<td style="width:87%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.52</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex10-45.htm">
+<font style="font-family:inherit;font-size:10pt;">Convertible
+Promissory Note, dated November 29, 2017, issued to CF Capital
+Growth, LLC (incorporated by reference to Exhibit 10.45 of the
+Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.53</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420418009576/tv486249_ex10-1.htm">
+<font style="font-family:inherit;font-size:10pt;">FGL Holdings 2017
+Omnibus Incentive Plan (incorporated by reference to Exhibit 10.1
+of the Registrant’s Registration Statement on Form S-8 filed with
+the SEC on February 16, 2018 (File No.
+333-223085)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.54</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312514023078/d665176dex101.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Employment Agreement, dated January 27, 2014, between Dennis
+Vigneau and Fidelity &amp; Guaranty Life Business Services, Inc.
+(incorporated by reference to Exhibit 10.1 of Fidelity &amp;
+Guaranty Life’s Current Report on Form 8-K, filed on January 28,
+2014 (File No. 001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.55</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312513450354/d588103dex1038.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Amended and Restated Employment Agreement, dated November 14, 2013,
+between Fidelity &amp; Guaranty Life Business Services, Inc. and
+John P. O’Shaughnessy (incorporated by reference to Exhibit 10.38
+of Fidelity &amp; Guaranty Life’s Current Report Registration
+Statement on Form S-1/A, filed on November 22, 2013 (File No.
+333-190880)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.56</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312513450354/d588103dex1039.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Employment Agreement, dated November 14, 2013, between Fidelity
+&amp; Guaranty Life Business Services, Inc. and John Phelps
+(incorporated by reference to Exhibit 10.39 of Fidelity &amp;
+Guaranty Life’s Registration Statement on Form S-1/A, filed on
+November 22, 2013 (File No. 333-190880)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.57</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312513450354/d588103dex1040.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Amended and Restated Employment Agreement, dated November 14, 2013,
+between Fidelity &amp; Guaranty Life Business Services, Inc. and
+Rajesh Krishnan (incorporated by reference to Exhibit 10.40 of
+Fidelity &amp; Guaranty Life’s Registration Statement on Form
+S-1/A, filed on November 22, 2013 (File No.
+333-190880)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.58</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312513450354/d588103dex1041.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Employment Agreement, dated November 14, 2013, between Fidelity
+&amp; Guaranty Life Business Services, Inc. and Wendy J.B. Young
+(incorporated by reference to Exhibit 10.41 of Fidelity &amp;
+Guaranty Life’s Registration Statement on Form S-1/A, filed on
+November 22, 2013 (File No. 333-190880)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.59</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312513455042/d588103dex105.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Form of Director Indemnification Agreement (incorporated by
+reference to Exhibit 10.5 of Fidelity &amp; Guaranty Life’s
+Registration Statement on Form S-1/A, filed on November 26, 2013
+(File No. 333-190880)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.60</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506414000043/creditagreementex101.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Credit Agreement between Fidelity &amp; Guaranty Life Holdings,
+Inc. as borrower, the Company as guarantor, and RBC Capital Markets
+and Credit Suisse Securities (USA) LLC together as joint lead
+arrangers for the lenders, dated as of August 26, 2014
+(incorporated by reference to Exhibit 10.1 of Fidelity &amp;
+Guaranty Life’s Current Report on Form 8-K, filed on August 26,
+2014 (File No. 001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.61</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506417000045/pcdocs-8410906xv1xfidelity.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Second Amendment to Credit Agreement dated as of July 17, 2017 by
+and among Fidelity &amp; Guaranty Life Holdings, Inc., each of the
+lenders from time to time party thereto and Royal Bank of Canada
+(incorporated by reference to Exhibit 10.1 of Fidelity &amp;
+Guaranty Life’s Form 8-K, filed on July 21, 2017 (File No.
+001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.62</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506414000043/revolvingloannoteagreement.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Revolving Loan Note, dated August 26, 2014 (incorporated by
+reference to Exhibit 10.2 of Fidelity &amp; Guaranty Life’s Current
+Report on Form 8-K, filed on August 26, 2014 (File No.
+001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.63</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506414000043/guaranteeagreementex103.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Guarantee Agreement, dated as of August 26, 2014, among Fidelity
+&amp; Guaranty Life, other Guarantors, and Royal Bank of Canada, as
+Administrative Agent (incorporated by reference to Exhibit 10.3 of
+Fidelity &amp; Guaranty Life’s Current Report on Form 8-K, filed on
+August 26, 2014 (File No. 001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.64</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506414000050/ex101employmentagreement.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Employment Agreement, dated October 6, 2014, between Chris
+Littlefield and Fidelity &amp; Guaranty Life Business Services,
+Inc. (incorporated by reference to Exhibit 10.1 of Fidelity &amp;
+Guaranty Life’s Current Report on Form 8-K, filed on October 7,
+2014 (File No. 001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.65</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000119312515178842/d923152dex101.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Employment Agreement by and between Fidelity &amp; Guaranty Life
+Business Services, Inc. and Christopher J. Littlefield, dated as of
+May 6, 2015 (incorporated by reference to Exhibit 10.1 of Fidelity
+&amp; Guaranty Life’s Form 8-K, filed on May 8, 2015 (File No.
+001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.66</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506415000051/fglretentionletterexhibit1.htm">
+<font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Form of Retention Letter from Fidelity &amp; Guaranty Life to its
+executive officers, dated July 10, 2015 (incorporated by reference
+to Exhibit 10.4 of Fidelity &amp; Guaranty Life’s Quarterly Report
+on Form 10-Q, filed on August 5, 2015 (File No.
+001-36227)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.67</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;color:#0000ff;text-decoration:underline;">
+Form of Retention Letter from Fidelity &amp; Guaranty Life to its
+executive officers, dated July 10, 2015 (incorporated by reference
+to Exhibit 10.4 of Fidelity &amp; Guaranty Life’s Quarterly Report
+on Form 10-Q, filed on August 5, 2015 (File No.
+001-36227)).</font></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.68</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506417000069/fgl-9302017x10xkex1032.htm">
+<font style="font-family:inherit;font-size:10pt;">Form of
+Transaction Bonus Letter by and between Fidelity &amp; Guaranty
+Life and certain of its employees, dated as of April 7, 2017
+(incorporated by reference to Exhibit 10.32 of Fidelity &amp;
+Guaranty Life’s Annual Report on Form 10-K, filed on November 16,
+2017 (File No. 001-36227)).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">8</font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style=
+"line-height:120%;text-align:left;padding-left:42px;font-size:10pt;">
+<a style="font-family:inherit;font-size:10pt;" href=
+"#sC2C44A44787A58AA99FCC808E23D6599"><font style=
+"font-family:inherit;font-size:10pt;">Table of
+Contents</font></a></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-bottom:12px;padding-top:12px;text-align:left;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:12%;"></td>
+<td style="width:1%;"></td>
+<td style="width:87%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.69</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506417000069/fgl-9302017x10xkex1033.htm">
+<font style="font-family:inherit;font-size:10pt;">Form of Retention
+Award Letter by and between Fidelity &amp; Guaranty Life and
+certain of its employees, dated as of April 20, 2017 (incorporated
+by reference to Exhibit 10.33 of Fidelity &amp; Guaranty Life’s
+Annual Report on Form 10-K, filed on November 16, 2017 (File No.
+001-36227)).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.70</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1585064/000158506417000069/fgl-9302017x10xkex1034.htm">
+<font style="font-family:inherit;font-size:10pt;">Form of 2017
+Incentive Award Letter by and between Fidelity &amp; Guaranty Life
+and certain of its employees, dated as of February 1, 2017
+(incorporated by reference to Exhibit 10.34 of Fidelity &amp;
+Guaranty Life’s Annual Report on Form 10-K, filed on November 16,
+2017 (File No. 001-36227)).</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">14.1</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000114420417061977/tv480509_ex14-1.htm">
+<font style="font-family:inherit;font-size:10pt;">Code of Business
+Conduct and Ethics (incorporated by reference to Exhibit 14.1 of
+the Registrant’s Current Report on Form 8-K filed with the SEC on
+December 1, 2017 (File No. 001-37779)).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">21*</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000166842818000049/fglholding12312017x10xkex21.htm">
+<font style="font-family:inherit;font-size:10pt;">Subsidiaries of
+the Company.</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">23*</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000166842818000049/fglholding12312017x10xkex23.htm">
+<font style="font-family:inherit;font-size:10pt;">Consent of
+Independent Registered Public Accounting Firm.</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">24*</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000166842818000049/fglholdings-12312017x10xk.htm#s5CB5D09F6ECE544A970E30C9B595B8E5">
+<font style="font-family:inherit;font-size:10pt;">Power of Attorney
+(set forth on the signature page to Annual Report on Form 10-K for
+the year ended December 31, 2017 filed on March 15,
+2018).</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">31.1 *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000166842818000049/fglholding12312017x10xkex311.htm">
+<font style="font-family:inherit;font-size:10pt;">Certification of
+Chief Executive Officer, pursuant to Exchange Act Rule 13a-14(a),
+as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002.</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">31.2 *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000166842818000049/fglholding12312017x10xkex311.htm">
+<font style="font-family:inherit;font-size:10pt;">Certification of
+Chief Financial Officer, pursuant to Exchange Act Rule 13a-14(a),
+as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002.</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">31.3 **</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="fglholdings-5142018x10xkae.htm"><font style=
+"font-family:inherit;font-size:10pt;">Certification of Chief
+Executive Officer, pursuant to Exchange Act Rule 13a-14(a), as
+adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002.</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">31.4 **</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="fglholdings-5142018x10xkex.htm"><font style=
+"font-family:inherit;font-size:10pt;">Certification of Chief
+Financial Officer, pursuant to Exchange Act Rule 13a-14(a), as
+adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002.</font></a></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">32.1 *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000166842818000049/fglholding12312017x10xkex321.htm">
+<font style="font-family:inherit;font-size:10pt;">Certification of
+Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002.</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">32.2 *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href=
+"http://www.sec.gov/Archives/edgar/data/1668428/000166842818000049/fglholding12312017x10xkex322.htm">
+<font style="font-family:inherit;font-size:10pt;">Certification of
+Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002.</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">101.INS *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">XBRL Instance
+Document.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">101.SCH *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">XBRL Taxonomy Extension
+Schema.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">101.CAL *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">XBRL Taxonomy Extension
+Calculation Linkbase.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">101.DEF *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">XBRL Taxonomy Definition
+Linkbase.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">101.LAB *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">XBRL Taxonomy Extension Label
+Linkbase.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">101.PRE *</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">XBRL Taxonomy Extension
+Presentation Linkbase.</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:33px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:1px;">
+<font style="font-family:inherit;font-size:10pt;">*</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Filed with the
+Annual Report on Form 10-K for the year ended December 31, 2017
+filed on March 15, 2018</font></div>
+</td>
+</tr>
+</table>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:33px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:1px;">
+<font style="font-family:inherit;font-size:10pt;">**</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Filed
+herewith</font></div>
+</td>
+</tr>
+</table>
+<div style=
+"line-height:120%;text-align:justify;padding-left:33px;text-indent:-32px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><a name="s98CA2AE727D0586B90C399BDDE6483D0" id=
+"s98CA2AE727D0586B90C399BDDE6483D0"></a></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURES</font></div>
+<div style=
+"line-height:120%;padding-top:9px;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the Registrant
+has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.</font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:99.80506822612085%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td style="width:7%;"></td>
+<td style="width:38%;"></td>
+<td style="width:4%;"></td>
+<td style="width:51%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">FGL HOLDINGS
+(Registrant)</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:12px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:12px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:12px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:12px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Date:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">May 15, 2018</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="padding-bottom:1px;text-align:right;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">By:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">/s/ Dennis R.
+Vigneau</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Chief Financial
+Officer</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(on&nbsp;behalf&nbsp;of&nbsp;the&nbsp;Registrant&nbsp;and&nbsp;as&nbsp;Principal
+Financial&nbsp;Officer)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:9px;text-align:left;text-indent:30px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">9</font></div>
+</div>
+</body>
+</html>
+

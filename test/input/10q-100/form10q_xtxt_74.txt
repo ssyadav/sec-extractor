@@ -1,0 +1,3668 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+<p style="margin: 0"></p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style="margin: 0"></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>
+&nbsp;</i></b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>UNITEDSTATES</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>SECURITIESAND
+EXCHANGE COMMISSION</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Washington,D.C.
+20549</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; text-align: center; margin-bottom: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>FORM10-Q</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☒QUARTERLY
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Forthe
+quarterly period ended <b>March 31, 2018</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+☐ <font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TRANSITIONREPORT
+UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Forthe
+transition period from _______to _______</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">CommissionFile
+Number: <b>000-52994</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>THEOLB
+GROUP, INC.</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Exactname
+of small business issuer as specified in its charter)</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 49%; border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-top: 0; padding-right: 0; padding-left: 0; text-align: center; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>DELAWARE</b></font></td>
+<td style=
+"width: 2%; font: 10pt Times New Roman, Times, Serif; padding: 0 0 1.5pt; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"width: 49%; border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-top: 0; padding-right: 0; padding-left: 0; text-align: center; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>13-4188568</b></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Stateor
+other jurisdiction of</font><br />
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">incorporation
+or&nbsp;organization)</font></p>
+</td>
+<td style=
+"font: 10pt Times New Roman, Times, Serif; padding: 0; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(IRS
+Employer</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Identification
+No.)</font></p>
+</td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">200Park
+Avenue, Suite 1700, New York, NY 10166</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;(Addressof
+principal executive offices)</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(212)278-0900</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Registrant'stelephone
+number)</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Formername,
+if changed since last report)</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicateby
+check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities
+ExchangeAct of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such
+reports),and (2) has been subject to such filing requirements for
+the past 90 days. Yes ☒&nbsp;&nbsp;No&nbsp;☐</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicateby
+check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, a smaller
+reportingcompany, or an emerging growth company. See the
+definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company” and “emerging growth company” in Rule
+12b-2 of the Exchange Act.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style="width: 0.5in"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"width: 39%; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Large
+accelerated filer ☐</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+</td>
+<td style=
+"font: 10pt Times New Roman, Times, Serif; padding: 0; text-indent: 0">
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Accelerated
+filer ☐</font></p>
+</td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"font: 10pt Times New Roman, Times, Serif; padding: 0; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-accelerated
+filer ☐</font></td>
+<td style=
+"font: 10pt Times New Roman, Times, Serif; padding: 0; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Smaller
+reporting company ☒</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"font: 10pt Times New Roman, Times, Serif; padding: 0; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Emerging
+growth company ☐</font></td>
+<td style=
+"font: 10pt Times New Roman, Times, Serif; padding: 0; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Ifan
+emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period forcomplying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicateby
+check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).&nbsp;Yes ☐&nbsp;&nbsp;No
+☒</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Asof
+May 11, 2018 the Company had outstanding 19,825,364 shares of its
+common stock, par value $0.0001.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<!-- Field: Page; Sequence: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+&nbsp;</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>THEOLB
+GROUP, INC.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>FORM10-Q</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Forthe
+Quarterly Period Ended March 31, 2018</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>INDEX</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 7%; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PART
+I</b></font></td>
+<td style=
+"width: 85%; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Financial
+Information</b></font></td>
+<td style=
+"width: 8%; text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+1.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Financial
+Statements (unaudited)</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+2.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Management’
+s Discussion and Analysis of Financial Condition and Results of
+Operations</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">8</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+3.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Quantitative
+and Qualitative Disclosures about Market Risk</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+4.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Controls
+and Procedures</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PART
+II</b></font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Other
+Information</b></font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+1.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Legal
+Proceedings</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+1A.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Risk
+Factors</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+2.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Unregistered
+Sales of Equity Securities and Use of Proceeds</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+3.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Defaults
+Upon Senior Securities</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+4.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Mine
+Safety Disclosures</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+5.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Other
+Information</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Item
+6.</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibits</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">11</font></td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td colspan="2" style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Signatures</font></td>
+<td style=
+"text-align: center; padding: 0; font: 10pt Times New Roman, Times, Serif">
+12</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;</font></p>
+<!-- Field: Page; Sequence: 2 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+&nbsp;</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PARTI
+- FINANCIAL INFORMATION</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item1.&nbsp;Financial
+Statements</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>The OLB
+Group, Inc.</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center; border-bottom: Black 1.5pt solid">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Condensed&nbsp;BalanceSheets</b></font></p>
+<p style="margin: 0">&nbsp;</p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2" style="text-align: center">March&nbsp;31,</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2" style="text-align: center">December&nbsp;31,</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"text-align: center; border-bottom: Black 1.5pt solid">2018</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"text-align: center; border-bottom: Black 1.5pt solid">2017</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td><u>ASSETS</u></td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style="text-align: center">(Unaudited)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style="text-align: center">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>Current Assets:</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="padding-left: 0.125in">Cash</td>
+<td>&nbsp;</td>
+<td style="text-align: right">$</td>
+<td style="text-align: right">353</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: right">$</td>
+<td style="text-align: right">580</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"width: 76%; padding-bottom: 1.5pt; padding-left: 0.125in">
+Prepaids</td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 1%; border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; text-align: right">
+15,000</td>
+<td style="width: 1%; padding-bottom: 1.5pt; text-align: left">
+&nbsp;</td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 1%; border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="width: 1%; padding-bottom: 1.5pt; text-align: left">
+&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left">Total Current Assets</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">15,353</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">580</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left">Other Assets:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+Internet domain</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+4,965</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+4,965</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-bottom: 4pt">TOTAL ASSETS</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+20,318</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+5,545</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-decoration: underline; text-align: left">
+LIABILITIES AND STOCKHOLDERS' DEFICIT</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left">Current Liabilities:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-left: 0.125in">Accounts
+payable</td>
+<td>&nbsp;</td>
+<td style="text-align: left">$</td>
+<td style="text-align: right">89,968</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">$</td>
+<td style="text-align: right">89,640</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-left: 0.125in">Accrued
+interest, related party</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">296</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-left: 0.125in">Accrued
+compensation</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">91,591</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+Loans payable, related party</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+34,481</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+3,481</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-bottom: 1.5pt">Total Current
+Liabilities</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+216,336</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+93,121</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-bottom: 1.5pt">Total
+Liabilities</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+216,336</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+93,121</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left">Stockholders’ Deficit</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="padding-left: 0.125in">Preferred stock, $0.01 par value,
+50,000,000 shares authorized, no shares outstanding</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-left: 20pt; text-indent: -10pt">Common
+stock, $0.0001 par value; 200,000,000 shares authorized, 19,825,364
+and 19,825,364 shares issuedand outstanding as of March 31, 2018
+and December 31, 2017, respectively</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">1,984</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">1,984</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-left: 0.125in">Additional
+paid-in capital</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">15,590,821</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">15,590,821</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+Accumulated deficit</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(15,788,823</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(15,680,381</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-bottom: 1.5pt">Total
+Stockholders’ Deficit</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(196,018</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(87,576</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-bottom: 4pt">TOTAL LIABILITIES
+AND STOCKHOLDERS' EQUITY</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+20,318</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+5,545</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Theaccompanying
+notes are an integral part of these unaudited condensed financial
+statements.</i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 3 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->1
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>The OLB Group, Inc.</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Condensed&nbsp;Statements of Operations</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; border-bottom: Black 1.5pt solid">
+<b>(Unaudited)</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;&nbsp;</p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: bottom">
+<td style="text-align: center">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="6" style=
+"text-align: center; border-bottom: Black 1.5pt solid">For the
+Three Months Ended<br />
+March 31,</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"text-align: center; border-bottom: Black 1.5pt solid">2018</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"text-align: center; border-bottom: Black 1.5pt solid">2017</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="width: 76%; padding-bottom: 1.5pt">Revenue</td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 1%; border-bottom: Black 1.5pt solid; text-align: left">
+$</td>
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; text-align: right">
+9,904</td>
+<td style="width: 1%; padding-bottom: 1.5pt; text-align: left">
+&nbsp;</td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 1%; border-bottom: Black 1.5pt solid; text-align: left">
+$</td>
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; text-align: right">
+15,498</td>
+<td style="width: 1%; padding-bottom: 1.5pt; text-align: left">
+&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left">Operating expenses</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="padding-left: 0.125in">Cost of revenue</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">4,097</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">5,469</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-left: 0.125in">Officer’s
+compensation</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">93,750</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">68,750</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+General &amp; administrative expenses</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+20,203</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+27,478</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.25in">
+Total operating expenses</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+118,050</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+101,697</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+Loss from operations</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(108,146</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(86,199</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left">Other Expense</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+Interest expense</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(296</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(7,529</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.25in">
+Total other expense</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(296</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(7,529</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-bottom: 4pt">Net Loss</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+(108,442</td>
+<td style="padding-bottom: 4pt; text-align: left">)</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+(93,728</td>
+<td style="padding-bottom: 4pt; text-align: left">)</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-bottom: 4pt">Loss per share,
+basic and diluted</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+(0.01</td>
+<td style="padding-bottom: 4pt; text-align: left">)</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+(0.01</td>
+<td style="padding-bottom: 4pt; text-align: left">)</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="padding-bottom: 4pt">Weighted average shares
+outstanding, basic and diluted</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+19,825,364</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+13,479,297</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Theaccompanying
+notes are an integral part of these unaudited condensed financial
+statements.</i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 4 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->2
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>The OLB
+Group, Inc.</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center; border-bottom: Black 1.5pt solid">
+<font style="font: 10pt Times New Roman, Times, Serif"><b>Condensed
+Statements of Cash Flows<br /></b></font> <font style=
+"font: 10pt Times New Roman, Times, Serif"><b>(Unaudited)</b></font></p>
+<p style="margin: 0">&nbsp;</p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="6" style=
+"text-align: center; border-bottom: Black 1.5pt solid">For the
+Three Months Ended March 31,</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"text-align: center; border-bottom: Black 1.5pt solid">2018</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"text-align: center; border-bottom: Black 1.5pt solid">2017</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>CASH FLOWS FROM OPERATING ACTIVITIES</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="width: 76%; text-align: left">Net loss</td>
+<td style="width: 1%">&nbsp;</td>
+<td style="width: 1%; text-align: left">$</td>
+<td style="width: 9%; text-align: right">(108,442</td>
+<td style="width: 1%; text-align: left">)</td>
+<td style="width: 1%">&nbsp;</td>
+<td style="width: 1%; text-align: left">$</td>
+<td style="width: 9%; text-align: right">(93,728</td>
+<td style="width: 1%; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left">Adjustments to Reconcile Net Loss to
+Net Cash Used in Operations:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left">Changes in assets and
+liabilities:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="padding-left: 0.125in">prepaids</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">(15,000</td>
+<td style="text-align: left">)</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-left: 0.125in">Accounts
+payable</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">328</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">18,300</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-left: 0.125in">Accrued officer
+compensation</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">91,591</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">60,189</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+Accrued interest, related party</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+296</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-bottom: 1.5pt">Net Cash Used
+in Operating Activities</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(31,227</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(15,239</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-bottom: 1.5pt">CASH FLOWS FROM
+INVESTING ACTIVITIES</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left">CASH FLOWS FROM FINANCING
+ACTIVITIES</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 0.125in">
+Proceeds from related party notes payable</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+31,000</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+15,500</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-bottom: 1.5pt">Net Cash
+Provided by Financing Activities</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+31,000</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+15,500</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left">Net Change in Cash</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">(227</td>
+<td style="text-align: left">)</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">261</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="padding-bottom: 1.5pt">Cash – Beginning of Period</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+580</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+1,160</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="padding-bottom: 4pt">Cash – End of Period</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+353</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+1,421</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left">Cash Paid For:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="padding-bottom: 4pt; padding-left: 0.125in">
+Interest</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 4pt; padding-left: 0.125in">
+Income taxes</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Theaccompanying
+notes are an integral part of these unaudited condensed financial
+statements.</i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 5 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->3
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>TheOLB
+Group, Inc.</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Notesto
+the Condensed Financial Statements</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>March31,
+2018</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Unaudited)</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>NOTE1
+- BACKGROUND</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCompany
+incorporated in the State of Delaware on November 18, 2004 for the
+purpose of merging with OLB.com (On-line Business),Inc., a New York
+corporation incorporated in 1993 (“OLB.com”). The merger was done
+for the purpose of changing ourstate of incorporation from New York
+to Delaware.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Asresult
+of the merger, the Company acquired all of the assets of OLB.com,
+including its intellectual property assets. In connectionwith the
+merger, each of the former common and preferred stockholders of
+OLB.com received five shares of our common stock in exchangefor
+each outstanding share of OLB.com</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Wecurrently
+offer monthly subscription packages which includes a health
+benefits package. These arrangements are generally renewablemonthly
+and revenue is recognized over the renewal period.&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Wealso
+provide ecommerce development and consulting services on a project
+by project basis.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>NOTE2
+- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>
+Basisof Presentation</u></i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Theaccompanying
+unaudited interim condensed financial statements have been prepared
+in accordance with accounting principles generallyaccepted in the
+United States of America (“U.S. GAAP”). These unaudited financial
+statements should be read in conjunctionwith the audited financial
+statements and footnotes for the year ended December 31, 2017
+included on the Company’s Form10-K. The results of the three months
+ended March 31, 2018 are not necessarily indicative of the results
+to be expected for thefull year ending December 31,
+2018.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>
+GoingConcern</u></i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Theaccompanying
+financial statements have been prepared assuming the company will
+continue as a going concern. The company has limitedcash resources,
+recurring cash used in operations and an operating losses history.
+As shown in the accompanying financial statements,as of
+March&nbsp;31, 2018, the Company had a working capital deficiency
+of $200,983 and a net loss of $108,442 for the three monthsended
+March 31, 2018. The Company’s cash flow used in operating
+activities was $31,227, while $31,000 was provided by financingfrom
+related parties. These factors among others, raise substantial
+doubt about the company’s ability to continue as a goingconcern.
+The accompanying financial statements do not reflect any
+adjustments that might result if the company is unable to
+continueas a going concern.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+Subsequent to the quarter ending March31, 2018, the Company
+consummated a business acquisition that may enable us to continue
+as a going concern. As discussed in Note5, the Company has created
+three new subsidiaries, acquired certain assets, including cash,
+and revenue generating operations thatmay enable the Company to
+alleviate the doubt about continuing as a going concern.&nbsp; The
+Company is currently in the processof a capital raise of up to
+$5,000,000 that should enable it to make its first scheduled
+payments on the Loan and Security Agreement(entered into on April
+9, 2018) of $1,000,000 on July 15, 2018 and $2,000,000 on October
+31, 2018. This, along with the additionalacquisitions of
+CrowdPay.US, Inc, and Omnisoft, Inc. should provide the company
+with the assets and operations it requires to continueas a going
+concern. However, there are no assurances that we will be able to
+consummate the above capital raise.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>&nbsp;</i></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>
+Useof Estimates</u></i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Thepreparation
+of financial statements in conformity with accounting principles
+generally accepted in the United States of Americarequires
+management to make estimates and assumptions that affect the
+reported amounts of assets and liabilities and disclosureof
+contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expensesduring
+the reporting period.&nbsp;&nbsp;Actual results could differ from
+those estimates.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<!-- Field: Page; Sequence: 6 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->4
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>&nbsp;</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>
+Revenueand cost recognition</u></i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCompany
+recognizes revenue in accordance with FASB ASC 606,<i>&nbsp;Revenue
+From Contracts with Customers.</i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Revenueis
+accounted for gross as a principal versus net as an agent. Revenue
+is recognized on a gross basis since our company has therisks and
+rewards of ownership, latitude in selection of vendors and pricing,
+and bears all credit risk.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCompany
+recognizes revenue on its Omni Commerce Solution licensing when
+persuasive evidence of an arrangement exists, serviceshave been
+rendered, the sales price is fixed or determinable, and collection
+is reasonably assured.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Costsare
+recorded at the time the related revenue is recorded. Payment
+processing costs are recorded in the period the costs are
+incurredand customer acquisition costs are comprised primarily of
+telemarketing costs and service costs and other additional benefit
+services.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>
+MembershipFees</u></i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCompany
+recognizes revenues from membership fees for the sales of
+health-related discount benefit plans as earned as part of
+theShopFast program. These arrangements are generally renewable
+monthly and revenue is recognized over the renewal
+period.&nbsp;&nbsp;Asthese products often include elements sold
+through contracts with third-party providers, the Company considers
+each contractualarrangement in accordance with the Revenue
+Recognition topic of the FASB ASC 606. The Company’s current
+contracts meet theserequirements for reporting revenue on a gross
+basis. The Company records a reduction in revenue for refunds,
+chargeback’sfrom credit card companies, and allowances based upon
+actual history and management’s evaluation of current facts and
+circumstances.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>
+Reclassification</u></i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Certainamounts
+for the three months ended March 31, 2017 financial statements have
+been reclassified to conform to the presentation usedin the three
+months ended March 31, 2018 Financial statements.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>
+RecentAccounting Pronouncements</u></i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCompany
+has reviewed other recently issued accounting pronouncements and
+plans to adopt those that are applicable to it. The Companydoes not
+expect the adoption of any other pronouncements to have an impact
+on its results of operations or financial
+position.&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>NOTE3
+- RELATED PARTY TRANSACTIONS</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+During the three months ended March 31, 2018,the Company received
+$30,000 from Mr. John Herzog. The advance was used for operating
+expenses, is unsecured, bears interest at18% and is due on demand.
+Interest expense for the three months ended March 31, 2018,
+amounted to $296.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Duringthe
+three months ended March 31, 2018, the Company received an advance
+of $1,000 from CrowdPay, Inc. Ronny Yakov is also the CEOof
+CrowdPay, Inc. The advance was used for operating expenses, is
+unsecured, non-interest bearing and due on demand.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>NOTE4
+– COMMITMENT</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">OnOctober
+20, 2017, the Company entered into a new employment agreement with
+its founder and president for 7 years effective January1, 2018
+through December 31, 2024. The agreement provides for an annual
+salary of $375,000, fringe benefits ($2,500 monthly
+automobileallowance, any benefit plans of the Company and 4 weeks
+paid vacation), an incentive bonus of $200,000 based on the
+achievementof certain performance criteria.&nbsp;&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>NOTE5–
+ SUBSEQUENT EVENTS</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Inaccordance
+with ASC 855-10, <i>Subsequent Events</i>¸ management has analyzed
+our operations from the balance sheet datethrough the date the
+financial statements were available to be issued.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>
+Memorandumof Sale</i></b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">OnApril
+9, 2018, Securus365, Inc., a Delaware corporation (“<b>Securus</b>”
+), eVance Capital, Inc., a Delaware corporation(“<b>eVance
+Capital</b>”), and eVance Inc., a Delaware corporation (
+“<b>eVance</b>”, and collectivelywith Securus and eVance Capital,
+the “<b>Purchasers</b>”), each of which Purchaser is a newly formed
+wholly-ownedsubsidiary of The OLB Group, Inc., a Delaware
+corporation (the “<b>Company</b>”), entered into a Memorandum of
+Sale(the “<b>Memorandum of Sale</b>”) by and among the Purchasers
+and GACP Finance Co., LLC, a Delaware limited liabilitycompany (
+“<b>GACP</b>”), in its capacity as administrative agent and
+collateral agent to certain secured lenders ofthe Debtors (as
+defined below), pursuant to which the Purchasers acquired
+substantially all of the assets of the Debtors (the“<b>Asset
+Acquisition</b>”) through a foreclosure sale arranged by GACP under
+the Uniform Commercial Code of the Stateof New York (“<b>UCC</b>”)
+of the collateral of Excel Corporation (“<b>Excel</b>”) and its
+subsidiariesPayprotec Oregon, LLC, Excel Business Solutions, Inc.
+and eVance Processing, Inc. (Excel and such subsidiaries,
+collectively,the “<b>Debtors</b>”) under the Loan and Security
+Agreement, dated as of November 2, 2016, by and among GACP,
+thelenders thereunder and the Debtors and related loan documents,
+as amended (the “<b>Excel Loan and Security Agreement</b>”
+).</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 7 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->5
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">GACPexercised
+its post-default remedies and realized on the collateral securing
+the Debtors’ obligations under the Excel Loanand Security Agreement
+by conducting a public auction of certain assets of the Debtors on
+April 9, 2018 in accordance with theUCC. The Purchasers submitted
+the Memorandum of Sale at such auction, which constituted the
+Purchasers’ bid for substantiallyall of the assets of the Debtors (
+“<b>Acquired Assets</b>”), which bid was accepted by GACP on April
+9, 2018 in connectionwith the simultaneous signing and closing (the
+“<b>Closing</b>”) of the transactions contemplated under the
+Memorandumof Sale and the Credit Agreement (defined
+below).</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Inconsideration
+for the sale and transfer of the Acquired Assets at the Closing,
+the Purchasers assumed certain post-Closing obligationsunder
+assigned contracts and paid to GACP the sum of $12,500,000, through
+the deemed simultaneous financing of such purchase priceto the
+Purchasers under the Credit Agreement. Pursuant to the Memorandum
+of Sale, the Purchasers purchased from GACP and acceptedall of the
+Debtors’ right, title and interest in and to the Acquired Assets 
+“as is”, “where is”and “with all faults” and without any
+representations or warranties, express or implied, of any nature
+whatsoever.Any representations made by the parties in the
+Memorandum of Sale did not survive the Closing, and there is no
+indemnificationrights for either party’s breach.&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>
+CreditAgreement</i></b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Inorder
+to finance the Asset Acquisition, GACP, as administrative agent and
+collateral agent (“<b>Agent</b>”), and asthe initial sole lender
+thereunder, provided a term loan of $12,500,000 (the “<b>Term
+Loan</b>”) to the Purchasers,Omnisoft, Inc., a Delaware corporation
+(“<b>Omnisoft</b>”), and CrowdPay.us, Inc., a New York corporation
+(“<b>CrowdPay</b>”and, collectively with the Purchasers and
+Omnisoft, the “<b>Borrowers</b>”), each of Omnisoft and Crowdpay
+being affiliatesof the Company’s majority stockholder, which
+obligations are guaranteed by the Company (collectively with the
+Borrowers,the “<b>Loan Parties</b>”), under the Loan and Security
+Agreement (the “<b>Credit Agreement</b>”), datedas of April 9,
+2018, by and among the Loan Parties, the lenders from time to time
+party thereto as lenders (the “<b>Lenders</b>”)and the
+Agent.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheTerm
+Loan matures in full on April 9, 2021, the third anniversary of the
+Closing. $1,000,000 of the principal amount under theTerm Loan must
+be repaid on or prior to July 15, 2018, and an additional
+$2,000,000 in principal due on or prior to October 31,2018 (in each
+case subject to earlier repayment under certain circumstances,
+including if a Loan Party consummates an equity financing),with the
+remaining principal due upon maturity. The Term Loan can be prepaid
+without penalty in part by the Loan Parties withten days’ prior
+written notice to the Agent, and in full with thirty days’ prior
+written notice. The Term Loan issubject to an interest rate of 9.0%
+per annum, payable monthly in arrears.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Theobligations
+of the Loan Parties under the Credit Agreement are secured by all
+of their respective assets and the Loan Partiespledged all of their
+assets as collateral for their obligations under the Credit
+Agreement. Additionally, the Company pledgedits ownership interests
+in the Purchasers and any of its other subsidiaries that it may
+form or acquire from time to time.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCredit
+Agreement includes customary representations, warranties and
+financial and other covenants of the Loan Parties for thebenefit of
+the Lenders and the Agent. The obligations of the Loan Parties
+under the Credit Agreement are subject to customaryevents of
+default for a secured term loan. Each Loan Party is jointly and
+severally liable for the obligations under the
+CreditAgreement.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 8 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->6
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>
+Warrants</i></b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>&nbsp;</i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuantto
+and as additional consideration for the Term Loan under the Credit
+Agreement, on April 9, 2018 (the “<b>Issuance Date</b>”)the Company
+issued to GACP a Warrant (the “<b>Warrant</b>”) to purchase
+1,200,000 shares of common stock of the Company(“<b>Warrant
+Shares</b>”) at an exercise price of $0.25 per share, subject to
+adjustment as set forth in the Warrant.The Warrant is exercisable
+by GACP at any time from the Issuance Date until the later of (i)
+the third (3<sup>rd</sup>) anniversaryof the Issuance Date and (ii)
+the date on which all obligations under the Credit Agreement have
+been satisfied in full. The Warrantmay be redeemed for $0.0001 per
+Warrant Share, at the sole discretion of the Company, at any time
+after the six (6) month anniversaryof the Issuance Date if the
+closing sales price of the Company’s common stock equals or exceeds
+$5.00 per share on eachof the 20 trading days within any 30 day
+trading day period ending on the third (3<sup>rd</sup>) trading day
+prior to the dateon which the Company provides a notice of
+redemption. GACP has certain piggy-back registration rights as set
+forth in the Warrantwith respect to the Warrant Shares to be issued
+upon exercise of the Warrant. After the six (6) month anniversary
+of the IssuanceDate, GACP can exercise the Warrant using a 
+“cashless exercise” feature to the extent that GACP exercises the
+Warrantfor a number of Warrant Shares in excess of the number
+Warrant Shares that have been registered for resale under U.S.
+securitieslaws.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Asadditional
+consideration for the Term Loan under the Credit Agreement, on
+April 9, 2018 the Company also entered into a letteragreement (the 
+“<b>Additional Warrants Agreement</b>”) with GACP, pursuant to
+which the Company agreed that if theCompany at any time after the
+Closing and prior to the satisfaction of all outstanding
+obligations under the Credit Agreementrequests for GACP to provide
+debt financing for the acquisition of a company or operating
+business by the Company or its subsidiaries,and GACP or its
+affiliates provide all of the debt financing for such acquisition,
+the Company will issue to GACP a warrant topurchase 200,000 shares
+of the Company’s common stock (an “<b>Additional Warrant</b>”) upon
+the closing of suchdebt-financing, with such Additional Warrant in
+substantially the same form as the Warrant, up to a total of four
+(4) AdditionalWarrants for four debt-financed acquisitions under
+the Additional Warrants Agreement. The exercise price of the
+Additional Warrants,if issued, will be $0.30 per share for the
+first Additional Warrant, $0.35 per share for the second Additional
+Warrant, $0.40per share for the third Additional Warrant and $0.45
+per share for the fourth Additional Warrant, with the number of
+shares andexercise price subject to adjustment as set forth in the
+Additional Warrants Agreement and the Additional
+Warrant.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">EffectiveMay
+9, 2018, the Company entered into a share exchange agreement with
+Crowdpay.US, Inc., a New York corporation (“Crowdpay”),for which
+the Company will issue 87,500,000 shares of common stock for all of
+the authorized stock of Crowdpay. Crowdpay willbecome a wholly
+owned subsidiary of OLB. As of the date of this filing the shares
+have not yet been issued.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">EffectiveMay
+9, 2018, the Company entered into a share exchange agreement with
+OMNISOFT, Inc., a Delaware corporation (“OMNISOFT”),for which the
+Company will issue 55,000,000 shares of common stock for all of the
+authorized stock of OMNISOFT. OMNISOFT willbecome a wholly owned
+subsidiary of OLB. As of the date of this filing the shares have
+not yet been issued.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Subsequentto
+March 31, 2018, the Company approved the issuance of 25,000 shares
+of common stock for services rendered. As of the date ofthis filing
+the shares have yet been issued.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;<b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Forward-LookingStatements</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Theinformation
+in this report contains forward-looking statements. All statements
+other than statements of historical fact made inreport are forward
+looking. In particular, the statements herein regarding industry
+prospects and future results of operationsor financial position are
+forward-looking statements. These forward-looking statements can be
+identified by the use of words suchas “believes,” “estimates,” 
+“could,” “possibly,” “probably,” anticipates,”“projects,” “expects,”
+ “may,” “will,” or “should” or other variationsor similar words. No
+assurances can be given that the future results anticipated by the
+forward-looking statements will be achieved.Forward-looking
+statements reflect management’s current expectations and are
+inherently uncertain. Our actual results maydiffer significantly
+from management’s expectations.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Thefollowing
+discussion and analysis should be read in conjunction with our
+unaudited financial statements, included herewith. Thisdiscussion
+should not be construed to imply that the results discussed herein
+will necessarily continue into the future, or thatany conclusion
+reached herein will necessarily be indicative of actual operating
+results in the future. Such discussion representsonly the best
+present assessment of our management.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<!-- Field: Page; Sequence: 9 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->7
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>&nbsp;</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item2.&nbsp;Management’
+s Discussion and Analysis of Financial Condition and Results of
+Operations</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>CompanyOverview
+and Description of Business</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Wewere
+incorporated in the State of Delaware on November 18, 2004 for the
+purpose of merging with OLB.com (On-line Business), Inc.,a New York
+corporation incorporated in 1993 (“OLB.com”). The merger was done
+for the purpose of changing our stateof incorporation from New York
+to Delaware.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Asa
+result of the merger, we acquired all of the assets of OLB.com,
+including its intellectual property. In connection with themerger,
+each of the former common and preferred stockholders of OLB.com
+received five shares of our common stock in exchange foreach
+outstanding share of OLB.com common and preferred stock and, in
+addition, the former holders of the Series A stock of
+OLB.comreceived one warrant for each such preferred share and the
+former holders of the Series B Preferred Stock of OLB.com
+receivedtwo warrants for each such preferred share, to purchase
+shares of our common stock. An aggregate of 1,345,098 shares of
+commonstock were issued in connection with the merger.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Weare
+authorized to issue 200,000,000 shares of common stock, par value
+$0.0001 per share, and 50,000,000 shares of preferred stock,par
+value $0.01 per share. We currently have 19,825,364 shares of
+common stock issued and outstanding. No shares of preferredstock
+are currently outstanding.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>OurBusiness</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Wecurrently
+offer monthly subscription packages which includes a health
+benefits package. These arrangements are generally renewablemonthly
+and revenue is recognized over the renewal
+period.&nbsp;&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Wealso
+provide ecommerce development and consulting services on a project
+by project basis.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><u>Resultsof
+Operations for the Three Months Ended March 31, 2018 compared to
+the Three Months Ended March 31, 2017</u></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>REVENUE</i></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+Revenue from our subscription program forthe three months ended
+March 31, 2018 <font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">decreased
+$2,619to $9,904 from $12,523 for the three months ended March 31,
+2017. The decrease can be attributed to a decrease in the number
+ofsubscribers to our subscription program.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">COST
+OF REVENUE</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+&nbsp;</p>
+<p style="margin: 0pt 0">Cost of revenue for the three months ended
+March 31, 2018 was $4,097 compared to $5,469 for the threemonths
+ended March 31, 2017, a decrease of $1,372 or 25.1%. The decrease
+is due to a decrease in administrative fees as a resultof fewer
+subscribers to our subscription program.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+OFFICER COMPENSATION</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+&nbsp;</p>
+<p style="margin: 0pt 0">Officer compensation for the three months
+ended March 31, 2018 was $93,750 compared to $68,750 for thethree
+months ended March 31, 2017, an increase of $25,000 or 36.4%. The
+increase is due to an increase in salary for our CEO.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>&nbsp;</i></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>GENERALAND
+ADMINISTRATIVE EXPENSES</i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+General and administrative expenses decreased$7,275 or 26.5%, to
+$20,203 for the three months ended March 31, 2018 <font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">from$27,478
+for the three months ended March 31, 2017. A majority of G&amp;A
+expense consists of professional fees and travel
+expense.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 10 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->8
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>OTHERINCOME
+AND EXPENSE</i></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Interestexpense
+decreased from $7,529 for the three months ended March 31, 2017 to
+$296 for the three months ended March 31, 2018. Allinterest expense
+is from the related party loans (Note 3).</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>NETLOSS</i></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Thenet
+loss increased by $14,714 from a loss of $93,728 for the three
+months ended March 31, 2017, to a loss of $108,442 for thethree
+months ended March 31, 2018. The increase in net loss can be
+partially attributed to the increase in officer
+compensations.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>
+LIQUIDITYAND CAPITAL RESOURCES</i></b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Duringthe
+three months ended&nbsp;March 31, 2018, the Company used $31,227 of
+cash for operating activities, as compared to $15,239cash used
+through the three months ended&nbsp;March 31, 2017.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Cashprovided
+from financing activities during the three months ended&nbsp;March
+31, 2018 was $31,000 as compared to $15,500 for thethree months
+ended&nbsp;March 31, 2017.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+Subsequent to the quarter ending March 31,2018, the Company
+consummated a business acquisition that may enable us to continue
+as a going concern. As discussed in Note 5,the Company has created
+three new subsidiaries, acquired certain assets, including cash,
+and revenue generating operations thatmay enable the Company to
+alleviate the doubt about continuing as a going concern.&nbsp; The
+Company is currently in the processof a capital raise of up to
+$5,000,000 that should enable it to make its first scheduled
+payments on the Loan and Security Agreement(entered into on April
+9, 2018) of $1,000,000 on July 15, 2018 and $2,000,000 on October
+31, 2018. This, along with the additionalacquisitions of
+CrowdPay.US, Inc, and Omnisoft, Inc. should provide the company
+with the assets and operations it requires tocontinue as a going
+concern. However, there are no assurances that we will be able to
+consummate the above capital raise.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>CriticalAccounting
+Policies</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Ourdiscussion
+and analysis of our financial condition and results of operations
+are based upon our financial statements, which havebeen prepared in
+accordance with generally accepted accounting principles in the
+United States. The preparation of financial statementsrequires
+management to make estimates and disclosures on the date of the
+financial statements. On an on-going basis, we evaluateour
+estimates including, but not limited to, those related to revenue
+recognition. We use authoritative pronouncements,
+historicalexperience and other assumptions as the basis for making
+judgments. Actual results could differ from those estimates. We
+believethat the following critical accounting policies affect our
+more significant judgments and estimates in the preparation of
+ourfinancial statements.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Revenue</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCompany
+recognizes revenue on its Omni Commerce Solution licensing when
+persuasive evidence of an arrangement exists, serviceshave been
+rendered, the sales price is fixed or determinable, and collection
+is reasonably assured.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Costsare
+recorded at the time the related revenue is recorded. Payment
+processing costs are recorded in the period the costs are
+incurredand customer acquisition costs are comprised primarily of
+telemarketing costs and service costs and other additional benefit
+services.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>MembershipFees</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">TheCompany
+recognizes revenues from membership fees for the sales of
+health-related discount benefit plans as earned as part of
+theShopFast program. These arrangements are generally renewable
+monthly and revenue is recognized over the renewal period. As
+theseproducts often include elements sold through contracts with
+third-party providers, the Company considers each contractual
+arrangementin accordance with the Revenue Recognition topic of the
+FASB ASC 606. The Company’s current contracts meet these
+requirementsfor reporting revenue on a gross basis. The Company
+records a reduction in revenue for refunds, chargeback’s from
+creditcard companies, and allowances based upon actual history and
+management’s evaluation of current facts and
+circumstances.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 11 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->9
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+RISK</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Weare
+a smaller reporting company as defined by Rule 12b-2 of the
+Securities Exchange Act of 1934 and, as such, are not requiredto
+provide the information under this Item.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM4.
+CONTROLS AND PROCEDURES</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>DisclosureControl
+and Procedures</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Asrequired
+by Rule 13a-15 under the Securities Exchange Act of 1934, as
+amended (the “Exchange Act”), the Company carriedout an evaluation
+of the effectiveness of the design and operation of the Company’s
+disclosure controls and procedures asof the end of the period
+covered by this report. This evaluation was carried out under the
+supervision and with the participationof the Company’s management,
+including the Company’s Chief Executive Officer and the Company’s
+Interim ChiefFinancial Officer.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Basedupon
+that evaluation, the Chief Executive Officer and the Interim Chief
+Financial Officer concluded that the Company’s disclosurecontrols
+and procedures were ineffective at March 31, 2018 to ensure that
+information required to be disclosed by the Companyin reports that
+it files or submits under the Exchange Act is recorded, processed,
+summarized and reported within the time periodsspecified in the
+Securities and Exchange Commission rules and forms. The Company’s
+disclosure controls and procedures includecontrols and procedures
+designed to ensure that information required to be disclosed by the
+Company in the reports that it filesor submits under the Act is
+accumulated and communicated to the Company’s management, including
+its Chief Executive Officerand Interim Financial officer as
+appropriate to allow timely decisions regarding required
+disclosure.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>InternalControl
+over Financial Reporting</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Management’
+sReport on Internal Control over Financial Reporting</i></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Internalcontrol
+over financial reporting (as defined in Rules 13a-15(f) and
+15d-15(f) under the Exchange Act) is a process designed by,or under
+the supervision of, our principal executive and principal financial
+officers, and effected by our board of directors,management and
+other personnel, to provide reasonable assurance regarding the
+reliability of financial reporting and the preparationof financial
+statements for external purposes in accordance with generally
+accepted accounting principles. The management is responsiblefor
+establishing and maintaining adequate internal control over our
+financial reporting. Under the supervision and with the
+participationof our management, including our principal executive
+officer and principal financial officer, we conducted an evaluation
+of theeffectiveness of our internal control over financial
+reporting using the <i>Internal Control – Integrated
+Framework</i>developed by the Committee of Sponsoring Organizations
+of the Treadway Commission. Based on this evaluation, our Chief
+ExecutiveOfficer and Interim Financial Officer have concluded that
+our internal control over financial reporting were not effective
+asof March 31, 2018.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Weare
+aware of the following material weaknesses in internal control that
+could adversely affect the Company’s ability torecord, process,
+summarize and report financial data:</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Dueto
+the size of the Company, we lack the personnel to maintain an
+adequate level of separation of duties.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Changesin
+Internal Control Over Financial Reporting</i></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Therehas
+been no change in our internal control over financial reporting
+that occurred during our last fiscal quarter that has
+materiallyaffected, or is reasonably likely to material affect, our
+internal control over financial reporting.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 12 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->10
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PARTII
+- OTHER INFORMATION</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM1.
+LEGAL PROCEEDINGS</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">None.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM1A.
+RISK FACTORS</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Weare
+a smaller reporting company as defined by Rule 12b-2 of the
+Securities Exchange Act of 1934 and, as such, are not requiredto
+provide the information under this Item.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF
+PROCEEDS</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">None</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM3.
+DEFAULTS UPON SENIOR SECURITIES</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">None.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM4.
+MINE SAFETY DISCLOSURES</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Notapplicable.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM5.
+OTHER INFORMATION</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Seedisclosure
+in Note 5.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ITEM6.
+EXHIBITS</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-top: 0; padding-right: 0; padding-left: 0; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit
+Number</font></td>
+<td style=
+"width: 1%; padding: 0 0 1.5pt; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"width: 90%; border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-top: 0; padding-right: 0; padding-left: 0; text-indent: 0; text-align: left; vertical-align: bottom">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit
+Description</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">31.1</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"text-align: justify; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<a href="f10q0318ex31-1_theolbgroup.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Certification
+of Chief Executive Officer, pursuant to Rule 13a-14(a) of the
+Exchange Act, as enacted by Section 302 of the Sarbanes-Oxley Act
+of 2002. (filed herewith)</font></a></td>
+</tr>
+<tr style=
+"vertical-align: top; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">31.2</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"text-align: justify; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<a href="f10q0318ex31-2_theolbgroup.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Certification
+of Chief Financial Officer, pursuant to Rule 13a-14(a) of the
+Exchange Act, as enacted by Section 302 of the Sarbanes-Oxley Act
+of 2002. (filed herewith)</font></a></td>
+</tr>
+<tr style=
+"vertical-align: top; background-color: white; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">32</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"text-align: justify; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<a href="f10q0318ex32_theolbgroup.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Certification
+of Chief Executive Officer and Chief Financial Officer, pursuant to
+18 United States Code Section 1350, as enacted by Section 906 of
+the Sarbanes-Oxley Act of 2002. (filed herewith)</font></a></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"text-align: justify; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; background-color: #CCEEFF; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">101</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"text-align: justify; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Quarterly
+Report on Form 10-Q for the quarter ended March 31, 2018 formatted
+in Extensible Business Reporting Language (XBRL).</font></td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;</font></p>
+<!-- Field: Page; Sequence: 13 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->11
+<!-- Field: /Sequence --></td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">SIGNATURES</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuantto
+the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalfby
+the undersigned thereunto duly authorized.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 57%; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:
+May 15, 2018</font></td>
+<td style=
+"width: 5%; padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</font></td>
+<td style=
+"width: 38%; border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding: 0; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>/s/
+Ronny Yakov</i></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Ronny
+Yakov</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</font></td>
+<td style=
+"padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif">
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief
+Executive Officer and<br />
+Interim Chief Financial Officer</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Principal
+Executive Officer,<br />
+Principal Financial and Accounting Officer)</font></p>
+</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">12</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+</p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 1.5pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+</p>
+</body>
+</html>
+

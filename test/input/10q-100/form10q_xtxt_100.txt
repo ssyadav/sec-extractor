@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body>
+SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+10-Q(Mark One)[X] QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended
+March 31, 2017 OR[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition
+period from to Commission file number 000-55893 SNOWY FOREST
+ACQUISITION CORPORATION (Exact name of registrant as specified in
+its charter) Delaware 82-3674573 (State or other jurisdiction of
+(I.R.S. Employer incorporation or organization) Identification No.)
+9454 Wilshire Blvd. #612 Beverly Hills, CA 90212 (Address of
+principal executive offices) (zip code) 310-888-1870 (Registrant's
+telephone number, including area code)Indicate by check mark
+whether the registrant (1) has filed all reportsrequired to be
+filed by Section 13 or 15(d) of the Securities ExchangeAct of 1934
+during the preceding 12 months (or for such shorter periodthat the
+registrant was required to file such reports), and (2) hasbeen
+subject to such filing requirements for the past 90 days. Yes X
+NoIndicate by check mark whether the registrant is a large
+acceleratedfiler, an accelerated filer, a non-accelerated filer, or
+a smallerreporting company. See the definitions of "large
+accelerated filer,""accelerated filer" and "smaller reporting
+company" in Rule 12b-2 ofthe Exchange Act. Large accelerated filer
+Accelerated Filer Non-accelerated filer Smaller reporting company X
+(do not check if a smaller reporting company)Indicate by check mark
+whether the registrant is a shell company(as defined in Rule 12b-2
+of the Exchange Act). Yes X NoIndicate the number of shares
+outstanding of each of the issuer'sclasses of stock, as of the
+latest practicable date. Class Outstanding at May 14, 2017Common
+Stock, par value $0.0001 20,000,000Documents incorporated by
+reference:
+None__________________________________________________________________________
+CONDENSED FINANCIAL STATEMENTSCondensed Balance Sheets as of March
+31, 2018 (unaudited)and December 31, 2017 2Condensed Statement of
+Operations for the Three MonthsEnded March 31, 2018 (unaudited)
+3Condensed Statement of Cash Flows for the Three MonthsEnded March
+31, 2018 (unaudited) 4Notes to Condensed Financial Statements
+(unaudited)
+5-8______________________________________________________________________
+SNOWY FOREST ACQUISITION CORPORATION CONDENSED BALANCE SHEETS
+<table>
+<caption>ASSETS March 31, December 31, 2018 2017 ------------
+------------ (Unaudited) <s> Current assets Cash $ - $ -
+------------ ------------ Total assets $ - $ - ============
+============ LIABILITIES AND STOCKHOLDERS' EQUITY Current
+liabilities Accrued liabilities $ 250 $ 1,000 ------------
+------------ Total liabilities 250 1,000 ------------ ------------
+Stockholders' Equity Preferred stock, $0.0001 par value 20,000,000
+shares authorized; none issued and outstanding at March 31, 2018
+and December 31, 2017, respectively - - Common Stock, $0.0001 par
+value, 100,000,000 shares authorized; 20,000,000 shares issued and
+outstanding at March 31, 2018 and December 31, 2017, respectively
+2,000 2,000 Additional paid-in capital 1,712 312 Accumulated
+deficit (3,962) (3,312) ------------ ------------ Total
+stockholders' deficit (250) (1,000) ------------ ------------ Total
+liabilities and stockholders' deficit $ - $ - ============
+============The accompanying notes are an integral part of these
+unauditedcondensed financial statements.</s></caption>
+</table>
+<s>2______________________________________________________________________</s>
+<table>
+<caption>SNOWY FOREST ACQUISITION CORPORATION CONDENSED STATEMENT
+OF OPERATIONS (UNAUDITED) <s> For the three months ended March 31,
+2018 ------------------- Revenue $ - Cost of revenues -
+----------------- Gross profit - ----------------- Operating
+expenses 650 ----------------- Operating loss (650)
+----------------- Loss before income taxes (650) Income tax expense
+- ----------------- Net loss $ (650) ================= Loss per
+share - basic and diluted $ (0.00) ================= Weighted
+average shares - 20,000,000 basic and diluted ================= The
+accompanying notes are an integral part of these unaudited
+condensed financial statements.</s></caption>
+</table>
+<s>3______________________________________________________________________</s>
+<table>
+<caption>SNOWY FOREST ACQUISITION CORPORATION CONDENSED STATEMENT
+OF CASH FLOWS (UNAUDITED) <s> For the three months ended March 31,
+2018 -------------------OPERATING ACTIVITIES Net loss $ (650)
+Expenses paid by stockholder and contributed as capital 1,400
+Changes in Operating Assets and Liabilities: Increase in accrued
+liability (750) ---------------- Net cash provided by (used in)
+operating activities - ---------------- Net increase in cash -
+Cash, beginning of period - Cash, end of period $ - ===============
+SUPPLEMENTAL DISCLOSURES: Cash paid during the period for: Income
+tax $ - =============== Interest $ - =============== The
+accompanying notes are an integral part of these condensed
+unaudited financial statements.</s></caption>
+</table>
+<s>4______________________________________________________________________
+SNOWY FOREST ACQUISITION CORPORATION Notes to Unaudited Condensed
+Financial StatementsNOTE 1 NATURE OF OPERATIONS AND SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIESNATURE OF OPERATIONSSnowy Forest
+Acquisition Corporation (the "Company") was incorporated onDecember
+1, 2017 under the laws of the state of Delaware to engage in
+anylawful corporate undertaking, including, but not limited to,
+selectedmergers and acquisitions. The Company has been in the
+developmental stagesince inception and its operations to date have
+been limited to issuingshares to its original shareholders and
+effecting a change in control. TheCompany will attempt to locate
+and negotiate with a business entity for thecombination of that
+target company with the Company.Any combination will normally take
+the form of a merger, stock-for-stockexchange or stock-for-assets
+exchange. In most instances the target companywill wish to
+structure the business combination to be within the definitionof a
+tax-free reorganization under Section 351 or Section 368 of the
+InternalRevenue Code of 1986, as amended. No assurances can be
+given that the Companywill be successful in locating or negotiating
+with any target company. TheCompany has been formed to provide a
+method for a foreign or domestic privatecompany to become a
+reporting company with a class of securities registeredunder the
+Securities Exchange Act of 1934.BASIS OF PRESENTATIONThe summary of
+significant accounting policies presented below is designedto
+assist in understanding the Company's unaudited condensed
+financialstatements. Such unaudited condensed financial statements
+and accompanyingnotes are the representations of the Company's
+management, who are responsiblefor their integrity and objectivity.
+These accounting policies conform toaccounting principles generally
+accepted in the United States of America("GAAP") in all material
+respects, and have been consistently applied inpreparing the
+accompanying unaudited condensed financial statements.Certain
+information and footnote disclosures normally present in
+annualfinancial statements prepared in accordance with accounting
+principlesgenerally accepted in the United States of America ("U.S.
+GAAP") wereomitted pursuant to such rules and regulations. The
+results for thethree months ended March 31, 2018 are not
+necessarily indicative ofthe results to be expected for the year
+ending December 31, 2018.USE OF ESTIMATESThe preparation of
+unaudited condensed financial statements in conformitywith GAAP
+requires management to make estimates and assumptions that
+affectthe reported amounts of assets and liabilities and disclosure
+of contingentassets and liabilities at the date of the condensed
+financial statements,and the reported amounts of revenues and
+expenses during the reportingperiods. Actual results could differ
+from those estimates.CASHCash and cash equivalents include cash on
+hand and on deposit at bankinginstitutions as well as all highly
+liquid short-term investments withoriginal maturities of 90 days or
+less. The Company did not have cashequivalents as of March 31, 2018
+and December 31, 2017, respectively.CONCENTRATION OF RISKFinancial
+instruments that potentially subject the Company to
+concentrationsof credit risk consist principally of cash. The
+Company places its cash withhigh quality banking institutions. The
+Company did not have cash balancesin excess of the Federal Deposit
+Insurance Corporation limit as of March 31,2018 and December 31,
+2017, respectively.
+5______________________________________________________________________
+SNOWY FOREST ACQUISITION CORPORATION Notes to Unaudited Condensed
+Financial StatementsINCOME TAXESUnder ASC 740, "Income Taxes,"
+deferred tax assets and liabilities arerecognized for the future
+tax consequences attributable to temporarydifferences between the
+financial statement carrying amounts of existingassets and
+liabilities and their respective tax bases. Deferred tax assetsand
+liabilities are measured using enacted tax rates expected to apply
+totaxable income in the years in which those temporary differences
+areexpected to be recovered or settled. Valuation allowances are
+establishedwhen it is more likely than not that some or all of the
+deferred taxassets will not be realized. As of March 31, 2018 and
+December 31, 2017,there were no deferred taxes due to the
+uncertainty of the realization ofnet operating loss or carry
+forward prior to expiration.LOSS PER COMMON SHAREBasic loss per
+common share excludes dilution and is computed by dividingnet loss
+by the weighted average number of common shares outstandingduring
+the period. Diluted loss per common share reflect the
+potentialdilution that could occur if securities or other contracts
+to issue commonstock were exercised or converted into common stock
+or resulted in theissuance of common stock that then shared in the
+loss of the entity. Asof March 31, 2018 and December 31, 2017,
+there are no outstanding dilutivesecurities.FAIR VALUE OF FINANCIAL
+INSTRUMENTSThe Company follows guidance for accounting for fair
+value measurementsof financial assets and financial liabilities and
+for fair valuemeasurements of nonfinancial items that are
+recognized or disclosed atfair value in the unaudited condensed
+financial statements on a recurringbasis. Additionally, the Company
+adopted guidance for fair valuemeasurement related to nonfinancial
+items that are recognized anddisclosed at fair value in the
+unaudited condensed financial statementson a nonrecurring basis.
+The guidance establishes a fair value hierarchythat prioritizes the
+inputs to valuation techniques used to measure fairvalue. The
+hierarchy gives the highest priority to unadjusted quotedprices in
+active markets for identical assets or liabilities (Level
+1measurements) and the lowest priority to measurements
+involvingsignificant unobservable inputs (Level 3 measurements).
+The threelevels of the fair value hierarchy are as follows: Level 1
+inputs are quoted prices (unadjusted) in active markets
+foridentical assets or liabilities that the Company has the ability
+toaccess at the measurement date. Level 2 inputs are inputs other
+than quoted prices included within Level 1that are observable for
+the asset or liability, either directly or indirectly. Level 3
+inputs are unobservable inputs for the asset or liability.The
+carrying amounts of financial assets such as cash approximate
+theirfair values because of the short maturity of these
+instruments.RECENT ACCOUNTING PRONOUNCEMENTSIn January 2017, the
+FASB issued ASU No. 2017-01, "Business Combinations(Topic 805):
+Clarifying the Definition of a Business". The amendmentsin this ASU
+clarify the definition of a business with the objective ofadding
+guidance to assist entities with evaluating whether
+transactionsshould be accounted for as acquisitions (or disposals)
+of assets orbusinesses. Basically these amendments provide a screen
+to determinewhen a set is not a business. If the screen is not met,
+the amendmentsin this ASU first, require that to be considered a
+business, a setmust include, at a minimum, an input and a
+substantive process thattogether significantly contribute to the
+ability to create output andsecond, remove the evaluation of
+whether a market participant couldreplace missing elements. These
+amendments take effect for publicbusinesses for fiscal years
+beginning after December 15, 2017 andinterim periods within those
+periods, and all other entities shouldapply these amendments for
+fiscal years beginning after December 15,2018, and interim periods
+within annual periods beginning afterDecember 15, 2019. The Company
+does not expect that the adoption ofthis guidance will have a
+material impact on its condensed financialstatements.
+6______________________________________________________________________
+SNOWY FOREST ACQUISITION CORPORATION Notes to Unaudited Condensed
+Financial StatementsIn May 2017, the FASB issued ASU 2017-09,
+"Scope of ModificationAccounting", which amends the scope of
+modification accounting forshare-based payment arrangements,
+provides guidance on the types ofchanges to the terms or conditions
+of share-based payment awards towhich an entity would be required
+to apply modification accountingunder ASC 718. For all entities,
+the ASU is effective for annualreporting periods, including interim
+periods within those annualreporting periods, beginning after
+December 15, 2017. Early adoptionis permitted, including adoption
+in any interim period. The Companydoes not expect that adoption of
+this guidance will have a materialimpact on its condensed financial
+statements and related disclosures.In November 2016, the FASB
+issued Accounting Standards Update No. 2016-18,"Statement of Cash
+Flows (Topic 230): Restricted Cash" ("ASU 2016-18").The new
+guidance is intended to reduce diversity in practice by adding
+orclarifying guidance on classification and presentation of changes
+inrestricted cash on the statement of cash flows. ASU 2016-18 is
+effectivefor annual and interim periods beginning after December
+15, 2017. Earlyadoption is permitted. The amendments in this update
+should be appliedretrospectively to all periods presented.
+Managementbelieves that thisASU will only impact the Company if it
+has restricted cash in the future.In August 2016, the FASB issued
+ASU 2016-15, "Statement of Cash Flows (Topic230): Classification of
+Certain Cash Receipts and Cash Payments" ("ASU 2016-15"). ASU
+2016-15 will make eight targeted changes to how cash receipts
+andcash payments are presented and classified in the statement of
+cash flows.ASU 2016-15 is effective for fiscal years beginning
+after December 15, 2017.The new standard will require adoption on a
+retrospective basis unless itis impracticable to apply, in which
+case it would be required to apply theamendments prospectively as
+of the earliest date practicable. Managementbelieves that the
+impact of this ASU to the Company's condensed financialstatements
+would be insignificant.Other recent accounting pronouncements
+issued by the FASB (including itsEmerging Issues Task Force) and
+the United States Securities and ExchangeCommission did not or are
+not believed by management to have a materialimpact on the
+Company's present or future financial statements.NOTE 2 - GOING
+CONCERNThe Company has not yet generated any revenue since
+inception to dateand has sustained operating loss of $650 for the
+three months endedMarch 31, 2018. The Company had a working capital
+deficit of $250and an accumulated deficit of $3,962 as of March 31,
+2018 and a workingcaptial deficit of $1,000 and an accumulated
+deficit of $3,312 as ofDecember 31, 2017. The Company's
+continuation as a going concernis dependent on its ability to
+generate sufficient cash flows fromoperations to meet its
+obligations and/or obtaining additional financingfrom its members
+or other sources, as may be required.The accompanying unaudited
+condensed financial statements have been preparedassuming that the
+Company will continue as a going concern; however, the
+abovecondition raises substantial doubt about the Company's ability
+to do so. Theunaudited condensed financial statements do not
+include any adjustments toreflect the possible future effects on
+the recoverability and classificationof assets or the amounts and
+classifications of liabilities that may resultshould the Company be
+unable to continue as a going concern.In order to maintain its
+current level of operations, the Company willrequire additional
+working capital from either cash flow from operationsor from the
+sale of its equity. However, the Company currently has
+nocommitments from any third parties for the purchase of its
+equity. If theCompany is unable to acquire additional working
+capital, it will be requiredto significantly reduce its current
+level of operations.NOTE 3 - ACCRUED LIABILITIESAs of March 31,
+2018 and December 31, 2017, the Company had accruedprofessional
+fees of $250 and $1,000, respectively.NOTE 4 - STOCKHOLDERS'
+DEFICITOn December 1, 2017, the Company issued 20,000,000 founders
+commonstock to two directors and officers for legal services
+provided to theCompany. The Company is authorized to issue
+100,000,000 shares of commonstock and 20,000,000 shares of
+preferred stock. As of March 31, 2018,20,000,000 shares of common
+stock and no preferred stock were issued andoutstanding.NOTE 5 -
+SUBSEQUENT EVENTManagement has evaluated subsequent events through
+May 15, 2018,the date which the financial statements were available
+to be issued.Except for the events disclosed above, all subsequent
+events requiringrecognition have been incorporated into these
+financial statementsin accordance with FASB ASC Topic 855,
+"Subsequent Events."
+7______________________________________________________________________ITEM
+2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS Snowy Forest Acquisition Corporation)(the
+"Company") was incorporatedon December 1, 2017 under the laws of
+the State of Delaware to engage in anylawful corporate undertaking,
+including, but not limited to, selected mergersand acquisitions.
+The Company is a blank check company and qualifies as an"emerging
+growth company" as defined in the Jumpstart Our Business
+StartupsAct which became law in April, 2012. Since inception the
+Company's operations to the balance sheet datecovered by this
+report were limited to issuing shares of common stock to
+itsoriginal shareholders and filing a registration statement on
+Form 10 onMarch 8, 2018 with the Securities and Exchange Commission
+pursuant to theSecurities Exchange Act of 1934 as amended to
+register its class of commonstock. The Company has no operations
+nor does it engage in any business activitiesgenerating revenues.
+As of March 31, 2018 the Company had not generated revenues and
+hadno income or cash flows from operations since inception. The
+Companyhad sustained net loss of $650 and an accumulated deficit of
+$3,962 forthe three months ended and as of March 31, 2018,
+respectively. The Company's independent auditors have issued a
+report raisingsubstantial doubt about the Company's ability to
+continue as a goingconcern. At present, the Company has no
+operations and the continuationof the Company as a going concern is
+dependent upon financial support fromits stockholders, its ability
+to obtain necessary equity financing to continueoperations and/or
+to successfully locate and negotiate with a business entityfor the
+combination of that target company with it. The president of the
+Company is the president, director andshareholder of Tiber Creek
+Corporation. Tiber Creek Corporation assistscompanies in becoming
+public reporting companies and with introductionsto the financial
+community. Such services may include, when andif appropriate, the
+use of an existing reporting company such asthe Company. Tiber
+Creek is in continual discussions with clientcompanies for its
+assistance and the use of a company such asthe Company as a vehicle
+to become a public company. As such theCompany may effect a change
+in control pursuant to such discussions.When, and if, the Company
+effects a change in control, the Companywill file a Form 8-K
+announcing it. If any change in control is effected, it is
+anticipated thatthe then current management of the Company will
+resign as officers anddirectors and will contribute back to the
+Company certain of theshares currently held by it. Simultaneously
+new management willbe appointed and elected. New management may
+issue shares of theCompany's common stock to the new management or
+others. At the time of filing this Report, no change in control
+hasnot been effected or finalized.ITEM 3. Quantitative and
+Qualitative Disclosures About Market Risk.Information not required
+to be filed by Smaller Reporting Companies.ITEM 4. Controls and
+Procedures.Disclosures and Procedures Pursuant to Rules adopted by
+the Securities and Exchange Commission,the Company carried out an
+evaluation of the effectiveness of the designand operation of its
+disclosure controls and procedures pursuant toExchange Act Rules.
+This evaluation was done as of the end of theperiod covered by this
+report under the supervision and with theparticipation of the
+Company's principal executive officer (who isalso the principal
+financial officer). Management is responsible for maintaining a
+system of internalcontrol over financial reporting ("ICFR") that
+provides reasonableassurance regarding the reliability of such
+reporting and theaccuracy and reliability of the preparation of
+financial statementsof such. Management is responsible to maintain
+records accurately andfairly to reflect transactions and
+transactions are recorded asnecessary. The controls should provide
+reasonable assurance regardingthe prevention of
+unauthorizedacquisition or use of assets. In the present case of
+the Company, management maintained solecontrol of all financial
+transactions and all assets. Since thepresident of the Company is
+in sole control of the financialtransactions and assets management
+believes that its control reasonablyand adequately addresses the
+risk of a misstatement in the financialreporting. Based upon that
+evaluation, the principal officer believesthat the Company's
+disclosure controls and procedures are effective ingathering,
+analyzing and disclosing information needed to ensure thatthe
+information required to be disclosed by the Company in its
+periodicreports is recorded, summarized and processed timely. The
+principalexecutive officer is directly involved in the day-to-day
+operationsof the Company. This Quarterly Report does not include an
+attestation report ofthe Company's registered public accounting
+firm regarding internalcontrol over financial reporting.
+Management's report was not subjectto attestation by the Company's
+registered public accounting firmpursuant to temporary rules of the
+Securities and ExchangeCommission that permit the Company to
+provide only management'sreport in this Quarterly Report.Changes in
+Internal Control Over Financial Reporting There was no change in
+the Company's internal control overfinancial reporting that was
+identified in connection with suchevaluation that occurred during
+the period covered by this reportthat has materially affected, or
+is reasonably likely to materiallyaffect, the Company's internal
+control over financial reporting. PART II -- OTHER INFORMATIONITEM
+1. LEGAL PROCEEDINGS There are no legal proceedings against the
+Company and the Companyis unaware of such proceedings contemplated
+against it. Management is aware that certain current and prior
+blank checkcompanies of which Messrs. Cassidy and McKillop, the
+officers anddirectors the officers and directors of the Company
+have receivedsubpoenas for documents in regard to an inquiry by the
+Securities andExchange Commission requesting documentation
+regarding the transactionsand filings for the past five years and
+former share ownership of certainblank check companies. Management
+of the Company has also received subpoenasfrom the Securities and
+Exchange Commission in regard to certain ofthe transactions and
+filings for the past five years of certain ofits blank check
+companies. Management has no independent knowledge orinformation as
+to the intent or purpose of such subpoenas but believesthe SEC is
+investigating whether the change in control transaction
+isconsidered a sale of a security and if so whether a broker needs
+to beused to effect the transaction.ITEM 2. UNREGISTERED SALES OF
+EQUITY SECURITIES AND USE OF PROCEEDS During the past three years,
+the Company has issued 20,000,000common shares pursuant to Section
+4(a)(2) of the Securities Act of 1933at par as follows: On December
+1, 2017, the Company issued the following shares ofits common
+stock:Name Number of SharesJames Cassidy 10,000,000James McKillop
+10,000,000ITEM 3. DEFAULTS UPON SENIOR SECURITIES Not
+applicable.ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY
+HOLDERS Not applicable.ITEM 5. OTHER INFORMATION (a) Not
+applicable. (b) Item 407(c)(3) of Regulation S-K: During the
+quarter covered by this Report, there have not beenany material
+changes to the procedures by which security holdersmay recommend
+nominees to the Board of Directors.ITEM 6. EXHIBITS (a) Exhibits 31
+Certification of the Chief Executive Officer and Chief Financial
+Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32 Certification of the Chief Executive Officer and Chief Financial
+Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+SIGNATURES Pursuant to the requirements of the Securities Exchange
+Act of1934, the registrant has duly caused this report to be signed
+on itsbehalf by the undersigned thereunto duly authorized. SNOWY
+FOREST ACQUISITION CORPORATION By: /s/ James M. Cassidy Chief
+Executive Officer By: /s/ James M. Cassidy Chief Financial
+OfficerDated: May 15, 2018</s>
+</body>
+</html>
+

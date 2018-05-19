@@ -1,0 +1,2649 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+<p style="margin: 0"></p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style="margin: 0"><font style="font-size: 9pt">&nbsp;</font></p>
+<p style="margin-top: 0; text-align: center; margin-bottom: 0">
+SECURITIES AND EXCHANGE COMMISSION</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+Washington, D.C. 20549</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+FORM 10-Q</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+(Mark One)</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+☒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QUARTERLY REPORT UNDER SECTION 13
+OR15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+For the quarterly period ended March 31,2018</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+OR</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+☐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TRANSITION REPORT PURSUANT TO
+SECTION13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+For the transition period from_____________ to ______________</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+Commission file number 000-55812</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+BILLION HOLDING INC.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Exact name of registrant as specified inits charter)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+<td style=
+"width: 49%; border-bottom: black 1.5pt solid; text-align: center">
+<font style="font-size: 10pt">Delaware</font></td>
+<td style="width: 2%; text-align: center">&nbsp;</td>
+<td style=
+"width: 49%; border-bottom: black 1.5pt solid; text-align: center">
+<font style="font-size: 10pt">82-1860132</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="text-align: center"><font style="font-size: 10pt">(State
+or other jurisdiction of</font><br />
+<font style="font-size: 10pt">incorporation or
+organization)</font></td>
+<td style="text-align: center">&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-size: 10pt">(I.R.S. Employer&nbsp;</font><br />
+<font style="font-size: 10pt">Identification No.)</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+11 Shanzhuang Rd., Xikeng, Henggang, Longgang,</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+Shenzhen, China 518000</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Address of principal executive offices)(zip code)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
++86 755 2555 3140</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Registrant’s telephone number, includingarea code)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+ORCHID GROVE ACQUISITION CORPORATION</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Former name)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+9545 Wilshire Boulevard</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+Beverly Hills, California 90212</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Former Address of Principal Executive Offices)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+310-888-1870&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+(Registrant's telephone number, includingarea code)</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Indicate by check mark whether the registrant (1) has filedall
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(orfor such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing
+requirementsfor the past 90 days.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: right; text-indent: 1.75in">
+Yes ☒&nbsp;&nbsp;No ☐</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">
+Indicate by check mark whether the registrantis a large accelerated
+filer, an accelerated filer, a non-accelerated filer, smaller
+reporting company, or an emerging growth company.See the
+definitions of “large accelerated filer,” “accelerated filer,” 
+“smaller reporting company,”and “emerging growth company” in Rule
+12b-2 of the Exchange Act.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+<td style="width: 20%"><font style="font-size: 10pt">Large
+accelerated filer</font></td>
+<td style="width: 40%"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐</font></td>
+<td style="width: 25%"><font style="font-size: 10pt">Accelerated
+filer</font></td>
+<td style="width: 15%"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt">Non-accelerated filer</font></td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐</font>
+<font style="font-size: 10pt">(Do not check if a smaller reporting
+company)</font></td>
+<td><font style="font-size: 10pt">Smaller reporting
+company</font></td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☒</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td colspan="2">&nbsp;</td>
+<td><font style="font-size: 10pt">Emerging growth
+company</font></td>
+<td><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐</font></td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">
+If an emerging growth company, indicate by check mark if
+theregistrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standardsprovided pursuant to Section 13(a) of the Exchange Act.
+<font style=
+"font-family: Times New Roman, Times, Serif">☐</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Indicate by check mark whether the registrant is a shell company(as
+defined in Rule 12b-2 of the Exchange Act).</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: right">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: right">
+Yes ☒ &nbsp;&nbsp;No ☐</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: left">
+Indicate the number of shares outstanding of each of the registrant’
+sclasses of common stock as of the latest practicable date.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+<td style=
+"vertical-align: bottom; width: 49%; border-bottom: black 1.5pt solid; text-align: center">
+<font style="font-size: 10pt">Class</font></td>
+<td style="width: 2%; text-align: center">&nbsp;</td>
+<td style=
+"vertical-align: bottom; width: 49%; border-bottom: black 1.5pt solid; text-align: center">
+<font style="font-size: 10pt">Outstanding at May 15,
+2018</font></td>
+</tr>
+<tr style="background-color: rgb(204,238,255)">
+<td style="text-align: center"><font style="font-size: 10pt">Common
+Stock, par value $0.0001</font></td>
+<td style="text-align: center">&nbsp;</td>
+<td style="vertical-align: bottom; text-align: center"><font style=
+"font-size: 10pt">6,000,000</font></td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Documents incorporated by reference: None</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in">
+<font style="font-size: 9pt">&nbsp;</font></p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in">
+</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in">
+</p>
+<!-- Field: Page; Sequence: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+CONDENSED FINANCIAL STATEMENTS</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%">
+<tr style="background-color: rgb(204,238,255)">
+<td style="width: 91%">Balance Sheets as of March 31, 2018
+(unaudited) and December 31, 2017</td>
+<td style="vertical-align: bottom; width: 9%; text-align: center">
+1</td>
+</tr>
+<tr style="background-color: White">
+<td>&nbsp;</td>
+<td style="vertical-align: bottom; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: rgb(204,238,255)">
+<td>Statement of Operations for the Three Months Ended March 31,
+2018 (unaudited)</td>
+<td style="vertical-align: bottom; text-align: center">2</td>
+</tr>
+<tr style="background-color: White">
+<td>&nbsp;</td>
+<td style="vertical-align: bottom; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: rgb(204,238,255)">
+<td>Statement of Cash Flows for the Three Months Ended March 31,
+2018(unaudited)</td>
+<td style="vertical-align: bottom; text-align: center">3</td>
+</tr>
+<tr style="background-color: White">
+<td>&nbsp;</td>
+<td style="vertical-align: bottom; text-align: center">&nbsp;</td>
+</tr>
+<tr style="background-color: rgb(204,238,255)">
+<td><font style="font-family: Times New Roman, Times, Serif">Notes
+to Financial Statements (unaudited)&nbsp;&nbsp;</font></td>
+<td style="vertical-align: bottom; text-align: center">
+4<font style="font-family: Times New Roman, Times, Serif">-7</font></td>
+</tr>
+</table>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<b>&nbsp;</b></p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<!-- Field: Page; Sequence: 2 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>BILLION HOLDING INC.</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>BALANCE SHEETS</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+</p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="font-weight: bold; padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"font-weight: bold; text-align: center; border-bottom: Black 1.5pt solid">
+March 31, 2018</td>
+<td style="padding-bottom: 1.5pt; font-weight: bold">&nbsp;</td>
+<td style="font-weight: bold; padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"font-weight: bold; text-align: center; border-bottom: Black 1.5pt solid">
+December 31, 2017</td>
+<td style="padding-bottom: 1.5pt; font-weight: bold">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="font-weight: bold">&nbsp;</td>
+<td colspan="2" style="font-weight: bold; text-align: center">
+(Unaudited)</td>
+<td style="font-weight: bold">&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2" style="text-align: center">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="font-weight: bold; text-align: center">ASSETS</td>
+<td>&nbsp;</td>
+<td colspan="6" style="text-align: center">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2" style="text-align: center">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="font-weight: bold">Current Assets</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2" style="text-align: right">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"width: 76%; text-align: left; padding-bottom: 1.5pt; padding-left: 9.35pt">
+Prepaid expense</td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 1%; border-bottom: Black 1.5pt solid; text-align: left">
+$</td>
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; text-align: right">
+3,000</td>
+<td style="width: 1%; padding-bottom: 1.5pt; text-align: left">
+&nbsp;</td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 1%; border-bottom: Black 1.5pt solid; text-align: left">
+$</td>
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="width: 1%; padding-bottom: 1.5pt; text-align: left">
+&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="padding-left: 9.35pt">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 4pt">Total
+Assets</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+3,000</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font-weight: bold; text-align: center">LIABILITIES AND
+STOCKHOLDERS' EQUITY</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font-weight: bold; text-align: left">Current
+Liabilities</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-left: 9.35pt">Accrued
+liabilities</td>
+<td>&nbsp;</td>
+<td style="text-align: left">$</td>
+<td style="text-align: right">3,345</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">$</td>
+<td style="text-align: right">7,000</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-left: 9.35pt">Due to a related
+party</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">13,514</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 1.5pt">Total
+Liabilities</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+16,859</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+7,000</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font-weight: bold; text-align: left">Stockholders'
+Equity</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; text-indent: -0.1in; padding-left: 16.55pt">
+Preferred stock, $0.0001 par value 20,000,000 shares authorized;
+none issued and outstanding at March 31, 2018 and December 31,
+2017, respectively</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; text-indent: -0.1in; padding-left: 16.55pt">
+Common Stock, $0.0001 par value, 100,000,000 shares authorized;
+6,000,000 and 20,000,000 shares issued and outstanding at March 31,
+2018 and December 31, 2017, respectively</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">600</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">2,000</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-left: 9.35pt">Discount on
+common stock</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">(600</td>
+<td style="text-align: left">)</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left; padding-left: 9.35pt">Additional
+paid-in capital</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">3,312</td>
+<td style="text-align: left">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">312</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 9.35pt">
+Accumulated deficit</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(17,171</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(9,312</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 1.5pt; padding-left: 18.7pt">
+Total stockholders' deficit</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(13,859</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(7,000</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 4pt">Total
+Liabilities and Stockholders' Deficit</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+3,000</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+&nbsp;&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+The accompanying notes are an integral partof these unaudited
+financial statements.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<b>&nbsp;</b></p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<!-- Field: Page; Sequence: 3; Options: NewSection; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->1
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>BILLION HOLDING INC.</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>STATEMENT OF OPERATIONS</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>(Unaudited)</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="font-weight: bold; padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"font-weight: bold; text-align: center; border-bottom: Black 1.5pt solid">
+For the three months ended<br />
+March 31,<br />
+2018</td>
+<td style="padding-bottom: 1.5pt; font-weight: bold">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2" style="text-align: center">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font-weight: bold">Revenue</td>
+<td>&nbsp;</td>
+<td style="text-align: left">$</td>
+<td style="text-align: right">-</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font-weight: bold; padding-bottom: 1.5pt">Cost of
+Revenues</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 1.5pt">Gross
+Profit</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"width: 88%; font-weight: bold; text-align: left; padding-bottom: 1.5pt">
+Operating expenses</td>
+<td style="width: 1%; padding-bottom: 1.5pt">&nbsp;</td>
+<td style=
+"width: 1%; border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style=
+"width: 9%; border-bottom: Black 1.5pt solid; text-align: right">
+7,859</td>
+<td style="width: 1%; padding-bottom: 1.5pt; text-align: left">
+&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 1.5pt">Loss
+before income taxes</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 1.5pt; text-align: right">(7,859</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 1.5pt">Income
+Tax Expense</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+-</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 4pt">Net
+loss</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+(7,859</td>
+<td style="padding-bottom: 4pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 4pt">Loss per
+share - basic and diluted</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+(0.00</td>
+<td style="padding-bottom: 4pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="padding-bottom: 4pt; padding-left: 9.35pt">Weighted
+average shares- basic and diluted</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left"></td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+11,844,444</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+The accompanying notes are an integral partof these unaudited
+financial statements.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<b>&nbsp;</b></p>
+<!-- Field: Page; Sequence: 4; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->2
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>BILLION HOLDING INC.</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>STATEMENT OF CASH FLOWS</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>(Unaudited)</b></p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td style="font-weight: bold; padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"font-weight: bold; text-align: center; border-bottom: Black 1.5pt solid">
+For the<br />
+three months ended<br />
+March 31,<br />
+2018</td>
+<td style="padding-bottom: 1.5pt; font-weight: bold">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td colspan="2" style="text-align: center">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom">
+<td style="font-weight: bold">OPERATING ACTIVITIES</td>
+<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"width: 88%; font-weight: bold; text-align: left; padding-left: 9.35pt">
+Net loss</td>
+<td style="width: 1%">&nbsp;</td>
+<td style="width: 1%; text-align: left">$</td>
+<td style="width: 9%; text-align: right">(7,859</td>
+<td style="width: 1%; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"font-weight: bold; text-align: left; padding-left: 9.35pt">
+Non-cash adjustments to reconcile net loss to net cash:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-left: 18.7pt">Expenses paid
+for by stockholder and contributed as capital</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">1,000</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"font-weight: bold; text-align: left; padding-left: 9.35pt">Changes
+in Operating Assets and Liabilities:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; padding-left: 18.7pt">Prepaid
+expense</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">(3,000</td>
+<td style="text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 18.7pt">
+Accrued liability</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(3,655</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 1.5pt">Net
+cash used in operating activities</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+(13,514</td>
+<td style="padding-bottom: 1.5pt; text-align: left">)</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font-weight: bold; text-align: left">FINANCING
+ACTIVITIES</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 1.5pt; padding-left: 18.7pt">Net
+proceeds from due to a related party</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+13,514</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 1.5pt">Net
+cash provided by financing activities</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: left">
+&nbsp;</td>
+<td style="border-bottom: Black 1.5pt solid; text-align: right">
+13,514</td>
+<td style="padding-bottom: 1.5pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"font-weight: bold; text-align: left; padding-bottom: 4pt">Net
+increase in cash</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt; text-align: right">-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font-weight: bold; padding-bottom: 4pt">Cash, beginning
+of period</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+<td style="padding-bottom: 4pt; text-align: right">-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td style="text-align: left; border-bottom: Black 1.5pt solid">
+&nbsp;</td>
+<td style="text-align: right; border-bottom: Black 1.5pt solid">
+&nbsp;</td>
+<td style="text-align: left; padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font-weight: bold; padding-bottom: 4pt">Cash, end of
+period</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font-weight: bold; text-align: left">SUPPLEMENTAL
+DISCLOSURES:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"font-weight: bold; text-align: left; padding-left: 9.35pt">Cash
+paid during the period for:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 4pt; padding-left: 9.35pt">
+Income tax</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="padding-bottom: 4pt; padding-left: 9.35pt">Interest</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+-</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="padding-left: 9.35pt">&nbsp;</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font-weight: bold; text-align: left">NON-CASH
+TRANSACTION:</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style=
+"text-align: left; padding-bottom: 4pt; padding-left: 9.35pt">
+Common stock issued to officer for no consideration</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+600</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style=
+"text-align: left; padding-bottom: 4pt; padding-left: 9.35pt">
+Redemption of common shares in connection with change of
+control</td>
+<td style="padding-bottom: 4pt">&nbsp;</td>
+<td style="border-bottom: Black 4pt double; text-align: left">
+$</td>
+<td style="border-bottom: Black 4pt double; text-align: right">
+2,000</td>
+<td style="padding-bottom: 4pt; text-align: left">&nbsp;</td>
+</tr>
+</table>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+The accompanying notes are an integral partof these unaudited
+financial statements.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<b>&nbsp;</b></p>
+<!-- Field: Page; Sequence: 5; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->3
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<b>BILLION HOLDING INC.</b></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<b>Notes to Unaudited Financial Statements</b></p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: center">
+<b>&nbsp;</b></p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+NOTE 1 - NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT
+ACCOUNTINGPOLICIES</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+NATURE OF OPERATIONS</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Billion Holding Inc. (formerly Orchid Grove Acquisition
+Corporation)(“the Company”, “Billion”) was incorporated on May 17,
+2017 under the laws of the state of Delaware toengage in any lawful
+corporate undertaking, including, but not limited to, selected
+mergers and acquisitions. The Company has beenin the developmental
+stage since inception and its operations to date have been limited
+to issuing shares to its original shareholders.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+On January 8, 2018, the Company changed of the Company’sname to
+Billion Holding Inc.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+BASIS OF PRESENTATION</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+The summary of significant accounting policiespresented below is
+designed to assist in understanding the Company's unaudited
+financial statements. Such unaudited financial statementsand
+accompanying notes are the representations of the Company's
+management, who are responsible for their integrity and
+objectivity.These accounting policies conform to accounting
+principles generally accepted in the United States of America
+("GAAP")in all material respects, and have been consistently
+applied in preparing the accompanying unaudited financial
+statements.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+Certain information and footnote disclosuresnormally present in
+annual financial statements prepared in accordance with accounting
+principles generally accepted in the UnitedStates of America ("U.S.
+GAAP") were omitted pursuant to such rules and regulations. The
+results for the three monthsended March 31, 2018 are not
+necessarily indicative of the results to be expected for the year
+ending December 31, 2018.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+USE OF ESTIMATES</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+The preparation of unaudited financial statements in conformitywith
+GAAP requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities anddisclosure
+of contingent assets and liabilities at the date of the condensed
+financial statements, and the reported amounts ofrevenues and
+expenses during the reporting periods. Actual results could differ
+from those estimates.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+CASH AND CASH EQUIVALENTS</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Cash and cash equivalents include cash on hand and on depositat
+banking institutions as well as all highly liquid short-term
+investments with original maturities of 90 days or less. Cash
+andcash equivalents amounted to $0 and $0 as of March 31, 2018 and
+December 31, 2017, respectively.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+CONCENTRATION OF RISK</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Financial instruments that potentially subject the Company
+toconcentrations of credit risk consist principally of cash. The
+Company did not have bank account as of March 31, 2018 and
+December31, 2017. Cash on hand amounted to $0 and $0 as of March
+31, 2018 and December 31, 2017.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+INCOME TAXES</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Under ASC 740, “Income Taxes,” deferred taxassets and liabilities
+are recognized for the future tax consequences attributable to
+temporary differences between thefinancial statement carrying
+amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assetsand liabilities are measured using
+enacted tax rates expected to apply to taxable income in the years
+in which thosetemporary differences are expected to be recovered or
+settled. Valuation allowances are established when it is more
+likelythan not that some or all of the deferred tax assets will not
+be realized. As of March 31, 2018 and December 31, 2017, therewere
+no deferred taxes due to the uncertainty of the realization of net
+operating loss or carry forward prior toexpiration.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 6; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->4
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+LOSS PER COMMON SHARE</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Basic loss per common share excludes dilution and is computedby
+dividing net loss by the weighted average number of common shares
+outstanding during the period. Diluted loss per common sharereflect
+the potential dilution that could occur if securities or other
+contracts to issue common stock were exercised or convertedinto
+common stock or resulted in the issuance of common stock that then
+shared in the loss of the entity. As of March 31, 2018and December
+31, 2017, there are no outstanding dilutive securities.</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+FAIR VALUE OF FINANCIAL INSTRUMENTS</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+The Company follows guidance for accounting for fair value
+measurementsof financial assets and financial liabilities and for
+fair value measurements of nonfinancial items that are recognized
+or disclosedat fair value in the unaudited financial statements on
+a recurring basis. Additionally, the Company adopted guidance for
+fair valuemeasurement related to nonfinancial items that are
+recognized and disclosed at fair value in the unaudited financial
+statementson a nonrecurring basis. The guidance establishes a fair
+value hierarchy that prioritizes the inputs to valuation techniques
+usedto measure fair value.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+The hierarchy gives the highest priority to unadjusted quotedprices
+in active markets for identical assets or liabilities (Level 1
+measurements) and the lowest priority to measurements
+involvingsignificant unobservable inputs (Level 3 measurements).
+The three levels of the fair value hierarchy are as
+follows:&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%">
+<tr style="vertical-align: top">
+<td style="width: 4%">&nbsp;</td>
+<td style="width: 96%"><font style="font-size: 10pt">Level 1 inputs
+are quoted prices (unadjusted) in active markets for identical
+assets or liabilities that the Company has the ability to access at
+the measurement date.</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td>&nbsp;</td>
+<td><font style="font-size: 10pt">Level 2 inputs are inputs other
+than quoted prices included within Level 1 that are observable for
+the asset or liability, either directly or indirectly.</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td>&nbsp;</td>
+<td><font style="font-size: 10pt">Level 3 inputs are unobservable
+inputs for the asset or liability. The carrying amounts of
+financial assets such as cash approximate their fair values because
+of the short maturity of these instruments.</font></td>
+</tr>
+</table>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+RECENT ACCOUNTING PRONOUNCEMENTS</p>
+<p style=
+"margin: 0pt 0; font: 10pt Times New Roman, Times, Serif; text-align: justify">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+In May 2014, the FASB issued ASU No. 2014-09, “Revenuefrom
+Contracts with Customers (Topic 606)” (“ASU 2014-09”). ASU 2014-09
+requires an entity to recognize the amountof revenue to which it
+expects to be entitled for the transfer of promised goods or
+services to customers. ASU 2014-09 will replacemost existing
+revenue recognition guidance in U.S. GAAP when it becomes effective
+and permits the use of either the retrospectiveor cumulative effect
+transition method. The guidance also requires additional disclosure
+about the nature, amount, timing and uncertaintyof revenue and cash
+flows arising from customer contracts. In August 2015, the FASB
+issued ASU No. 2015-14, “Deferral ofthe Effective Date” (“ASU
+2015-14”), which defers the effective date for ASU 2014-09 by one
+year. For publicentities, the guidance in ASU 2014-09 will be
+effective for annual reporting periods beginning after December 15,
+2017 (includinginterim reporting periods within those periods), and
+for all other entities, ASU 2014-09 will be effective for annual
+reportingperiods beginning after December 15, 2018, and interim
+reporting periods within annual reporting periods beginning after
+December15, 2019. In March 2016, the FASB issued ASU No. 2016-08, 
+“Principal versus Agent Considerations (Reporting Revenue
+versusNet)” (“ASU 2016-08”), which clarifies the implementation
+guidance on principal versus agent considerations inthe new revenue
+recognition standard. In April 2016, the FASB issued ASU No.
+2016-10, “Identifying Performance Obligationsand Licensing” (“ASU
+2016-10”), which reduces the complexity when applying the guidance
+for identifying performanceobligations and improves the operability
+and understandability of the license implementation guidance. In
+May 2016, the FASB issuedASU No. 2016-12 “Narrow-Scope Improvements
+and Practical Expedients” (“ASU 2016-12”), which amends theguidance
+on transition, collectability, noncash consideration and the
+presentation of sales and other similar taxes. Preliminarily,the
+Company plans to adopt Topic 606 using the retrospective transition
+method, and is continuing to evaluate the impact its
+pendingadoption of Topic 606 will have on its financial statements.
+The Company believes that its current revenue recognition
+policiesare generally consistent with the new revenue recognition
+standards set forth in ASU 2014-09. Potential adjustments to input
+measuresare not expected to be pervasive to the majority of the
+Company’s contracts</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+In February 2016, the FASB issued ASU No. 2016-02, “Leases(Topic
+842)”, to increase the transparency and comparability about leases
+among entities. The new guidance requires lesseesto recognize a
+lease liability and a corresponding lease asset for virtually all
+lease contracts. It also requires additional disclosuresabout
+leasing arrangements. ASU 2016-02 is effective for interim and
+annual periods beginning after December 15, 2018, and requiresa
+modified retrospective approach to adoption. Early adoption is
+permitted. The Company does not expect that the adoption of
+thisguidance will have a material impact on its financial
+statements.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+In October 2016, the FASB issued ASU 2016-16, “IncomeTaxes (Topic
+740): Intra-Entity Transfer of Assets Other than Inventory”, which
+requires the recognition of the income taxconsequences of an
+intra-entity transfer of an asset, other than inventory, when the
+transfer occurs. ASU 2016-06 will be effectivefor the Company in
+its first quarter of 2019. The Company does not expect that the
+adoption of this guidance will have a materialimpact on its
+financial statements.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<!-- Field: Page; Sequence: 7; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->5
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+In January 2017, the FASB issued ASU No. 2017-01, 
+“BusinessCombinations (Topic 805): Clarifying the Definition of a
+Business”. The amendments in this ASU clarify the definition ofa
+business with the objective of adding guidance to assist entities
+with evaluating whether transactions should be accounted foras
+acquisitions (or disposals) of assets or businesses. Basically
+these amendments provide a screen to determine when a set isnot a
+business. If the screen is not met, the amendments in this ASU
+first, require that to be considered a business, a set mustinclude,
+at a minimum, an input and a substantive process that together
+significantly contribute to the ability to create outputand second,
+remove the evaluation of whether a market participant could replace
+missing elements. These amendments take effectfor public businesses
+for fiscal years beginning after December 15, 2017 and interim
+periods within those periods, and all otherentities should apply
+these amendments for fiscal years beginning after December 15,
+2018, and interim periods within annual periodsbeginning after
+December 15, 2019. The Company does not expect that the adoption of
+this guidance will have a material impact onits financial
+statements.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+In September 2017, the FASB issued ASU 2017-13, Revenue
+fromContracts with Customers (Topic 606) and Leases (Topic 842).
+The main objective of this pronouncement is to clarify the
+effectivedate of the adoption of ASC Topic 606 and ASC Topic 842
+and the definition of public business entity as stipulated in ASU
+2014-09and ASU 2016-02. ASU 2014-09 provides that a public business
+entity and certain other specified entities adopt ASC Topic 606
+forannual reporting periods beginning after December 15, 2017,
+including interim reporting periods within that reporting period.
+Allother entities are required to adopt ASC Topic 606 for annual
+reporting periods beginning after December 15, 2018, and
+interimreporting periods within annual reporting periods beginning
+after December 15, 2019. ASU 2016-12 requires that “a
+publicbusiness entity and certain other specified entities adopt
+ASC Topic 842 for fiscal years beginning after December 15, 2018,
+andinterim periods within those fiscal years. All other entities
+are required to adopt ASC Topic 842 for fiscal years beginning
+afterDecember 15, 2019, and interim periods within fiscal years
+beginning after December 15, 2020”. ASU 2017-13 clarifies thatthe
+SEC would not object to certain public business entities electing
+to use the non-public business entities effective dates forapplying
+ASC 606 and ASC 842. ASU 2017-13, however, limits such election to
+certain public business entities that “otherwisewould not meet the
+definition of a public business entity except for a requirement to
+include or inclusion of its financial statementsor financial
+information in another entity’s filings with the SEC”. The Company
+expects that the adoption of this ASUwould not have a material
+impact on its financial statements.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+NOTE 2 - GOING CONCERN</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-right: 0; margin-left: 0">
+The Company has not yet generatedany revenue since inception to
+date and has sustained operating loss of $7,859 during the three
+months ended March 31, 2018. TheCompany had a working capital
+deficit of $13,859 and $7,000 as of March 31, 2018 and December 31,
+2017, respectively and an accumulateddeficit of $17,171 and $9,312
+as of March 31, 2018 and December 31, 2017, respectively. The
+Company’s continuation as agoing concern is dependent on its
+ability to generate sufficient cash flows from operations to meet
+its obligations and/or obtainingadditional financing from its
+members or other sources, as may be required.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+The accompanying unaudited financial statements have been
+preparedassuming that the Company will continue as a going concern;
+however, the above condition raises substantial doubt about the
+Company’sability to do so. The unaudited financial statements do
+not include any adjustments to reflect the possible future effects
+on therecoverability and classification of assets or the amounts
+and classifications of liabilities that may result should the
+Companybe unable to continue as a going concern.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+In order to maintain its current level of operations, the
+Companywill require additional working capital from either cash
+flow from operations or from the sale of its equity. However, the
+Companycurrently has no commitments from any third parties for the
+purchase of its equity. If the Company is unable to acquire
+additionalworking capital, it will be required to significantly
+reduce its current level of operations.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+NOTE 3 - PREPAID EXPENSE</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+As of March 31, 2018 and December 31, 2017, the Company had prepaid
+expenses of $3,000 and $0, respectively.Prepaid expenses are
+prepaid professional fees.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+NOTE 4 - ACCRUED LIABILITIES</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+As of March 31, 2018 and December 31, 2017, the Company had accrued
+professional fees of $3,345 and $7,000,respectively.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+NOTE 5 - DUE TO A RELATED PARTY</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">
+Due to a related party amounted to $13,514and $0 as of March 31,
+2018 and December 31, 2017 are fees paid on behalf of the Company
+by a shareholder who is an officer ofthe Company. The amount due to
+a related party is unsecured, non-interest bearing, and due on
+demand.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<!-- Field: Page; Sequence: 8; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->6
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+NOTE 6 - STOCKHOLDERS’ DEFICIT</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+The Company is authorized to issue 100,000,000 shares of
+commonstock and 20,000,000 shares of preferred stock.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+There is no preferred stock issued and outstanding as of March31,
+2018 and December 31, 2017. There were 6,000,000 and 20,000,000
+shares of common stock outstanding as of March 31, 2018 andDecember
+31, 2017, respectively.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+On May 17, 2017, the Company issued 20,000,000 founders commonstock
+to two then directors and officers at par value per share for
+services provided to the Company.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+In February 2018, the Company implemented a change of controlby
+redeeming 20,000,000 shares of total then 20,000,000 outstanding
+shares of existing shareholders, issuing 6,000,000 shares totwo new
+shareholders pursuant to Section 4(a)(2) of the Securities Act of
+1933 at par value per share and at a discount at $600representing
+100% of the total outstanding 6,000,000 shares of common stock.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+During the quarter ended March 31, 2018, $1,000 professional feewas
+paid by a prior shareholder as contribution of capital.</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+NOTE 7 - SUBSEQUENT EVENT</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+Management has evaluated subsequent events through May 15, 2018,the
+date which the financial statements were available to be issued.
+All subsequent events requiring recognition as of December31, 2017
+have been incorporated into these financial statements and there
+are no subsequent events that require disclosure in accordancewith
+FASB ASC Topic 855, “Subsequent Events.”</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+</p>
+<!-- Field: Page; Sequence: 9; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->7
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+<p style="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">
+<b>ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIALCONDITION AND RESULTS OF OPERATIONS</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<i>The following discussion of the resultsof our operations and
+financial condition should be read in conjunction with our
+financial statements and the related notes, whichappear elsewhere
+in this report. The following discussion includes forward-looking
+statements. For a discussion of important factorsthat could cause
+actual results to differ from our forward-looking statements, see
+the section entitled “Cautionary NoteRegarding Forward Looking
+Statements” above.</i></p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<i>&nbsp;</i></p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<i>In some cases, you can identify forward-lookingstatements by
+terms such as “anticipates,” “believes,” “could,” “estimates,” 
+“expects,”“intends,” “may,” “plans,” “potential,” “predicts,” 
+“projects,”“should,” “would” and similar expressions intended to
+identify forward-looking statements. Forward-lookingstatements
+reflect our current views with respect to future events and are
+based on assumptions and subject to risks and uncertainties.Given
+these uncertainties, undue reliance should not be placed on these
+forward-looking statements. Also, forward-looking
+statementsrepresent our estimates and assumptions only as of the
+date of this report. This Annual Report should be read in its
+entirety andwith the understanding that our actual future results
+may be materially different from what we expect. Except as required
+by law,we assume no obligation to update any forward-looking
+statements publicly, or to update the reasons actual results could
+differmaterially from those anticipated in any forward-looking
+statements, even if new information becomes available in the
+future.</i></p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<b>Overview</b></p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Billion Holding Inc. was incorporated on May 17, 2017 underthe laws
+of the State of Delaware to engage in any lawful corporate
+undertaking, including, but not limited to, selected mergersand
+acquisitions. The Company is a blank check company and qualifies as
+an “emerging growth company” as defined inthe Jumpstart Our
+Business Startups Act which became law in April 2012.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Since inception the Company’s operations to the date ofthe period
+covered by this report have been limited to issuing shares of
+common stock to its original shareholders and filing aregistration
+statement on Form 10 on September 11, 2017 with the Securities and
+Exchange Commission pursuant to the Securities ExchangeAct of 1934
+as amended to register its class of common stock.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+The Company has no operations nor does it currently engage inany
+business activities generating revenues. The Company’s principal
+business objective is to achieve a business combinationwith a
+target company.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+A combination will normally take the form of a merger,
+stock-for-stockexchange or stock-for-assets exchange. In most
+instances the target company will wish to structure the business
+combination tobe within the definition of a tax-free reorganization
+under Section 351 or Section 368 of the Internal Revenue Code of
+1986, asamended.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+In implementing a structure for a particular business
+acquisition,the Company may become a party to a merger,
+consolidation, reorganization, joint venture, licensing agreement
+or other arrangementwith another corporation or entity. On the
+consummation of a transaction, the present management and
+shareholders of the Companymay no longer be in control of the
+Company. In addition, that the officer and director of the Company
+may, as part of the termsof the business combination, resign and be
+replaced by one or more new officers and directors.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+<b>Results of Operations</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+As of March 31, 2018, the Companyhad not generated revenues and had
+no income or cash flows from operations since inception. The
+Company had sustained net lossof $7,859 for the three months ended
+March 31, 2018 and has an accumulated deficit of $17,171 and $9,312
+as of March 31, 2018<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">and
+December 31, 2017, respectively<font style=
+"background-color: white">.</font></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+<font style="font: 10pt Times New Roman, Times, Serif"><font style=
+"background-color: white">&nbsp;</font></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+<b>Liquidity and Capital Resources</b></p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">At
+March 31, 2018 and December 31, 2017, cash and cash equivalentswere
+$0. Our working capital deficit increased by $6,859 to a deficit of
+$13,859 at March 31, 2018 from&nbsp;$7,000 at December31, 2017.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+The Company used $13,514 in operatingactivities for the three
+months ended March 31, 2018.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+The Company received $13,514 from financingactivities for the three
+months ended March 31, 2018. The money received were fees paid by a
+shareholder on behalf of the Companyfor operating expenses purposes
+for the three months ended March 31, 2018. The payable is interest
+free, with no collateral, anddue on demand.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+The Company’s independent auditors have issued a reportraising
+substantial doubt about the Company’s ability to continue as a
+going concern. At present, the Company has no operationsand the
+continuation of the Company as a going concern is dependent upon
+financial support from its stockholders, its ability toobtain
+necessary equity financing to continue operations and/or to
+successfully locate and negotiate with a business entity forthe
+combination of that target company with the Company.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+On January 8, 2018, the Company changed its name to BillionHolding
+Inc. On February 7, 2018, Ming Shang Chan was named President,
+Secretary and Chief Financial Officer of the Company.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<!-- Field: Page; Sequence: 10 -->
+<div style="margin-bottom: 6pt; border-bottom: Black 1pt solid">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td style="text-align: center; width: 100%">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo --><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">8</font><!-- Field: /Sequence -->&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style="page-break-before: always; margin-top: 6pt">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td style="text-align: center; width: 100%">&nbsp;</td>
+</tr>
+</table>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+USE OF ESTIMATES</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">The
+preparation of unaudited financial statements in conformitywith
+GAAP requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities anddisclosure
+of contingent assets and liabilities at the date of the condensed
+financial statements, and the reported amounts ofrevenues and
+expenses during the reporting periods. Actual results could differ
+from those estimates.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+CASH AND CASH EQUIVALENTS</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">Cash
+and cash equivalents include cash on hand and on depositat banking
+institutions as well as all highly liquid short-term investments
+with original maturities of 90 days or less. Cash andcash
+equivalents amounted to $0 and $0 as of March 31, 2018 and December
+31, 2017, respectively.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+CONCENTRATION OF RISK</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+Financial instruments that potentially subject the Companyto
+concentrations of credit risk consist principally of cash. The
+Company did not have bank account as of March 31, 2018 and
+December31, 2017. Cash on hand amounted to $0 and $0 as of March
+31, 2018 and December 31, 2017.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+INCOME TAXES</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">Under
+ASC 740, “Income Taxes,” deferred tax assetsand liabilities are
+recognized for the future tax consequences attributable to
+temporary differences between the financial statementcarrying
+amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measuredusing
+enacted tax rates expected to apply to taxable income in the years
+in which those temporary differences are expected to berecovered or
+settled. Valuation allowances are established when it is more
+likely than not that some or all of the deferred taxassets will not
+be realized. As of March 31, 2018 and December 31, 2017, there were
+no deferred taxes due to the uncertainty ofthe realization of net
+operating loss or carry forward prior to expiration.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+LOSS PER COMMON SHARE</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">Basic
+loss per common share excludes dilution and is computedby dividing
+net loss by the weighted average number of common shares
+outstanding during the period. Diluted loss per common sharereflect
+the potential dilution that could occur if securities or other
+contracts to issue common stock were exercised or convertedinto
+common stock or resulted in the issuance of common stock that then
+shared in the loss of the entity. As of March 31, 2018and December
+31, 2017, there are no outstanding dilutive securities.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+FAIR VALUE OF FINANCIAL INSTRUMENTS</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">The
+Company follows guidance for accounting for fair valuemeasurements
+of financial assets and financial liabilities and for fair value
+measurements of nonfinancial items that are recognizedor disclosed
+at fair value in the unaudited financial statements on a recurring
+basis. Additionally, the Company adopted guidancefor fair value
+measurement related to nonfinancial items that are recognized and
+disclosed at fair value in the unaudited financialstatements on a
+nonrecurring basis. The guidance establishes a fair value hierarchy
+that prioritizes the inputs to valuation techniquesused to measure
+fair value.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">The
+hierarchy gives the highest priority to unadjusted quotedprices in
+active markets for identical assets or liabilities (Level 1
+measurements) and the lowest priority to measurements
+involvingsignificant unobservable inputs (Level 3 measurements).
+The three levels of the fair value hierarchy are as
+follows:&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%">
+<tr style="vertical-align: top">
+<td style="width: 3%; line-height: 107%">&nbsp;</td>
+<td style="width: 97%; line-height: 107%"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Level
+1 inputs are quoted prices (unadjusted) in active markets for
+identical assets or liabilities that the Company has the ability to
+access at the measurement date.</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="line-height: 107%">&nbsp;</td>
+<td style="line-height: 107%"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Level
+2 inputs are inputs other than quoted prices included within Level
+1 that are observable for the asset or liability, either directly
+or indirectly.</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="line-height: 107%">&nbsp;</td>
+<td style="line-height: 107%"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Level
+3 inputs are unobservable inputs for the asset or liability. The
+carrying amounts of financial assets such as cash approximate their
+fair values because of the short maturity of these
+instruments.</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<!-- Field: Page; Sequence: 11 -->
+<div style="margin-bottom: 6pt; border-bottom: Black 1pt solid">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td style="text-align: center; width: 100%">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo --><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">9</font><!-- Field: /Sequence -->&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style="page-break-before: always; margin-top: 6pt">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td style="text-align: center; width: 100%">&nbsp;</td>
+</tr>
+</table>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+RECENT ACCOUNTING PRONOUNCEMENTS</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">In May
+2014, the FASB issued ASU No. 2014-09, “Revenuefrom Contracts with
+Customers (Topic 606)” (“ASU 2014-09”). ASU 2014-09 requires an
+entity to recognize the amountof revenue to which it expects to be
+entitled for the transfer of promised goods or services to
+customers. ASU 2014-09 will replacemost existing revenue
+recognition guidance in U.S. GAAP when it becomes effective and
+permits the use of either the retrospectiveor cumulative effect
+transition method. The guidance also requires additional disclosure
+about the nature, amount, timing and uncertaintyof revenue and cash
+flows arising from customer contracts. In August 2015, the FASB
+issued ASU No. 2015-14, “Deferral ofthe Effective Date” (“ASU
+2015-14”), which defers the effective date for ASU 2014-09 by one
+year. For publicentities, the guidance in ASU 2014-09 will be
+effective for annual reporting periods beginning after December 15,
+2017 (includinginterim reporting periods within those periods), and
+for all other entities, ASU 2014-09 will be effective for annual
+reportingperiods beginning after December 15, 2018, and interim
+reporting periods within annual reporting periods beginning after
+December15, 2019. In March 2016, the FASB issued ASU No. 2016-08, 
+“Principal versus Agent Considerations (Reporting Revenue
+versusNet)” (“ASU 2016-08”), which clarifies the implementation
+guidance on principal versus agent considerations inthe new revenue
+recognition standard. In April 2016, the FASB issued ASU No.
+2016-10, “Identifying Performance Obligationsand Licensing” (“ASU
+2016-10”), which reduces the complexity when applying the guidance
+for identifying performanceobligations and improves the operability
+and understandability of the license implementation guidance. In
+May 2016, the FASB issuedASU No. 2016-12 “Narrow-Scope Improvements
+and Practical Expedients” (“ASU 2016-12”), which amends theguidance
+on transition, collectability, noncash consideration and the
+presentation of sales and other similar taxes. Preliminarily,the
+Company plans to adopt Topic 606 using the retrospective transition
+method, and is continuing to evaluate the impact its
+pendingadoption of Topic 606 will have on its financial statements.
+The Company believes that its current revenue recognition
+policiesare generally consistent with the new revenue recognition
+standards set forth in ASU 2014-09. Potential adjustments to input
+measuresare not expected to be pervasive to the majority of the
+Company’s contracts</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">In
+February 2016, the FASB issued ASU No. 2016-02, “Leases(Topic 842)”
+, to increase the transparency and comparability about leases among
+entities. The new guidance requires lesseesto recognize a lease
+liability and a corresponding lease asset for virtually all lease
+contracts. It also requires additional disclosuresabout leasing
+arrangements. ASU 2016-02 is effective for interim and annual
+periods beginning after December 15, 2018, and requiresa modified
+retrospective approach to adoption. Early adoption is permitted.
+The Company does not expect that the adoption of thisguidance will
+have a material impact on its financial statements.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">In
+October 2016, the FASB issued ASU 2016-16, “IncomeTaxes (Topic
+740): Intra-Entity Transfer of Assets Other than Inventory”, which
+requires the recognition of the income taxconsequences of an
+intra-entity transfer of an asset, other than inventory, when the
+transfer occurs. ASU 2016-06 will be effectivefor the Company in
+its first quarter of 2019. The Company does not expect that the
+adoption of this guidance will have a materialimpact on its
+financial statements.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">In
+January 2017, the FASB issued ASU No. 2017-01, 
+“BusinessCombinations (Topic 805): Clarifying the Definition of a
+Business”. The amendments in this ASU clarify the definition ofa
+business with the objective of adding guidance to assist entities
+with evaluating whether transactions should be accounted foras
+acquisitions (or disposals) of assets or businesses. Basically
+these amendments provide a screen to determine when a set isnot a
+business. If the screen is not met, the amendments in this ASU
+first, require that to be considered a business, a set mustinclude,
+at a minimum, an input and a substantive process that together
+significantly contribute to the ability to create outputand second,
+remove the evaluation of whether a market participant could replace
+missing elements. These amendments take effectfor public businesses
+for fiscal years beginning after December 15, 2017 and interim
+periods within those periods, and all otherentities should apply
+these amendments for fiscal years beginning after December 15,
+2018, and interim periods within annual periodsbeginning after
+December 15, 2019. The Company does not expect that the adoption of
+this guidance will have a material impact onits financial
+statements.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">In
+September 2017, the FASB issued ASU 2017-13, Revenue fromContracts
+with Customers (Topic 606) and Leases (Topic 842). The main
+objective of this pronouncement is to clarify the effectivedate of
+the adoption of ASC Topic 606 and ASC Topic 842 and the definition
+of public business entity as stipulated in ASU 2014-09and ASU
+2016-02. ASU 2014-09 provides that a public business entity and
+certain other specified entities adopt ASC Topic 606 forannual
+reporting periods beginning after December 15, 2017, including
+interim reporting periods within that reporting period. Allother
+entities are required to adopt ASC Topic 606 for annual reporting
+periods beginning after December 15, 2018, and interimreporting
+periods within annual reporting periods beginning after December
+15, 2019. ASU 2016-12 requires that “a publicbusiness entity and
+certain other specified entities adopt ASC Topic 842 for fiscal
+years beginning after December 15, 2018, andinterim periods within
+those fiscal years. All other entities are required to adopt ASC
+Topic 842 for fiscal years beginning afterDecember 15, 2019, and
+interim periods within fiscal years beginning after December 15,
+2020”. ASU 2017-13 clarifies thatthe SEC would not object to
+certain public business entities electing to use the non-public
+business entities effective dates forapplying ASC 606 and ASC 842.
+ASU 2017-13, however, limits such election to certain public
+business entities that “otherwisewould not meet the definition of a
+public business entity except for a requirement to include or
+inclusion of its financial statementsor financial information in
+another entity’s filings with the SEC”. The Company expects that
+the adoption of this ASUwould not have a material impact on its
+financial statements.</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+SUBSEQUENT EVENT</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0; text-align: justify">
+None</p>
+<p style=
+"font: 10pt/normal Times New Roman, Times, Serif; margin: 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<!-- Field: Page; Sequence: 12 -->
+<div style="margin-bottom: 6pt; border-bottom: Black 1pt solid">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td style="text-align: center; width: 100%"><font style=
+"font-size: 10pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->10
+<!-- Field: /Sequence -->&nbsp;</font></td>
+</tr>
+</table>
+</div>
+<div style="page-break-before: always; margin-top: 6pt">
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tr>
+<td style="text-align: center; width: 100%">&nbsp;</td>
+</tr>
+</table>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 3. Quantitative and Qualitative Disclosures About
+MarketRisk.</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Information not required to be filed by Smaller reporting
+companies.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 4. Controls and Procedures.</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Disclosures and Procedures</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Pursuant to Rules adopted by the Securities and Exchange
+Commission,the Company carried out an evaluation of the
+effectiveness of the design and operation of its disclosure
+controls and procedurespursuant to Exchange Act Rules. This
+evaluation was done as of the end of the period covered by this
+report under the supervisionand with the participation of the
+Company's principal executive officer (who is also the principal
+financial officer).</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Based upon that evaluation, he believes that the Company's
+disclosurecontrols and procedures are effective in gathering,
+analyzing and disclosing information needed to ensure that the
+informationrequired to be disclosed by the Company in its periodic
+reports is recorded, processed, summarized and reported, within the
+timeperiods specified in the Commission's rules and forms.
+Disclosure controls and procedures include, without limitation,
+controlsand procedures designed to ensure that information required
+to be disclosed by an issuer in the reports that it files or
+submitsunder the Act is accumulated and communicated to the
+issuer's management, including its principal executive and
+principal financialofficers, or persons performing similar
+functions, as appropriate to allow timely decisions regarding
+required disclosure.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+This Quarterly Report does not include an attestation reportof the
+Company's registered public accounting firm regarding internal
+control over financial reporting. Management's report wasnot
+subject to attestation by the Company's registered public
+accounting firm pursuant to temporary rules of the Securities
+andExchange Commission that permit the Company to provide only
+management's report in this Quarterly Report.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Changes in Internal Controls</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+There was no change in the Company's internal control over
+financialreporting that was identified in connection with such
+evaluation that occurred during the period covered by this report
+that hasmaterially affected, or is reasonably likely to materially
+affect, the Company's internal control over financial
+reporting.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+</p>
+<!-- Field: Page; Sequence: 13; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->11
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>PART II -- OTHER INFORMATION</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 1. LEGAL PROCEEDINGS</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+There are no legal proceedings against the Company and the
+Companyis unaware of such proceedings contemplated against it.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Management is aware that certain current and prior blank
+checkcompanies of which Messrs. Cassidy and McKillop, the Company's
+current officers and directors, were the officers and directorshave
+received subpoenas for documents in regard to a formal
+investigation by the Securities and Exchange Commission
+requestingdocumentation regarding the share ownership of those
+companies. Management has no independent knowledge or information
+regardingthese subpoenas but believes it is part of a wider review
+by the SEC.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Management of the Company has also received subpoenas from
+theSecurities and Exchange Commission in regard to certain of the
+transactions and filings for the past five years of certain of
+itsblank check companies. Management has no independent knowledge
+or information as to the intent or purpose of such subpoenas
+butbelieves the SEC is investigating whether the change in control
+transaction is considered a sale of a security and if so whethera
+broker needs to be used to effect the transaction. Management
+disagrees strongly with any such assessment if it were to be
+sodetermined.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE
+OFPROCEEDS</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+Since May 17, 2017 (Inception), the Company has issued common
+sharespursuant to Section 4(2) of the Securities Act of 1933 at par
+as follows:</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+&nbsp;&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+</p>
+<p style="margin: 0pt 0"></p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: bottom">
+<td style="border-bottom: Black 1.5pt solid">Name</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+<td colspan="2" style=
+"text-align: center; border-bottom: Black 1.5pt solid">Number of
+Shares</td>
+<td style="padding-bottom: 1.5pt">&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="width: 88%; text-align: left">James Cassidy</td>
+<td style="width: 1%">&nbsp;</td>
+<td style="width: 1%; text-align: left">&nbsp;</td>
+<td style="width: 9%; text-align: right">10,000,000</td>
+<td style="width: 1%; text-align: left">*</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left">James McKillop</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">10,000,000</td>
+<td style="text-align: left">*</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left">
+<p style="margin: 0">Ming Sang Chan</p>
+</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">
+<p style="margin: 0">5,000,000</p>
+</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="text-align: left">
+<p style="margin: 0">Zilin Wang</p>
+</td>
+<td>&nbsp;</td>
+<td style="text-align: left">&nbsp;</td>
+<td style="text-align: right">
+<p style="margin: 0">1,000,000</p>
+</td>
+<td style="text-align: left">&nbsp;</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+* On February 7, 2018, the Company cancelled an aggregateof
+20,000,000 of the then 20,000,000 shares of outstanding stock
+valued at par per share and issued 6,000,000 of its commonstock
+pursuant to Section 4(a)(2) of the Securities Act of 1933 at par
+per share and at a discount of $600 representing 100%of the total
+outstanding 6,000,000 shares of common stock.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 3. DEFAULTS UPON SENIOR SECURITIES</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Not applicable.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY
+HOLDERS</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Not applicable.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 5. OTHER INFORMATION</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+(a) Not applicable.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+(b) Item 407(c)(3) of Regulation S-K:</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+During the quarter covered by this Report, there have not beenany
+material changes to the procedures by which security holders may
+recommend nominees to the Board of Directors.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>ITEM 6. EXHIBITS</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+(a) Exhibits</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="width: 7%; text-align: left; vertical-align: top">
+31</td>
+<td style="width: 2%">&nbsp;</td>
+<td style="width: 91%"><a href=
+"f10q0318ex31_billionhold.htm">Certification of the Chief Executive
+Officer and Chief Financial Officer pursuant to Section 302 of the
+Sarbanes-Oxley Act of 2002</a></td>
+</tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style=
+"vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="text-align: left; vertical-align: top">32</td>
+<td>&nbsp;</td>
+<td><a href="f10q0318ex32_billionhold.htm">Certification of the
+Chief Executive Officer and Chief Financial Officer pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002</a></td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<!-- Field: Page; Sequence: 14; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->12
+<!-- Field: /Sequence --></p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>SIGNATURES</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Pursuant to the requirements of the Securities Exchange Actof 1934,
+the registrant has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+<td>&nbsp;</td>
+<td colspan="2"><b>BILLION HOLDING INC.</b></td>
+</tr>
+<tr>
+<td style="width: 60%">&nbsp;</td>
+<td style="width: 4%">&nbsp;</td>
+<td style="width: 36%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>By:</td>
+<td style="border-bottom: black 1.5pt solid"><i>/s/ Ming Sang
+Chan</i></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>President and &nbsp;Chief Financial Officer</td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Dated: May 15, 2018</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">
+&nbsp;&nbsp;</p>
+<!-- Field: Page; Sequence: 15; Options: Last -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt">
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->13
+<!-- Field: /Sequence --></p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+</body>
+</html>
+

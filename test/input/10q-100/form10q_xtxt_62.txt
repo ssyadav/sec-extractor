@@ -1,0 +1,3599 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>ccaa_10q.htm</title>
+<!--Document Created by EDGARMaster-->
+</head>
+<body spellcheck="true" style=
+"text-align:justify;font:10pt TIMES NEW ROMAN;margin:0px 7%">
+<table style="FONT-SIZE: 1px" cellspacing="0" cellpadding="0"
+width="100%" border="0">
+<tr>
+<td>
+<div style=
+"HEIGHT: 4px; WIDTH: 100%; BACKGROUND: #000000; MARGIN: 0px 0px 2px"
+name="hrule"></div>
+<div style="HEIGHT: 2px; WIDTH: 100%; BACKGROUND: #000000" name=
+"hrule"></div>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px"><b><font size="3">&nbsp;</font></b></p>
+<p style="MARGIN: 0px" align="center"><b><font size="3">U.S.
+SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p style="MARGIN: 0px" align="center"><b><font size="3">Washington,
+D.C. 20549</font></b></p>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><font size="5"><b>FORM
+10-Q</b></font></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center">(Mark One)</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"><b><font style=
+"FONT-FAMILY: Wingdings">x</font> QUARTERLY REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b>FOR THE QUARTERLY PERIOD
+ENDED MARCH 31, 2018</b></p>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b>OR</b></p>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<p style="MARGIN: 0px"><b><font style=
+"FONT-FAMILY: Wingdings">¨</font> TRANSITION REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b>FOR THE TRANSITION PERIOD
+FROM ______________ TO ______________</b></p>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b>COMMISSION FILE NUMBER:
+000-15109</b></p>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"></p>
+<table style="TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="60%" align="center" border=
+"0">
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid" valign="top">
+<p align="center"><font size="5"><b>CALA CORPORATION</b></font></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">(Exact Name of Company as Specified in Its
+Charter)</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<table style="TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="85%" align="center" border=
+"0">
+<tr height="15">
+<td style="BORDER-BOTTOM: black 1px solid" width="45%">
+<p style="MARGIN: 0px" align="center"><b>Oklahoma</b></p>
+</td>
+<td width="10%">
+<p style="MARGIN: 0px"><b>&nbsp;</b></p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" width="45%">
+<p style="MARGIN: 0px" align="center"><b>73-1251800</b></p>
+</td>
+</tr>
+<tr height="15">
+<td>
+<p style="MARGIN: 0px" align="center">(State or Other Jurisdiction
+of Incorporation)</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px" align="center">(I.R.S. Employer or
+Organization Identification No.)</p>
+</td>
+</tr>
+<tr height="15">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr height="15">
+<td style="BORDER-BOTTOM: black 1px solid">
+<p style="MARGIN: 0px" align="center"><b>701 N. Post Oak Rd. #615,
+Houston, TX 77024</b></p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid">
+<p style="MARGIN: 0px" align="center"><b>(713) 380-5147</b></p>
+</td>
+</tr>
+<tr height="15">
+<td>
+<p style="MARGIN: 0px" align="center">(Address of Principal
+Executive Offices.)</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px" align="center">(Company’s Telephone
+Number)</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px">Indicate by check mark whether the Company
+(1) has filed all reports required to be filed by Section 13 or
+15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the Company was required
+to file such reports), and (2) been subject to such filing
+requirements for the past 90 days. Yes&nbsp;<font style=
+"FONT-FAMILY: Wingdings">x</font> No <font style=
+"FONT-FAMILY: Wingdings">¨</font></p>
+<p style="MARGIN: 0px; TEXT-INDENT: 0.3in" align="justify">
+&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">Indicate by check mark
+whether the registrant has submitted electronically and posted on
+its corporate Web site, if any, every Interactive Data File
+required to be submitted and posted pursuant to Rule 405 of
+Regulation S-T (§232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required
+to submit and post such files). Yes <font face="Wingdings">x</font>
+No <font face="Wingdings"><font style=
+"FONT-FAMILY: Wingdings">¨</font></font></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px">Indicate by check mark whether the Company
+is a large accelerated filer, an accelerated file, non-accelerated
+filer, or a smaller reporting company.</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<table style="TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="85%" align="center" border=
+"0">
+<tr height="15">
+<td valign="top" width="30%">
+<p style="MARGIN: 0px">Large accelerated filer</p>
+</td>
+<td width="20%">
+<p style="MARGIN: 0px"><font style=
+"FONT-FAMILY: Wingdings">¨</font></p>
+</td>
+<td valign="top" width="30%">
+<p style="MARGIN: 0px">Accelerated filed</p>
+</td>
+<td width="20%">
+<p style="MARGIN: 0px"><font style=
+"FONT-FAMILY: Wingdings">¨</font></p>
+</td>
+</tr>
+<tr height="15">
+<td>
+<p style="MARGIN: 0px">Non-accelerated filer</p>
+</td>
+<td>
+<p style="MARGIN: 0px"><font style=
+"FONT-FAMILY: Wingdings">¨</font></p>
+</td>
+<td>
+<p style="MARGIN: 0px">Smaller reporting company</p>
+</td>
+<td>
+<p style="MARGIN: 0px"><font style=
+"FONT-FAMILY: Wingdings">x</font></p>
+</td>
+</tr>
+<tr height="15">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">Emerging growth company</p>
+</td>
+<td>
+<p style="MARGIN: 0px"><font style=
+"FONT-FAMILY: Wingdings">¨</font></p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px">If an emerging growth company, indicate by
+check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the
+Exchange Act. <font style="FONT-FAMILY: Wingdings">¨</font></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px">Indicate by check mark whether the Company
+is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes&nbsp;<font style="FONT-FAMILY: Wingdings">x</font> No
+<font style="FONT-FAMILY: Wingdings">¨</font></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px">As of May 15, 2018, the Company had
+334,866,147 shares of common stock issued and outstanding.</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px">Transitional Small Business Disclosure
+Format (check one): Yes <font style=
+"FONT-FAMILY: Wingdings">¨</font> No <font style=
+"FONT-FAMILY: Wingdings">x</font></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table style="FONT-SIZE: 1px" cellspacing="0" cellpadding="0"
+width="100%" border="0">
+<tr>
+<td>
+<div style=
+"HEIGHT: 2px; WIDTH: 100%; BACKGROUND: #000000; MARGIN: 0px 0px 2px"
+name="hrule"></div>
+<div style="HEIGHT: 4px; WIDTH: 100%; BACKGROUND: #000000" name=
+"hrule"></div>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px"></p>
+<table class="pagebreak" style="FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b><a name="Toc" id=
+"Toc">TABLE OF CONTENTS</a></b></p>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<table style=
+"WIDTH: 100%; TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="100%" border="0">
+<tr>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" colspan="2" align="center">
+<p style="MARGIN: 0px" align="center"><b>Page</b></p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p style="MARGIN: 0px"><b>PART I: FINANCIAL INFORMATION</b></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" colspan="2" align=
+"right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" colspan="2" align=
+"right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Item 1. Financial Statements</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right"></td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px"><a href="#BS">Balance Sheets as
+at March 31, 2018 (unaudited) and December 31, 2017</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">3</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px"><a href="#SO">Statements of
+Operations for the three months ending March 31, 2018 and 2017
+(unaudited)</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">4</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px"><a href="#CF">Statements of
+Cash Flows for the three months ended March 31, 2018 and 2017
+(unaudited)</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">5</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px"><a href="#Notes">Notes to
+Financial Statements (unaudited)</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">6</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="#Item2">Item 2. Management’s
+Discussion and Analysis of Financial Condition and Results of
+Operations</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">8</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="#Item3">Item 3. Quantitative and
+Qualitative Disclosures About Market Risk</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">10</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="#Item4">Item 4. Controls and
+Procedures</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">10</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px"><b><a href="#P2">PART II: OTHER
+INFORMATION</a></b></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href=
+"#ITEM%201:%20LEGAL%20PROCEEDINGS">Item 1. Legal
+Proceedings</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">11</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="#ITEM%201A:%20RISK%20FACTORS">Item
+1A. Risk Factors</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">12</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href=
+"#ITEM%202:%20SALES%20OF%20EQUITY%20SECURITIES%20AND%20USE%20OF%20PROCEEDS">
+Item 2. Unregistered Sales of Equity Securities and Use of
+Proceeds</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">12</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href=
+"#ITEM%203:%20DEFAULTS%20UPON%20SENIOR%20SECURITIES">Item 3.
+Defaults upon Senior Securities</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">12</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href=
+"#ITEM%204:%20MINE%20SAFETY%20DISCLOSURE.">Item 4. Mine Safety
+Disclosure</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">12</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href=
+"#ITEM%205:%20OTHER%20INFORMATION.">Item 5. Other
+Information</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">12</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="#ITEM%206:%20EXHIBITS:">Item 6.
+Exhibits</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">12</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="#SIGNATURE">Signatures</a></p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">14</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table id="pagebreakb8d315e6-3c71-4bf6-b732-ad799ce87443" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+2</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b><a name="BS" id="BS">CALA
+CORPORATION&nbsp;</a></b></p>
+<p style="MARGIN: 0px" align="center"><b>BALANCE SHEETS</b></p>
+<p style="MARGIN: 0px" align="center"><b>(Unaudited)</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<table style=
+"WIDTH: 100%; TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="100%" border="0">
+<tr>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" colspan="2" align="center">
+<p style="MARGIN: 0px" align="center"><b>March 31,</b></p>
+<p style="MARGIN: 0px" align="center"><b>2018</b></p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid; MARGIN: 0px"
+valign="bottom" width="9%" colspan="2" align="center">
+<p style="MARGIN: 0px" align="center"><b>December 31,</b></p>
+<p style="MARGIN: 0px" align="center"><b>2017</b></p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" colspan="2" align=
+"right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" colspan="2" align=
+"right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="9">
+<p style="MARGIN: 0px" align="center"><b>ASSETS</b></p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Cash held in trust</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">487</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">987</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Current assets</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">487</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">987</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Total assets</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">487</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">987</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top" colspan="9">
+<p style="MARGIN: 0px" align="center"><b>LIABILITIES AND
+STOCKHOLDERS' DEFICIT</b></p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Current liabilities</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Accounts payable and accrued expenses</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+165,067</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+156,183</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Due to related party</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+188,480</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+185,254</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Accrued officer salary</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+2,908,600</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+2,833,600</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Taxes payable</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+11,599</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+11,599</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Notes payable</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+60,000</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+60,000</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Contingent liabilities</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">321,667</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">321,667</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Total current liabilities</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">3,655,413</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">3,568,303</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Total liabilities</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+3,655,413</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+3,568,303</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Stockholders' deficit</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Common stock $0.005 par value; 400,000,000
+shares authorized Issued and outstanding: 334,866,147 shares issued
+and outstanding at March 31, 2018 and December 31, 2017,
+respectively</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+1,674,329</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+1,674,329</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Additional paid-in capital</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+11,840,859</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+11,840,859</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Accumulated deficit</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(17,169,498</td>
+<td valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(17,081,888</td>
+<td valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Treasury stock – 156,533 shares at cost,
+respectively</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">(616</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">(616</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Total stockholders' deficit</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">(3,654,926</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">(3,567,316</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Total liabilities and stockholders’
+deficit</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">487</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">987</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center">The accompanying notes are an
+integral part of these unaudited financial statements.</p>
+<p style="MARGIN: 0px" align="left">&nbsp;</p>
+<p style="MARGIN: 0px" align="left"></p>
+<table id="pagebreakae85fcef-37ee-4778-a64b-8eeb27641ef4" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+3</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b><a name="SO" id="SO">CALA
+CORPORATION</a></b></p>
+<p style="MARGIN: 0px" align="center"><b>STATEMENTS OF
+OPERATIONS</b></p>
+<p style="MARGIN: 0px" align="center"><b>For Three Months Ended
+March 31,</b></p>
+<p style="MARGIN: 0px" align="center"><b>(Unaudited)</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<table style=
+"WIDTH: 100%; TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="100%" border="0">
+<tr>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" colspan="6" align="center">
+<p style="MARGIN: 0px" align="center"><b>Three Months</b></p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px" align="center"><b>&nbsp;</b></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<p style="MARGIN: 0px" align="center"><b>&nbsp;</b></p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px" align="center"><b>&nbsp;</b></p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" colspan="2" align="center">
+<p style="MARGIN: 0px" align="center"><b>2018</b></p>
+</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom">
+<p style="MARGIN: 0px" align="center"><b>&nbsp;</b></p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px" align="center"><b>&nbsp;</b></p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" colspan="2" align="center">
+<p style="MARGIN: 0px" align="center"><b>2017</b></p>
+</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">General and administrative expense</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">82,188</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">87,833</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Total operating expenses</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">82,188</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">87,833</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Loss from operations</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(82,188</td>
+<td valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(87,833</td>
+<td valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Other expense</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Interest expense</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">(5,422</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">(4,860</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Total other income expense</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(5,422</td>
+<td valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(4,860</td>
+<td valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Net loss</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">(87,610</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">(92,693</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Earnings per share:</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">Basic and diluted net loss per common
+share</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">(0.00</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">(0.00</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">Basic and diluted weighted average number of
+common shares outstanding</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">334,866,147</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">332,415,598</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center">The accompanying notes are an
+integral part of these unaudited financial statements.</p>
+<p style="MARGIN: 0px" align="left">&nbsp;</p>
+<p style="MARGIN: 0px" align="left"></p>
+<table id="pagebreakb5d3373b-f464-4464-9e44-79c00e6ebac6" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+4</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b><a name="CF" id="CF">CALA
+CORPORATION</a></b></p>
+<p style="MARGIN: 0px" align="center"><b>STATEMENTS OF CASH
+FLOWS</b></p>
+<p style="MARGIN: 0px" align="center"><b>For Three Months Ended
+March 31,</b></p>
+<p style="MARGIN: 0px" align="center"><b>(Unaudited)</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<table style=
+"WIDTH: 100%; TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="100%" border="0">
+<tr>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" colspan="2" align="center">
+<p style="MARGIN: 0px" align="center"><b>2018</b></p>
+</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom">
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+</td>
+<td valign="bottom">
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+</td>
+<td id="hdcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" colspan="2" align="center">
+<p style="MARGIN: 0px" align="center"><b>2017</b></p>
+</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p style="MARGIN: 0px">CASH FLOWS FROM OPERATING ACTIVITIES</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" colspan="2" align=
+"right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" colspan="2" align=
+"right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Net loss</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(87,610</td>
+<td valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(92,693</td>
+<td valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Adjustments to reconcile loss
+from continuing operations to net cash used in operating
+activities:</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Changes in operating assets and
+liabilities:</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 30px">Accounts payable and accrued
+liabilities</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+12,110</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">793</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 30px">Officers salary payable</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">75,000</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">75,000</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 30px">Net cash used in operating
+activities</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">(500</td>
+<td valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+(16,900</td>
+<td valign="bottom" width="1%">)</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">CASH FLOW FROM FINANCING
+ACTIVITIES</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Common stock issued for
+cash</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">--</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="bottom" width=
+"1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 1px solid" valign=
+"bottom" width="9%" align="right">20,000</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 30px">Net cash provided by financing
+activities</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">--</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+20,000</td>
+<td style="PADDING-BOTTOM: 1px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">NET INCREASE (DECREASE) IN CASH</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">(500</td>
+<td valign="bottom" width="1%">)</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">3,100</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">CASH AT BEGINNING OF PERIOD</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">987</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">--</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px">CASH AT END OF PERIOD</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">487</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: black 3px double" valign="bottom" width=
+"1%">$</td>
+<td id="ffcell" style="BORDER-BOTTOM: black 3px double" valign=
+"bottom" width="9%" align="right">3,100</td>
+<td style="PADDING-BOTTOM: 3px" valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">SUPPLEMENTAL INFORMATION:</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Interest paid</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">--</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">--</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Taxes paid</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">--</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">--</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px">NONCASH INVESTING AND FINANCING
+ACTIVITIES:</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td valign="top">
+<p style="MARGIN: 0px 0px 0px 15px">Expenses paid by related party
+on behalf of Company</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">3,226</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" width="1%">$</td>
+<td id="ffcell" valign="bottom" width="9%" align="right">--</td>
+<td valign="bottom" width="1%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center">The accompanying notes are an
+integral part of these unaudited financial statements.</p>
+<p style="MARGIN: 0px" align="left">&nbsp;</p>
+<p style="MARGIN: 0px" align="left"></p>
+<table id="pagebreakb5b465b4-727d-498a-8e88-4a4413e42d21" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+5</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b><a name="Notes" id=
+"Notes">CALA CORPORATION</a></b></p>
+<p style="MARGIN: 0px" align="center"><b>NOTES TO FINANCIAL
+STATEMENTS</b></p>
+<p style="MARGIN: 0px" align="center"><b>March 31, 2018</b></p>
+<p style="MARGIN: 0px" align="center"><b>(Unaudited)</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"><b>NOTE 1&nbsp;- ORGANIZATION, DESCRIPTION
+OF BUSINESS AND BASIS OF PRESENTATION</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">Cala Corporation, (the 
+“Company”) was incorporated on June 13, 1985 under the laws of the
+State of Oklahoma. The Company's sole industry segment was the
+business of owning, operating, licensing and joint venturing
+restaurants. The Company discontinued this line of business on
+December 31, 2006.&nbsp;The Company intends to build an underwater
+resort but has been unable to secure the financing necessary to
+begin construction on such a facility. It is considering other
+businesses which may align with the Company’s objectives.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The accompanying unaudited
+interim financial statements have been prepared in accordance with
+generally accepted accounting principles in the United States of
+America for interim financial information and with the instructions
+to Form 10-Q and Regulation S-X. Accordingly, these unaudited
+interim financial statements do not include all of the information
+and footnotes required by generally accepted accounting principles
+for complete financial statements. In the opinion of management,
+all adjustments considered necessary for a fair presentation have
+been included and such adjustments are of a normal recurring
+nature. These financial statements should be read in conjunction
+with the financial statements for the year ended December 31, 2017
+and notes thereto and other pertinent information contained in our
+Form 10-K the Company has filed with the Securities and Exchange
+Commission (the “SEC”).</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The results of operations
+for the three months period ended March 31, 2018 are not
+necessarily indicative of the results for the full fiscal year
+ending December 31, 2018.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>NOTE 2 - GOING
+CONCERN</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The accompanying unaudited
+interim financial statements are prepared on a basis of accounting
+assuming that the Company is a going concern that contemplates
+realization of assets and satisfaction of liabilities in the normal
+course of business. The Company, as shown in the accompanying
+balance sheets, has limited assets and an accumulated deficit and
+working capital deficit as of March 31, 2018. The Company has not
+established any source of revenue to cover its operating costs.
+These conditions raise substantial doubt as to the Company’s
+ability to continue as a going concern. The Company’s management
+plans to engage in very limited activities without incurring any
+liabilities that must be satisfied in cash until a source of
+funding is secured. The Company will offer noncash consideration
+and seek equity lines as a means of financing its operations. If
+the Company is unable to obtain revenue-producing contracts or
+financing or if the revenue or financing it does obtain is
+insufficient to cover any operating losses it may incur, it may
+substantially curtail or terminate its operations or seek other
+business opportunities through strategic alliances, acquisitions or
+other arrangements that may dilute the interests of existing
+stockholders. The financial statements do not include any
+adjustments that might be necessary if the Company is unable to
+continue as a going concern.</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table id="pagebreakce6b658a-9198-459f-9128-d43a22ade74c" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+6</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px"><b>NOTE 3 - RELATED PARTY
+TRANSACTIONS</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">During the three months
+ending March 31, 2018, the Company accrued $75,000 for salary
+payable to an officer of the Company resulting in a balance due of
+$2,908,600 which has been accrued and not paid. As of December 31,
+2017, salary payable due to officer was $2,833,600. The balance is
+unsecured, non-interest bearing and due on demand.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">During the three month
+period ending March 31, 2018, an officer paid expenses of $3,226 on
+behalf of the Company. As of March 31, 2018 and December 31, 2017,
+the outstanding balance was $188,480 and $185,254, respectively.
+The balance is unsecured, non-interest bearing and due on
+demand.</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px">The Company maintains an office at 701 North
+Post Oak Road, Suite 615, Houston TX 77024 and the location is
+provided rent free by the CEO.</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"><b>NOTE 4 - NOTE PAYABLE</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">In January 2007, the Company
+issued a note for $60,000 bearing interest at 10% on the principal
+and accrued interest compounding monthly. As of March 31, 2018 and
+December 31, 2017, the outstanding principal balance of the note
+was $60,000 and had accrued interest of $143,537 and $138,115,
+respectively. The note, including principal and interest, is in
+default and still outstanding.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>NOTE 5 - LEGAL
+MATTERS</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">On January 20, 2009, a
+complaint was filed against the Company in the Superior Court of
+California (case # CIVWS09-0049) terminating the lease at 500
+Bollinger Canyon Way, San Roman, CA due to subleasing the premises
+without consent of the landlord. A judgment was entered giving the
+landlord possession of the premises with no monetary amount
+awarded.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">On February 18, 2009, the
+Company received a letter demanding payment on the deficiencies of
+2 notes totaling $125,000 issued by the Company. Subsequent to this
+an action was originated in the District Court of Jefferson County
+Texas (case # A-183,766). The Plaintiff contends the Company had
+not paid the principal or interest on promissory notes issued in
+2004. In 2005 the Company issued stock of 3,400,000 and 2,500,000
+shares to the plaintiff in full payment of the outstanding notes
+and interest to the plaintiff. The Company and principal
+shareholder has agreed to a judgment of $176,667 plus attorney’s
+fees of $25,000. On October 27, 2013 the judgment for cause
+$183,766 was lodged and entered by the court making the judgment
+effective as of that date.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company and its
+principal stockholder has agreed to a judgment in Harris Court
+Texas District Court (Cause# 2010-36988) with the plaintiff of the
+case to&nbsp;pay the plaintiff $115,000&nbsp;plus legal costs of
+$5,000. The settlement calls for a $50,000 payment on January 12,
+2012 plus payments of $2,000 per month thereafter. No payments have
+been made to date. As of this date the judgment has not been signed
+by the plaintiff attorney or the judge presiding over the case so
+actual liability is hard to determine.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">As of March 31, 2018, the
+Company has accrued $321,667 for the legal liabilities.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">A Desist and Refrain Order
+was issued by the State of California Department of Corporations
+against Joseph Cala and Cala Corp. on March 28, 2012 prohibiting
+Joseph Cala or Cala Corp. from selling securities in the State of
+California. This order resulted from a complaint made by an
+individual who made a loan to Cala Corp. for the office building
+purchased by the Company in Titusville, Florida. Due to the
+financial restraints of the Company at the time, and the costs
+associated with defending against the action, the Company elected
+not to fight the order and allowed the order to become final. The
+order remains in full force and effect until further order of the
+California Corporations Commissioner.</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table id="pagebreakfc6b49e7-71ae-4f2a-a06c-f1c729f2b813" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+7</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px"><b><a name="Item2" id="Item2">ITEM 2
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS</a></b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The following discussion and
+analysis of the Company’s financial condition and results of
+operations is based upon, and should be read in conjunction with,
+its unaudited financial statements and related notes included
+elsewhere in this Form 10-Q, which have been prepared in accordance
+with accounting principles generally accepted in the United
+States.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Overview</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company intends to take
+advantage of reasonable business proposals presented which
+management believes will provide the Company and its stockholders
+with a viable business opportunity and fits within the objectives
+of the Company and its business development. The board of directors
+will make the final approval in determining whether to complete any
+acquisition, and unless required by applicable law, the articles of
+incorporation or bylaws or by contract, stockholders' approval will
+not be sought.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The investigation of
+specific business opportunities and the negotiation, drafting, and
+execution of relevant agreements, disclosure documents, and other
+instruments will require substantial management time and attention
+and will require the Company to incur costs for payment of
+accountants, attorneys, and others. If a decision is made not to
+participate in or complete the acquisition of a specific business
+opportunity, the costs incurred in a related investigation will not
+be recoverable. Further, even if an agreement is reached for the
+participation in a specific business opportunity by way of
+investment or otherwise, the failure to consummate the particular
+transaction may result in the loss to the Company of all related
+costs incurred.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Results of
+Operations</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Revenues</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company reported no
+revenues for the three months ended March 31, 2018 and 2017.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>General and
+Administrative Expenses</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company incurred total
+selling, general and administrative expenses of $82,188 for the
+three months ended March 31, 2018 as compared to $87,833 for the
+three months ended March 31, 2017. The change in this expense
+category was insignificant in 2018 over 2017.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Interest Expense</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company incurred
+interest charges of $5,422 for the three months ended March 31,
+2018 and $4,860 for the same periods in 2017. The increase in
+interest is due to the interest calculation on the note plus
+accrued interest increasing the interest amount each quarter.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Net Loss</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company reported a net
+loss of $87,610 for the three months and ended March 31, 2018 as
+compared to a net loss of $92,693 for the same period ended March
+31, 2017. The losses for the three month period was primarily
+attributable to accrual of officer salaries.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Factors That May Affect
+Operating Results</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The operating results of the
+Company can vary significantly depending upon a number of factors,
+many of which are outside its control. General factors that may
+affect the Company’s operating results include:</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"></p>
+<table id="pagebreak43de22e9-c4d3-414e-9f77-07d61315fe9e" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+8</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Key Personnel</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company’s success is
+largely dependent on the personal efforts and abilities of its
+senior management. The loss of certain members of the Company’s
+senior management, including the Company’s chief executive officer,
+chief financial officer and chief technical officer, could have a
+material adverse effect on the Company’s business and
+prospects.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Operating
+Activities</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The net cash used in
+operating activities was $500 for the three months ended March 31,
+2018 compared to net cash used of $16,900 for the three months
+ended March 31, 2017. This decrease is due primarily to a lower
+loss in 2018 over 2017 as well as payments of accounts payable.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Financing
+Activities</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">Net cash provided by
+financing activities was $0 for the three month period ending March
+31, 2018 and $20,000 for the same period ending March 31, 2017.
+Cash provided was from the sale of common stock of $20,000 in
+2017.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Liquidity and Capital
+Resources</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">As of March 31, 2018, the
+Company had total current assets of $487 and total current
+liabilities of $3,655,413 resulting in net working capital deficit
+of $3,654,926. During the three months ended March 31, 2018 and
+2017, the Company incurred losses of $87,610 and $92,693,
+respectively. These factors raise substantial doubt as to the
+Company’s ability to continue as a going concern. The Company’s
+independent accountants’ audit report included in the Form 10-K for
+the year ended December 31, 2017 includes a substantial doubt
+paragraph regarding the Company’s ability to continue as a going
+concern.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The accompanying unaudited
+interim financial statements have been prepared assuming that the
+Company will continue as a going concern which contemplates the
+realization of assets and the satisfaction of liabilities in the
+normal course of business. However, the ability of the Company to
+continue as a going concern on a longer-term basis will be
+dependent upon its ability to generate sufficient cash flow from
+operations to meet its obligations on a timely basis, to retain its
+current financing, to obtain additional financing, and ultimately
+attain profitability.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">Our current cash flow will
+not be sufficient to maintain our capital requirements for the next
+twelve months. Accordingly, the Company will need to continue
+raising capital through either debt or equity instruments. The
+Company believes it will need to raise additional capital to
+continue executing the business plan. Whereas the Company has been
+successful in the past in raising capital, no assurance can be
+given that these sources of financing will continue to be available
+to us and/or that demand for our equity/debt instruments will be
+sufficient to meet our capital needs, or that financing will be
+available on terms favorable to the Company. The financial
+statements do not include any adjustments relating to the
+recoverability and classification of assets or liabilities that
+might be necessary should the Company be unable to continue as a
+going concern.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Off Balance Sheet
+Arrangements</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company does not engage
+in any off balance sheet arrangements that are reasonably likely to
+have a current or future effect on our financial condition,
+revenues, and results of operations, liquidity or capital
+expenditures.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b>Inflation</b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">We believe that inflation
+has not had a significant impact on our operations since
+inception.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"></p>
+<table id="pagebreakad2e6741-b39d-4f85-a879-26c082b6cfb7" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+9</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name="Item3" id=
+"Item3">ITEM 3: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT
+MARKET RISK</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">As a “smaller reporting
+company” as defined by Item 10 of Regulation S-K, the Company is
+not required to provide information required under this Item.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><a name="Item4" id=
+"Item4"><b>ITEM 4: CONTROLS AND PROCEDURES</b></a></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">This report includes the
+certifications of our Chief Executive Officer and Chief Financial
+Officer required by Rule 13a-14 under the Securities Exchange Act
+of 1934 (the "Exchange Act"). See Exhibits 31.1 and 31.2. This Item
+4 includes information concerning the controls and control
+evaluations referred to in those certifications.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><u>Evaluation of
+Disclosure Controls and Procedures</u></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">Disclosure controls and
+procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the
+Exchange Act) are designed to ensure that information required to
+be disclosed in reports filed or submitted under the Exchange Act
+is recorded, processed, summarized, and reported within the time
+periods specified in SEC rules and forms and that such information
+is accumulated and communicated to management, including the
+Principal Executive Officer and the Principal Financial Officer, to
+allow timely decisions regarding required disclosures.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">In connection with the
+preparation of this report, our management, under the supervision
+and with participation of our Principal Executive Officer and
+Principal Financial Officer (the “Certifying Officer”) conducted an
+evaluation of the effectiveness of the design and operation of our
+disclosure controls and procedures as of March 31, 2018. Based on
+that evaluation, our management concluded that there is a material
+weakness in our disclosure controls and procedures over financial
+reporting. The material weakness results from a lack of written
+procedures which effectively documents the proper procedures and
+descriptions of the duties of all persons involved in the
+disclosure controls of the Company. The Company hopes to implement
+plans to document the procedures and internal controls of the
+Company. A material weakness is a deficiency, or a combination of
+control deficiencies, in disclosure control over financial
+reporting such that there is a reasonable possibility that a
+material misstatement of the Company’s annual or interim financial
+statements will not be prevented or detected on a timely basis.
+This does not include an evaluation by the Company’s registered
+public accounting firm regarding the Company’s internal control
+over financial reporting.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><u>Changes in Internal
+Control over Financial Reporting</u></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">There have been no changes
+in our internal control over financial reporting identified in
+connection with the evaluation required by paragraph (d) of
+Exchange Act Rules 13a-15 or 15d-15 that occurred during the three
+months ended March 31, 2018 that have materially affected, or are
+reasonably likely to materially affect, our internal control over
+financial reporting.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">Our management believes that
+the Unaudited Financial Statements included herein present, in all
+material respects, the Company’s financial condition, results of
+operations and cash flows for the periods presented.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"></p>
+<table id="pagebreakdf873dfb-a379-4b10-83dc-799b3152480d" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+10</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name="P2" id="P2">PART
+II – OTHER INFORMATION</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name=
+"ITEM 1: LEGAL PROCEEDINGS">ITEM 1: LEGAL PROCEEDINGS</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">On January 20, 2009, a
+complaint was filed against the Company in the Superior Court of
+California (case # CIVWS09-0049) terminating the lease at 500
+Bollinger Canyon Way, San Roman, CA due to subleasing the premises
+without consent of the landlord. A judgment was entered giving the
+landlord possession of the premises with no monetary amount
+awarded.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">On February 18, 2009, the
+Company received a letter demanding payment on the deficiencies of
+2 notes totaling $125,000 issued by the Company. Subsequent to this
+an action was originated in the District Court of Jefferson County
+Texas (case # A-183,766). The Plaintiff contends the Company had
+not paid the principal or interest on promissory notes issued in
+2004. In 2005 the Company issued stock of 3,400,000 and 2,500,000
+shares to the plaintiff in full payment of the outstanding notes
+and interest to the plaintiff. The Company and principal
+shareholder has agreed to a judgment of $176,667 plus attorney’s
+fees of $25,000. On October 27, 2013 the judgment for cause
+$183,766 was lodged and entered by the court making the judgment
+effective as of that date.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">The Company and its
+principal stockholder has agreed to a judgment in Harris Court
+Texas District Court (Cause# 2010-36988) with the plaintiff of the
+case to&nbsp;pay the plaintiff $115,000&nbsp;plus legal costs of
+$5,000. The settlement calls for a $50,000 payment on January 12,
+2012 plus payments of $2,000 per month thereafter. No payments have
+been made to date. As of this date the judgment has not been signed
+by the plaintiff attorney or the judge presiding over the case so
+actual liability is hard to determine.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">As of March 31, 2018, the
+Company has accrued $321,667 for the legal liabilities.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">A Desist and Refrain Order
+was issued by the State of California Department of Corporations
+against Joseph Cala and Cala Corp. on March 28, 2012 prohibiting
+Joseph Cala or Cala Corp. from selling securities in the State of
+California. This order resulted from a complaint made by an
+individual who made a loan to Cala Corp. for the office building
+purchased by the Company in Titusville, Florida. Due to the
+financial restraints of the Company at the time, and the costs
+associated with defending against the action, the Company elected
+not to fight the order and allowed the order to become final. The
+order remains in full force and effect until further order of the
+California Corporations Commissioner.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"></p>
+<table id="pagebreakd1ed68cb-3953-4115-8329-5588564aa1ac" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+11</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name=
+"ITEM 1A: RISK FACTORS">ITEM 1A: RISK FACTORS</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">There have been no material
+changes to the Company’s risk factors as previously disclosed in
+our most recent 10-K filing for the year ending December 31,
+2017.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name=
+"ITEM 2: SALES OF EQUITY SECURITIES AND USE OF PROCEEDS">ITEM 2:
+SALES OF EQUITY SECURITIES AND USE OF PROCEEDS</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">None</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name=
+"ITEM 3: DEFAULTS UPON SENIOR SECURITIES">ITEM 3: DEFAULTS UPON
+SENIOR SECURITIES</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">In January 2007, the Company
+issued an unsecured note for $60,000 bearing interest at 10% on the
+principal and accrued interest compounding monthly. The Company
+renewed the note payable agreement in March 2008 thereby issuing a
+note for $60,000 bearing interest at 11% on the principal and
+accrued interest compounding annually. As of March 31, 2018, the
+outstanding principle balance of the note was $60,000 and had
+accrued interest of $143,537. The note including principal and
+interest is in default and still outstanding.</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name=
+"ITEM 4: MINE SAFETY DISCLOSURE.">ITEM 4: MINE SAFETY
+DISCLOSURE.</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">None</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify"><b><a name=
+"ITEM 5: OTHER INFORMATION.">ITEM 5: OTHER INFORMATION.</a></b></p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px" align="justify">None</p>
+<p style="MARGIN: 0px" align="justify">&nbsp;</p>
+<p style="MARGIN: 0px"><b><a name="ITEM 6: EXHIBITS:">ITEM 6:
+EXHIBITS:</a></b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table style="TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="100%" border="0">
+<tr height="15" bgcolor="#CCEEFF">
+<td valign="top" width="8%">
+<p style="MARGIN: 0px"><a href="ccaa_ex311.htm">31</a></p>
+</td>
+<td width="2%">
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="top">
+<p style="MARGIN: 0px"><a href="ccaa_ex311.htm">Rule
+13a-14(a)/15d-14(a) - Certification of Joseph Cala.</a></p>
+</td>
+</tr>
+<tr height="15" bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr height="15" bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="ccaa_ex32.htm">32</a></p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="top">
+<p style="MARGIN: 0px"><a href="ccaa_ex32.htm">Section 1350 -
+Certification of Joseph Cala.</a></p>
+</td>
+</tr>
+<tr height="15">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr height="15" bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">101</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">Interactive data files pursuant to Rule 405
+of Regulation S-T.</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;&nbsp;&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table id="pagebreak31c2a429-8d27-4222-82a2-1bea0b799701" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+12</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px" align="center"><b><a name="SIGNATURE" id=
+"SIGNATURE">SIGNATURE</a></b></p>
+<p style="MARGIN: 0px" align="center">&nbsp;</p>
+<p style="MARGIN: 0px">Pursuant to the requirements of Section 13
+or 15(d) of the Securities Exchange Act of 1934, the Company has
+duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.&nbsp;</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td>&nbsp;</td>
+<td colspan="2">
+<p style="MARGIN: 0px"><b>Cala Corporation</b></p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="3%">&nbsp;</td>
+<td width="35%">&nbsp;</td>
+<td width="12%">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="MARGIN: 0px">Dated: May 15, 2018</p>
+</td>
+<td>By:</td>
+<td style="BORDER-BOTTOM: black 1px solid"><em>/s/ Joseph
+Cala</em></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>Joseph Cala</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>President</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Principal Executive Officer and Chief Financial Officer</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table id="pagebreak18740ed8-966c-4b79-883a-90cd1576a41a" class=
+"pagebreak" style="FONT: 10pt TIMES NEW ROMAN" cellspacing="0"
+cellpadding="0" width="100%" border="0">
+<tr>
+<td class="hpbhr">&nbsp;</td>
+</tr>
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center">
+13</td>
+</tr>
+<tr>
+<td>
+<div style=
+"WIDTH: 100%; PAGE-BREAK-AFTER: always; LINE-HEIGHT: 0px"></div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><i><a href="#Toc">Table of Contents</a></i></td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"><b>EXHIBIT INDEX</b></p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<table style="TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cellpadding="0" width="100%" border="0">
+<tr height="15">
+<td style="BORDER-BOTTOM: black 1px solid" valign="top" width="8%">
+<p style="MARGIN: 0px"><b>Number</b></p>
+</td>
+<td width="2%">
+<p style="MARGIN: 0px"><b>&nbsp;</b></p>
+</td>
+<td style="BORDER-BOTTOM: black 1px solid" valign="top">
+<p style="MARGIN: 0px"><b>Description</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr height="15" bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="ccaa_ex311.htm">31</a></p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="top">
+<p style="MARGIN: 0px"><a href="ccaa_ex311.htm">Rule
+13a-14(a)/15d-14(a) - Certification of Joseph Cala (filed
+herewith).</a></p>
+</td>
+</tr>
+<tr height="15" bgcolor="#FFFFFF">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr height="15" bgcolor="#CCEEFF">
+<td valign="top">
+<p style="MARGIN: 0px"><a href="ccaa_ex32.htm">32</a></p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td valign="top">
+<p style="MARGIN: 0px"><a href="ccaa_ex32.htm">Section 1350
+-Certification of Joseph Cala (filed herewith).</a></p>
+</td>
+</tr>
+<tr height="15">
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr height="15" bgcolor="#CCEEFF">
+<td>
+<p style="MARGIN: 0px">101</p>
+</td>
+<td>
+<p style="MARGIN: 0px">&nbsp;</p>
+</td>
+<td>
+<p style="MARGIN: 0px">Interactive data files pursuant to Rule 405
+of Regulation S-T.</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px">&nbsp;</p>
+<p style="MARGIN: 0px"></p>
+<table style="TEXT-ALIGN: justify; FONT: 10pt TIMES NEW ROMAN"
+cellspacing="0" cols="1" cellpadding="0" width="100%" align=
+"center" border="0">
+<tr>
+<td style="BORDER-BOTTOM: black 1px solid">
+<p style="MARGIN: 0px" align="center">14</p>
+</td>
+</tr>
+</table>
+<p style="MARGIN: 0px">&nbsp;</p>
+<!--Document Created by EDGARMaster-->
+</body>
+</html>
+
