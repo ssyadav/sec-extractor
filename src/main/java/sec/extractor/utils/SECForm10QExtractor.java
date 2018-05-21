@@ -4,7 +4,9 @@
 package sec.extractor.utils;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -15,6 +17,7 @@ import org.slf4j.LoggerFactory;
 
 import sec.extractor.constant.SECConstants;
 import sec.extractor.pojo.SECItemSection;
+import sec.extractor.pojo.TitleDetails;
 
 /**
  * @author satyaveer.yadav
@@ -50,8 +53,8 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 					Element hasDivDivElement = doc.select(SECConstants.STRING_DIV).first();
 					bodyElements = hasDivDivElement.children();
 				}
-				
-				List<String> titles = extractTitles(bodyElements, sectionTitlesFileName);
+				List<TitleDetails> titles = new ArrayList<>();
+				titles.add(extractTitlesWithStdTitle(bodyElements, sectionTitlesFileName));
 				listOfItemSections = extractFromContent(bodyElements, titles);
 			}
 
@@ -78,11 +81,11 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 			// 2. create the document using xhtml.
 			Document doc = Jsoup.parse(xhtml);
 			Elements mainBodyElements = doc.select("div");
-			List<String> titles = new ArrayList<>();
+			List<TitleDetails> titles = new ArrayList<>();
 			Elements bodyElements = new Elements();
 			
 			for(Element elem : mainBodyElements){
-				titles.addAll(extractTitles(elem.children(), SECConstants.FORM_10Q_FILE_NAME));
+				titles.add(extractTitlesWithStdTitle(elem.children(), SECConstants.FORM_10Q_FILE_NAME));
 				bodyElements.addAll(elem.children());
 			}
 			// 3. iterate each title
@@ -101,12 +104,19 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 	 * @return list of section object
 	 */
 	private static List<SECItemSection> extractFromContent(Elements bodyElements,
-			List<String> titles) {
+			List<TitleDetails> titlesObj) {
 		List<SECItemSection> listOfItemSections = new ArrayList<SECItemSection>();
 		int itemPosition = 0;
 		int docElementIndex = 0;
 		SECItemSection itemSection = new SECItemSection();
 		StringBuilder sectionContent = new StringBuilder();
+		List<String> titles = new ArrayList<>();
+		Map<String, String> standardTitles = new HashMap<>();
+		
+		for (TitleDetails titleDetail : titlesObj) {
+			titles.addAll(titleDetail.getTitlesFoundInFile());
+			standardTitles.putAll(titleDetail.getStandardTitle());
+		}
 		
 		// 3. iterate each title
 		for (int titleIndex = 0; titleIndex < titles.size(); titleIndex++) {
@@ -132,10 +142,10 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 					String searchTitleFound = findMatchString(nodeText, searchTitle);
 					if (!searchTitleFound.isEmpty()) {
 						sectionContent = new StringBuilder();
-						//System.out.println(searchTitle);
+						System.out.println(searchTitle);
 						
 						//String titlePlusItemNumber[] = property.getProperty(searchTitleFound).split(SECConstants.STRING_COLON_HYFHAN);
-						itemSection.setSectionTitle(searchTitle);
+						itemSection.setSectionTitle(standardTitles.get(searchTitle));
 						String theDigits = searchTitle.replaceAll("[^0-9]", "");
 						//System.out.println(theDigits);
 						itemSection.setItemNumber(theDigits);

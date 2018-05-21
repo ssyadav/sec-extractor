@@ -34,7 +34,7 @@ public class TitleExtractorFromXhtml {
 		String xhtml = reacdInputFile(inputFile);
 		List<TitleDetails> listOfTitles = extractTitlesFromXhtml(xhtml);
 		for (TitleDetails titleDetails : listOfTitles) {
-			System.out.println(titleDetails.getTitleName() + "  ::  " + titleDetails.getStartIndex());
+			//System.out.println(titleDetails.getTitleName() + "  ::  " + titleDetails.getStartIndex());
 		}
 
 	}
@@ -77,8 +77,8 @@ public class TitleExtractorFromXhtml {
 					titleDetails = new TitleDetails();
 					int index = bodyAsString.indexOf(foundTtile, titleIndex);
 					titleIndex = titleIndex + index;
-					titleDetails.setStartIndex(index);
-					titleDetails.setTitleName(foundTtile);;
+//					titleDetails.setStartIndex(index);
+//					titleDetails.setTitleName(foundTtile);;
 					listOfTitles.add(titleDetails);
 				}
 				

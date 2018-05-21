@@ -35,7 +35,7 @@ public class Item10QProcessor {
 		LOGGER.info(" ***** FORM 10Q EXTRATION STARTED ***** ");
 		
 		//1. Read the xhtml from the file by passing the file path
-		String inputFile = localInput + "form10q_xtxt_10.txt";
+		String inputFile = localInput + "form10q_xtxt_12.txt";
 		String xhtml = readInputFile(inputFile);
 		LOGGER.info(" ***** EXTRATING ***** " + inputFile);
 		

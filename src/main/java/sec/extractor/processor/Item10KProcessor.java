@@ -34,7 +34,7 @@ public class Item10KProcessor {
 		LOGGER.info(" ***** FORM 10K EXTRATION STARTED ***** ");
 		
 		//1. Read the xhtml from the file by passing the file path
-		String inputFile = localInput + "form10K_xhtml_1.txt";
+		String inputFile = localInput + "form10K_xhtml_13.txt";
 		String xhtml = reacdInputFile(inputFile);
 		
 		//2. get the list of sec items

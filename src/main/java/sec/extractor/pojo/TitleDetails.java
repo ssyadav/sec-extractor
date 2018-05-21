@@ -3,26 +3,30 @@
  */
 package sec.extractor.pojo;
 
+import java.util.List;
+import java.util.Map;
+
 /**
  * @author satyaveer.yadav
  *
  */
 public class TitleDetails {
 
-	private String titleName;
-	private int startIndex;
+	private List<String> titlesFoundInFile;
+	private Map<String, String> standardTitle;
 	
-	public String getTitleName() {
-		return titleName;
+	public List<String> getTitlesFoundInFile() {
+		return titlesFoundInFile;
 	}
-	public void setTitleName(String titleName) {
-		this.titleName = titleName;
+	public void setTitlesFoundInFile(List<String> titlesFoundInFile) {
+		this.titlesFoundInFile = titlesFoundInFile;
 	}
-	public int getStartIndex() {
-		return startIndex;
+	public Map<String, String> getStandardTitle() {
+		return standardTitle;
 	}
-	public void setStartIndex(int startIndex) {
-		this.startIndex = startIndex;
+	public void setStandardTitle(Map<String, String> standardTitle) {
+		this.standardTitle = standardTitle;
 	}
+	
 	
 }

@@ -4,12 +4,15 @@
 package sec.extractor.utils;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import sec.extractor.constant.SECConstants;
+import sec.extractor.pojo.TitleDetails;
 
 /**
  * @author satyaveer.yadav
@@ -22,7 +25,7 @@ public class BaseSECFormExtractor {
 	 * @param bodyElements body elements
 	 * @return list of titles found in the xhtml
 	 */
-	public static List<String> extractTitles(Elements bodyElements, String propertyFileName) {
+/*	public static List<String> extractTitles(Elements bodyElements, String propertyFileName) {
 		List<String> listOfTitles = new ArrayList<>();
 		int docElementIndex = 0;
 		List<String> titles = ReadTitles.readTitlesFromPropertiy(propertyFileName);
@@ -39,6 +42,35 @@ public class BaseSECFormExtractor {
 			}
 		}
 		return listOfTitles;
+	}
+*/
+	/**
+	 * This method extracts the titles from the xhtml.
+	 * @param bodyElements body elements
+	 * @return list of titles found in the xhtml
+	 */
+	public static TitleDetails extractTitlesWithStdTitle(Elements bodyElements, String propertyFileName) {
+		TitleDetails titleDetails = new TitleDetails();
+		Map<String, String> standardTitles = new HashMap<>();
+		List<String> listOfTitles = new ArrayList<>();
+		int docElementIndex = 0;
+		List<String> titles = ReadTitles.readTitlesFromPropertiy(propertyFileName);
+		for (int elementIndex = docElementIndex; elementIndex < bodyElements.size(); elementIndex++) {
+			Element currentElement = bodyElements.get(elementIndex);
+			String currentNodeText = currentElement.text();
+			if (null != currentNodeText && !currentNodeText.equals(SECConstants.EMPTY_STRING) 
+					&& !currentNodeText.equals(SECConstants.STRING_WITH_SINGLE_SPACE)) {
+				String foundTitle = findMatchedTitleFromXhtml(currentNodeText, titles);
+				if(!foundTitle.isEmpty()) {
+					String temptitles[] = foundTitle.split(SECConstants.STRING_COLON_HYFHAN);
+					standardTitles.put(temptitles[0], temptitles[1]);
+					listOfTitles.add(temptitles[0]);
+				}
+			}
+		}
+		titleDetails.setStandardTitle(standardTitles);
+		titleDetails.setTitlesFoundInFile(listOfTitles);
+		return titleDetails;
 	}
 	
 	/**
@@ -86,7 +118,7 @@ public class BaseSECFormExtractor {
 	 * @param searchTitles titles from property file
 	 * @return if node text matches any of the title then true else false.
 	 */
-	public static String findMatchedTitleFromXhtml(String currentNodeText, List<String> searchTitles) {
+/*	public static String findMatchedTitleFromXhtml(String currentNodeText, List<String> searchTitles) {
 		String matchedString = SECConstants.EMPTY_STRING;
 		boolean isFound = false;
 		if (null != searchTitles && searchTitles.size() > 0) {
@@ -100,6 +132,39 @@ public class BaseSECFormExtractor {
 							&& !nodeText.contains("refertoitem") && !nodeText.contains("partiitem")
 							&& !nodeText.contains("partivitem")) {
 						matchedString = currentNodeText;
+						isFound = true;
+						break;
+					}
+				}
+				if (isFound) {
+					break;
+				}
+			}
+		}
+		return matchedString;
+	}
+*/	
+	
+	/**
+	 * This method compares the node text with the each search/next title.
+	 * @param nodeText data from node
+	 * @param searchTitles titles from property file
+	 * @return if node text matches any of the title then true else false.
+	 */
+	public static String findMatchedTitleFromXhtml(String currentNodeText, List<String> searchTitles) {
+		String matchedString = SECConstants.EMPTY_STRING;
+		boolean isFound = false;
+		if (null != searchTitles && searchTitles.size() > 0) {
+			String nodeText = prepareTitle(currentNodeText);
+			for (int i = 0; i < searchTitles.size(); i++) {
+				String subTitles[] = searchTitles.get(i).split(SECConstants.STRING_COLON_HYFHAN);
+				for (int j = 0; j < subTitles.length; j++) {
+					String title = prepareTitle(subTitles[j].toLowerCase());
+					if (nodeText.length() < 150 && (nodeText.equalsIgnoreCase(title) || nodeText.contains(title)) 
+							&& !nodeText.contains("seeitem") && !nodeText.contains("fromitem") 
+							&& !nodeText.contains("refertoitem") && !nodeText.contains("partiitem")
+							&& !nodeText.contains("partivitem")) {
+						matchedString =   currentNodeText + ":-" + subTitles[0];
 						isFound = true;
 						break;
 					}
