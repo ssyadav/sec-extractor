@@ -9,6 +9,7 @@ package sec.extractor.constant;
  */
 public class SECConstants {
 
+	public static final String FORM_8K_FILE_NAME = "8-k-titles.properties";
 	public static final String FORM_10Q_FILE_NAME = "10-q-titles.properties";
 	public static final String FORM_10Q_LINK_FILE_NAME = "titles-10q-href.properties";
 	
@@ -19,6 +20,7 @@ public class SECConstants {
 	public static final String STRING_COLON_HYFHAN = ":-";
 	public static final String STRING_DOT = ".";
 	public static final String STRING_END_THE_ITEM_XHTML = "SIGNATURES";
+	public static final String STRING_END_THE_ITEM_XHTML_1 = "SIGNATURE";
 	public static final String STRING_BODY = "body";
 	public static final String STRING_DIV = "div";
 	public static final String STRING_TABLE_OF_CONTENT = "tableofcontents";

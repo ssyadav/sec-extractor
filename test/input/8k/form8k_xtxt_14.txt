@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body link="blue" lang="EN-US" style=
+"text-justify-trim: punctuation" xml:lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style=
+"border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;">
+<font size="1" face="Times New Roman" style=
+"font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED
+STATES</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style=
+"font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE
+COMMISSION</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">Washington, D.C.
+20549</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style=
+"font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Times New Roman" style=
+"font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Times New Roman" style=
+"font-size:12.0pt;font-weight:bold;">PURSUANT TO SECTION&nbsp;13 OR
+15(D)&nbsp;OF THE SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Date of Report (Date of
+earliest event reported): <b>May&nbsp;22, 2018</b></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style="font-size:18.0pt;font-weight:bold;">Spirit
+AeroSystems Holdings,&nbsp;Inc.</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Exact name of
+registrant as specified in its charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">001-33160</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">20-2436320</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(State or other
+jurisdiction of<br />
+incorporation)</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Commission File
+Number)</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(IRS Employer
+Identification No.)</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">3801
+South Oliver, Wichita, Kansas 67210</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Address of principal
+executive offices) (Zip Code)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Registrant’s telephone
+number, including area code: <b>(316) 526-9000</b></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">Not
+Applicable</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Former name or former
+address if changed since last report.)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 23.1pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Check the appropriate
+box below if the Form&nbsp;8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2.
+below):</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .2in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font size="1" style=
+"font-size:3.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+Written communications pursuant to Rule&nbsp;425 under the
+Securities Act (17 CFR 230.425)</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .2in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font size="1" style=
+"font-size:3.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .2in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font size="1" style=
+"font-size:3.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+Pre-commencement communications pursuant to
+Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR
+240.14d-2(b))</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .2in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font size="1" style=
+"font-size:3.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+Pre-commencement communications pursuant to
+Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR
+240.13e-4(c))</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Indicate by check mark
+whether the registrant is an emerging growth company as defined in
+Rule&nbsp;405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule&nbsp;12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="96%"
+style="border-collapse:collapse;">
+<tr>
+<td width="48%" valign="top" style=
+"padding:0in 0in 0in 0in;width:48.28%;">
+<p align="right" style=
+"margin:0in 0in .0001pt 10.0pt;text-align:right;text-indent:-10.0pt;">
+<font size="2" face="Times New Roman" style=
+"font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="51%" valign="top" style=
+"padding:0in 0in 0in 0in;width:51.72%;">
+<p align="right" style=
+"font-size:10.0pt;margin:0in 0in .0001pt 10.0pt;text-align:right;text-indent:-10.0pt;">
+<font size="2" face="Times New Roman" style=
+"font-size:10.0pt;">Emerging growth company</font><font size="1"
+style=
+"font-size:3.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+<font face="Wingdings">o</font></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2"
+face="Times New Roman" style="font-size:10.0pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section&nbsp;13(a)&nbsp;of the Exchange Act.</font>
+<font face="Wingdings">o</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style=
+"border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;">
+<font size="1" face="Times New Roman" style=
+"font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\C902505\18-13849-3\task8908683\13849-3-ba.htm',USER='C902505',CD='May 21 20:40 2018' --><br clear="all"
+style="page-break-before:always;" />
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item
+8.01. Other Events.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2"
+face="Times New Roman" style="font-size:10.0pt;">On May&nbsp;22,
+2018, Spirit AeroSystems Holdings,&nbsp;Inc. (the “Company”) issued
+a press release announcing that Spirit AeroSystems, Inc., its
+wholly-owned subsidiary (“Spirit”), commenced an offer to purchase
+(the “Tender Offer”) for cash any and all of the $300 million
+outstanding principal amount of its 5</font><font size="1" style=
+"font-size:6.5pt;position:relative;top:-3.0pt;">1</font>/<font size="1"
+style="font-size:6.5pt;position:relative;top:1.0pt;">4</font>%
+senior notes due 2022 (CUSIP No.&nbsp;85205TAF7) (the “Notes”). The
+Tender Offer is being made upon the terms and subject to the
+conditions set forth in the Offer to Purchase dated May&nbsp;22,
+2018, and a related Letter of Transmittal and Notice of Guaranteed
+Delivery, which set forth the terms and conditions of the Tender
+Offer in full detail. Holders of Notes who validly tender their
+Notes at or prior to 5 p.m.&nbsp;New York City time on May&nbsp;29,
+2018 (the “Expiration Date”) will be eligible to receive the
+purchase price of $1,028.50 per $1,000 principal amount of Notes
+tendered. Tendering holders will also receive accrued and unpaid
+interest from the last applicable interest payment date to, but not
+including, the settlement date of the Tender Offer.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Spirit expressly
+reserves the right, in its sole discretion, subject to applicable
+law, to terminate the Tender Offer at any time prior to the
+Expiration Date. The Tender Offer is subject to the satisfaction of
+certain conditions set forth in the Offer to Purchase.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">A copy of the Company’s
+press release is attached as Exhibit&nbsp;99.1 to this Current
+Report on Form&nbsp;8-K and is incorporated into this Item 8.01 by
+reference.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item
+9.01. Financial Statements and Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">(d)&nbsp;Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="13%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:13.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;Number</font></b></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="87%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:87.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:8.0pt;font-weight:bold;">Description&nbsp;of&nbsp;Exhibit</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="13%" valign="top" style=
+"padding:0in 0in 0in 0in;width:13.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="87%" valign="top" style=
+"padding:0in 0in 0in 0in;width:87.0%;">
+<p style="margin:0in 0in .0001pt;"><a href=
+"a18-13849_3ex99d1.htm#Exhibit99_1_092331"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Press Release, dated
+May&nbsp;22, 2018.</font></a></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+2<a name="PB_2_212135_7834" id="PB_2_212135_7834"></a></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\C902505\18-13849-3\task8908683\13849-3-ba.htm',USER='C902505',CD='May 21 20:40 2018' --><br clear="all"
+style="page-break-before:always;" />
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:12.75pt;"><font size=
+"2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to
+the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="50%" colspan="3" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">SPIRIT
+AEROSYSTEMS HOLDINGS,&nbsp;INC.</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="10%" colspan="2" valign="top" style=
+"padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="39%" valign="top" style=
+"padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Date: May&nbsp;22,
+2018</font></p>
+</td>
+<td width="4%" valign="top" style=
+"padding:0in 0in 0in 0in;width:4.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">By:</font></p>
+</td>
+<td width="46%" colspan="2" valign="top" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:46.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">/s/ Sanjay
+Kapoor</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="4%" valign="top" style=
+"padding:0in 0in 0in 0in;width:4.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="6%" valign="top" style=
+"padding:0in 0in 0in 0in;width:6.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+</td>
+<td width="39%" valign="top" style=
+"padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Sanjay
+Kapoor</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="4%" valign="top" style=
+"padding:0in 0in 0in 0in;width:4.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="6%" valign="top" style=
+"padding:0in 0in 0in 0in;width:6.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+</td>
+<td width="39%" valign="top" style=
+"padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Executive Vice
+President and Chief Financial Officer</font></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+3<a name="PB_3_212324_7056" id="PB_3_212324_7056"></a></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\C902505\18-13849-3\task8908683\13849-3-ba.htm',USER='C902505',CD='May 21 20:40 2018' -->
+</body>
+</html>
+

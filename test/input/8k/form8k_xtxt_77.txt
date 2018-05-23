@@ -1,0 +1,644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>tdw-8k_20180515.htm</title>
+</head>
+<!-- NG Converter v5.0.18092.123 -->
+<body>
+<p style=
+"text-align:right;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+UNITED STATES</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+SECURITIES AND EXCHANGE COMMISSION</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Washington, D.C. 20549</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+_____________________</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+FORM 8-K</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-top:0pt;margin-bottom:0pt;text-indent:0%;color:#auto;font-size:11pt;font-family:Times New Roman;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;">
+CURRENT REPORT</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Pursuant to Section 13 or 15(d) of the</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Securities Exchange Act of 1934</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+_____________________</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Date of Report <font style="font-style:italic;">(Date of earliest
+event reported)</font> <font style="font-weight:bold;">May 15,
+2018</font></p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+TIDEWATER INC.</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:11pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">
+(Exact name of registrant as specified in its charter)</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:33%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+Delaware<br />
+<font style="font-style:italic;font-weight:normal;">(State of
+incorporation)</font></p>
+</td>
+<td valign="top" style="width:34%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+1-6311<br />
+<font style="font-style:italic;font-weight:normal;">(Commission
+File Number)</font></p>
+</td>
+<td valign="top" style="width:33%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+72-0487776<font style=
+"font-weight:normal;"><br /></font><font style=
+"font-style:italic;font-weight:normal;">(IRS Employer
+Identification No.)</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:90%;">
+<tr>
+<td valign="top" style="width:45%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+6002 Rogerdale Road, Suite 600</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+Houston, Texas<font style=
+"font-weight:normal;"><br /></font><font style=
+"font-style:italic;font-weight:normal;">(Address of principal
+executive offices)</font></p>
+</td>
+<td valign="top" style="width:45%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+77072</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-style:italic;font-size:11pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">
+(Zip Code)</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+(713) 470-5300</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:11pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">
+(Registrant's telephone number, including area code)</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+N/A</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:11pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">
+(Former name or former address, if changed since last report)</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (<font style=
+"font-style:italic;">see</font> General Instruction A.2.
+below):</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:3.85%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';">
+<font style=
+"font-size:10pt;font-family:'Times New Roman'">☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:3.85%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';">
+<font style=
+"font-size:10pt;font-family:'Times New Roman'">☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:3.85%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';">
+<font style=
+"font-size:10pt;font-family:'Times New Roman'">☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17&nbsp;CFR 240.14d-2(b))</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:3.85%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';">
+<font style=
+"font-size:10pt;font-family:'Times New Roman'">☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;letter-spacing:-0.15pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17&nbsp;CFR 240.13e-4(c))</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:3.85%;text-indent:-3.85%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17
+CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934
+(17 CFR §240.12b-2). Emerging growth company [ ]</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.<font style=
+"margin-left:18pt;">[ ]</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:3.85%;text-indent:-3.85%;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-top:12pt;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+1</p>
+<hr style="page-break-after:always;width:100%;" />
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="_AEIOULastRenderedPageBreakAEIOU2" id=
+"_AEIOULastRenderedPageBreakAEIOU2"></a><font style=
+"font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item
+7.01.&nbsp;&nbsp;Regulation FD Disclosure.</font></p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+In accordance with the safe harbor provisions of the Private
+Securities Litigation Reform Act of 1995, Tidewater Inc. (the 
+“Company”) notes that certain statements set forth in this Current
+Report on Form 8-K provide other than historical information and
+are forward looking. The actual achievement of any forecasted
+results, or the unfolding of future economic or business
+developments in a way anticipated or projected by the Company,
+involve numerous risks and uncertainties that may cause the Company’
+s actual performance to be materially different from that stated or
+implied in the forward-looking statement. Among those risks and
+uncertainties, many of which are beyond the control of the Company,
+include, without limitation, <font style="color:#000000;">the
+potential need to sell certain assets to raise additional capital;
+volatility in worldwide energy demand and oil and gas prices, and
+continuing depressed levels of oil and gas prices without a clear
+indication of if, or when, prices will recover to a level to
+support renewed offshore exploration activities; consolidation of
+our customer base; fleet additions by competitors and industry
+overcapacity; our&nbsp;views with respect to the need for and
+timing of the replenishment of our asset base, including through
+acquisitions or vessel construction; changes in decisions and
+capital spending by customers and the industry expectations in the
+energy industry for offshore exploration, field development and
+production; loss of a major customer; changing customer demands for
+vessel specifications, which may make some of our older vessels
+technologically obsolete for certain customer projects or in
+certain markets; rapid technological changes; delays and other
+problems associated with vessel&nbsp;construction and maintenance;
+uncertainty of global financial market conditions and difficulty in
+accessing credit or capital; our ability to comply with covenants
+in our indentures and other debt instruments; the continued
+availability of qualified personnel and other supplies; the
+operating risks normally incident to our lines of business,
+including the potential impact of liquidated counterparties; acts
+of terrorism and piracy; integration of acquired businesses and
+entry into new lines of business; disagreements with our joint
+venture partners; significant weather conditions; unsettled
+political conditions, war, civil unrest and governmental actions,
+such as expropriation or enforcement of customs or other laws that
+are not well developed or consistently enforced; the risks
+associated with our international operations, including local
+content, local currency or similar requirements, especially in
+higher political risk countries where we operate; interest rate and
+foreign currency fluctuations; labor changes proposed
+by&nbsp;international conventions;&nbsp;increased regulatory
+burdens and oversight;&nbsp;changes in laws governing the taxation
+of foreign source income; retention of skilled workers; enforcement
+of laws related to the environment, labor and foreign corrupt
+practices; the effects of asserted and unasserted claims and the
+extent of available insurance coverage; and the resolution of
+pending legal proceedings</font>. Readers should consider all of
+these risk factors as well as other information contained in this
+report.</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The following information is being provided under Item 7.01
+Regulation FD Disclosure in this Current Report on Form 8-K: a
+transcript from the Company’s May 15, 2018 analyst conference call
+discussing its financial results for the three months ended March
+31, 2018.&nbsp;&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The transcript is furnished as Exhibit 99.1 to this Current Report
+and is incorporated herein by reference as if fully set forth under
+this item.</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The information contained in the transcript, which was prepared by
+Thomson Reuters, is a textual representation of the Company’s
+conference call.&nbsp;&nbsp;There may be material errors, omissions
+or inaccuracies in the reporting of the contents of the conference
+call.&nbsp;&nbsp;The Company assumes no responsibility to correct
+or update the third-party transcript.&nbsp;&nbsp;Users are advised
+to review the Company’s conference call itself (which is accessible
+via the Company’s website) and the Company’s SEC filings before
+making any investment or other decisions.</p>
+<p style=
+"text-align:center;margin-top:12pt;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+2</p>
+<hr style="page-break-after:always;width:100%;" />
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="_AEIOULastRenderedPageBreakAEIOU3" id=
+"_AEIOULastRenderedPageBreakAEIOU3"></a><font style=
+"font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item
+9.01. Financial Statements and Exhibits.</font></p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(d)<font style="margin-left:22pt;">Exhibits</font></p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The following exhibit is furnished with this Form 8-K:</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:6.58%;white-space:nowrap">
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+99.1</font></p>
+</td>
+<td valign="top">
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:11pt;">
+<a href="tdw-ex991_6.htm"><font style=
+"text-decoration:underline;">Transcript from the May 15, 2018
+analyst conference call</font></a>.</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:center;margin-top:12pt;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+3</p>
+<hr style="page-break-after:always;width:100%;" />
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="_AEIOULastRenderedPageBreakAEIOU4" id=
+"_AEIOULastRenderedPageBreakAEIOU4"></a><font style=
+"font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">SIGNATURES</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<div align="right">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:40%;">
+<tr>
+<td colspan="3" valign="bottom" style="width:3%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+TIDEWATER INC.</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="width:3%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:1%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:36%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;text-align:left;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style=
+"width:3%; border-bottom:solid 0.75pt transparent;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+By:</p>
+</td>
+<td valign="bottom" style=
+"width:1%; border-bottom:solid 0.75pt transparent;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"width:36%; border-bottom:solid 0.75pt #000000;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+/s/ Quinn P. Fanning</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="width:3%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:1%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"width:36%; border-top:solid 0.75pt #000000;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Quinn P. Fanning</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="width:3%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:1%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:36%;white-space:nowrap;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Executive Vice President and Chief Financial Officer</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Date: May 21, 2018</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-top:12pt;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+4</p>
+</body>
+</html>
+

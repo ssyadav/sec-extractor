@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+<p style="margin: 0; font: 10pt Times New Roman, Times, Serif"></p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style="margin: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 14pt"><b>UNITEDSTATES</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 14pt"><b>SECURITIESAND
+EXCHANGE COMMISSION</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Washington,D.C.
+20549</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>FORM8-K</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>CURRENTREPORT</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Pursuantto
+Section 13 or 15(d) of</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>TheSecurities
+Exchange Act of 1934</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Dateof
+Report (Date of earliest event reported): May 21, 2018</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 100%; padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 14pt"><b>DELMAR
+PHARMACEUTICALS, INC.</b></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>(Exact
+name of registrant as specified in its charter)</i></font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 32%; padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1.5pt solid">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Nevada</b></font></td>
+<td style=
+"width: 2%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1.5pt">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"width: 32%; padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1.5pt solid">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>001-37823</b></font></td>
+<td style=
+"width: 2%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1.5pt">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"width: 32%; padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1.5pt solid">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>99-0360497</b></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>(State
+or other jurisdiction</i></font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>(Commission</i></font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>(IRS
+Employer</i></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>of
+incorporation)</i></font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>File
+Number)</i></font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Identification
+No.)</i></font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td nowrap="nowrap" style=
+"width: 49%; padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1.5pt solid">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Suite
+720-999 West Broadway Vancouver, British Columbia,
+Canada</b></font></td>
+<td style=
+"width: 2%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1.5pt">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"width: 49%; padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1.5pt; vertical-align: bottom; border-bottom: Black 1.5pt solid">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>V5Z
+1K5</b></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>(Address
+of principal executive offices)</i></font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>(Zip
+Code)</i></font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Registrant’
+stelephone number, including area code: <b>(604)
+629-5989</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 100%; padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Not
+Applicable</b></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: center; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>(Former
+name or former address, if changed since last
+report.)</i></font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Checkthe
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrantunder
+any of the following provisions (see General Instruction A.2.
+below):</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 3%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐</font></td>
+<td style=
+"width: 97%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+☐</td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+☐</td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicateby
+check mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (§230.405of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Emerginggrowth
+company ☐</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Ifan
+emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period forcomplying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item5.02.
+Departure of Directors or Certain Officers; Election of Directors;
+Appointment of Certain Officers; Compensatory Arrangementsof
+Certain Officers.</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">OnMay
+21, 2018, DelMar Pharmaceuticals, Inc. (the “Company”) and Saiid
+Zarrabian, the Company’s interim Presidentand Chief Executive
+Officer and a current member of the Board, entered into an
+employment agreement (the “Agreement”)pursuant to which Mr.
+Zarrabian was appointed as the Company’s President and Chief
+Executive Officer. Under the Agreement,Mr. Zarrabian will receive
+an annual base salary of $470,000 and will be eligible to receive a
+fiscal year target bonus of upto 50% of base salary (which may be
+adjusted by the Board to up to 60% of base salary based on
+overachievement of bonus targetsor other performance criteria). Any
+bonus earned for a fiscal year will be payable in cash, but the
+Board may pay up to 50% ofthe bonus, as well as any bonus in excess
+of 50% of base salary, in the form of stock options granted under
+the Company’s2017 Omnibus Equity Incentive Plan (the “Equity Plan”)
+(or any successor plan). The bonus for the Company’sfiscal year
+ending June 30, 2019 will be based on the period from the effective
+date of the Agreement (May 21, 2018) (the “EffectiveDate”) through
+June 30, 2019.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Underthe
+Agreement, Mr. Zarrabian was granted a stock option under the
+Equity Plan with respect to 836,465 shares of theCompany’s common
+stock at an exercise price of $0.9825 (the closing price of the
+Company’s common stock on theEffective Date). The option grant will
+vest and become exercisable with respect to 1/6<sup>th</sup> of the
+shares covered bythe option on the six-month anniversary of the
+Effective Date, and as to the remaining shares covered by the
+option on amonthly basis over the succeeding thirty months. The
+options will become fully vested effective immediately prior to
+theconsummation of a “Change in Control” (as defined in the
+Agreement). The Board, in its discretion, may grant Mr.Zarrabian
+additional annual stock option grants, subject to the same vesting
+schedule, with respect to 1.0% of theCompany’s then outstanding
+shares as of the date of grant, up to an aggregate of 6.0% of
+outstanding shares. To theextent possible, all options will be
+granted as “incentive stock options” under Section 422 of the
+InternalRevenue Code of 1986, as amended (the “Code”). Mr.
+Zarrabian will be provided Company-paid life insurance with adeath
+benefit of up to $2.5 million, thirty vacation days per annum, and
+benefits under plans made available to otheremployees and
+executives of the Company.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Inthe
+event of Mr. Zarrabian’s involuntary termination of employment
+without “Cause” or resignation for “GoodReason” (as such terms are
+defined in the Agreement), he will, subject to certain conditions,
+be entitled to:</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellpadding="0" cellspacing="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+</td>
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">●</font></td>
+<td style=
+"text-align: justify; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Continued
+payment of his base salary for 12 months;</font></td>
+</tr>
+</table>
+<p style=
+"margin-top: 0; margin-bottom: 0; font: 10pt Times New Roman, Times, Serif; margin-right: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellpadding="0" cellspacing="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+</td>
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+●</td>
+<td style=
+"text-align: justify; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">A
+prorated bonus for the year of termination based on performance
+through the date of termination, as well as any bonus earned for
+the year preceding the year of termination;</font></td>
+</tr>
+</table>
+<p style=
+"margin-top: 0; margin-bottom: 0; font: 10pt Times New Roman, Times, Serif; margin-right: 0; text-indent: 20pt">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellpadding="0" cellspacing="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+</td>
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+●</td>
+<td style=
+"text-align: justify; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">An
+additional six months’ of vesting credit for any outstanding
+options; and</font></td>
+</tr>
+</table>
+<p style=
+"margin-top: 0; margin-bottom: 0; font: 10pt Times New Roman, Times, Serif; margin-right: 0; text-indent: 20pt">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellpadding="0" cellspacing="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+</td>
+<td style=
+"width: 0.5in; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+●</td>
+<td style=
+"text-align: justify; padding-right: 0; padding-left: 0; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Continued
+health coverage during the severance period.</font></td>
+</tr>
+</table>
+<p style=
+"margin-top: 0; margin-bottom: 0; font: 10pt Times New Roman, Times, Serif; margin-right: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Inthe
+event that an involuntary termination as described above occurs
+during a period beginning sixty days before a definitive
+corporatetransaction agreement is entered into that would result in
+a Change in Control of the Company or within twelve months
+followinga Change in Control of the Company, the severance period
+will increase to eighteen months’ severance, Mr. Zarrabian
+willreceive 100% of his target bonus, and his options will be fully
+vested.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Thepreceding
+summary of the Agreement is qualified in its entirety by reference
+to the text of the Agreement, a copy of which isfiled as Exhibit
+10.1 to this report.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Acopy
+of the Company’s press release related to Mr. Zarrabian’s
+appointment as Chief Executive Officer of the Companyis being
+furnished as Exhibit 99.1 to this report.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item9.01.
+Exhibits.</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif; background-color: rgb(204,238,255)">
+<td style=
+"width: 8%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10.1</font></td>
+<td style=
+"width: 92%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<a href="f8k0518ex10-1_delmar.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Employment
+Agreement, dated May 21, 2018, by and between DelMar
+Pharmaceuticals, Inc. and Mr. Zarrabian.</font></a></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif; background-color: White">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif; background-color: rgb(204,238,255)">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">99.1&nbsp;&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><a href="f8k0518ex99-1_delmar.htm">
+Press release of DelMar Pharmaceuticals, Inc., dated May 22, 2018,
+reporting the appointment of Mr. Zarrabian</a>.</font></td>
+</tr>
+</table>
+<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">-
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->1
+<!-- Field: /Sequence -->-</td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">
+<font style=
+"font: 10pt Times New Roman, Times, Serif"><b>SIGNATURE</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuantto
+the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalfby
+the undersigned hereunto duly authorized.</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td colspan="2" style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>DELMAR
+PHARMACEUTICALS, INC.</b></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif; width: 60%">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif; width: 3%">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif; width: 37%">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">By:&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1.5pt solid">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>/s/
+Saiid Zarrabian</i></font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:
+Saiid Zarrabian</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+</td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: left; font: 10pt Times New Roman, Times, Serif">
+Title:&nbsp;&nbsp; <font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">President
+and Chief Executive Officer</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated:May
+22, 2018</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 3; Value: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse: collapse; width: 100%; font-size: 10pt">
+<tr style="vertical-align: top; text-align: left">
+<td style="width: 33%">&nbsp;</td>
+<td style="width: 34%; text-align: center">-
+<!-- Field: Sequence; Type: Arabic; Name: PageNo -->2
+<!-- Field: /Sequence -->-</td>
+<td style="width: 33%; text-align: right">&nbsp;</td>
+</tr>
+</table>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>EXHIBITINDEX</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif; background-color: rgb(204,238,255)">
+<td style=
+"width: 8%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10.1</font></td>
+<td style=
+"width: 92%; padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<a href="f8k0518ex10-1_delmar.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Employment
+Agreement, dated May 21, 2018, by and between DelMar
+Pharmaceuticals, Inc. and Mr. Zarrabian.</font></a></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif; background-color: White">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style=
+"vertical-align: top; font: 10pt Times New Roman, Times, Serif; background-color: rgb(204,238,255)">
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">99.1</font></td>
+<td style=
+"padding-right: 0; padding-left: 0; text-align: justify; font: 10pt Times New Roman, Times, Serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><a href="f8k0518ex99-1_delmar.htm">
+Press release of DelMar Pharmaceuticals, Inc., dated May 22, 2018,
+reporting the appointment of Mr. Zarrabian</a>.</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: -4.5pt">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">-3-</font></p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 0; margin-bottom: 0">
+<div style=
+"font-size: 1pt; border-top: Black 1.5pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+</p>
+</body>
+</html>
+

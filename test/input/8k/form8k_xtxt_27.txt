@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>Form 8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Washington, D.C. 20549</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM 8-K</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CURRENTREPORT</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Pursuant to Section&nbsp;13 or
+Section&nbsp;15(d)</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>of the Securities Exchange Act of 1934</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (Date of earliest event reported):
+May 22, 2018 (May&nbsp;21, 2018)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>BioDelivery Sciences International, Inc.</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact name of registrant as specified in its
+charter)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>Delaware</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">001-31361</font></b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">35-2089858</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center"><b>(State or other
+jurisdiction<br />
+of incorporation)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>(Commission<br />
+File Number)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(IRS Employer</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Identification No.)</b></p>
+</td>
+</tr>
+</table>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>4131 ParkLake Ave., Suite #225</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Raleigh, NC</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" ALIGN="center"><b>27612</b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center"><b>(Address of
+principal executive offices)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>(Zip Code)</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Registrant’s telephone number, including area
+code: <font STYLE="white-space:nowrap">919-582-9050</font></b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Not Applicable</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Former name or former address, if changed since
+last report)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box below if the <font STYLE=
+"white-space:nowrap">Form&nbsp;8-K</font> filing is intended to
+simultaneously satisfy the filingobligation to the registrant under
+any of the following provisions:</p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule
+<font STYLE="white-space:nowrap">14a-12</font> under the Exchange
+Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">14d-2(b)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">13e-4(c)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule <font STYLE=
+"white-space:nowrap">12b-2</font> of the Securities Exchange Act of
+1934 <font STYLE="white-space:nowrap">(§240.12b-2</font> of this
+chapter).</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="right">Emerging growth company&nbsp;&nbsp;☐</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new orrevised financial accounting standards
+provided pursuant to Section&nbsp;13(a) of the Exchange
+Act.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Item&nbsp;5.02 Departure of Directors or Certain Officers;
+Election of Directors; Appointment of CertainOfficers; Compensatory
+Arrangements of Certain Officers.</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;17, 2018, as previously announced, BioDelivery
+SciencesInternational, Inc. (the “Company”) executed agreements
+relating to the Company’s registered direct offering, issuance and
+sale (the “Offering”) of an aggregate of 5,000 shares of the
+Company’s newly designatedSeries&nbsp;B <font STYLE=
+"white-space:nowrap">Non-Voting</font> Convertible Preferred Stock.
+On May&nbsp;21, 2018, the Company closed the Offering (the “Closing”
+), which yielded net proceeds of $48.92&nbsp;million to the
+Company.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Also, as a result of and effective as of the Closing, and further
+to agreements entered into by the Company with Broadfin Healthcare
+MasterFund, Ltd., a Cayman Islands exempted company, the lead
+investor in the Offering (“Broadfin”), as described in the Company’
+s Current Report on Form <font STYLE=
+"white-space:nowrap">8-K,</font> dated May&nbsp;17, 2018 (the “May
+17<font STYLE="white-space:nowrap">8-K”),</font> Todd C. Davis,
+Peter S. Greenleaf and Kevin Kotler were each appointed to the
+Company’s board of directors (the “Board”). In addition, and also
+further to such agreements withBroadfin, as a result of and
+effective as of the Closing, Thomas W. D’Alonzo, Barry I. Feinberg,
+Samuel P. Sears, Jr. and Timothy C. Tyson have each resigned and
+retired from the Board.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Following such changes to the Board, the Board presently consists
+of seven (7)&nbsp;members, as follows:</p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+<i>Class</i><i>&nbsp;I Directors (serving until the 2018 Annual
+Meeting of Stockholders)</i>: Todd C. Davis (*) and Peter S.
+Greenleaf(*), each identified by Broadfin.</p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+<i>Class</i><i>&nbsp;II Directors (serving until the 2019 Annual
+Meeting of Stockholders)</i>:Mark A. Sirgo (Vice Chairman of the
+Board), Herm Cukier (Chief Executive Officer of the Company) and
+Kevin Kotler (the Director of Broadfin) (*).</p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+<i>Class</i><i>&nbsp;III Directors (serving until the 2020 Annual
+Meeting of Stockholders)</i>: Frank E. O’Donnell, Jr. and W.
+MarkWatson (*).</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Also on May&nbsp;21, 2018, the Board as reconstituted voted to:
+(i)&nbsp;appoint Peter S. Greenleaf as Chairman of the Boardof the
+Company and (ii)&nbsp;designate the committees of the Board in
+light of the additions and departures from the Board, as
+follows:</p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+<i>Audit Committee</i>: W. Mark Watson (Chairman of the Committee),
+Todd C. Davis and Peter S. Greenleaf.</p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+<i>Compensation Committee</i>: Todd C. Davis (Chairman of the
+Committee), Peter S. Greenleaf and Kevin Kotler.</p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+<i>Nominating and Corporate Governance Committee</i>: Kevin Kotler
+(Chairman of the Committee), W. Mark Watson and Todd C. Davis.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+(*)&nbsp;&nbsp;&nbsp;&nbsp;Independent Director.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Item&nbsp;8.01. Other Events.</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+As aresult of the Closing, the amendment to the Company’s term loan
+agreement with CRG Servicing LLC, as administrative agent for the
+lenders named therein, as described in the May&nbsp;17 <font STYLE=
+"white-space:nowrap">8-K,</font> becameeffective.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;22, 2018, the Company issued a press release announcing
+the appointment of Mr.&nbsp;Greenleaf as Chairman of theBoard and
+the composition of the new Board committees. This press release is
+attached as Exhibit&nbsp;99.1 hereto and incorporated herein by
+reference.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Item&nbsp;9.01. Financial Statements and Exhibits.</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+(d)&nbsp;&nbsp;&nbsp;&nbsp;Exhibits</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="3%"></td>
+<td WIDTH="94%"></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">99.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d573431dex991.htm">Press Release, dated
+May&nbsp;22, 2018, regarding the appointment of Peter S. Greenleaf
+as Chairman of the Board and the composition of the new Board
+committees.</a></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Cautionary Note Regarding Forward-Looking Statements</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+This Current Report on Form <font STYLE=
+"white-space:nowrap">8-K,</font> the press releases included
+herein, and any statements ofrepresentatives and partners of the
+Company related thereto contain, or may contain, among other
+things, certain “forward-looking statements” within the meaning of
+the Private Securities Litigation Reform Act of 1995. Such
+forward-lookingstatements involve significant risks and
+uncertainties. Such statements may include, without limitation,
+statements with respect to the Company’s plans, objectives,
+projections, expectations and intentions and other statements
+identified bywords such as “projects,” “may,” “will,” “could,” 
+“would,” “should,” “believes,” “expects,” “anticipates,” 
+“estimates,” “intends,”“plans,” “potential” or similar expressions.
+These statements are based upon the current beliefs and
+expectations of the Company’s management and are subject to
+significant risks and uncertainties, including those detailedin the
+Company’s filings with the Securities and Exchange Commission.
+Actual results (including, without limitation, the results of the
+Offering and the changes to the Board effected thereby) may differ
+significantly from those set forth in theforward-looking
+statements. These forward-looking statements involve certain risks
+and uncertainties that are subject to change based on various
+factors (many of which are beyond the Company’s control). The
+Company undertakes no obligation topublicly update any
+forward-looking statements, whether as a result of new information,
+future events or otherwise, except as required by applicable
+law.</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">1</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURES</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has caused this report to be signed on its
+behalf by theundersigned hereunto duly authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="45%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="44%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">May&nbsp;22, 2018</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" COLSPAN="3">BIODELIVERY SCIENCES INTERNATIONAL,
+INC.</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">By:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">
+/s/ Ernest R. De Paolantonio</p>
+</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Name:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Ernest R. De Paolantonio</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Title:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Chief Financial Officer, Secretary and
+Treasurer</td>
+</tr>
+</table>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">2</p>
+</body>
+</html>
+

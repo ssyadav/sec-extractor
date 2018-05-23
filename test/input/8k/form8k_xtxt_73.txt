@@ -1,0 +1,939 @@
+<!--HTML document created with Certent Disclosure Management 6.18.0.1--><!--Created on: 5/21/2018 4:47:51 PM-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>hnrg-form8k-05212018</title>
+</head>
+<body>
+<div style="margin-left:72pt;margin-right:72pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+UNITED STATES</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+SECURITIES AND EXCHANGE COMMISSION</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Washington,
+D.C. 20549</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+________________</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+FORM 8-K</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+CURRENT REPORT</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Pursuant to
+Section 13 or 15(d) of the</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Securities
+Exchange Act of 1934</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Date of report
+(Dat</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">e of earliest
+event reported):&nbsp;</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">May</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">21</font><font style="display: inline;font-family:Arial;font-size:10pt;">,
+201</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">8</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">&nbsp;(</font><font style="display: inline;font-family:Arial;font-size:10pt;">May</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">21</font><font style="display: inline;font-family:Arial;font-size:10pt;">,
+2018</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">)</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;"><img src="hnrg-20180521x8kg001.jpg"
+style="width: 0.9479167in; height: 0.6319444in" alt=
+"logo-sunrise.jpg" /></font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 12pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:12pt;"><img src="hnrg-20180521x8kg002.jpg"
+style="width: 0.8125in; height: 0.7936046in" alt=
+"hnrg.jpg" /></font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+HALLADOR ENERGY COMPANY</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">(Exact name of
+registrant as specified in its charter)</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<div style="width:100%">
+<table cellpadding="0" cellspacing="0" align="center" style=
+"border-collapse:collapse;width: 100.00%;CellSpacing:0;margin-left:0pt;">
+<tr style="CellSpacing:0;">
+<td valign="top" style=
+"width:38.46%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size: 1pt">
+<font style="display: inline;font-size:1pt;">﻿</font></p>
+</td>
+<td valign="top" style=
+"width:23.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style=
+"width:37.78%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style="width:38.46%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Colorado</font></p>
+</td>
+<td valign="top" style="width:23.76%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">001-34743</font></p>
+</td>
+<td valign="top" style="width:37.78%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">84-1014610</font></p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style="width:38.46%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">(State or Other
+Jurisdiction&nbsp;of Incorporation)</font></p>
+</td>
+<td valign="top" style="width:23.76%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">(Commission
+File Number)</font></p>
+</td>
+<td valign="top" style="width:37.78%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">(IRS Employer
+Identification No.)</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 1pt">
+<font style=
+"display: inline;font-family:Arial;font-size:1pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">﻿</font></p>
+<div style="width:100%">
+<table cellpadding="0" cellspacing="0" align="center" style=
+"border-collapse:collapse;width: 100.00%;CellSpacing:0;margin-left:0pt;">
+<tr style="CellSpacing:0;">
+<td valign="middle" style=
+"width:48.08%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:13.95pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style="display: inline;font-size:10pt;">﻿</font></p>
+</td>
+<td valign="middle" style=
+"width:15.66%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:13.95pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;overflow: hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+<td valign="middle" style=
+"width:36.26%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:13.95pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;overflow: hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="middle" style="width:48.08%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">1660 Lincoln
+Street, Suite 2700, Denver Colorado</font></p>
+</td>
+<td valign="middle" style="width:15.66%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 11pt">
+&nbsp;</p>
+</td>
+<td valign="middle" style="width:36.26%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">80264-2701</font></p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="middle" style="width:48.08%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">(Address of
+principal executive&nbsp;offices)</font></p>
+</td>
+<td valign="top" style="width:15.66%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 11pt">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:36.26%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">(Zip
+Code)</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">﻿</font></p>
+<div style="width:100%">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse:collapse;width: 100.00%;CellSpacing:0;margin-left:0pt;">
+<tr style="CellSpacing:0;">
+<td valign="middle" style=
+"width:100.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size: 1pt">
+<font style="display: inline;font-size:1pt;">﻿</font></p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="middle" style="width:100.00%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Registrant's
+telephon</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">e number,
+including area code:&nbsp;</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">303-839-5504</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<div style="width:100%">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse:collapse;width: 100.00%;CellSpacing:0;margin-left:0pt;">
+<tr style="CellSpacing:0;">
+<td valign="top" style=
+"width:07.78%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size: 10pt">
+<font style="display: inline;font-size:10pt;">﻿</font></p>
+</td>
+<td valign="top" style=
+"width:92.22%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style="width:07.78%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font><font style=
+"display: inline;font-size:10pt;">☐</font></p>
+</td>
+<td valign="top" style="width:92.22%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style="width:07.78%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font><font style=
+"display: inline;font-size:10pt;">☐</font></p>
+</td>
+<td valign="top" style="width:92.22%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style="width:07.78%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font><font style=
+"display: inline;font-size:10pt;">☐</font></p>
+</td>
+<td valign="top" style="width:92.22%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style="width:07.78%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font><font style=
+"display: inline;font-size:10pt;">☐</font></p>
+</td>
+<td valign="top" style="width:92.22%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin:0pt;text-align:justify;text-justify:inter-ideograph;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;color:#000000;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;text-align:justify;text-justify:inter-ideograph;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;color:#000000;font-size:10pt;">Indicate
+by check mark whether the registrant is an emerging growth company
+as defined in Rule 405 of the Securities Act of 1933 (§230.405 of
+this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).</font><font style=
+"display: inline;font-family:Calibri;font-size:10pt;">&nbsp;</font></p>
+<p style=
+"margin:0pt;text-align:justify;text-justify:inter-ideograph;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 10pt">
+<font style=
+"display: inline;font-family:Calibri;color:#000000;font-size:10pt;">
+﻿</font><font style=
+"display: inline;font-family:Calibri;font-size:10pt;">&nbsp;</font></p>
+<p style=
+"margin:0pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;color:#000000;font-size:10pt;">Emerging
+growth company&nbsp;</font><font style=
+"display: inline;font-family:Segoe UI Symbol;color:#000000;font-size:10pt;">☐</font><font style="display: inline;font-family:Calibri;font-size:10pt;">&nbsp;
+&nbsp;</font></p>
+<p style=
+"margin:0pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 10pt">
+<font style=
+"display: inline;font-family:Calibri;color:#000000;font-size:10pt;">
+﻿</font><font style=
+"display: inline;font-family:Calibri;font-size:10pt;">&nbsp;</font></p>
+<p style=
+"margin:0pt;border-top:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;color:#000000;font-size:10pt;">If
+an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.
+&nbsp;</font><font style=
+"display: inline;font-family:Segoe UI Symbol;color:#000000;font-size:10pt;">☐</font><font style="display: inline;font-family:Calibri;font-size:10pt;">&nbsp;
+&nbsp;</font></p>
+<p style=
+"margin:0pt 0pt 8pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+</p>
+<hr size="3" style="color:#999999" width="100%" align="center" />
+<p style="page-break-after:always">&nbsp;</p>
+<p style=
+"margin:0pt 0pt 8pt;font-family:Calibri;line-height:107.92%;;font-size: 10pt">
+</p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+I</font><font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">tem
+2.03</font> <font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+&nbsp;</font> <font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+Creation of a Direct Financial Obligation or an</font> <font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+Obligation under an Off-Balance</font> <font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+Sheet Arrangement of a Registrant</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">On</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Monday, May
+21</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">, 2018, we
+executed a new credit agreement w</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">ith
+PNC</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">,</font>
+<font style="display: inline;font-family:Arial;font-size:10pt;">as
+administrative agent for</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">our
+lenders</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">. The</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">$267
+million</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">credit
+agreement allows for a $</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">147</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">million</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">term
+loan</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">and a
+$1</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">20</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">million</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">revolver with a
+maturity of</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">May
+2022</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">.
+&nbsp;</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">O</font><font style="display: inline;font-family:Arial;font-size:10pt;">ur
+current debt is $</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">206</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">million. The
+credit facility is collateralized by substantially all of</font>
+<font style="display: inline;font-family:Arial;font-size:10pt;">the
+assets of Hallador Energy Company, with its restricted subsidiaries
+Sunrise Coal, LLC and Summit Terminal serving as
+guarantors.</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;font-family:Arial;font-size:10pt;">The
+interest rate on the facility ranges from LIBOR plus 3.00% to LIBOR
+plus 4.50%, depending on our leverage ratio. We expect the interest
+rate&nbsp;to be LIBOR plus 4% for the remainder of 2018.</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;font-family:Arial;font-size:10pt;">The
+maximum leverage ratio (total funded debt</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10pt;">/&nbsp;trailing
+12 months EBITDA)</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">is</font><font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10pt;">as
+follows:</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">﻿</font></p>
+<div style="width:100%">
+<table cellpadding="0" cellspacing="0" align="center" style=
+"border-collapse:collapse;line-height:100%;margin-bottom:0pt;margin-left:0pt;">
+<tr>
+<td valign="top" style=
+"border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;width:421.75pt;height:4.00pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:4.00pt;font-size: 10pt">
+<font style="display: inline;font-size:10pt;">﻿</font></p>
+</td>
+<td valign="top" style=
+"border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;width:57.05pt;height:4.00pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:4.00pt;overflow: hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:421.75pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+Fiscal Periods Ending</font></p>
+</td>
+<td valign="top" style=
+"border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:57.05pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+Ratio</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:421.75pt;background-color: #DEEAF6;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">June 30, 2018
+through March 31, 2019</font></p>
+</td>
+<td valign="top" style=
+"border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:57.05pt;background-color: #DEEAF6;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">3.75X</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:421.75pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">June 30, 2019
+and September 30, 2019</font></p>
+</td>
+<td valign="top" style=
+"border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:57.05pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">3.50X</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:421.75pt;background-color: #DEEAF6;height:7.20pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">December 31,
+2019 through September 30, 2020</font></p>
+</td>
+<td valign="top" style=
+"border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:57.05pt;background-color: #DEEAF6;height:7.20pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">3.25X</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:421.75pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">December 31,
+2020 through September 30, 2021</font></p>
+</td>
+<td valign="top" style=
+"border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:57.05pt;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">3.00X</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"border-right:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;width:421.75pt;background-color: #DEEAF6;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">December 31,
+2021 and each fiscal quarter thereafter</font></p>
+</td>
+<td valign="top" style=
+"border-left:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;width:57.05pt;background-color: #DEEAF6;padding:0pt 6.5pt">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">2.75X</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">The</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">debt service
+coverage ratio (trailing 12 months EBITDA / annual debt service)
+requires a minimum of 1.25X through the maturity of the credit
+facility.</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Sunrise entered
+into swap agreements to fix the LIBOR component of the interest
+rate</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">on 100% of the
+outstanding loan balances. We estimate the effective fixed rate to
+be approximately 6.5% over the life of the loan.</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">The</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">c</font><font style="display: inline;font-family:Arial;font-size:10pt;">redit</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">a</font><font style="display: inline;font-family:Arial;font-size:10pt;">greement
+also imposes certain other customary restrictions and covenants as
+well as certain milestones we must meet in order to draw down the
+full amount</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">, including a
+maximum annual capex of $30 million</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">.&nbsp;</font>
+<font style="display: inline;font-family:Arial;font-size:10pt;">The
+term loan requires annual amortization during the</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">four</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">years</font><font style="display: inline;font-family:Arial;font-size:10pt;">,
+beginning June 2018,</font> <font style=
+"display: inline;font-family:Arial;font-size:10pt;">at
+1</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">5</font><font style="display: inline;font-family:Arial;font-size:10pt;">%,</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">20</font><font style="display: inline;font-family:Arial;font-size:10pt;">%,</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">25</font><font style="display: inline;font-family:Arial;font-size:10pt;">%,</font>
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">25</font><font style="display: inline;font-family:Arial;font-size:10pt;">%,</font><font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10pt;">with
+a b</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">alloon</font>
+<font style="display: inline;font-family:Arial;font-size:10pt;">at
+maturity.</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;font-family:Arial;font-size:10pt;">A
+copy of the credit agreement will be filed as an exhibit to our
+Form 10-Q for the quarter ended June 30, 2018.</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+Item 9.01</font> <font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+&nbsp;</font> <font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+Exhibits</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<div style="width:100%">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse:collapse;width: 100.00%;CellSpacing:0;margin-left:0pt;">
+<tr style="CellSpacing:0;">
+<td valign="top" style=
+"width:05.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size: 10pt">
+<font style="display: inline;font-size:10pt;">﻿</font></p>
+</td>
+<td valign="top" style=
+"width:01.22%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style=
+"width:93.02%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt;">
+<p style=
+"margin:0pt;font-family:Calibri;line-height:107.92%;height:1.00pt;overflow:hidden;font-size:0pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style=
+"width:05.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">99.1</font></p>
+</td>
+<td valign="top" style=
+"width:01.22%;border-top:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">&nbsp;
+&nbsp;</font></p>
+</td>
+<td valign="top" style=
+"width:93.02%;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<a href="hnrg-20180521xex99_1.htm" style=
+"-sec-extract:exhibit"><font style=
+"display: inline;font-family:Arial;font-size:10pt;">Press Release 
+“Hallador Energy Secures New $267MM Credit Facility Through 2022”
+dated May 21, 2018</font></a></p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style=
+"width:05.76%;border-left:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+</td>
+<td valign="top" style="width:01.22%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+&nbsp;</p>
+</td>
+<td valign="top" style=
+"width:93.02%;border-right:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+&nbsp;</p>
+</td>
+</tr>
+<tr style="CellSpacing:0;">
+<td valign="top" style=
+"width:05.76%;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+</td>
+<td valign="top" style=
+"width:01.22%;border-bottom:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+&nbsp;</p>
+</td>
+<td valign="top" style=
+"width:93.02%;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+&nbsp;</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font><a name="part_1_2_2"
+id="part_1_2_2"></a></p>
+<p style=
+"margin:0pt 0pt 8pt;font-family:Calibri;line-height:107.92%;font-size: 10pt">
+</p>
+<hr size="3" style="color:#999999" width="100%" align="center" />
+<p style="page-break-after:always">&nbsp;</p>
+<p style=
+"margin:0pt 0pt 8pt;font-family:Calibri;line-height:107.92%;;font-size: 10pt">
+</p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Times New Roman;font-size:10pt;">﻿</font></p>
+<p style=
+"margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">
+SIGNATURE</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<div style="width:100%">
+<table cellpadding="0" cellspacing="0" style=
+"border-collapse:collapse;width: 100.00%;CellSpacing:0;margin-left:0pt;">
+<tr style="CellSpacing:0;">
+<td valign="top" style="width:42.00%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">Date:&nbsp;&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10pt;">May
+21</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">,
+2018</font></p>
+</td>
+<td valign="top" style="width:48.00%;padding:0pt;">
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">HALLADOR ENERGY
+COMPANY</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style="display: inline;">&nbsp;</font></p>
+<p style=
+"margin:0pt;line-height:100%;border-bottom:1pt solid #000000 ;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">By:&nbsp;&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10pt;">/s/</font><font style="display: inline;font-family:Arial;font-size:10pt;">LAWRENCE
+D. MARTIN</font></p>
+<p style=
+"margin:0pt;line-height:100%;font-family:Calibri;font-size: 10pt">
+<font style=
+"display: inline;font-family:Arial;font-size:10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10pt;">Lawrence
+D. Martin</font><font style=
+"display: inline;font-family:Arial;font-size:10pt;">,
+CFO</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin:0pt 0pt 8pt;font-family:Calibri;line-height:107.92%;font-size: 11pt">
+<font style="display: inline;">﻿</font></p>
+<p style=
+"margin:0pt 0pt 8pt;font-family:Calibri;line-height:107.92%;font-size: 11pt">
+<font style="display: inline;">﻿</font><a name="_GoBack" id=
+"_GoBack"></a></p>
+<hr size="3" style="color:#999999" width="100%" align="center" />
+</div>
+</body>
+</html>
+

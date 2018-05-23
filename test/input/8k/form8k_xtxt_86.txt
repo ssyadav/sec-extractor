@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body link="blue" lang="EN-US" style=
+"text-justify-trim:punctuation" xml:lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style=
+"border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;">
+<font size="1" face="Times New Roman" style=
+"font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED
+STATES</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style=
+"font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE
+COMMISSION</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">Washington, DC
+20549</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style=
+"margin:0in 0in .0001pt;text-align:center;">
+<hr size="1" width="25%" noshade="noshade" align="center" style=
+"color:black;" /></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style=
+"font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Times New Roman" style=
+"font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Times New Roman" style=
+"font-size:12.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or
+15(d)&nbsp;of</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Times New Roman" style="font-size:12.0pt;font-weight:bold;">The
+Securities Exchange Act of 1934</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Date of Report (Date of
+earliest event reported): <b>May&nbsp;15, 2018</b></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style=
+"margin:0in 0in .0001pt;text-align:center;">
+<hr size="1" width="25%" noshade="noshade" align="center" style=
+"color:black;" /></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Times New Roman" style=
+"font-size:18.0pt;font-weight:bold;">Biohaven Pharmaceutical
+Holding Company Ltd.</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Exact name of
+registrant as specified in its charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">British Virgin
+Islands</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">001-38080</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">Not
+applicable</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(State or other
+jurisdiction of<br />
+incorporation)</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Commission File
+Number)</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(IRS Employer<br />
+Identification No.)</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">c/o
+Biohaven Pharmaceuticals,&nbsp;Inc.</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">234
+Church Street</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">New
+Haven, Connecticut 06510</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Address of principal
+executive offices, including zip code)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">(203)
+404-0410</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Registrant’s telephone
+number, including area code)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">N/A</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">(Former name or former
+address, if changed since last report)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Check the appropriate
+box below if the Form&nbsp;8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the
+following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt 14.25pt;text-indent:-14.25pt;">
+<font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>
+Written communications pursuant to Rule&nbsp;425 under the
+Securities Act (17 CFR 230.425)</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt 14.25pt;text-indent:-14.25pt;">
+<font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>
+Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt 14.25pt;text-indent:-14.25pt;">
+<font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>
+Pre-commencement communications pursuant to
+Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR
+240.14d-2(b))</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt 14.25pt;text-indent:-14.25pt;">
+<font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>
+Pre-commencement communications pursuant to
+Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR
+240.13e-4(c))</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Indicate by check mark
+whether the registrant is an emerging growth company as defined in
+Rule&nbsp;405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule&nbsp;12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2"
+face="Times New Roman" style="font-size:10.0pt;">Emerging growth
+company</font> <font face="Wingdings">x</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2"
+face="Times New Roman" style="font-size:10.0pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section&nbsp;13(a)&nbsp;of the Exchange Act.</font>
+<font face="Wingdings">x</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style=
+"border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;">
+<font size="1" face="Times New Roman" style=
+"font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\107899\18-14007-1\task8909351\14007-1-ba.htm',USER='107899',CD='May 22 02:25 2018' --><br clear="all"
+style="page-break-before:always;" />
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item
+2.02 Results of Operations and Financial Condition.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2"
+face="Times New Roman" style="font-size:10.0pt;">On May&nbsp;15,
+2018, Biohaven Pharmaceutical Holding Company Ltd. (the 
+“<b><i style="font-weight:bold;">Registrant</i></b>”) issued a
+press release announcing its financial results for the quarter
+ended March&nbsp;31, 2018. A copy of this press release is
+furnished herewith as Exhibit&nbsp;99.1 to this Current Report and
+is incorporated herein by reference.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2"
+face="Times New Roman" style="font-size:10.0pt;">In accordance with
+General Instruction B.2. of Form&nbsp;8-K, the information in this
+Item 2.02, and Exhibit&nbsp;99.1 hereto, shall not be deemed “filed”
+ for purposes of Section&nbsp;18 of the Securities Exchange Act of
+1934, as amended (the “<b><i style="font-weight:bold;">Exchange
+Act</i></b>”), or otherwise subject to the liability of that
+section, nor shall it be deemed incorporated by reference in any of
+the Registrant’s filings under the Securities Act of 1933, as
+amended, or the Exchange Act, whether made before or after the date
+hereof, regardless of any incorporation language in such a filing,
+except as expressly set forth by specific reference in such a
+filing.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item
+9.01 Financial Statements and Exhibits.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">(d)&nbsp;Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="98%"
+style="border-collapse:collapse;margin-left:.15in;">
+<tr>
+<td width="8%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:8.16%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:8.0pt;font-weight:bold;">Exhibit<br />
+Number</font></b></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.06%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="88%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:88.78%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;Description</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="8%" valign="top" style=
+"padding:0in 0in 0in 0in;width:8.16%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.06%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="88%" valign="top" style=
+"padding:0in 0in 0in 0in;width:88.78%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Press Release, dated
+May&nbsp;15, 2018, “Biohaven Pharmaceuticals Reports First Quarter
+2018 Financial and Recent Business Results.”</font></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+2<a name="PB_2_021123_7812" id="PB_2_021123_7812"></a></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\107899\18-14007-1\task8909351\14007-1-ba.htm',USER='107899',CD='May 22 02:25 2018' --><br clear="all"
+style="page-break-before:always;" />
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">EXHIBIT&nbsp;INDEX</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="10%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:8.0pt;font-weight:bold;">Exhibit<br />
+Number</font></b></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="87%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:87.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Times New Roman" style=
+"font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;Description</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="10%" valign="top" style=
+"padding:0in 0in 0in 0in;width:10.0%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="87%" valign="top" style=
+"padding:0in 0in 0in 0in;width:87.0%;">
+<p style="margin:0in 0in .0001pt;"><a href=
+"a18-14007_1ex99d1.htm#Exhibit99_1_020653" title=
+"Click to goto "><font size="2" face="Times New Roman" style=
+"font-size:10.0pt;">Press Release, dated May&nbsp;15, 2018, 
+“Biohaven Pharmaceuticals Reports First Quarter 2018 Financial and
+Recent Business Results.”</font></a></p>
+</td>
+</tr>
+</table>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+3<a name="PB_3_021304_5335" id="PB_3_021304_5335"></a></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\107899\18-14007-1\task8909351\14007-1-ba.htm',USER='107899',CD='May 22 02:25 2018' --><br clear="all"
+style="page-break-before:always;" />
+<div style="font-family:Times New Roman;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:37.05pt;"><font size=
+"2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to
+the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="3%" valign="top" style=
+"padding:0in 0in 0in 0in;width:3.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="46%" valign="top" style=
+"padding:0in 0in 0in 0in;width:46.08%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face=
+"Times New Roman" style=
+"font-size:10.0pt;font-weight:bold;">Biohaven Pharmaceutical
+Holding Company Ltd.</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="3%" valign="top" style=
+"padding:0in 0in 0in 0in;width:3.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="46%" valign="top" style=
+"padding:0in 0in 0in 0in;width:46.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="3%" valign="top" style=
+"padding:0in 0in 0in 0in;width:3.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="46%" valign="top" style=
+"padding:0in 0in 0in 0in;width:46.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="3%" valign="top" style=
+"padding:0in 0in 0in 0in;width:3.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">By:</font></p>
+</td>
+<td width="46%" valign="top" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:46.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">/s/ Vlad Coric,
+M.D.</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Date: May&nbsp;21,
+2018</font></p>
+</td>
+<td width="3%" valign="top" style=
+"padding:0in 0in 0in 0in;width:3.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="46%" valign="top" style=
+"padding:0in 0in 0in 0in;width:46.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Vlad Coric,
+M.D.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">Chief Executive
+Officer</font></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face=
+"Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+4<a name="PB_4_021307_5796" id="PB_4_021307_5796"></a></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\107899\18-14007-1\task8909351\14007-1-ba.htm',USER='107899',CD='May 22 02:25 2018' -->
+</body>
+</html>
+

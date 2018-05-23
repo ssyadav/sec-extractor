@@ -163,7 +163,8 @@ public class BaseSECFormExtractor {
 					if (nodeText.length() < 150 && (nodeText.equalsIgnoreCase(title) || nodeText.contains(title)) 
 							&& !nodeText.contains("seeitem") && !nodeText.contains("fromitem") 
 							&& !nodeText.contains("refertoitem") && !nodeText.contains("partiitem")
-							&& !nodeText.contains("partivitem")) {
+							&& !nodeText.contains("partivitem") && !nodeText.contains("seeaccompany")
+							&& !nodeText.contains("theaccompanying") ) {
 						matchedString =   currentNodeText + ":-" + subTitles[0];
 						isFound = true;
 						break;

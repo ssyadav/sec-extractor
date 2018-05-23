@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>Form 8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Washington, D.C. 20549</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM&nbsp;8-K</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CURRENTREPORT</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Pursuant to Section&nbsp;13 or 15(d)</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>of the Securities Exchange Act of 1934</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (Date of earliest event
+reported):&nbsp;May&nbsp;22, 2018</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>Kemper Corporation</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact Name of Registrant as Specified in
+Charter)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>DE</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">001-18298</font></b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">95-4255452</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center"><b>(State or Other
+Jurisdiction<br />
+of Incorporation)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Commission</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>File Number)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>(IRS Employer<br />
+Identification No.)</b></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16" COLSPAN="3"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>One East Wacker Drive</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Chicago, IL</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" ALIGN="center"><b>60601</b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center"><b>(Address of
+Principal Executive Offices)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>(Zip Code)</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Registrant’s telephone number, including area
+<font STYLE=
+"white-space:nowrap">code:&nbsp;312-661-4600</font></b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Not Applicable</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Former Name or Former Address, if Changed Since
+Last Report)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box below if the <font STYLE=
+"white-space:nowrap">Form&nbsp;8-K</font> filing is intended to
+simultaneously satisfy the filingobligation of the registrant under
+any of the following provisions (<i>see</i> General Instruction
+A.2. below):</p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☒</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to
+<font STYLE="white-space:nowrap">Rule&nbsp;14a-12</font> under the
+Exchange Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to <font STYLE=
+"white-space:nowrap">Rule&nbsp;14d-2(b)&nbsp;under</font> the
+Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to <font STYLE=
+"white-space:nowrap">Rule&nbsp;13e-4(c)&nbsp;under</font> the
+Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule <font STYLE=
+"white-space:nowrap">12b-2</font> of the Securities Exchange Act of
+1934 <font STYLE="white-space:nowrap">(§240.12b-2</font> of this
+chapter).</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="right">Emerging growth company&nbsp;&nbsp;☐</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new orrevised financial accounting standards
+provided pursuant to Section&nbsp;13(a) of the Exchange
+Act.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="12%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;8.01</b></td>
+<td ALIGN="left" VALIGN="top"><b>Other Events.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b><i>Merger Litigation</i></b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+On February&nbsp;13, 2018, Kemper Corporation, a Delaware
+corporation (the “Company”), and Infinity Property and Casualty
+Corporation, an Ohiocorporation (“Infinity”), announced that they
+had entered into an Agreement and Plan of Merger (the “Merger
+Agreement”) by and among the Company, Vulcan Sub, Inc., an Ohio
+corporation and a wholly owned subsidiary of the Company(“Merger
+Sub”), and Infinity. The Merger Agreement provides, among other
+things, that, upon the terms and subject to the conditions set
+forth in the Merger Agreement, Merger Sub will merge with and into
+Infinity, with Infinity surviving asa wholly owned subsidiary of
+the Company (the “Merger”).</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;7, 2018, Mr.&nbsp;Jordan Rosenblatt filed a purported
+shareholder classaction lawsuit against Infinity, the individual
+members of Infinity’s Board of Directors, the Company and Merger
+Sub in the United States District Court for the Southern District
+of Ohio. The case is captioned Rosenblatt v. Infinity Propertyand
+Casualty Corp. et al., No. <font STYLE=
+"white-space:nowrap">1:18-cv-00315-MRB</font> (the “Merger
+Litigation”). The Merger Litigation alleges violations of Sections
+14(a) and 20(a) of the Securities Exchange Act of 1934 in
+connectionwith the proposed Merger and also alleges that the
+defendants’ joint proxy statement/prospectus with respect to the
+Merger, which was contained in a registration statement on Form
+<font STYLE="white-space:nowrap">S-4</font> filed on apreliminary
+basis with the Securities and Exchange Commission (the “SEC”) on
+April&nbsp;4, 2018, subsequently amended through an amendment
+thereto filed with the SEC on April&nbsp;24, 2018 and filed on a
+definitive basis with the SEC anddeclared effective by the SEC on
+April&nbsp;27, 2018 (the “Proxy Statement”), contains certain
+material omissions and false and misleading statements. On
+May&nbsp;14, 2018, Mr.&nbsp;Rosenblatt’s counsel sent a letter to
+counsel forthe defendants demanding that defendants provide
+corrective disclosures of certain information which the Merger
+Litigation alleges must be included in the Proxy Statement. The
+Merger Litigation is seeking to enjoin or rescind the
+transactionscontemplated by the Merger Agreement and requests
+attorneys’ and experts’ fees and damages in an unspecified
+amount.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The defendants believethese claims are without merit and intend to
+vigorously defend against these claims. However, in an effort to
+moot the plaintiff’s unmeritorious disclosure claims, alleviate the
+costs, risks and uncertainties inherent in litigation and
+provideadditional information to its shareholders, the defendants
+have determined to voluntarily supplement the Proxy Statement as
+described in this Current Report on Form <font STYLE=
+"white-space:nowrap">8-K.</font> Nothing in this Current Report on
+Form 8-K shall be deemed an admission of the legal necessity or
+materiality under applicable laws of any of the disclosures set
+forth herein. The defendants specifically deny all allegations in
+the Merger Litigation thatany additional disclosure was or is
+required.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+These supplemental disclosures will not affect the timing of the
+annual meeting of the Company’sshareholders scheduled for Friday,
+June&nbsp;1, 2018 at 8:00 a.m. local time. These supplemental
+disclosures will also not affect the matters to be voted upon at
+such annual meeting of the Company’s shareholders or the previously
+disclosedrecommendations thereon of the Company’s Board of
+Directors.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b><i>Supplemental Disclosures</i></b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The following disclosures supplement the disclosures contained in
+the Proxy Statement and should be read in conjunction with the
+disclosures contained in theProxy Statement, which should be read
+in its entirety. To the extent that the information set forth
+herein differs from or updates information contained in the Proxy
+Statement, the information set forth herein shall supersede or
+supplement theinformation in the Proxy Statement. All page
+references are to pages in the Proxy Statement, and terms used
+below, unless otherwise defined, have the meanings set forth in the
+Proxy Statement.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>The following disclosure replaces the first full paragraph on
+page 158 of the Proxy Statement:</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Deutsche Bank is an internationally recognized investment banking
+firm experienced in providing advice in connection with mergers and
+acquisitions and relatedtransactions. Deutsche Bank is an affiliate
+of Deutsche Bank AG (together with its affiliates, the “DB Group”).
+One or more members of the DB Group have, from time to time,
+provided, investment banking, commercial banking
+(includingextension of credit) and other financial services to</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">2</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Kemper or its affiliates for which they have received, and in the
+future may receive, compensation. Based upon a review of its
+internal management information systems as of February&nbsp;9,
+2018,the DB Group had received less than €100,000 in fees for such
+services from Kemper since January&nbsp;1, 2015. Based on a review
+of its internal management information systems as of
+February&nbsp;9, 2018, the DB group had not received any feesfor
+such services from Infinity since January&nbsp;1, 2015. The DB
+Group may also provide investment and commercial banking services
+to Kemper, Infinity, and their respective affiliates in the future,
+for which Deutsche Bank would expect the DBGroup to receive
+compensation. In the ordinary course of business, members of the DB
+Group may actively trade in the securities and other instruments
+and obligations of Kemper and Infinity and their respective
+affiliates for their own accounts andfor the accounts of their
+customers. Accordingly, the DB Group may at any time hold a long or
+short position in such securities, instruments and obligations.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>The following disclosure replaces the first full paragraph on
+page 161 of the Proxy Statement:</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Deutsche Bank performed a dividend discount analysis pursuant to
+which the value of Infinity common stock was estimated by adding
+(1)&nbsp;the estimated netpresent value of Infinity’s future stream
+of dividend payments to Infinity shareholders for the years 2018
+through 2020 plus (2)&nbsp;the estimated net present value of the
+terminal value of Infinity at the end of 2020 based upon
+certainoperating and financial assumptions, forecasts and other
+information provided to Deutsche Bank by the management of
+Infinity. For purposes of such analysis, Deutsche Bank utilized
+discount rates of 10.5% to 12.5% and terminal values based
+onmultiples of 1.60x to 1.80x projected tangible book value at the
+end of 2020 and 13.0x to 16.0x projected net income for 2021.
+Deutsche Bank derived the foregoing range of discount rates
+utilizing the capital asset pricing model, assuming arisk-free rate
+of 3.0% based on <font STYLE="white-space:nowrap">20-year</font>
+U.S. government bond yields as of February&nbsp;9, 2018 and based
+on certain financial metrics, including betas and size premium, for
+Infinity and the Infinity selectedcompanies. For purposes of its
+analysis, at the direction of Infinity’s management, Deutsche Bank
+derived Infinity’s tangible book value by subtracting Infinity’s
+publicly reported goodwill of approximately $75&nbsp;million as of
+theend of the third quarter of fiscal 2017 from Infinity’s
+estimated ending book value for calendar years 2018, 2019 and 2020,
+in each case as provided by Infinity management.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>The following disclosure replaces the first full paragraph under
+the heading “Dividend Discount Analysis” on page 162 of the Proxy
+Statement:</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Deutsche Bank performed a dividend discount analysis pursuant to
+which the value of Kemper common stock was estimated by adding
+(1)&nbsp;the estimatednet present value of Kemper’s future stream
+of dividend payments to Kemper stockholders for the years 2018
+through 2020 plus (2)&nbsp;the estimated net present value of the
+terminal value of Kemper at the end of 2020 based upon
+certainoperating and financial assumptions, forecasts and other
+information provided to Deutsche Bank by the management of
+Infinity. For purposes of such analysis, Deutsche Bank utilized
+discount rates of 9.5% to 11.5% and terminal values based
+onmultiples of 1.60x to 1.80x projected tangible book value at the
+end of 2020 and 13.0x to 16.0x projected net income for 2021.
+Deutsche Bank derived the foregoing range of discount rates
+utilizing the capital asset pricing model, assuming arisk-free rate
+of 3.0% based on <font STYLE="white-space:nowrap">20-year</font>
+U.S. government bond yields as of February&nbsp;9, 2018 and based
+on certain financial metrics, including betas and size premium, for
+Kemper and the Kemper selectedcompanies. For purposes of its
+analysis, at the direction of Infinity’s management, Deutsche Bank
+derived Kemper’s tangible book value by subtracting Kemper’s
+publicly reported goodwill of approximately $323&nbsp;million as of
+the endof the third quarter of fiscal 2017 from Kemper’s estimated
+ending book value for calendar years 2018, 2019 and 2020, in each
+case as provided by Infinity’s management. In addition, also at the
+direction of Infinity’s managementDeutsche Bank derived Kemper’s
+estimated 2021 net income by applying a growth rate of 11%
+(representing the average net income growth rate for the prior two
+years) to Kemper’s estimated 2020 net income as provided by
+Infinity’smanagement.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Cautionary Statements Regarding Forward-Looking
+Information</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+This Current Report on Form <font STYLE=
+"white-space:nowrap">8-K</font> may contain or incorporate by
+reference statements or information that are, include orare based
+on forward-looking statements within the meaning of the safe-harbor
+provisions of the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements give expectations, intentions, beliefs
+or forecasts of future events orotherwise for the future, and can
+be identified by the fact that they relate to future actions,
+performance or results rather than relating strictly to historical
+or current facts. Words such as “believe(s),” “goal(s),”“target(s),”
+ “estimate(s),” “anticipate(s),” “forecast(s),” “project(s),” 
+“plan(s),” “intend(s),” “expect(s),” “might,” “may,” “could”
+andvariations of such words and other words and expressions of
+similar meaning are intended to identify such forward-looking
+statements. However, the absence of such words or other words and
+expressions of similar meaning does not mean that a statementis not
+forward-looking.</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">3</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Any or all forward-looking statements may turn out to be wrong,
+and, accordingly, readers are cautioned not toplace undue reliance
+on such statements. Forward-looking statements involve a number of
+risks and uncertainties that are difficult to predict, and are not
+guarantees or assurances of future performance. No assurances can
+be given that the resultsand financial condition contemplated in
+any forward-looking statements will be achieved or will be achieved
+in any particular timetable. Forward-looking statements involve a
+number of risks and uncertainties that are difficult to predict,
+and can beaffected by inaccurate assumptions or by known or unknown
+risks and uncertainties that may be important in determining actual
+future results and financial condition. The general factors that
+could cause actual results and financial condition todiffer
+materially from those expressed or implied include, without
+limitation, the following: (a)&nbsp;the satisfaction or waiver of
+the conditions precedent to the consummation of the proposed Merger
+involving the Company, a wholly-owned subsidiaryof the Company and
+Infinity, including, without limitation, the receipt of stockholder
+and regulatory approvals (including approvals, authorizations and
+clearance by insurance regulators necessary to complete such
+proposed Merger) on the termsdesired or anticipated (and the risk
+that such approvals may result in the imposition of conditions that
+could adversely affect the combined company or the expected
+benefits of such proposed Merger); (b) unanticipated difficulties
+or expendituresrelating to such proposed Merger; (c)&nbsp;risks
+relating to the value of the shares of the Company’s common stock
+to be issued in such proposed Merger; (d)&nbsp;disruptions of the
+Company’s and Infinity’s current plans, operationsand relationships
+with third persons caused by the announcement and pendency of such
+proposed Merger, including, without limitation, the ability of the
+combined company to hire and retain any personnel; (e)&nbsp;legal
+proceedings that may beinstituted against the Company and Infinity
+in connection with such proposed Merger; and (f)&nbsp;those factors
+listed in annual, quarterly and periodic reports filed by the
+Company and Infinity with the SEC, whether or not related to such
+proposedMerger.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The Company assumes no, and expressly disclaims any, duty or
+obligation to update or correct any forward-looking statement as a
+result of events,changes, effects, states of facts, conditions,
+circumstances, occurrences or developments subsequent to the date
+of this Current Report on Form <font STYLE=
+"white-space:nowrap">8-K</font> or otherwise, except as required by
+law. Readers are advised,however, to consult any further
+disclosures the Company makes on related subjects in its filings
+with the SEC.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Additional Information About theTransaction and Where to Find
+It</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+This Current Report on Form <font STYLE=
+"white-space:nowrap">8-K</font> does not constitute an offer to
+sell or thesolicitation of an offer to buy any securities or a
+solicitation of any vote or approval.&nbsp;This Current Report on
+Form <font STYLE="white-space:nowrap">8-K</font> relates to the
+proposed Merger involving the Company, a wholly-owned subsidiary
+ofthe Company and Infinity, among other things. In connection
+therewith, the Company filed with the SEC a Registration Statement
+on <font STYLE="white-space:nowrap">Form&nbsp;S-4&nbsp;that</font>
+includes a definitive joint proxy statement of theCompany and
+Infinity and also constitutes a definitive prospectus of the
+Company, and each of the Company and Infinity may be filing with
+the SEC other documents regarding the proposed transaction. The
+Company and Infinity commenced mailing of thedefinitive joint proxy
+statement/prospectus to the Company’s stockholders and Infinity’s
+shareholders on April&nbsp;30, 2018. BEFORE MAKING ANY VOTING OR
+ANY INVESTMENT DECISION,&nbsp;INVESTORS AND SECURITYHOLDERS OF THE
+COMPANY AND/ORINFINITY ARE URGED TO READ THE DEFINITIVE JOINT PROXY
+STATEMENT/PROSPECTUS REGARDING THE PROPOSED MERGER AND ANY OTHER
+RELEVANT DOCUMENTS FILED OR TO BE FILED WITH THE SEC CAREFULLY AND
+IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEYCONTAIN OR
+WILL CONTAIN IMPORTANT INFORMATION. Investors and securityholders
+may obtain free copies of the definitive joint proxy
+statement/prospectus, any amendments or supplements thereto and
+other documents filed with the SEC by the Company andInfinity
+through the website maintained by the SEC at www.sec.gov. Copies of
+the documents filed with the SEC by the Company are available free
+of charge under the “Investors” section of the Company’s website
+located athttp://www.kemper.com or by contacting the Company’s
+Investor Relations Department at 312.661.4930 or
+investors@kemper.com. Copies of the documents filed with the SEC by
+Infinity are available free of charge under the “InvestorRelations”
+section of Infinity’s website located at
+http://www.infinityauto.com or by contacting Infinity’s Investor
+Relations Department at 205.803.8186 or
+<u>investor.relations@infinityauto.com</u>.</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">4</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Participants in the Solicitation</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The Company and Infinity, and their respective directors and
+executive officers, certain other members of their respective
+management and certain of theirrespective employees, may be
+considered participants in the solicitation of proxies in
+connection with the proposed Merger. Information about the
+directors and executive officers of the Company is set forth in the
+definitive joint proxystatement/prospectus, which was filed with
+the SEC on April&nbsp;27, 2018 and serves as the Company’s proxy
+statement for its 2018 annual meeting of stockholders, and its
+annual<font STYLE=
+"white-space:nowrap">report&nbsp;on&nbsp;Form&nbsp;10-K&nbsp;for&nbsp;the</font>
+fiscal year ended December&nbsp;31, 2017, which was filed with the
+SEC on February&nbsp;13, 2018. Information about the directors and
+executive officers ofInfinity is set&nbsp;forth in its annual
+<font STYLE=
+"white-space:nowrap">report&nbsp;on&nbsp;Form&nbsp;10-K&nbsp;for&nbsp;the</font>
+fiscal year ended December&nbsp;31, 2017, which was filed with the
+SEC on February&nbsp;15, 2018, as amended on
+Form&nbsp;10-K/A,&nbsp;filed with the SEC on April&nbsp;23, 2018.
+Each of the foregoing can be obtained free of charge from the
+sources indicated above. Other information regarding the
+participants in the proxysolicitation and a description of their
+direct and indirect interests, by security holdings or otherwise,
+is contained in the definitive joint proxy statement/prospectus and
+other relevant materials filed or to be filed with&nbsp;the
+SEC.</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">5</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURES</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on
+its behalf bythe undersigned hereunto duly authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="46%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="2%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="45%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" COLSPAN="3">Kemper Corporation</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">By:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">
+/s/ C. Thomas Evans, Jr.</p>
+</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">C. Thomas Evans, Jr.</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Senior Vice President, Secretary and General
+Counsel</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="4"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">Date: May&nbsp;22, 2018</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td COLSPAN="3" VALIGN="bottom"></td>
+</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,1161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s2FBE574041B92FF566563BBB99EFE60A" id=
+"s2FBE574041B92FF566563BBB99EFE60A"></a></div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-top:5px;text-align:center;-sec-extract:summary;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">UNITED
+STATES</font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Washington,
+D.C. 20549</font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<hr />
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">FORM
+8-K</font><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<hr />
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">CURRENT
+REPORT</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Pursuant to
+Section 13 or 15(d)</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">of The
+Securities Exchange Act of 1934</font></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Date of
+Report (Date of earliest event reported): May 20,
+2018</font><font style=
+"font-family:inherit;font-size:12pt;">&nbsp;</font><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:center;font-size:24pt;">
+<font style=
+"font-family:inherit;font-size:24pt;font-weight:bold;">CIDARA
+THERAPEUTICS, INC.</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">(Exact name
+of registrant as specified in its charter)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td style="width:32%;"></td>
+<td style="width:2%;"></td>
+<td style="width:32%;"></td>
+<td style="width:2%;"></td>
+<td style="width:32%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Delaware</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">001-36912</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">46-1537286</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(State or
+other jurisdiction</font></div>
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">of
+incorporation)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(Commission</font></div>
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">File
+Number)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(I.R.S.
+Employer</font></div>
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Identification
+No.)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:33%;"></td>
+<td style="width:36%;"></td>
+<td style="width:31%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">6310 Nancy
+Ridge Drive, Suite 101</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">San Diego,
+California 92121</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">(Address of
+principal executive offices, including zip code)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Registrant’s
+telephone number, including area code: (858)
+752-6170</font><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></div>
+<div style="line-height:120%;text-align:left;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;">&nbsp;</font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:96%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">☐</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:96%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">☐</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:96%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">☐</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:96%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">☐</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;">&nbsp;</font></div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;Indicate by
+check mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of
+this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§ 240.12b-2 of this chapter).&nbsp;</font></div>
+<div style="line-height:144%;text-align:left;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;"><br /></font></div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Emerging growth
+company</font> <font style=
+"font-family:Wingdings;font-size:10pt;">x</font></div>
+<div style="line-height:144%;text-align:left;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;"><br /></font></div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.</font> <font style=
+"font-family:Wingdings;font-size:10pt;">¨</font></div>
+<div style="line-height:120%;text-align:left;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;"><br /></font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:58.92857142857143%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:18%;"></td>
+<td style="width:82%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+1.01</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Entry into a
+Material Definitive Agreement.</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 21, 2018,
+Cidara Therapeutics, Inc. (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Compan</font><font style="font-family:inherit;font-size:10pt;">y”
+) entered into a Subscription Agreement (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Subscription
+Agreement”</font><font style=
+"font-family:inherit;font-size:10pt;">) with certain purchasers
+identified on the signature pages thereto (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Purchasers”
+</font><font style="font-family:inherit;font-size:10pt;">),
+pursuant to which the Company will offer to the Purchasers, in a
+registered direct offering, up to an aggregate of $120.0 million of
+shares of common stock, par value $0.0001 per share (
+“</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Common
+Stock”</font><font style="font-family:inherit;font-size:10pt;">),
+in three closings. The Company will offer 10,638,297 shares of
+Common Stock in the first closing of the offering at a negotiated
+purchase price of $4.70 per share, for aggregate gross proceeds to
+the Company of approximately $50.0 million, before deducting fees
+to the placement agents and other estimated offering expenses
+payable by the Company.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">In the second
+closing of the offering, the Company may sell up to an additional
+$50.0 million of shares of Common Stock to investors who purchased
+at least $1.0 million of shares of Common Stock in the first
+closing of the offering (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Major
+Purchasers”</font><font style=
+"font-family:inherit;font-size:10pt;">) at a purchase price per
+share that is equal to 75% of the volume weighted average price of
+the Common Stock for the five trading days following the Company’s
+public release of Part B topline data from its STRIVE global,
+randomized Phase 2 clinical trial of rezafungin, provided that the
+Company will not be obligated to complete the second closing of the
+offering if the purchase price is less than $4.70 per share. The
+Major Purchasers will participate in the second closing pro rata,
+with each Major Purchaser’s pro rata amount being equal to such
+investor’s first closing purchase price divided by the aggregate
+purchase price paid by all Major Purchasers. In the event that
+there are any amounts not purchased in the second closing by the
+Major Purchasers, the other Major Purchasers participating in the
+second closing may purchase, on a pro rata basis, such remaining
+unsold amount, subject to the requirements of the listing rules of
+the Nasdaq Stock Market LLC. At the Company’s option, and prior to
+the completion of the second closing, the Company may reduce the
+aggregate offering size of the second closing by the dollar amount
+received by the Company from any (i) strategic partnership or other
+non-dilutive source of funding or (ii) sale of equity securities at
+a price greater than $6.81 per share.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">In the optional
+third closing, which would be held five trading days following the
+second closing, purchasers who fully participate in the second
+closing may, at their option, purchase up to an additional $20.0
+million of Common Stock at a purchase price per share equal to the
+purchase price of the shares purchased at the second closing. Each
+such fully participating investor’s participation will be pro rata
+in relation to such investor’s purchase price paid in the second
+closing, divided by the aggregate purchase price paid by all
+investors who participate in the second closing, subject to the
+requirements of the listing rules of the Nasdaq Stock Market LLC.
+At the Company’s option, and prior to the completion of the third
+closing, the Company may reduce the aggregate offering size of the
+optional third closing by the dollar amount received by the Company
+from any (i) strategic partnership or other non-dilutive source of
+funding or (ii) sale of equity securities at a price greater than
+$6.81 per share.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The Company will
+also offer to each Purchaser in the offering the opportunity, in
+lieu of purchasing Common Stock, to purchase Series X convertible
+preferred stock (“</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Series
+X Preferred Stock”</font><font style=
+"font-family:inherit;font-size:10pt;">). For each share of Series X
+Preferred Stock purchased in the offering in lieu of Common Stock,
+the Company will reduce the number of shares of Common Stock being
+sold in the offering by 10 shares. Each share of Series X Preferred
+Stock is convertible into 10 shares of Common Stock (subject to
+adjustment as provided in the related Certificate of Designation of
+Preferences, Rights and Limitations of Series X Convertible
+Preferred Stock (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Certificate
+of Designation”</font><font style=
+"font-family:inherit;font-size:10pt;">)). In the event of the
+Company’s liquidation, dissolution or winding up, holders of Series
+X Preferred Stock will participate pari passu with any distribution
+of proceeds to holders of Common Stock. Holders of Series X
+Preferred Stock are entitled to receive dividends on shares of
+Series X Preferred Stock equal (on an as if converted to common
+stock basis) to and in the same form as dividends actually paid on
+the Common Stock or other junior securities. Shares of Series X
+Preferred Stock will generally have no voting rights, except as
+required by law and except that the consent of the holders of a
+majority of the outstanding Series X Preferred Stock will be
+required to amend the terms of the Series X Preferred Stock and to
+approve certain corporate actions.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The Common Stock
+and the Series X Preferred Stock being sold by the Company in this
+offering are being offered by the Company pursuant to an effective
+shelf registration statement on Form S-3, which was originally
+filed with the Securities and Exchange Commission on May 20, 2016,
+and was declared effective on June 1, 2016 (File No. 333-211472)
+(the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Registration
+Statement”</font><font style=
+"font-family:inherit;font-size:10pt;">).</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">In a private
+placement concurrent with the first closing (the 
+“</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">First
+Private Placement”</font><font style=
+"font-family:inherit;font-size:10pt;">), the Company is also
+selling to the</font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Major Purchasers
+warrants, at a purchase price of $0.125 per share subject to each
+such warrant, to purchase an aggregate of 12,500,000 shares of
+Common Stock.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">In a private
+placement to be held concurrently with the optional third closing
+(the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Second
+Private Placement”</font><font style=
+"font-family:inherit;font-size:10pt;">), the Company would sell
+warrants to purchase up to 2,500,000 shares of Common Stock to the
+Major Purchasers who purchase Common Stock in such closing, at a
+purchase price of $0.125 per share subject to each such warrant
+(such warrants, together with the warrants sold in the First
+Private Placement, each, a “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Warrant”
+</font><font style="font-family:inherit;font-size:10pt;">, and
+collectively, the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Warrants”
+</font><font style=
+"font-family:inherit;font-size:10pt;">).</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The Warrants will
+be exercisable immediately for cash, at an exercise price of $6.81
+per share. The Warrants issued in the First Private Placement will
+expire upon the earliest of (i) five years from the date of the
+first closing of the offering, (ii) the date that the holder of
+such Warrant transfers or sells any of the shares of Common Stock
+purchased by such holder in the first closing of the offering, if
+such transfer or sale occurs prior to the date that is 120 calendar
+days following the closing of the first closing of the offering,
+(iii) the taking of any short position on the Common Stock by the
+holder of such Warrant prior to the completion of the second
+closing of the offering, and (iv) the failure by the holder of such
+Warrant to purchase its pro rata allocation of shares of Common
+Stock in the second closing of the offering.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The Warrants
+issued in the Second Private Placement will expire five years from
+the date of the third closing of the offering.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The exercise
+price and number of shares of Common Stock issuable upon the
+exercise of the Warrants (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Warrant
+Shares”</font><font style="font-family:inherit;font-size:10pt;">)
+will be subject to adjustment in the event of any stock dividends
+and splits, reverse stock split, recapitalization, reorganization
+or similar transaction, as described in the Warrants.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:12pt;">
+<font style="font-family:inherit;font-size:10pt;">The Warrants and
+the Warrant Shares are not being registered under the Securities
+Act of 1933, as amended (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Securities
+Act”</font><font style="font-family:inherit;font-size:10pt;">),
+pursuant to the Registration Statement and are instead being
+offered pursuant to the exemption provided in Section 4(a)(2) under
+the Securities Act and Rule 506(b) promulgated thereunder. Each
+Purchaser is either (i) an “accredited investor” as defined in Rule
+501(a)(1), (a)(2), (a)(3), (a)(7) or (a)(8) under the Securities
+Act</font> <font style="font-family:inherit;font-size:10pt;">or
+(ii) a “qualified institutional buyer” as defined in Rule 144A(a)
+under the Securities Act.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Citigroup Global
+Markets, Inc. and Cantor Fitzgerald &amp; Co. (“</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Cantor”
+</font><font style="font-family:inherit;font-size:10pt;">) acted as
+the co-lead placement agents (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Placement
+Agents”</font><font style="font-family:inherit;font-size:10pt;">)
+for the Company, on a “reasonable best efforts” basis, in
+connection with the offering. A copy of the Placement Agency
+Agreement, dated as of May 21, 2018, by and between the Company and
+the Placement Agents is attached hereto as Exhibit 10.2 and
+incorporated herein by reference (the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Placement
+Agency Agreement”</font><font style=
+"font-family:inherit;font-size:10pt;">). Pursuant to the Placement
+Agency Agreement, the Placement Agents will be entitled to a cash
+fee of $1,950,000 for the entire offering.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The foregoing
+summaries of the offering, the securities to be issued in
+connection therewith, the Subscription Agreement, the Placement
+Agency Agreement and the Warrants do not purport to be complete and
+are qualified in their entirety by reference to the definitive
+transaction documents. Copies of the Subscription Agreement, the
+Placement Agency Agreement and the forms of Warrant are attached
+hereto as Exhibits 10.1, 10.2, 4.1 and 4.2, respectively, and are
+incorporated herein by reference.</font></div>
+<div style="line-height:120%;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 21, 2018,
+the Company issued a press release announcing the offering
+described above, a copy of which is attached hereto as Exhibit
+99.1.</font></div>
+<div style="line-height:120%;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:10%;"></td>
+<td style="width:90%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+1.02</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Termination
+of a Material Definitive Agreement</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 20, 2018,
+the Company voluntarily terminated the Controlled Equity
+Offering</font><font style=
+"font-family:inherit;font-size:10pt;"><sup style=
+"vertical-align:top;line-height:120%;font-size:7pt">SM</sup></font>
+<font style="font-family:inherit;font-size:10pt;">Sales Agreement
+(the “</font><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Sales
+Agreement</font><font style="font-family:inherit;font-size:10pt;">”
+) that the Company entered into on May 19, 2016, with Cantor.
+Pursuant to the Sales Agreement, upon the terms and subject to the
+conditions and limitations set forth therein, Cantor was committed
+to use commercially reasonable efforts to sell up to an aggregate
+of $35.0 million of shares of Common Stock over the term of the
+Sales Agreement.</font></div>
+<div style="line-height:120%;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:10%;"></td>
+<td style="width:90%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+3.02</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Unregistered
+Sales of Equity Securities</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Please see the
+disclosure regarding the Warrants and the Warrant Shares set forth
+under Item 1.01, which is incorporated by reference into this Item
+3.02.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;&nbsp;</font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:10%;"></td>
+<td style="width:90%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+3.03</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Material
+Modifications to Rights of Security Holders</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 21, 2018,
+the Company, in connection with the registered direct offering of
+its Series X Preferred Stock described above, designated 5,000,000
+shares of its authorized and unissued preferred stock as Series X
+Preferred Stock and filed the Certificate of Designation with the
+Secretary of State of Delaware, which is attached hereto as Exhibit
+3.1. A summary of the rights, preferences and privileges of the
+Series X Preferred Stock is included above under “Item 1.01 Entry
+into a Material Definitive Agreement,” which is incorporated by
+reference herein.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The above
+description of the Certificate of Designation does not purport to
+be complete and is qualified in its entirety by reference to the
+Certificate of Designation filed as Exhibit 3.1 to this Current
+Report on Form 8-K, which is incorporated herein by
+reference.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:10%;"></td>
+<td style="width:90%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+5.03</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Amendments
+to Articles of Incorporation or Bylaws; Changes in Fiscal
+Year</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 21, 2018,
+the Company filed the Certificate of Designation, a copy of which
+is attached hereto as Exhibit 3.1. The Certificate of Designation,
+establishes and designates the Series X Preferred Stock and the
+rights, preferences and privileges thereof.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The description
+of the Certificate of Designation contained in Item 1.01 and Item
+3.03 is incorporated herein by reference.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-left:0px;text-indent:0px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:11%;"></td>
+<td style="width:89%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+9.01</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Financial
+Statements and Exhibits.</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:justify;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(d)
+Exhibits</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:5%;"></td>
+<td style="width:95%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">3.1</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex312018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Certificate of Designation of
+Preferences, Rights and Limitations of Series X Convertible
+Preferred Stock</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.1</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex412018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Form of Common Stock Purchase
+Warrant for First Private Placement</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4.2</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex422018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Form of Common Stock Purchase
+Warrant for Second Private Placement</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">5.1</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex512018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Opinion of Cooley
+LLP</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.1</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex1012018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Subscription
+Agreement</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">10.2</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex1022018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Placement Agency
+Agreement</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">23.1</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex512018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Consent of Cooley LLP
+(included in Exhibit 5.1)</font></a></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">99.1</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="ex9912018-05x21.htm"><font style=
+"font-family:inherit;font-size:10pt;">Press
+Release</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:14px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURE</font></div>
+<div style=
+"line-height:120%;padding-top:16px;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.</font></div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">&nbsp;</font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:58%;"></td>
+<td style="width:7%;"></td>
+<td style="width:35%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">CIDARA
+THERAPEUTICS, INC.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Dated: May 21,
+2018</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">By:</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">/s/ Jeffrey Stein,
+Ph.D.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Name:</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Jeffrey Stein,
+Ph.D.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Title:</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">President and Chief Executive
+Officer</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div><br /></div>
+</body>
+</html>
+

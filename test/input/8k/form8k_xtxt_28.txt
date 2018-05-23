@@ -1,0 +1,717 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s512060e5797c46368392a2a09b2762a5" id=
+"s512060e5797c46368392a2a09b2762a5"></a></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:232%;text-align:center;-sec-extract:summary;font-size:16pt;">
+<font style=
+"font-family:inherit;font-size:16pt;font-weight:bold;">UNITED
+STATES</font></div>
+<div style="line-height:120%;text-align:center;font-size:16pt;">
+<font style=
+"font-family:inherit;font-size:16pt;font-weight:bold;">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+<div style="line-height:232%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">WASHINGTON,
+D.C.&nbsp;&nbsp;20549</font></div>
+<div style="line-height:232%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;text-decoration:underline;">
+_________</font></div>
+<div style="line-height:232%;text-align:center;font-size:16pt;">
+<font style=
+"font-family:inherit;font-size:16pt;font-weight:bold;">FORM
+8-K</font></div>
+<div style="line-height:232%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">CURRENT
+REPORT</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font><font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">PURSUANT TO
+SECTION 13 OR 15(d) OF THE</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">SECURITIES
+EXCHANGE ACT OF 1934</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;Date of
+Report (Date of earliest event reported): May 21, 2018</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:16pt;">
+<font style=
+"font-family:inherit;font-size:16pt;font-weight:bold;">J. C. PENNEY
+COMPANY, INC.</font></div>
+<div style="line-height:174%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(Exact name of
+registrant as specified in its charter)</font></div>
+<div style="line-height:174%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td style="width:28%;"></td>
+<td style="width:26%;"></td>
+<td style="width:17%;"></td>
+<td style="width:29%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Delaware</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">1-15274</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">26-0037077</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:9pt;"><font style=
+"font-family:inherit;font-size:9pt;">(State or other
+jurisdiction</font></div>
+<div style="text-align:center;font-size:9pt;"><font style=
+"font-family:inherit;font-size:9pt;">of incorporation
+)</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:9pt;"><font style=
+"font-family:inherit;font-size:9pt;">(Commission File
+No.)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:9pt;"><font style=
+"font-family:inherit;font-size:9pt;">(IRS Employer</font></div>
+<div style="text-align:center;font-size:9pt;"><font style=
+"font-family:inherit;font-size:9pt;">Identification
+No.)</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="padding-top:2px;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">6501 Legacy
+Drive</font></div>
+<div style="padding-bottom:2px;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Plano,
+Texas</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">75024-3698</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:9pt;"><font style=
+"font-family:inherit;font-size:9pt;">(Address of principal
+executive offices)</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:9pt;"><font style=
+"font-family:inherit;font-size:9pt;">(Zip code)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:232%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Registrant's
+telephone number, including area code:</font> <font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">&nbsp;</font><font style="font-family:inherit;font-size:10pt;">(972)
+431-1000</font></div>
+<div style="line-height:232%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;Not
+Applicable</font></div>
+<div style="line-height:232%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">&nbsp;(Former
+name or former address, if changed since last report.)</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></div>
+<div style="line-height:232%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">[&nbsp;&nbsp;]&nbsp;&nbsp;Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></div>
+<div style="line-height:232%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+<div style="line-height:232%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></div>
+<div style="line-height:232%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:94%;"></td>
+<td style="width:6%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Indicate by
+check mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Emerging
+Growth Company</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">□</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">If an
+emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">□</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:center;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:95.3125%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:12%;"></td>
+<td style="width:88%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Item
+5.02</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Departure of
+Directors or Certain Officers; Election of Directors; Appointment
+of Certain Officers; Compensatory Arrangements of Certain
+Officers.</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">(b), (c) and
+(e)</font> <font style="font-family:inherit;font-size:11pt;">On May
+22, 2018, J. C. Penney Company, Inc. (the “Company”) issued a press
+release announcing that Marvin R. Ellison is resigning as the
+Company’s Chairman of the Board, effective immediately, and as the
+Company’s Chief Executive Officer and a director of the Company,
+effective June 1, 2018. Mr. Ellison’s resignation is not a result
+of any disagreement with the Company or its management. A copy of
+the press release announcing Mr. Ellison’s resignation is attached
+hereto as Exhibit 99.1.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">On May 22, 2018,
+the Company announced that the Board of Directors of the Company
+(the “Board”) has created the Office of the CEO, effective June 1,
+2018, which will be comprised of Jeffrey A. Davis, the Company’s
+Executive Vice President and Chief Financial Officer, Joseph M.
+McFarland, the Company’s Executive Vice President and Chief
+Customer Officer, Therace M. Risch, the Company’s Executive Vice
+President and Chief Information Officer and Chief Digital Officer,
+and Michael Robbins, the Company’s Executive Vice President, Supply
+Chain. The executives comprising the Office of the CEO will have
+responsibility for managing the day to day operations of the
+Company while a search for a permanent CEO is
+conducted.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Mr. Davis, 55,
+has served as the Company’s Executive Vice President and Chief
+Financial Officer since July 2017. Prior to joining the Company, he
+served as Senior Vice President and Chief Financial Officer at
+Darden Restaurants, Inc. (food service industry) from 2015 to 2016.
+Mr. Davis also served as Executive Vice President and Chief
+Financial Officer for the Walmart U.S. segment at Walmart Inc.
+(retailer) from 2014 to 2015. His prior roles with Walmart Inc.
+included Treasurer from 2010 to 2014, Senior Vice President,
+Finance and Strategy for the Walmart U.S. segment from 2009 to
+2010, and Vice President, Finance, US Stores Operations/Specialty
+Division from 2006 to 2009.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Mr. McFarland,
+48, has served as the Company’s Executive Vice President and Chief
+Customer Officer since March 2018. Prior to that, he served as
+Executive Vice President, Stores from 2016 to March 2018. From 2007
+to 2015, Mr. McFarland served as President, Northern and Western
+Divisions of The Home Depot, Inc. (home improvement supplies
+retailer), with which he served in positions of increasing
+responsibility since 1993. Prior to joining The Home Depot, he
+spent six years serving in the United States Marine Corps and is a
+veteran of Operation Desert Storm.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Ms. Risch, 45,
+has served as the Company’s Executive Vice President and Chief
+Information Officer and Chief Digital Officer since March 2018.
+Prior to that, she served as Executive Vice President and Chief
+Information Officer from 2015 to March 2018. Prior to joining the
+Company, Ms. Risch served as Executive Vice President and Chief
+Information Officer of Country Financial (insurance and investment
+services) from 2014 to 2015. Prior to that, she spent 10 years at
+Target Corporation (retailer) in a variety of technology roles of
+increasing responsibility, including Vice President of Technology
+Delivery Services from 2012 to 2014 and Vice President, Business
+Technology Team from 2009 to 2012.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Mr. Robbins, 52,
+has served as the Company’s Executive Vice President, Supply Chain
+since 2016. Prior to that, he served as Senior Vice President,
+Supply Chain from 2015 to 2016. From 2012 to 2015, Mr. Robbins
+served as Senior Vice President, Global Supply Chain at Target
+Corporation (retailer), with which he served in positions of
+increasing responsibility since 2001, including Senior Vice
+President of Distribution Operations from 2010 to 2012, Vice
+President of Pharmacy from 2008 to 2010 and Regional Vice President
+of West Coast Distribution from 2006 to 2008.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">In connection
+with serving as members of the Office of the CEO, each of Mr.
+Davis, Mr. McFarland, Ms. Risch and Mr. Robbins will receive (i) a
+cash award equal to $250,000, which will vest on the earlier of
+June 1, 2019 or the dissolution of the Office of the CEO provided
+that they remain continuously employed with the Company and serving
+in the Office of the CEO until that time and (ii) an award of
+time-based restricted stock units with a grant date value of
+$250,000, which will vest in three equal annual installments on
+each anniversary of the grant date provided that they remain
+continuously employed with the Company until that time. In
+addition, Mr.</font></div>
+<div><br /></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Robbins will
+receive an annualized base salary of $690,000 and his annual target
+bonus opportunity will be 85% of base salary.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Also in
+connection with the organizational changes described above, Andrew
+S. Drexler, the Company’s Senior Vice President, Chief Accounting
+Officer and Controller, will receive a cash award equal to
+$250,000, which will vest on the earlier of June 1, 2019 or the
+dissolution of the Office of the CEO provided that he remains
+continuously employed with the Company until that
+time.</font></div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:99.8046875%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:11%;"></td>
+<td style="width:36%;"></td>
+<td style="width:53%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Item
+8.01</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Other
+Events.</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">On May 22, 2018,
+the Company announced that the Board has elected Ronald W. Tysoe as
+the Company’s Chairman of the Board, effective
+immediately.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:99.8046875%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td style="width:11%;"></td>
+<td style="width:20%;"></td>
+<td style="width:16%;"></td>
+<td style="width:53%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Item
+9.01</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Financial
+Statements and Exhibits.</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:13px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:13px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:13px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">(d)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">&nbsp;Exhibit
+99.1</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="pressreleaseexhibit991may2.htm"><font style=
+"font-family:inherit;font-size:11pt;">J. C. Penney Company, Inc.
+News Release issued May 22, 2018</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:232%;padding-top:14px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:232%;text-align:center;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">SIGNATURE</font></div>
+<div style="line-height:174%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:49%;"></td>
+<td style="width:51%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">J. C. PENNEY COMPANY,
+INC.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:20px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:20px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:right;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">By:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;text-decoration:underline;">/s/
+Brandy L. Treadway</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Brandy L.
+Treadway</font></div>
+<div style="padding-bottom:1px;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Senior Vice
+President,</font></div>
+<div style="padding-bottom:2px;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">General Counsel</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:232%;padding-top:14px;text-align:justify;text-indent:336px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:232%;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Date:&nbsp;May
+22, 2018</font></div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+</body>
+</html>
+

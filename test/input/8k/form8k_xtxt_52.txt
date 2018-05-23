@@ -1,0 +1,1189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="sE3A827E53B11D4F2CBD46A7C3FA175DE" id=
+"sE3A827E53B11D4F2CBD46A7C3FA175DE"></a></div>
+<div><br /></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:100%;padding-top:1px;text-align:center;font-size:4pt;">
+<font style=
+"font-family:inherit;font-size:4pt;">&nbsp;</font></div>
+<div style=
+"line-height:100%;padding-top:1px;text-align:center;font-size:4pt;">
+<font style=
+"font-family:inherit;font-size:4pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">UNITED
+STATES</font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Washington,
+D.C. 20549</font></div>
+<div style=
+"line-height:100%;padding-top:6px;text-align:center;padding-left:288px;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:6px;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">FORM
+8-K</font></div>
+<div style=
+"line-height:100%;padding-top:6px;text-align:center;padding-left:288px;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:6px;text-align:center;font-size:13.5pt;">
+<font style=
+"font-family:inherit;font-size:13.5pt;font-weight:bold;">CURRENT
+REPORT</font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Pursuant to
+Section&nbsp;13 or 15(d) of</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">The
+Securities Exchange Act of 1934</font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Date of
+Report (Date of earliest event reported): May 16, 2018</font></div>
+<div style=
+"line-height:100%;padding-top:6px;text-align:center;padding-left:288px;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:6px;text-align:center;font-size:24pt;">
+<font style=
+"font-family:inherit;font-size:24pt;font-weight:bold;">DUNKIN’
+BRANDS GROUP, INC.</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">(Exact name
+of registrant as specified in its charter)</font></div>
+<div style=
+"line-height:100%;padding-top:6px;text-align:center;padding-left:288px;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:6px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Delaware</font></div>
+<div style="line-height:120%;text-align:center;font-size:7.5pt;">
+<font style=
+"font-family:inherit;font-size:7.5pt;font-weight:bold;">(State or
+Other Jurisdiction of Incorporation)</font></div>
+<div style="line-height:120%;text-align:left;font-size:9pt;">
+<font style=
+"font-family:inherit;font-size:9pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:50%;"></td>
+<td style="width:50%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">001-35258</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">20-4145825</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:7.5pt;"><font style=
+"font-family:inherit;font-size:7.5pt;font-weight:bold;">(Commission</font></div>
+<div style="padding-bottom:1px;text-align:center;font-size:7.5pt;">
+<font style=
+"font-family:inherit;font-size:7.5pt;font-weight:bold;">File
+Number)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:7.5pt;"><font style=
+"font-family:inherit;font-size:7.5pt;font-weight:bold;">(IRS
+Employer</font></div>
+<div style="padding-bottom:1px;text-align:center;font-size:7.5pt;">
+<font style=
+"font-family:inherit;font-size:7.5pt;font-weight:bold;">Identification
+Number)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">130 Royall
+Street</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Canton,
+Massachusetts 02021</font></div>
+<div style="line-height:120%;text-align:center;font-size:7.5pt;">
+<font style=
+"font-family:inherit;font-size:7.5pt;font-weight:bold;">(Address of
+registrant’s principal executive office)</font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">(781)
+737-3000</font></div>
+<div style="line-height:120%;text-align:center;font-size:7.5pt;">
+<font style=
+"font-family:inherit;font-size:7.5pt;font-weight:bold;">(Registrant’
+s telephone number)</font></div>
+<div style=
+"line-height:100%;padding-top:6px;text-align:center;padding-left:288px;font-size:6pt;">
+<font style=
+"font-family:inherit;font-size:6pt;">&nbsp;</font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:120%;padding-top:6px;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></div>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:6px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:33px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:1px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></div>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:6px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:33px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:1px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:6px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:33px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:1px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></div>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:6px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:33px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:1px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></div>
+</td>
+</tr>
+</table>
+<div style="line-height:120%;text-align:left;font-size:1pt;">
+<font style=
+"font-family:inherit;font-size:1pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:1pt;">&nbsp;</font><font style=
+"font-family:inherit;font-size:10pt;">Indicate by check mark
+whether the registrant is an emerging growth company as defined in
+Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule
+12b-2 of the Securities Exchange Act of 1934 (17 CFR
+240.12b-2).</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Emerging Growth
+Company&nbsp;&nbsp;&nbsp;</font><font style=
+"font-family:Wingdings;font-size:10pt;">¨</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Selection 13(a) of the Exchange Act.
+&nbsp;</font><font style=
+"font-family:Wingdings;font-size:10pt;">¨</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;">
+<hr /></div>
+<div style=
+"line-height:100%;padding-top:8px;text-align:center;font-size:4pt;">
+<font style=
+"font-family:inherit;font-size:4pt;"><br /></font></div>
+<div style=
+"line-height:100%;padding-top:1px;text-align:center;font-size:4pt;">
+<font style=
+"font-family:inherit;font-size:4pt;">&nbsp;</font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Item&nbsp;5.07.
+Submission of Matters to a Vote of Security Holders.</font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">The 2018 Annual
+Meeting of Stockholders of Dunkin’ Brands Group, Inc. (the 
+“</font><font style=
+"font-family:inherit;font-size:11pt;text-decoration:underline;">Company</font><font style="font-family:inherit;font-size:11pt;">”
+) was held on May 16, 2018. A total of 78,910,271 shares were
+present or represented by proxy at the meeting, representing
+approximately 95.4% of all shares entitled to vote at the Annual
+Meeting. The matters presented for a vote and the related results
+are as follows:</font></div>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:18px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:11pt;padding-left:0px;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">1.</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;text-decoration:underline;">
+ELECTION OF DIRECTORS</font></div>
+</td>
+</tr>
+</table>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Proposal one was
+the election of three nominees to serve as directors of the Company
+each for a term of three years. The result of the vote was as
+follows:</font></div>
+<div style="line-height:120%;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:86.11111111111111%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td style="width:8%;"></td>
+<td style="width:9%;"></td>
+<td style="width:9%;"></td>
+<td style="width:9%;"></td>
+<td style="width:5%;"></td>
+<td style="width:21%;"></td>
+<td style="width:3%;"></td>
+<td style="width:20%;"></td>
+<td style="width:3%;"></td>
+<td style="width:13%;"></td>
+</tr>
+<tr>
+<td colspan="4" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Nominee</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Votes For</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Votes Withheld</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Broker Non-Votes</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="5" style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Mark Nunnelly</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">67,354,984</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">844,360</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">10,710,927</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="5" style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Roland Smith</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">68,050,718</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">148,626</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">10,710,927</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="5" style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Carl Sparks</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">68,076,705</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">122,639</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">10,710,927</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Pursuant to the
+foregoing votes, the three nominees listed above were elected to
+serve on the Company’s Board of Directors. There were no additional
+Director nominations brought before the meeting.</font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:8px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:11pt;padding-left:0px;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">2.</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;text-decoration:underline;">
+ADVISORY VOTE ON EXECUTIVE COMPENSATION (SAY-ON-PAY)</font></div>
+</td>
+</tr>
+</table>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Proposal two was
+the advisory vote on the approval of the executive compensation of
+the named executive officers of the Company. The result of the vote
+was as follows:</font></div>
+<div style="line-height:120%;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:74.62962962962963%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="7"></td>
+</tr>
+<tr>
+<td style="width:22%;"></td>
+<td style="width:3%;"></td>
+<td style="width:19%;"></td>
+<td style="width:3%;"></td>
+<td style="width:22%;"></td>
+<td style="width:4%;"></td>
+<td style="width:27%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">For</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Against</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Abstain</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Broker Non-Votes</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">67,020,997</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">1,038,925</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">139,422</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">10,710,927</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Pursuant to the
+foregoing vote, the stockholders adopted a non-binding advisory
+resolution indicating their approval of the compensation paid to
+the Company’s named executive officers.</font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:8px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:11pt;padding-left:0px;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">3.</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;text-decoration:underline;">
+ADVISORY VOTE ON THE FREQUENCY OF FUTURE SAY ON PAY
+VOTES</font></div>
+</td>
+</tr>
+</table>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Proposal three
+was the advisory vote with respect to the frequency of future
+advisory votes on the executive compensation of the named executive
+officers of the Company. The result of the vote was as
+follows:</font></div>
+<div style="line-height:120%;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:90.37037037037037%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="9"></td>
+</tr>
+<tr>
+<td style="width:16%;"></td>
+<td style="width:3%;"></td>
+<td style="width:16%;"></td>
+<td style="width:3%;"></td>
+<td style="width:18%;"></td>
+<td style="width:4%;"></td>
+<td style="width:22%;"></td>
+<td style="width:3%;"></td>
+<td style="width:15%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">One Year</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Two Years</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Three Years</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Abstain</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Broker Non-Votes</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">63,632,178</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">62,344</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">4,395,659</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">109,163</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">10,710,927</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">In light of the
+outcome of this vote, the Board of Directors has made the
+determination to continue to hold the advisory vote on the
+compensation of the Company’s named executive officers on an annual
+basis.</font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<table cellpadding="0" cellspacing="0" style=
+"padding-top:8px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:11pt;padding-left:0px;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">4.</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;text-decoration:underline;">
+RATIFICATION OF THE INDEPENDENT REGISTERED PUBLIC
+ACCOUNTANTS</font></div>
+</td>
+</tr>
+</table>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Proposal four was
+the ratification of the appointment of KPMG LLP as the Company’s
+independent registered public accounting firm for the current
+fiscal year. The result of the vote was as follows:</font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">&nbsp;</font></div>
+<div style="line-height:120%;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:54.629629629629626%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td style="width:27%;"></td>
+<td style="width:5%;"></td>
+<td style="width:26%;"></td>
+<td style="width:5%;"></td>
+<td style="width:31%;"></td>
+<td style="width:6%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">For</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Against</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Abstain</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">77,711,347</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:8px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">1,092,754</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;">
+<div style="text-align:center;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">106,170</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Pursuant to the
+foregoing vote, the ratification of KPMG LLP as the Company’s
+independent registered public accounting firm for the current
+fiscal year was approved.</font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">Item&nbsp;8.01.
+Other Events.</font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">On May 22, 2018,
+the Company issued a press release announcing that its Board of
+Directors authorized a new share repurchase program for up to an
+aggregate of $250 million of its outstanding common stock. The
+authorization is valid for a period of two years. A copy of the
+press release is attached as Exhibit 99.1 and is incorporated
+herein by reference.</font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Item 9.01.
+Financial Statements and Exhibits.</font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">(d)
+Exhibits</font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">99.1&nbsp;&nbsp;&nbsp;&nbsp;Press
+Release of Dunkin’ Brands Group, Inc. announcing Board approval of
+new share repurchase authorization</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><br /></div>
+<div style="line-height:120%;text-align:center;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">SIGNATURES</font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></div>
+<div style="line-height:120%;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">&nbsp;</font></div>
+<div style="line-height:120%;padding-left:432px;font-size:11pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:40%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:8%;"></td>
+<td style="width:6%;"></td>
+<td style="width:86%;"></td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;font-weight:bold;">DUNKIN’
+BRANDS GROUP, INC.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:16px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:16px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:6px;padding-bottom:6px;padding-right:2px;">
+<div style="padding-bottom:6px;text-align:right;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">By:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">/s/ Richard
+Emmett</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Richard Emmett</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:11pt;"><font style=
+"font-family:inherit;font-size:11pt;">Chief Legal and Human
+Resources Officer</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style="font-family:inherit;font-size:11pt;">Date: May 22,
+2018</font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:12px;text-align:left;font-size:1pt;">
+<font style=
+"font-family:inherit;font-size:1pt;">&nbsp;</font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div><a name="sae01afb33d21473cb58a0811a89c2a74" id=
+"sae01afb33d21473cb58a0811a89c2a74"></a></div>
+<div><br /></div>
+<div style=
+"line-height:120%;text-align:center;-sec-extract:summary;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">EXHIBIT
+INDEX</font></div>
+<div style="line-height:120%;text-align:center;font-size:14pt;">
+<font style=
+"font-family:inherit;font-size:14pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-top:18px;text-align:left;font-size:11pt;">
+<font style=
+"font-family:inherit;font-size:11pt;">99.1&nbsp;&nbsp;&nbsp;&nbsp;</font><a style="text-decoration:underline;color:#0000FF;font-size:11pt;-sec-extract:exhibit;"
+href="exh991_auth.htm"><font style=
+"font-family:inherit;font-size:11pt;">Press Release of Dunkin’
+Brands Group, Inc. announcing Board approval of new share
+repurchase authorization</font></a></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+</body>
+</html>
+

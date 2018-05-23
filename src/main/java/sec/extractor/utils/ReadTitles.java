@@ -68,5 +68,8 @@ public class ReadTitles {
         return fDBSConfig;
     }
 	
+	public static List<String> readExpectedItemsFile(String eXPECTED_ITEMS_FILE_NAME2) {
+		return readTitlesFromPropertiy(eXPECTED_ITEMS_FILE_NAME2);
+	}
 }
 

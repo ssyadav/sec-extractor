@@ -1,0 +1,558 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="sBE720325AF4077AAA7A58395D4720617" id=
+"sBE720325AF4077AAA7A58395D4720617"></a></div>
+<div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:144%;text-align:center;-sec-extract:summary;font-size:18pt;">
+<font style="font-family:inherit;font-size:18pt;">UNITED
+STATES<br />
+SECURITIES AND EXCHANGE COMMISSION</font> <font style=
+"font-family:inherit;font-size:10pt;"><br /></font> <font style=
+"font-family:inherit;font-size:12pt;">Washington, D.C. 20549</font>
+<font style="font-family:inherit;font-size:10pt;"><br />
+</font></div>
+<div style="line-height:144%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">FORM
+8-K</font></div>
+<div style="line-height:144%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">CURRENT
+REPORT</font></div>
+<div style="line-height:144%;text-align:center;font-size:12pt;">
+<font style="font-family:inherit;font-size:12pt;">Pursuant to
+Section 13 OR 15(d) of the Securities Exchange Act of
+1934</font></div>
+<div style="line-height:144%;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:144%;text-align:center;font-size:12pt;">
+<font style="font-family:inherit;font-size:12pt;">May 16,
+2018</font></div>
+<div style=
+"line-height:200%;padding-bottom:6px;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Date of report
+(Date of earliest event reported)</font></div>
+<div style="line-height:144%;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:144%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">RENASANT
+CORPORATION</font></div>
+<div style="line-height:144%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(Exact name of
+registrant as specified in its charter)</font></div>
+<div style=
+"line-height:120%;padding-bottom:18px;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:96.36752136752136%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:33%;"></td>
+<td style="width:33%;"></td>
+<td style="width:34%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;">Mississippi</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;">001-13253</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;">64-0676974</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(State or other
+jurisdiction<br />
+of incorporation)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(Commission<br />
+File Number)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(I.R.S.
+Employer<br />
+Identification No.)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:200%;padding-top:16px;text-align:left;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:144%;text-align:center;font-size:12pt;">
+<font style="font-family:inherit;font-size:12pt;">209 Troy Street,
+Tupelo, Mississippi 38804-4827</font></div>
+<div style="line-height:144%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(Address of
+principal executive offices)(Zip Code)</font></div>
+<div style="line-height:144%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:144%;padding-bottom:13px;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Registrant’s
+telephone number, including area code: (662) 680-1001</font></div>
+<div style=
+"line-height:120%;padding-bottom:9px;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></div>
+<div style="line-height:120%;padding-left:4px;font-size:9pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:99.35897435897436%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:6%;"></td>
+<td style="width:94%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">[ ]</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">[ ]</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">[ ]</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">[ ]</font></div>
+</td>
+<td style=
+"vertical-align:middle;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:9pt;">
+<font style="font-family:inherit;font-size:9pt;">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-bottom:6px;padding-top:10px;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Indicate by check
+mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2). Emerging growth company ☐</font></div>
+<div style=
+"line-height:120%;padding-bottom:6px;padding-top:6px;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐</font></div>
+<div><br /></div>
+<div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-bottom:6px;padding-top:6px;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+5.02.</font><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Departure
+of Directors or Certain Officers; Election of Directors;
+Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:48px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 16, 2018,
+the Board of Directors of Renasant Corporation (“Renasant”)
+expanded its size by one to 14 members and elected Sean M. Suggs to
+the Board, effective immediately. Mr. Suggs has also been elected
+to the Board of Directors of Renasant Bank, Renasant’s wholly-owned
+subsidiary.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Sean M. Suggs,
+53, has served as the president of Toyota Mississippi since January
+2018. In this role, he is responsible for all manufacturing and
+administration functions of Toyota’s Blue Springs, Mississippi,
+plant that produces the Toyota Corolla. Prior to his promotion to
+president, Mr. Suggs served as vice president of manufacturing and
+vice president of administration at the Mississippi vehicle
+assembly plant. He joined Toyota in 1998 as team leader at Toyota’s
+assembly plant in Princeton, Indiana. During his 10-year tenure, he
+served several roles and was named general manager of quality
+planning in 2008. In this leadership role, Mr. Suggs oversaw
+professional development, vehicle quality and manufacturing quality
+for current and new model production. Prior to rejoining Toyota in
+2014, Mr. Suggs served as director of strategy, administration and
+human resources from 2011 to 2013 at Nissan’s North American
+headquarters in Franklin, Tennessee. During his five years with
+Nissan, he also directed production quality at the company’s
+manufacturing and assembly plant in Canton, Mississippi. Prior to
+his professional automotive manufacturing career, Mr. Suggs served
+eight years in the United States Army. He holds a Masters of
+Business Administration degree from Auburn University and a
+Bachelor of Science from Oakland City College in Oakland City,
+Indiana.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The Board has not
+yet appointed Mr. Suggs to any Board committees. Compensatory
+arrangements for Mr. Suggs will be consistent with Renasant’s
+standard arrangements for non-employee directors. These
+arrangements are described in Renasant’s proxy statement for its
+2018 annual meeting of shareholders filed with the Securities and
+Exchange Commission on March 15, 2018 under the heading “Board
+Members and Compensation—Director Compensation.” Mr. Suggs and
+members of his immediate family are customers of Renasant Bank and
+have deposit relationships with Renasant Bank. These transactions
+were made in the ordinary course of Renasant Bank’s business, were
+made on substantially the same terms, including interest rates, as
+those prevailing at the time for comparable relationships with
+persons not related to Renasant or Renasant Bank, and did not
+present other unfavorable features. There are no family
+relationships between Mr. Suggs and any director or executive
+officer of Renasant.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 21, 2018,
+Renasant issued a press release announcing the appointment of Sean
+M. Suggs to its Board of Directors, a copy of which is attached
+hereto as Exhibit 99.1.</font></div>
+<div style=
+"line-height:120%;padding-bottom:6px;padding-top:6px;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+9.01.&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and
+Exhibits.</font></div>
+<div style=
+"line-height:120%;padding-bottom:26px;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">(d)&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="font-family:inherit;font-size:10pt;font-style:italic;">Exhibits</font><font style="font-family:inherit;font-size:10pt;">.</font></div>
+<div style="line-height:120%;padding-left:4px;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:86.96581196581197%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:15%;"></td>
+<td style="width:1%;"></td>
+<td style="width:84%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;text-decoration:underline;">Exhibit
+Number</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;text-decoration:underline;">Description
+of Exhibit</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:center;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">99.1</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:10pt;">
+<a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="pressreleaseresuggsjoining.htm"><font style=
+"font-family:inherit;font-size:10pt;">Press release dated May 21,
+2018 by Renasant Corporation</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURES</font></div>
+<div style=
+"line-height:120%;text-align:justify;text-indent:48px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></div>
+<div style=
+"line-height:120%;padding-bottom:9px;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td style="width:44%;"></td>
+<td style="width:5%;"></td>
+<td style="width:4%;"></td>
+<td style="width:47%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">RENASANT
+CORPORATION</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Date: May 21,
+2018</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style="padding-bottom:2px;text-align:right;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">By:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">/s/ C. Mitchell
+Waycaster</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">C. Mitchell
+Waycaster</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:1px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;text-align:left;padding-left:4px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">President and
+Chief Executive Officer</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:10px;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style="line-height:144%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+</body>
+</html>
+

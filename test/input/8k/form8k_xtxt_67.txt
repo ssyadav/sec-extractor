@@ -1,0 +1,1089 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>vvi-8k_20180517.htm</title>
+</head>
+<!-- NG Converter v5.0.18092.123 -->
+<body>
+<p style=
+"line-height:11pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman Bold;font-style:normal;text-transform:none;font-variant: normal;">
+UNITED STATES</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman Bold;font-style:normal;text-transform:none;font-variant: normal;">
+SECURITIES AND EXCHANGE COMMISSION</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman Bold;font-style:normal;text-transform:none;font-variant: normal;">
+Washington, D.C. 20549</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman Bold;font-style:normal;text-transform:none;font-variant: normal;">
+FORM 8-K</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman Bold;font-style:normal;text-transform:none;font-variant: normal;">
+CURRENT REPORT</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman Bold;font-style:normal;text-transform:none;font-variant: normal;">
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of
+1934</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+May 17, 2018</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Date of Report (Date of earliest event reported)</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<img src="g20180521232837106562.jpg" title="" alt="" style=
+"width:131px;height:69px;" /></p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:24pt;font-family:Times New Roman Bold;font-style:normal;text-transform:none;font-variant: normal;">
+Viad Corp</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Exact name of registrant as specified in its charter)</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:33.33%;"></td>
+<td style="width:33.33%;"></td>
+<td style="width:33.33%;"></td>
+</tr>
+<tr>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman Bold;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Delaware</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman Bold;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+001-11015</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman Bold;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+36-1169950</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(State or other jurisdiction</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Commission</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(IRS Employer</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+of incorporation)</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+File Number)</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Identification No.)</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:66.67%;"></td>
+<td style="width:33.33%;"></td>
+</tr>
+<tr>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman Bold;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+1850 North Central Avenue, Suite 1900, Phoenix, Arizona</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman Bold;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+85004-4565</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Address of principal executive offices)</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Zip Code)</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Registrant’s telephone number, including area code: <font style=
+"font-weight:bold;">(602) 207-1000</font></p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Not Applicable</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Former name or former address, if changed since last report.)</p>
+<p style=
+"margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (<font style=
+"font-style:italic;">see</font> General Instruction A.2.
+below):</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.54%;white-space:nowrap">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</p>
+</td>
+</tr>
+</table>
+</div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.54%;white-space:nowrap">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)</p>
+</td>
+</tr>
+</table>
+</div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.54%;white-space:nowrap">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))</p>
+</td>
+</tr>
+</table>
+</div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.54%;white-space:nowrap">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"color:#000000;font-family:MS Mincho;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-top:6pt;margin-bottom:0pt;color:#000000;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-top:10pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17
+CFR §230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).</p>
+<p style=
+"margin-top:10pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Emerging growth company <font style=
+"color:#000000;font-family:MS Mincho;">☐</font></p>
+<p style=
+"margin-top:10pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange
+Act.&nbsp;&nbsp;<font style=
+"color:#000000;font-family:MS Mincho;">☐</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<hr style="page-break-after:always;width:100%;" />
+<p style=
+"line-height:11pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="_AEIOULastRenderedPageBreakAEIOU2" id=
+"_AEIOULastRenderedPageBreakAEIOU2"></a><font style=
+"font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item
+1.01</font><font style="margin-left:36pt;">Entry into a Material
+Definitive Agreement.</font></p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Effective May 18, 2018, our wholly-owned subsidiary, Brewster Inc.,
+executed the Second Amendment to Credit Agreement and Reaffirmation
+of Guaranties (the “Second Amendment”) to its revolving credit
+facility, dated as of December 28, 2016 and amended on December 6,
+2017, with BMO Harris Bank N.A. (the “Credit Facility”). BMO Harris
+Bank N.A. is a lender under our existing $300,000,000 credit
+facility (the “Viad Credit Facility”).</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The Second Amendment increases the amount available under the
+Credit Facility to $30,000,000.</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Other than in respect of the Credit Facility, the Viad Credit
+Facility, and an existing commercial banking relationship, neither
+we, nor our affiliates have any material relationships with BMO
+Harris Bank N.A. This description of the Amendment is qualified by
+reference to the full text of the Amendment, a copy of which is
+attached as Exhibit 4.B4 and is incorporated by reference
+herein.&nbsp;&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:10%;text-indent:-10%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:10%;text-indent:-10%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:10%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Item 5.07</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+<a name="Section46D636B706D6F5E0594224E7FD08324E" id=
+"Section46D636B706D6F5E0594224E7FD08324E"></a><a name=
+"Section46D636B706D6F5E0594224E7FD08324E" id=
+"Section46D636B706D6F5E0594224E7FD08324E"></a>SUBMISSION OF MATTERS
+TO A VOTE OF SECURITY HOLDERS</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(a)<font style="margin-left:36pt;">On May 1</font>7, 2018, we held
+our annual meeting of shareholders (the “2018 Annual Meeting”). A
+total of <font style="color:#000000;">18,973,796</font> shares or
+92.7% of outstanding shares of our Common Stock, were represented
+in person or by proxy at the 2018 Annual Meeting.</p>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(b)<font style="margin-left:36pt;">The following proposals are
+described in detail in</font> our Proxy Statement filed with the
+SEC on April 4, 2018. The final voting results for each of the
+matters submitted to a shareholder vote at the 2018 Annual Meeting
+are as follows:</p>
+<p style=
+"text-align:justify;margin-bottom:9pt;margin-top:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style="font-weight:bold;font-style:italic;">Proposal One:
+Election of Directors.</font> Our shareholders reelected all
+director nominees in an uncontested election, based on the
+following voting results:</p>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:512pt;;">
+<tr>
+<td style="width:124.7pt;"></td>
+<td style="width:9.95pt;"></td>
+<td style="width:82.85pt;"></td>
+<td style="width:9pt;"></td>
+<td style="width:83.85pt;"></td>
+<td style="width:7pt;"></td>
+<td style="width:83.85pt;"></td>
+<td style="width:9pt;"></td>
+<td style="width:101.8pt;"></td>
+</tr>
+<tr style="height:14pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Top:0pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Nominee</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Top:0pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+For</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Top:0pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Against</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Top:0pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Abstain</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Top:0pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Broker Non-Votes</p>
+</td>
+</tr>
+<tr style="height:13pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Richard H. Dozer</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+17,516,501</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+701,945</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+9,320</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+746,030</p>
+</td>
+</tr>
+<tr style="height:13pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Virginia L. Henkels</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+17,526,378</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+692,875</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+8,513</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+746,030</p>
+</td>
+</tr>
+<tr style="height:13pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Robert E. Munzenrider</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+17,333,601</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+884,957</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+9,208</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+746,030</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:justify;line-height:6pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-weight:bold;font-style:italic;font-family:Times New Roman;font-size:10pt;text-transform:none;font-variant: normal;">
+Proposal Two: Ratification of Viad’s Independent Registered Public
+Accounting Firm for 2018. <font style=
+"font-weight:normal;font-style:normal;">Our shareholders ratified
+the selection of Deloitte &amp; Touche LLP as our independent
+registered public accounting firm for the 2018 fiscal year, based
+on the following voting results:</font></p>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:514pt;;">
+<tr>
+<td style="width:121pt;"></td>
+<td style="width:10pt;"></td>
+<td style="width:121pt;"></td>
+<td style="width:10pt;"></td>
+<td style="width:121pt;"></td>
+<td style="width:10pt;"></td>
+<td style="width:121pt;"></td>
+</tr>
+<tr style="height:13pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+For</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Against</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Abstain</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr style="height:13pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+18,117,532</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+847,330</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+8,934</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:justify;line-height:10pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-weight:bold;font-style:italic;font-family:Times New Roman;font-size:10pt;text-transform:none;font-variant: normal;">
+Proposal Three: Advisory Approval of Named Executive Officer
+Compensation. <font style=
+"font-weight:normal;font-style:normal;">Our shareholders approved
+on an advisory basis, named executive officer compensation, based
+on the following voting results:</font></p>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:514pt;;">
+<tr>
+<td style="width:121pt;"></td>
+<td style="width:10pt;"></td>
+<td style="width:121pt;"></td>
+<td style="width:10pt;"></td>
+<td style="width:121pt;"></td>
+<td style="width:10pt;"></td>
+<td style="width:121pt;"></td>
+</tr>
+<tr style="height:13pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+For</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Against</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Abstain</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt; border-bottom:solid 1pt transparent;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Broker Non-Votes</p>
+</td>
+</tr>
+<tr style="height:13pt;">
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+17,467,987</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+690,736</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+69,043</p>
+</td>
+<td valign="bottom" style="padding-left:3pt;padding-Right:3pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:3pt;padding-Right:3pt;padding-Bottom:2pt;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+746,030</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:6.67%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+<br /></p>
+<p style=
+"margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<hr style="page-break-after:always;width:100%;" />
+<p style=
+"line-height:11pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-top:18pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="_AEIOULastRenderedPageBreakAEIOU3" id=
+"_AEIOULastRenderedPageBreakAEIOU3"></a><font style=
+"font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item
+9.01</font> <font style=
+"font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Financial Statements a</font><font style=
+"font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">nd
+Exhibits</font><font style=
+"font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">.</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.54%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(d)</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;color:#000000;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">
+Exhibits</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:4.54%;text-indent:-4.54%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; margin-left:6.67%;width:80.83%;">
+<tr>
+<td valign="top" style="width:9.3%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+4.B4</p>
+</td>
+<td valign="bottom" style="width:1.16%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+&nbsp;&nbsp;</p>
+</td>
+<td valign="top" style="width:89.54%;">
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<a href="vvi-ex4b4_6.htm"><font style=
+"text-decoration:underline;">Second Amendment to Credit Agreement
+and Reaffirmation of Guaranties effective as of May 18, 2018, to
+the Credit Agreement, between Brewster Inc., and BMO Harris Bank
+N.A., dated as of December 28, 2016 and amended on December 6,
+2017.</font></a></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:9.3%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:1.16%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:89.54%;">
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"text-align:center;margin-top:18pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+SIGNATURES</p>
+<p style=
+"margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized.</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:49.78%;"></td>
+<td style="width:3.44%;"></td>
+<td style="width:46.78%;"></td>
+</tr>
+<tr>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">
+Viad Corp</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Registrant)</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt; border-bottom:solid 1pt transparent;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+May 21, 2018</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt; border-bottom:solid 1pt transparent;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+By:</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:2pt; border-bottom:solid 1pt #000000;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+/s/ Derek P. Linde</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:0pt; border-top:solid 1pt #000000;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Derek P. Linde</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="padding-left:0pt;padding-Right:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-left:0pt;padding-Right:0pt;padding-Bottom:0pt;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+General Counsel and Corporate Secretary</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+<p style=
+"margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">
+&nbsp;</p>
+</body>
+</html>
+

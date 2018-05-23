@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+<p style="margin: 0"></p>
+<p style="font-size: 10pt; text-align: center; margin: 0"><b>UNITED
+STATES</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>WASHINGTON, D.C. 20549</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>______________</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>&nbsp;</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0"><b>FORM
+8-K</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>CURRENT REPORT</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>PURSUANT TO SECTION 13 OR 15(d) OF THE</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>SECURITIES EXCHANGE ACT OF 1934</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; text-align: center; margin: 0">Date of
+Report (Date of earliest event reported): May 22, 2018</p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<u>ChinaNet Online Holdings, Inc.</u></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">(Exact
+Name of Registrant as Specified in Charter)</p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font-size: 10pt; width: 100%">
+<tr style="vertical-align: bottom">
+<td style=
+"width: 30%; border-bottom: black 1pt solid; font-size: 10pt; text-align: center">
+<font style="font-size: 10pt">Nevada</font></td>
+<td style="width: 5%">&nbsp;</td>
+<td style=
+"width: 30%; border-bottom: black 1pt solid; font-size: 10pt; text-align: center">
+<font style="font-size: 10pt">001-34647</font></td>
+<td style="width: 5%">&nbsp;</td>
+<td style=
+"width: 30%; border-bottom: black 1pt solid; font-size: 10pt; text-align: center">
+<font style="font-size: 10pt">20-4672080</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-size: 10pt; text-align: center"><font style=
+"font-size: 10pt">(State or Other Jurisdiction of
+Incorporation)</font></td>
+<td>&nbsp;</td>
+<td style="font-size: 10pt; text-align: center"><font style=
+"font-size: 10pt">(Commission File Number)</font></td>
+<td>&nbsp;</td>
+<td style="font-size: 10pt; text-align: center"><font style=
+"font-size: 10pt">(IRS Employer Identification No.)</font></td>
+</tr>
+<tr style="vertical-align: bottom">
+<td colspan="5" style="border-bottom: black 1pt solid">
+<p style="font-size: 10pt; text-align: center; margin: 0">No. 3 Min
+Zhuang Road, Building 6,</p>
+<p style="font-size: 10pt; text-align: center; margin: 0">Yu Quan
+Hui Gu Tuspark, Haidian District, Beijing, PRC 100195</p>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<td colspan="5" style="font-size: 10pt; text-align: center">
+<font style="font-size: 10pt">(Address of Principal Executive
+Offices and Zip Code)</font></td>
+</tr>
+</table>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; text-align: center; margin: 0"></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+Registrant’s telephone number, including area code:</p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b><u>+86-10-6084-6616</u></b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+___________________________________________</p>
+<p style="font-size: 10pt; text-align: center; margin: 0">(Former
+Name or Former Address, if Changed Since Last Report)</p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; margin: 0">Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously
+satisfythe filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):</p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<p style="font-size: 10pt; margin: 0">[ ] Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+<p style="font-size: 10pt; margin: 0">[ ] Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</p>
+<p style="font-size: 10pt; margin: 0">[ ] Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act
+(17CFR 240.14d-2(b))</p>
+<p style="font-size: 10pt; margin: 0">[ ] Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act
+(17CFR 240.13e-4(c))</p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<p style="font-size: 10pt; margin: 0">Indicate by check mark
+whether the registrant is an emerging growth company as defined
+inRule 405 of the Securities Act of 1933 (§230.405 of this chapter)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2of
+this chapter). Emerging growth company [ ]</p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<p style="font-size: 10pt; margin: 0">If an emerging growth
+company, indicate by check mark if the registrant has elected not
+touse the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to
+Section13(a) of the Exchange Act. [ ]</p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<p style="font-size: 10pt; margin: 0"></p>
+<!-- Field: Page; Sequence: 1 -->
+<div style=
+"margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4pt solid">
+&nbsp;</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font-size: 10pt; margin: 0"></p>
+<p style="font-size: 10pt; margin: 0"><b>Item 2.02. Results of
+Operations and Financial Condition.</b></p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<p style="font-size: 10pt; margin: 0"></p>
+<p style="font-size: 10pt; margin: 0">On May 22, 2018, ChinaNet
+Online Holdings, Inc., a Nevada corporation (the “Company”),issued
+a press release containing certain financial results for its first
+fiscal quarter of 2018. A copy of the press release isattached to
+this Current Report on Form 8-K as Exhibit 99.1 and incorporated
+herein by reference.</p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<p style="margin: 0">As provided in General Instruction B.2 of SEC
+Form 8-K, such information shall not be deemed “filed”for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”), or otherwise subjectto the liabilities of
+that section, and it shall not be deemed incorporated by reference
+in any filing under the Securities Actof 1933, as amended, or under
+the Exchange Act, whether made before or after the date hereof,
+except as expressly set forth byspecific reference in such filing
+to this Current Report on Form 8-K.</p>
+<p style="font-size: 10pt; margin: 0"></p>
+<p style="font-size: 10pt; margin: 0"><b>&nbsp;</b></p>
+<p style="font-size: 10pt; margin: 0"><b>Item 9.01. Financial
+Statements and Exhibits.</b></p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0">(d)
+Exhibits.</p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font-size: 10pt; width: 100%">
+<tr style="vertical-align: top">
+<td style="width: 10%; font-size: 10pt"><font style=
+"font-size: 10pt"><b><u>No.</u></b></font></td>
+<td style="width: 1%">&nbsp;</td>
+<td style="width: 89%; font-size: 10pt"><font style=
+"font-size: 10pt"><b><u>Description</u></b></font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-size: 10pt"><a href="exh_991.htm"><font style=
+"font-size: 10pt">99.1</font></a></td>
+<td>&nbsp;</td>
+<td style="font-size: 10pt"><a href="exh_991.htm"><font style=
+"font-size: 10pt">Press Release dated May 22, 2018.</font></a></td>
+</tr>
+<tr style="vertical-align: top">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>&nbsp;</b></p>
+<p style="font-size: 10pt; text-align: center; margin: 0"></p>
+<!-- Field: Page; Sequence: 2 -->
+<div style=
+"margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4pt solid">
+&nbsp;</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>SIGNATURE</b></p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0">Pursuant
+to the requirements of the Securities Exchange Act of 1934,the
+registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.</p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0">
+&nbsp;</p>
+<table border="0" cellpadding="0" cellspacing="0" style=
+"width: 100%; border-collapse: collapse; font-size: 10pt">
+<tr style="vertical-align: middle">
+<td style="width: 25%">Dated: May 22, 2018</td>
+<td style="width: 25%">&nbsp;</td>
+<td style="width: 7%">&nbsp;</td>
+<td style="width: 43%">ChinaNet Online Holdings, Inc.</td>
+</tr>
+<tr style="vertical-align: middle">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align: middle">&nbsp;</td>
+<td style="vertical-align: bottom">&nbsp;</td>
+<td style="vertical-align: middle; text-align: right">
+By:&nbsp;&nbsp;</td>
+<td style=
+"vertical-align: middle; border-bottom: Black 0.5pt solid">/s/
+Handong Cheng</td>
+</tr>
+<tr style="vertical-align: middle">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Name: Handong Cheng</td>
+</tr>
+<tr style="vertical-align: middle">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Title: Chief Executive Officer</td>
+</tr>
+</table>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0"></p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0">
+&nbsp;</p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0"></p>
+<!-- Field: Page; Sequence: 3 -->
+<div style=
+"margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4pt solid">
+&nbsp;</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0"></p>
+<p style="font-size: 10pt; text-indent: 0.5in; margin: 0"></p>
+<p style="font-size: 10pt; text-align: center; margin: 0">
+<b>EXHIBIT INDEX</b></p>
+<p style="font-size: 10pt; margin: 0">&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font-size: 10pt; width: 100%">
+<tr style="vertical-align: top">
+<td style="width: 13%; font-size: 10pt"><font style=
+"font-size: 10pt"><b><u>Exhibit No.</u></b></font></td>
+<td style="width: 1%">&nbsp;</td>
+<td style="width: 86%; font-size: 10pt"><font style=
+"font-size: 10pt"><b><u>Description</u></b></font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-size: 10pt"><a href="exh_991.htm"><font style=
+"font-size: 10pt">99.1</font></a></td>
+<td>&nbsp;</td>
+<td style="font-size: 10pt"><a href="exh_991.htm"><font style=
+"font-size: 10pt">Press Release dated May 22, 2018.</font></a></td>
+</tr>
+<tr style="vertical-align: top">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p style="font-size: 10pt; margin: 12pt 0 0">&nbsp;</p>
+<p style="margin: 0"></p>
+</body>
+</html>
+
