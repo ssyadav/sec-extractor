@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>skas20180522_8k.htm</title>
+<!-- Created by RDG HTML Converter v1.1.0.0 5/22/2018 6:59:10 AM -->
+<meta charset="utf-8" />
+<meta name="format-detection" content="telephone=no" />
+</head>
+<body style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin-left: 10px; margin-right: 10px; cursor: auto;">
+
+<table border="0" cellpadding="0" cellspacing="0" style=
+"width:100%;text-indent:0;font-family:'Times New Roman', Times, serif;font-size:10pt;">
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>United States</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Securities and Exchange Commission</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Washington, D.C. 20549</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:18pt;margin:0pt;text-align:center;">
+<b>FORM 8-K</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Current Report Pursuant to</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Section 13 or 15(d) of the Securities Exchange Act of
+1934</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>May 16</b><b>, 201</b><b>8</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+Date of Report (Date of earliest event reported)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:18pt;margin:0pt;text-align:center;">
+<b>SAKER AVIATION SERVICES, INC.</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Exact name of registrant as specified in its charter)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:33.3%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Nevada</b></p>
+</td>
+<td style="vertical-align:top;width:33.3%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>000-52593</b></p>
+</td>
+<td colspan="2" style="vertical-align:top;width:33.3%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>87-0617649</b></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:33.3%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(State of incorporation)</p>
+</td>
+<td style="vertical-align:top;width:33.3%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Commission File Number)</p>
+</td>
+<td colspan="2" style="vertical-align:top;width:33.3%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(IRS Employer Identification No.)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:top;width:75%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>20 South Street, Pier 6 East River, New York, NY</b></p>
+</td>
+<td style="vertical-align:top;width:25%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>10004</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:top;width:75%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Address of principal executive offices)</p>
+</td>
+<td style="vertical-align:top;width:25%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Zip Code)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>(</b><b>212</b><b>)</b> <b>776-4046</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Registrant’s telephone number, including area code)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Not applicable</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style=
+"vertical-align:top;border-bottom:solid 1px #000000;;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Former name or former address, if changed since last report)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style=
+"vertical-align:top;border-bottom: 1px #000000;;width:100%;">
+&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2.
+below):</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+[ ] Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="vertical-align:top;width:100%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" style=
+"vertical-align:top;border-bottom:double 4px #000000;;width:100%;">
+&nbsp;</td>
+</tr>
+</table>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§ 240.12b-2 of this chapter).</p>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Emerging growth company ☐</p>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.
+☐</p>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+<div id="PGBK" style=
+"width: 100%; margin-left: 0pt; margin-right: 0pt">
+<div id="PGNUM" style="text-align: center; width: 100%">
+&nbsp;</div>
+<hr style=
+"PAGE-BREAK-AFTER: always; border: none; width: 100%; height: 2px; color: #000000; background-color: #000000" />
+
+<div id="PGHDR" style="text-align: left; width: 100%">&nbsp;</div>
+</div>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin: 0pt; text-align: left">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<b>I</b><b>tem 8.01. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other
+Events.</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:justify;text-indent:36pt;">
+On May 8, 2018, Saker Aviation Services, Inc. (the “Company”)
+approved an expansion to the stock repurchase program authorized on
+September 8, 2017, the revision approving the repurchase of up to a
+total of 5,000,000 shares of the Company’s outstanding common
+stock, par value $0.001 per share (“Common Stock”). Pursuant to
+such program, on May 16, 2018, the Company repurchased an aggregate
+of 1,783,115 shares of Common Stock from three affiliated
+stockholder funds for an aggregate purchase price of approximately
+$160,480 ($0.09 per share). The Company’s stock repurchase program
+may be suspended, modified or discontinued at any time and the
+Company has no obligation to repurchase any additional Common
+Stock.</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+&nbsp;</p>
+<div id="PGBK" style=
+"width: 100%; margin-left: 0pt; margin-right: 0pt">
+<div id="PGNUM" style="text-align: center; width: 100%">
+&nbsp;</div>
+<hr style=
+"PAGE-BREAK-AFTER: always; border: none; width: 100%; height: 2px; color: #000000; background-color: #000000" />
+
+<div id="PGHDR" style="text-align: left; width: 100%">&nbsp;</div>
+</div>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin: 0pt; text-align: left">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;text-indent:36pt;">
+<b>SIGNATURES</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;text-indent:36pt;">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.</p>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+<table border="0" cellpadding="0" cellspacing="0" style=
+"width:100%;text-indent:0;font-family:'Times New Roman', Times, serif;font-size:10pt;">
+<tr>
+<td style="vertical-align:top;width:46.1%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Date:&nbsp;May 22, 2018</p>
+</td>
+<td style="vertical-align:top;width:7.7%;">&nbsp;</td>
+<td style="vertical-align:top;width:46.1%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;text-transform:uppercase;">
+<b>saker aviation services, inc.</b></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+<td style="vertical-align:top;width:7.7%;">&nbsp;</td>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+<td style="vertical-align:top;width:7.7%;">&nbsp;</td>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+<td style="vertical-align:top;width:7.7%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:right;">
+By:&nbsp;&nbsp;</p>
+</td>
+<td style=
+"vertical-align:top;border-bottom:solid 1px #000000;;width:46.1%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;/s/ Ronald J Ricciardi</p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+<td style="vertical-align:top;width:7.7%;">&nbsp;</td>
+<td style=
+"vertical-align:top;border-bottom: 1px #000000;;width:46.1%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Ronald J. Ricciardi</p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+<td style="vertical-align:top;width:7.7%;">&nbsp;</td>
+<td style="vertical-align:top;width:46.1%;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+President</p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+<td style="vertical-align:top;width:7.7%;">&nbsp;</td>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+<td style="vertical-align:top;width:7.7%;">&nbsp;</td>
+<td style="vertical-align:top;width:46.1%;">&nbsp;</td>
+</tr>
+</table>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+</body>
+</html>
+

@@ -1,0 +1,621 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>kss-8k_20180522.htm</title>
+</head>
+<!-- NG Converter v5.0.18092.123 -->
+<body>
+<p style=
+"margin-bottom:0pt;border-bottom:Double 2.25pt;padding-bottom:1pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">
+<a name="FIS_UNIDENTIFIED_TABLE" id=
+"FIS_UNIDENTIFIED_TABLE"></a>&nbsp;</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-weight:bold;;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+UNITED STATES</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+SECURITIES AND EXCHANGE COMMISSION</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Washington, D.C. 20549</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+FORM 8-K</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+CURRENT REPORT</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of
+1934</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Date of Report (Date of earliest event reported): <font style=
+"font-weight:bold;">&nbsp;May 22, 2018</font></p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:16pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+KOHL’S CORPORATION</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Exact name of registrant as specified in its charter)</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:67.96%;">
+<tr style="height:27.6pt;">
+<td valign="bottom" style="width:39.66%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wisconsin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+</td>
+<td colspan="2" valign="bottom" style="width:30.46%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"text-decoration:underline;">&nbsp;&nbsp;001-11084</font><font style="font-family:Calibri;">&nbsp;&nbsp;</font></p>
+</td>
+<td valign="bottom" style="width:29.88%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;39-1630919&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+</td>
+</tr>
+<tr style="height:21.6pt;">
+<td valign="bottom" style="width:39.66%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(State or other jurisdiction</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+of incorporation)</p>
+</td>
+<td colspan="2" valign="bottom" style="width:30.46%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Commission</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+File Number)</p>
+</td>
+<td valign="bottom" style="width:29.88%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(IRS Employer</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Identification No.)</p>
+</td>
+</tr>
+<tr style="height:39.15pt;">
+<td colspan="2" valign="bottom" style="width:49.04%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+&nbsp;&nbsp;&nbsp;&nbsp;N56 W17000 Ridgewood
+Drive&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menomonee
+Falls, Wisconsin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+</td>
+<td colspan="2" valign="bottom" style="width:50.96%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style="text-decoration:underline;">53051</font></p>
+</td>
+</tr>
+<tr style="height:11.25pt;">
+<td colspan="2" valign="bottom" style="width:49.04%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Address of principal executive offices)</p>
+</td>
+<td colspan="2" valign="bottom" style="width:50.96%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+(Zip Code)</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Registrant's telephone number, including area code: &nbsp;(262)
+703-7000</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.75%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;margin-left:0.78%;text-indent:0%;font-size:12pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐<font style="font-family:Arial;">Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:6pt;margin-left:0.78%;text-indent:0%;font-size:12pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐<font style="font-family:Arial;">Soliciting material pursuant to
+Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:0.78%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:6pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Segoe UI Symbol;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:5.47%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:6pt;font-size:12pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"font-size:12pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:6pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Segoe UI Symbol;font-size:12pt;">
+<font style="font-family:Arial;">Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</font></p>
+</td>
+</tr>
+</table>
+</div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:0.78%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:6pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Segoe UI Symbol;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:5.47%;white-space:nowrap">
+<p style=
+"margin-bottom:0pt;margin-top:6pt;font-size:12pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style=
+"font-size:12pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+☐</font></p>
+</td>
+<td valign="top">
+<p style=
+"margin-bottom:0pt;margin-top:6pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Segoe UI Symbol;font-size:12pt;">
+<font style="font-family:Arial;">Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;margin-left:6.75%;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 
+230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§ 240.12b-2 of this chapter).</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;margin-left:6.75%;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Emerging growth company&nbsp;<font style=
+"font-family:Segoe UI Symbol;">☐</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;margin-left:6.75%;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange
+Act.&nbsp;<font style="font-family:Segoe UI Symbol;">☐</font></p>
+<p style=
+"margin-bottom:0pt;border-bottom:Double 2.25pt;padding-bottom:1pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+<hr style="page-break-after:always;width:100%;" />
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="eolPage2" id="eolPage2"></a><a name=
+"FIS_SECTION_2_FINANCIAL_INFORMATION" id=
+"FIS_SECTION_2_FINANCIAL_INFORMATION"></a><a name=
+"FIS_RESULTS_OF_OPERATIONS" id=
+"FIS_RESULTS_OF_OPERATIONS"></a><a name=
+"_AEIOULastRenderedPageBreakAEIOU2" id=
+"_AEIOULastRenderedPageBreakAEIOU2"></a><font style=
+"font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">Item
+2.02.&nbsp;&nbsp;</font> <font style=
+"text-decoration:underline;">Results of Operations and Financial
+Condition</font><font style=
+"font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">.</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+On May 22, 2018, Kohl's Corporation issued a press release
+reporting its earnings for the quarter ended May 5, 2018 and
+updated its fiscal 2018 guidance. A copy of the press release is
+attached as Exhibit 99.1 and incorporated by reference herein.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The information in this Item 2.02, including the exhibit attached
+hereto, is furnished solely pursuant to Item 2.02 of Form 8-K.
+Consequently, such information is not deemed “filed” for the
+purposes of Section 18 of the Securities Exchange Act of 1934, or
+otherwise subject to the liabilities of that section. Further, the
+information in this Item 2.02, including the exhibit, shall not be
+deemed to be incorporated by reference into the filings of the
+registrant under the Securities Act of 1933.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="FIS_SECTION_7_REGULATION_FD" id=
+"FIS_SECTION_7_REGULATION_FD"></a><a name="FIS_DISCLOSURE" id=
+"FIS_DISCLOSURE"></a>Item 7.01.&nbsp;&nbsp; <font style=
+"text-decoration:underline;">Regulation FD Disclosure</font>.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="FIS_SECTION_8_OTHER_EVENTS" id=
+"FIS_SECTION_8_OTHER_EVENTS"></a><a name="FIS_OTHER_EVENTS" id=
+"FIS_OTHER_EVENTS"></a><a name="FIS_SECTION_8_OTHER_EVENTS" id=
+"FIS_SECTION_8_OTHER_EVENTS"></a><a name="FIS_OTHER_EVENTS" id=
+"FIS_OTHER_EVENTS"></a>See Item 2.02.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The Company has adopted <font style="font-style:italic;">Revenue
+from Contracts with Customers (ASC Topic 606)</font>​. The new
+standard eliminated the transaction- and industry-specific revenue
+recognition guidance under prior U.S. GAAP and replaced it with a
+principles-based approach for revenue recognition and disclosures.
+Under the standard, revenue is recognized when a customer obtains
+control of promised goods or services in an amount that reflects
+the consideration the entity expects to receive in exchange for
+those goods or services.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The new standard has an immaterial impact on the Company's
+accounting for returns and rewards program such as Kohl’s Cash and
+our loyalty program.​ Revenues from the Company's credit card
+operations, which were previously recorded as a reduction of
+SG&amp;A expenses, are now included in “Other Revenue” which is a
+new line on the income statement. This change in presentation had
+no impact on net income.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+The standard was adopted on a retrospective basis. On May 22, 2018,
+the Company issued a presentation entitled "ASC 606, Revenue from
+Contracts with Customers," which contains restated quarterly and
+annual financial information for 2017. The presentation is attached
+as 99.2 and incorporated by reference herein.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+Item 8.01.&nbsp;&nbsp; <font style=
+"text-decoration:underline;">Other Events</font>.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+On May 16, 2018 the Kohl's Board of Directors declared a quarterly
+dividend of $0.61 per common share. &nbsp;The dividend will be paid
+on June 27, 2018 to shareholders of record at the close of business
+on June 13, 2018.</p>
+<p style=
+"text-align:justify;margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+<font style="text-decoration:underline;">Cautionary Statement
+Regarding Forward-Looking Information</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-style:italic;font-size:12pt;font-family:Arial;font-weight:normal;text-transform:none;font-variant: normal;">
+This current report on Form 8-K contains "forward-looking
+statements" within the meaning of the Private Securities Litigation
+Reform Act of 1995, including 2018 earnings guidance. The Company
+intends forward-looking terminology such as "believes," "expects,"
+"may," "will," "should," "anticipates," "plans," or similar
+expressions to identify forward-looking statements. Such statements
+are subject to certain risks and uncertainties, which could cause
+the Company's actual results to differ materially from those
+anticipated by the forward-looking statements. These risks and
+uncertainties include, but are not limited to, risks described more
+fully in Item 1A in the Company's Annual Report on Form 10-K, which
+is expressly incorporated herein by reference, and other factors as
+may periodically be described in the Company's filings with the
+SEC.</p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="eolPage3" id="eolPage3"></a><a name=
+"FIS_SECTION_9_FINANCIAL_STATEMENTS_AND_E" id=
+"FIS_SECTION_9_FINANCIAL_STATEMENTS_AND_E"></a><a name=
+"FIS_FINANCIAL_STATEMENTS_AND_EXHIBITS" id=
+"FIS_FINANCIAL_STATEMENTS_AND_EXHIBITS"></a>Item 9.01.&nbsp;&nbsp;
+<font style="text-decoration:underline;">Financial Statements and
+Exhibits</font>.</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:77.42%;">
+<tr style="height:25.25pt;">
+<td valign="bottom" style="width:17.1%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="FIS_UNIDENTIFIED_TABLE_2" id=
+"FIS_UNIDENTIFIED_TABLE_2"></a><font style=
+"text-decoration:underline;">Exhibit No.</font></p>
+</td>
+<td valign="bottom" style="width:0.22%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:82.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<font style="text-decoration:underline;">Description</font></p>
+</td>
+</tr>
+<tr style="height:4pt;">
+<td valign="bottom" style="width:17.1%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:0.22%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:82.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+&nbsp;</p>
+</td>
+</tr>
+<tr style="height:14.85pt;">
+<td valign="top" style="width:17.1%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+99.1</p>
+</td>
+<td valign="top" style="width:0.22%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:82.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#auto;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<a href="kss-ex991_6.htm"><font style=
+"text-decoration:underline;">Press Release dated May 22,
+2018</font></a></p>
+</td>
+</tr>
+<tr style="height:16.85pt;">
+<td valign="top" style="width:17.1%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+99.2</p>
+</td>
+<td valign="bottom" style="width:0.22%;">
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:1.5pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="bottom" style="width:82.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#auto;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+<a href="kss-ex992_11.htm"><font style=
+"text-decoration:underline;">Presentation ("ASC 606, Revenue from
+Contracts with Customers") dated May 22, 2018</font></a></p>
+</td>
+</tr>
+</table>
+</div>
+<hr style="page-break-after:always;width:100%;" />
+<p style=
+"text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">
+<a name="eolPage4" id="eolPage4"></a><a name="FIS_SIGNATURES" id=
+"FIS_SIGNATURES"></a><a name="_AEIOULastRenderedPageBreakAEIOU3"
+id="_AEIOULastRenderedPageBreakAEIOU3"></a><font style=
+"text-decoration:underline;">SIGNATURES</font></p>
+<p style=
+"margin-bottom:0pt;margin-top:12pt;text-indent:6.77%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.</p>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+style="border-collapse:collapse; width:90.62%;">
+<tr>
+<td valign="top" style="width:37.94%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Dated: &nbsp;May 22, 2018</p>
+</td>
+<td colspan="4" valign="top" style="width:61.36%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+KOHL'S CORPORATION</p>
+</td>
+<td valign="top" style="width:0.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:37.94%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:6.88%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td colspan="2" valign="top" style="width:9.44%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:45.04%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:0.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"width:37.94%; border-bottom:solid 0.75pt transparent;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style=
+"width:6.88%; border-bottom:solid 0.75pt transparent;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+By:</p>
+</td>
+<td valign="top" style=
+"width:0.2%; border-bottom:solid 0.75pt transparent;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td colspan="2" valign="top" style=
+"width:54.28%; border-bottom:solid 0.75pt #000000;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+/s/ Jason J. Kelroy</p>
+</td>
+<td valign="top" style="width:0.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:37.94%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:6.88%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:0.2%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td colspan="2" valign="bottom" style=
+"width:54.28%; border-top:solid 0.75pt #000000;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Jason J. Kelroy</p>
+</td>
+<td valign="top" style="width:0.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:37.94%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:6.88%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:0.2%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td colspan="2" valign="bottom" style="width:54.28%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+Executive Vice President,</p>
+</td>
+<td valign="top" style="width:0.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:37.94%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:6.88%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:0.2%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td colspan="2" valign="bottom" style="width:54.28%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">
+General Counsel and Secretary</p>
+</td>
+<td valign="top" style="width:0.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:37.94%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:6.88%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:0.2%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td colspan="2" valign="top" style="width:54.28%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+<td valign="top" style="width:0.68%;">
+<p style=
+"margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</td>
+</tr>
+</table>
+</div>
+<p style=
+"margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">
+&nbsp;</p>
+</body>
+</html>
+

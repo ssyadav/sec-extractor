@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>Form 8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>WASHINGTON, D.C. 20549</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM 8-K</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CURRENTREPORT</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Pursuant to Section&nbsp;13 or 15(d) of
+the</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Securities Exchange Act of 1934</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (Date of earliest event reported):
+May&nbsp;21, 2018</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Commission File Number of Issuing Entity:
+<font STYLE="white-space:nowrap"><font STYLE=
+"white-space:nowrap">000-20787-07</font></font></b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Central Index Key Number of Issuing Entity:
+0001003509</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>AMERICAN EXPRESS CREDIT ACCOUNT MASTER
+TRUST</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact Name of Issuing Entity as Specified in its
+Charter)</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Commission File Number of
+Depositor/Registrant:<font STYLE="white-space:nowrap"><font STYLE=
+"white-space:nowrap">333-113579-02</font></font></b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Central Index Key Number ofDepositor/Registrant:
+0001283434</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>AMERICAN EXPRESS RECEIVABLES FINANCING
+CORPORATION III LLC</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact Name of Depositor/Registrant as Specified
+in its Charter)</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td WIDTH="50%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="48%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>Delaware</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">20-0942395</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(State or Other Jurisdiction of</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Incorporation or Organization)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(I.R.S. Employer</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Identification Number)</b></p>
+</td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>4315 South 2700 West, Room 1100</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Mail Stop <font STYLE=
+"white-space:nowrap"><font STYLE=
+"white-space:nowrap">02-01-46</font></font></b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Salt Lake City, Utah 84184</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(801) <font STYLE=
+"white-space:nowrap">945-5648</font></b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Address, Including Zip Code, and Telephone
+Number, Including Area Code, of the Registrant’s Principal
+Executive Office)</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>N/A</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Former Name orFormer Address, if Changed Since
+Last Report)</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Central IndexKey Number of Sponsor:
+0000949348</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>AMERICAN EXPRESS NATIONAL BANK</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact Name of Sponsor as Specified in its
+Charter)</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box belowif the Form <font STYLE=
+"white-space:nowrap">8-K</font> filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions.</p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule
+<font STYLE="white-space:nowrap">14a-12(b)</font> under the
+Exchange Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">14d-2(b)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">13e-4(c)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule <font STYLE=
+"white-space:nowrap">12b-2</font> of the Securities Exchange Act of
+1934 <font STYLE="white-space:nowrap">(§240.12b-2</font> of this
+chapter).</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Emerging growth company</td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerging growth company, indicate by check mark if the
+registrant has electednot to use the extended transition period for
+complying with any new or revised financial accounting standards
+provided pursuant to Section&nbsp;13(a) of the Exchange
+Act.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>INFORMATION TO BE INCLUDED IN THE REPORT</b></p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td WIDTH="7%"></td>
+<td VALIGN="bottom" WIDTH="3%"></td>
+<td WIDTH="90%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">Item&nbsp;8.01.</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><b>Other Events.</b></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">On May&nbsp;21, 2018, American Express Credit
+Account Master Trust (the “Trust”) supplemented its Fourth Amended
+and Restated Pooling and Servicing Agreement, dated as of
+April&nbsp;1, 2018, as amended from time to time(the “Pooling and
+Servicing Agreement”), with its Series <font STYLE=
+"white-space:nowrap">2018-4</font> Supplement, dated as of
+May&nbsp;21, 2018 (the “Series <font STYLE=
+"white-space:nowrap">2018-4</font> Supplement”). TheSeries
+<font STYLE="white-space:nowrap">2018-4</font> Supplement is
+attached hereto as Exhibit 4.1.</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">On May&nbsp;21, 2018, the Trust issued its
+$900,000,000 Class&nbsp;A 2.99% Asset Backed Certificates, Series
+<font STYLE="white-space:nowrap">2018-4</font> and $38,572,000
+Class&nbsp;B 3.18% Asset Backed Certificates, Series 2018-4.</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">On May&nbsp;21, 2018, the Trust supplemented the
+Pooling and Servicing Agreement with its Series <font STYLE=
+"white-space:nowrap">2018-5</font> Supplement, dated as of
+May&nbsp;21, 2018 (the “Series 2018-5 Supplement”). The Series
+<font STYLE="white-space:nowrap">2018-5</font> Supplement is
+attached hereto as Exhibit 4.2.</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">On May&nbsp;21, 2018, the Trust issued its
+$600,000,000 Class&nbsp;A Floating Rate Asset Backed Certificates,
+Series <font STYLE="white-space:nowrap">2018-5</font> and
+$22,414,000 Class&nbsp;B Floating Rate Asset BackedCertificates,
+Series <font STYLE="white-space:nowrap">2018-5.</font></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="24"></td>
+<td HEIGHT="24" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"><b>Item&nbsp;9.01.</b></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><b>Exhibits.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The following are filed as Exhibits to this Report under Exhibit
+4:</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="3%"></td>
+<td WIDTH="89%"></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">Exhibit&nbsp;4.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d591503dex41.htm">Series <font STYLE=
+"white-space:nowrap">2018-4</font> Supplement, dated as of
+May&nbsp;21, 2018, supplementing the Fourth Amended and Restated
+Pooling and Servicing Agreement, dated as of April&nbsp;1, 2018, as
+amended from time to time</a> <a HREF=
+"http://www.sec.gov/Archives/edgar/data/1003509/000119312518107650/d557054dex41.htm">
+(attached as Exhibit 4.1 to the Form <font STYLE=
+"white-space:nowrap">8-K</font> filed with the Securities Exchange
+Commissionon April&nbsp;4, 2018).</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">Exhibit&nbsp;4.2</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d591503dex42.htm">Series <font STYLE=
+"white-space:nowrap">2018-5</font> Supplement, dated as of
+May&nbsp;21, 2018, supplementing the Fourth Amended and Restated
+Pooling and Servicing Agreement, dated as of April&nbsp;1, 2018, as
+amended from time to time</a> <a HREF=
+"http://www.sec.gov/Archives/edgar/data/1003509/000119312518107650/d557054dex41.htm">
+(attached as Exhibit 4.1 to the Form <font STYLE=
+"white-space:nowrap">8-K</font> filed with the Securities Exchange
+Commissionon April&nbsp;4, 2018).</a></td>
+</tr>
+</table>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURES</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, as amended, the registrant has duly caused this report to be
+signed onits behalf by the undersigned hereunto duly
+authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<div ALIGN="right">
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0"
+STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="12%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="87%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" COLSPAN="3">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>American Express Receivables Financing Corporation III
+LLC,</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">
+as Depositor of the Trust</p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">By:</td>
+<td VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">
+&nbsp;</td>
+<td VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Denise
+D. Roberts</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">Name:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Denise D. Roberts</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">Title:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">President</td>
+</tr>
+</table>
+</div>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Date: May&nbsp;21, 2018</p>
+</body>
+</html>
+

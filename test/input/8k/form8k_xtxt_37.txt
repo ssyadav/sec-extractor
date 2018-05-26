@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Washington, D.C. 20549</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM 8-K</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CURRENTREPORT</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>PURSUANT TO SECTION 13 OR 15(d)</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>OF THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (date of earliest event reported):
+May&nbsp;22, 2018</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman"
+ALIGN="center"><b>CRACKER BARREL OLD COUNTRY STORE, INC.</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact Name of Registrant as Specified in its
+Charter)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>Tennessee</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">001-25225</font></b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">62-0812904</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(State or Other Jurisdiction</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>of Incorporation)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Commission</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>File Number)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(IRS Employer</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Identification No.)</b></p>
+</td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>305 Hartmann Drive, Lebanon, Tennessee
+37087</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Address of Principal Executive Offices) (Zip
+code)</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(615) <font STYLE=
+"white-space:nowrap">444-5533</font></b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Registrant’s Telephone Number, Including Area
+Code)</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Not Applicable</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(FormerName or Former Address, if Changed Since
+Last Report)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box belowif the Form <font STYLE=
+"white-space:nowrap">8-K</font> filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule
+<font STYLE="white-space:nowrap">14a-12</font> under the Exchange
+Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">14d-2(b)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">13e-4(c)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in Rule 405 of the Securities Act of 1933 (17 CFR
+§230.405) or Rule <font STYLE="white-space:nowrap">12b-2</font> of
+the Securities Exchange Act of 1934 (17 CFR <font STYLE=
+"white-space:nowrap">§240.12b-2).</font></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Emerging growth company&nbsp;&nbsp;☐</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerginggrowth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section&nbsp;13(a) of the
+ExchangeAct.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="12%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;2.02.</b></td>
+<td ALIGN="left" VALIGN="top"><b>Results of Operations and
+Financial Condition.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;22, 2018, Cracker Barrel OldCountry Store, Inc. (the 
+“Company”) issued a press release (the&nbsp;“Press Release”)
+announcing the Company’s fiscal 2018 third quarter results of
+operations and projected outlook for the remainder of fiscal 2018.
+A copy ofthe Press Release is furnished herewith as Exhibit 99.1
+and is incorporated herein by reference.</p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="12%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;9.01.</b></td>
+<td ALIGN="left" VALIGN="top"><b>Financial Statements and
+Exhibits.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+(d) Exhibits.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0"
+STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="5%"></td>
+<td WIDTH="92%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="bottom" NOWRAP="nowrap" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Exhibit</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>No.</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap"><b>Description</b></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">99.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d588464dex991.htm">Press Release issued
+by Cracker Barrel Old Country Store, Inc. dated May&nbsp;22,
+2018</a></td>
+</tr>
+</table>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURE</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf bythe undersigned, hereunto duly authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="45%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="44%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">Date: May&nbsp;22, 2018</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" COLSPAN="3">CRACKER BARREL OLD COUNTRY STORE,
+INC.</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">By:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">
+/s/ Jill M. Golder</p>
+</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Name:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Jill M. Golder</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Title:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Senior Vice President and Chief Financial
+Officer</td>
+</tr>
+</table>
+</body>
+</html>
+

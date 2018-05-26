@@ -1,0 +1,647 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="sf7a46c64305f4941be71f2016d529edb" id=
+"sf7a46c64305f4941be71f2016d529edb"></a></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;text-align:center;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">UNITED
+STATES</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">WASHINGTON,
+D.C. 20549</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">___________</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">FORM
+8-K</font> <font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">CURRENT
+REPORT</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to
+Section 13 or 15(d) of the</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Securities
+Exchange Act of 1934</font></div>
+<div style=
+"line-height:120%;text-align:center;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Date of Report
+(Date of earliest event reported): May 22, 2018</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">GLOBALSTAR,
+INC.</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(Exact name of
+registrant as specified in its charter)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:34%;"></td>
+<td style="width:33%;"></td>
+<td style="width:33%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Delaware</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(State or Other Jurisdiction
+of Incorporation)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">001-33117</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Commission</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">File Number)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">41-2116508</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(IRS Employer</font></div>
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Identification
+No.)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;text-align:center;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;&nbsp;</font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:50%;"></td>
+<td style="width:50%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">300 Holiday Square Blvd.
+Covington, LA</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">70433</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Address of Principal
+Executive Offices)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Zip Code)</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Registrant’s
+telephone number, including area code: (985) 335-1500</font></div>
+<div style=
+"line-height:120%;text-align:center;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">N/A</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(Former Name or
+Former Address, if Changed Since Last Report)</font></div>
+<div style=
+"line-height:120%;text-align:center;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:91.6015625%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:4%;"></td>
+<td style="width:92%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;">x</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:91.6015625%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:4%;"></td>
+<td style="width:92%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;">o</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:91.40625%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:4%;"></td>
+<td style="width:92%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;">o</font></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:91.40625%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:4%;"></td>
+<td style="width:4%;"></td>
+<td style="width:92%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;">o</font></div>
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:Wingdings;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:justify;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Indicate by check
+mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).</font></div>
+<div style=
+"line-height:120%;text-align:right;padding-left:384px;text-indent:48px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Emerging growth
+company ☐</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. ☐</font></div>
+<div><br /></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item 7.01
+Regulation FD Disclosure.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 22, 2018,
+James Monroe, Chairman and CEO of Globalstar, Inc. ("Globalstar" or
+the "Company") will present at Globalstar's 2018 Annual Meeting at
+the Company's headquarters in Covington, Louisiana. A copy of the
+presentation is furnished as Exhibit 99.1 hereto. The presentation
+materials are also available on the investor relations page of
+Globalstar's website.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">The information
+in this Item 7.01 is being furnished and shall not be deemed filed
+for purposes of Section 18 of the Exchange Act, or otherwise
+subject to the liability of that section, nor shall such
+information be deemed to be incorporated by reference in any
+registration statement or other document filed under the Securities
+Act of 1933, as amended, or the Exchange Act, except as otherwise
+stated in such filing.&nbsp;</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item 9.01
+Financial Statements and Exhibits</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:91.40625%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:6%;"></td>
+<td style="width:94%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(d)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-style:italic;">Exhibits:</font></div>
+<div style="font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="padding-bottom:2px;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">99.1</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style=
+"padding-bottom:2px;padding-top:2px;padding-left:2px;font-size:10pt;">
+<a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="annualmeetingofstockhold.htm"><font style=
+"font-family:inherit;font-size:10pt;">Investor Presentation dated
+May 22, 2018</font></a></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-top:8px;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURES</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:37px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the Registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.&nbsp;&nbsp;</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:48%;"></td>
+<td style="width:35%;"></td>
+<td style="width:17%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">GLOBALSTAR, INC.</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">/s/ James Monroe
+III</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">James Monroe III</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Chairman and Chief Executive
+Officer</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Date: May 22,
+2018</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+</body>
+</html>
+

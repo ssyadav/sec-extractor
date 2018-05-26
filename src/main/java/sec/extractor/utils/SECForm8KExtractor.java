@@ -23,9 +23,9 @@ import sec.extractor.pojo.TitleDetails;
  * @author satyaveer.yadav
  *
  */
-public class SECForm10QExtractor extends BaseSECFormExtractor {
+public class SECForm8KExtractor extends BaseSECFormExtractor {
 
-	private static final Logger LOGGER = LoggerFactory.getLogger(SECForm10QExtractor.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(SECForm8KExtractor.class);
 	
 	/**
 	 * This method prepares the jsoup object from the xhtml and call the main extraction method by passing the 
@@ -34,7 +34,7 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 	 * @param sectionTitlesFileName name of the title property file
 	 * @return list of section object
 	 */
-	public static List<SECItemSection> extractFormContent(String xhtml, String sectionTitlesFileName) {
+	public static List<SECItemSection> extractFormContent(String xhtml, String sectionTitlesFileName, List<String> expectedItems) {
 		List<SECItemSection> listOfItemSections = new ArrayList<SECItemSection>();
 		// 1. add a check to verify xhtml content is not null and empty
 		if (null == xhtml || xhtml.isEmpty()) {
@@ -55,7 +55,7 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 				}
 				List<TitleDetails> titles = new ArrayList<>();
 				titles.add(extractTitlesWithStdTitle(bodyElements, sectionTitlesFileName));
-				listOfItemSections = extractFromContent(bodyElements, titles);
+				listOfItemSections = extractFromContent(bodyElements, titles, expectedItems);
 			}
 
 		} catch (Exception e) {
@@ -71,7 +71,7 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 	 * @param sectionTitlesFileName name of the title property file
 	 * @return list of section object
 	 */
-	public static List<SECItemSection> extractForm10UsingDiv(String xhtml) {
+	public static List<SECItemSection> extractForm8KUsingDiv(String xhtml, String sectionTitlesFileName, List<String> expectedItems) {
 		List<SECItemSection> listOfItemSections = new ArrayList<SECItemSection>();
 		// 1. add a check to verify xhtml content is not null and empty
 		if (null == xhtml || xhtml.isEmpty()) {
@@ -85,11 +85,11 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 			Elements bodyElements = new Elements();
 			
 			for(Element elem : mainBodyElements){
-				titles.add(extractTitlesWithStdTitle(elem.children(), SECConstants.FORM_10Q_FILE_NAME));
+				titles.add(extractTitlesWithStdTitle(elem.children(), sectionTitlesFileName));
 				bodyElements.addAll(elem.children());
 			}
 			// 3. iterate each title
-			listOfItemSections = extractFromContent(bodyElements, titles);
+			listOfItemSections = extractFromContent(bodyElements, titles, expectedItems);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -104,7 +104,7 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 	 * @return list of section object
 	 */
 	private static List<SECItemSection> extractFromContent(Elements bodyElements,
-			List<TitleDetails> titlesObj) {
+			List<TitleDetails> titlesObj, List<String> expectedItemList) {
 		List<SECItemSection> listOfItemSections = new ArrayList<SECItemSection>();
 		int itemPosition = 0;
 		int docElementIndex = 0;
@@ -113,6 +113,21 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 		List<String> titles = new ArrayList<>();
 		Map<String, String> standardTitles = new HashMap<>();
 		
+/*		String expectedItem[] = expectedItemList.get(0).split("\\|");
+		
+		for (TitleDetails titleDetail : titlesObj) {
+			List<String> titleList = titleDetail.getTitlesFoundInFile();
+			for (int i = 1; i < expectedItem.length; i++) {
+				for (String title : titleList) {
+					if(title.contains(expectedItem[i])) {
+						titles.add(title);
+					}
+				}
+			}
+			standardTitles.putAll(titleDetail.getStandardTitle());
+		}
+*/
+		//2. prepare titles
 		for (TitleDetails titleDetail : titlesObj) {
 			titles.addAll(titleDetail.getTitlesFoundInFile());
 			standardTitles.putAll(titleDetail.getStandardTitle());
@@ -136,6 +151,9 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 				String currentNodeText = currentElement.text();
 				boolean canBreak = false;
 				boolean isTitleNode = false;
+				if(currentNodeText.equalsIgnoreCase("INFORMATION TO BE INCLUDED IN THE REPORT")) {
+					System.out.println(currentNodeText);
+				}
 				if (null != currentNodeText && !currentNodeText.equals(SECConstants.EMPTY_STRING) 
 						&& !currentNodeText.equals(SECConstants.STRING_WITH_SINGLE_SPACE)) {
 					String nodeText = prepareTitle(currentNodeText);
@@ -165,13 +183,21 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 							break;
 						}
 					}
-					if (currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML) 
-							&& nextTitle == null && canBreak) {
+					if ((currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_1)
+							|| currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE_1))
+							&& nextTitle == null) {
+						canBreak = true;
+						isTitleNode = true;
 						break;
 					}
 				}
 				if(!isTitleNode) {
 					sectionContent.append(currentElement);
+				}
+				if ((currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_1)
+						|| currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE_1))
+						&& nextTitle == null && canBreak) {
+					break;
 				}
 			}
 		}
@@ -181,4 +207,5 @@ public class SECForm10QExtractor extends BaseSECFormExtractor {
 		}
 		return listOfItemSections;
 	}
+
 }

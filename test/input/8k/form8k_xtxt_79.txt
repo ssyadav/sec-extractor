@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+<!--Licensed to: Urban One, Inc.    Document created using EDGARfilings PROfile 4.3.3.1    Copyright 1995 - 2018 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"
+bgcolor="#FFFFFF" text="#000000">
+<div>
+<div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 1.15pt">
+SECURITIES AND EXCHANGE COMMISSION</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 218.3pt; MARGIN-TOP: 0.5pt; MARGIN-RIGHT: 217.15pt">
+Washington, D.C. 20549</div>
+<div style="MARGIN-TOP: 0.15pt"><br /></div>
+<div style=
+"FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 218.3pt; MARGIN-RIGHT: 217.1pt">
+FORM 8-K</div>
+<div style="MARGIN-TOP: 0.25pt"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 164pt; MARGIN-RIGHT: 162.25pt">
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+EXCHANGE ACT OF 1934</div>
+<div style="MARGIN-TOP: 0.05pt"><br /></div>
+<table id="zcb264fc3b58946649c0982c15d80a904" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%">&nbsp;</td>
+</tr>
+</table>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 166.85pt; MARGIN-RIGHT: 165.15pt">
+Date of Report: May 21, 2018</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 166.85pt; MARGIN-RIGHT: 165.15pt">
+(Date of earliest event reported)</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 166.85pt; MARGIN-RIGHT: 165.15pt">
+Commission File No.: 0-25969</div>
+<div><br /></div>
+<div style="TEXT-ALIGN: center"><img src=
+"image00001.jpg" /><br /></div>
+<div>&nbsp;</div>
+<div style=
+"FONT-SIZE: 18pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 1.45pt">
+URBAN ONE, INC.</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; MARGIN-LEFT: 187.1pt; MARGIN-TOP: 0.9pt; MARGIN-RIGHT: 185.4pt">
+(Exact name of registrant as specified in its charter)</div>
+<div style="MARGIN-TOP: 0.15pt"><br /></div>
+</div>
+<div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 9.7pt; MARGIN-TOP: 4.15pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 9.7pt; MARGIN-TOP: 4.15pt">
+Delaware</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; MARGIN-LEFT: 10.25pt; MARGIN-TOP: 0.3pt">
+(State or other jurisdiction of incorporation or
+organization)</div>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 9.7pt; MARGIN-TOP: 4.15pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 9.7pt; MARGIN-TOP: 4.15pt">
+52-1166660</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; MARGIN-LEFT: 10.25pt; MARGIN-TOP: 0.3pt">
+(I.R.S. Employer Identification No.)</div>
+<div>
+<div><br /></div>
+<div style="MARGIN-TOP: 0.35pt"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 237.9pt; MARGIN-TOP: 4.15pt; MARGIN-RIGHT: 236.6pt">
+1010 Wayne Avenue 14th Floor</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 218.3pt; MARGIN-RIGHT: 217.15pt">
+Silver Spring, Maryland 20910</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; MARGIN-LEFT: 187.1pt; MARGIN-TOP: 0.3pt; MARGIN-RIGHT: 185.4pt">
+(Address of principal executive offices)</div>
+<div style="MARGIN-TOP: 0.35pt"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 218.3pt; MARGIN-RIGHT: 217.15pt">
+(301) 429-3200</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; MARGIN-LEFT: 1.3pt; MARGIN-TOP: 0.3pt">
+Registrant's telephone number, including area code</div>
+<div style="MARGIN-TOP: 0.35pt"><br /></div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 5pt; MARGIN-RIGHT: 5.7pt">
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</div>
+<div style="MARGIN-TOP: 0.5pt"><br /></div>
+<div>
+<table id="z486955d12485490aba7194d9ff56b36b" class="DSPFListTable"
+style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 19.55pt; align: right">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 4.95pt">
+o</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: auto">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="MARGIN-TOP: 0.3pt"><br /></div>
+<div>
+<table id="z767fa8987e214379b1248775bb2b5818" class="DSPFListTable"
+style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 19.55pt; align: right">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 4.95pt">
+o</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: auto">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="MARGIN-TOP: 0.3pt"><br /></div>
+<div>
+<table id="z51eacd9eae134660a8ca4fa6570c5543" class="DSPFListTable"
+style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 19.55pt; align: right">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 4.95pt">
+o</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: auto">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="MARGIN-TOP: 0.3pt"><br /></div>
+<div>
+<table id="z0ca25385c8734057b302bbf81e4f1b1f" class="DSPFListTable"
+style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 19.55pt; align: right">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 4.95pt">
+o</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: auto">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))</div>
+</td>
+</tr>
+</table>
+</div>
+<div>
+<table id="zd5e4dfde088d48aa97ce762ecd18fe6f" class="DSPFListTable"
+style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 19.55pt; align: right">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 4.95pt">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: auto"></td>
+</tr>
+</table>
+</div>
+</div>
+<div id="DSPFPageBreakArea" style=
+"MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style=
+"BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000"
+noshade="noshade" /></div>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify">
+ITEM 8.01.&nbsp; &nbsp; Other Events</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">
+Urban One, Inc. (the "Company") issued a joint press release
+announcing it has signed a definitive agreement to acquire the
+assets of the radio station WTEM 980 AM from Red Zebra
+Broadcasting, pending FCC approval.&nbsp;The Company has agreed to
+pay $4.2 million in cash upon closing, and expects to generate
+approximately $1.7 million of pro-forma EBITDA from the assets,
+which represents a buyer's multiple of approximately 2.5x.&nbsp; A
+copy of the press release is attached as Exhibit 99.1.</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">
+&nbsp;</div>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+ITEM 9.01.&nbsp;&nbsp;&nbsp;Financial Statements and
+Exhibits.</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+(c)&nbsp;Exhibits</div>
+<table id="z04103731c60a4c25b0dab46c4e244b56" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 12.12%" colspan="2">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 2.9%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 72.63%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 12.35%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style=
+"VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 12.12%"
+colspan="2">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+Exhibit Number</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 2.9%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style=
+"VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 72.63%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+Description</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 12.35%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 12.12%" colspan="2">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 2.9%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 72.63%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 12.35%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 6.9%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+99.1</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 5.22%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: right">
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 2.9%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 72.63%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+<a href="exhibit99-1may212018.htm">Press release dated May 21,
+2018: Urban One to acquire the TEAM 980</a></div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 12.35%">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+</tr>
+</table>
+<div><br /></div>
+<div><br /></div>
+<div style="TEXT-ALIGN: left; MARGIN-RIGHT: 0.7pt"><br /></div>
+<div style="BACKGROUND-COLOR: #ffffff">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+Cautionary Information Regarding Forward-Looking Statements</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; BACKGROUND-COLOR: #ffffff; TEXT-INDENT: 27pt">
+This Form 8-K and the press release attached as Exhibit 99.1
+contain forward-looking statements about the Company's future
+performance, which are based on management's assumptions and
+beliefs in light of the information currently available to it. The
+Company assumes no obligation to update the information contained
+herein. These forward-looking statements involve known and unknown
+risks, uncertainties and other factors, some of which are beyond
+the Company's control, that may cause the actual results to differ
+materially from any future results, performance or achievements
+expressed or implied by such forward-looking
+statements.&nbsp;&nbsp;Important factors that could cause actual
+results to differ materially are described in the Company's reports
+on Forms 10-K and 10-Q and other filings with the SEC.</div>
+<div style="TEXT-ALIGN: center; MARGIN-RIGHT: 0.7pt"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-RIGHT: 0.7pt">
+<u>SIGNATURE</u></div>
+<div style="MARGIN-TOP: 0.15pt"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 5pt; MARGIN-TOP: 4.15pt; MARGIN-RIGHT: 13.4pt">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: left; MARGIN-RIGHT: 0.7pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: left; MARGIN-RIGHT: 0.7pt">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized.</div>
+<div style="MARGIN-TOP: 0.05pt"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-RIGHT: 72.05pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-RIGHT: 72.05pt">
+URBAN&nbsp;ONE, INC.</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: left; MARGIN-RIGHT: 72.05pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: left; MARGIN-RIGHT: 72.05pt">
+<u>/s/ Peter D. Thompson</u></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: left; MARGIN-RIGHT: 72.05pt">
+Peter D. Thompson</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: left; MARGIN-RIGHT: 72.05pt">
+<font style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">C</font>hief
+Financial Officer and Principal Accounting Officer</div>
+<div>May 21, 2018<br /></div>
+</div>
+</div>
+</body>
+</html>
+

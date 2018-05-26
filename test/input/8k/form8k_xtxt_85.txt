@@ -1,0 +1,1493 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s9B5CD48FD44D35006D9B7039752484E5" id=
+"s9B5CD48FD44D35006D9B7039752484E5"></a></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:14pt;">
+<font style=
+"font-family:inherit;font-size:14pt;font-weight:bold;">UNITED
+STATES</font></div>
+<div style="line-height:120%;text-align:center;font-size:14pt;">
+<font style=
+"font-family:inherit;font-size:14pt;font-weight:bold;">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Washington,
+D.C. 20549</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">FORM
+8-K</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">CURRENT
+REPORT</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;font-weight:bold;">Pursuant to
+Section&nbsp;13 or 15(d) of The Securities Exchange Act of
+1934</font></div>
+<div style="line-height:120%;text-align:center;font-size:12pt;">
+<font style=
+"font-family:inherit;font-size:12pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">May 16,
+2018</font></div>
+<div style="line-height:120%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">Date of
+Report (Date of earliest event reported)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:22pt;">
+<font style=
+"font-family:inherit;font-size:22pt;font-weight:bold;">FIRST SOLAR,
+INC.</font></div>
+<div style="line-height:120%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">(Exact name
+of registrant as specified in its charter)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td style="width:33%;"></td>
+<td style="width:1%;"></td>
+<td style="width:32%;"></td>
+<td style="width:1%;"></td>
+<td style="width:33%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Delaware</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">001-33156</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">20-4623678</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">(State or
+other jurisdiction of incorporation)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">(Commission
+File Number)</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">(IRS
+Employer Identification No.)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">350 West
+Washington Street</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Suite&nbsp;600</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Tempe,
+Arizona 85281</font></div>
+<div style="line-height:120%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">(Address of
+principal executive offices, including zip code)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">(602)&nbsp;414-9300</font></div>
+<div style="line-height:120%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">(Registrant’
+s telephone number, including area code)</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Not
+applicable</font></div>
+<div style="line-height:120%;text-align:center;font-size:8pt;">
+<font style=
+"font-family:inherit;font-size:8pt;font-style:italic;">(Former name
+or former address, if changed since last report)</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:0px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></div>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:0px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:0px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></div>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:24px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:0px;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></div>
+</td>
+</tr>
+</table>
+<div style=
+"line-height:120%;text-align:justify;padding-left:24px;text-indent:-24px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Indicate by check
+mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Emerging growth
+company</font> <font style=
+"font-family:Wingdings;font-size:10pt;">¨</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">If an emerging
+growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.</font> <font style=
+"font-family:Wingdings;font-size:10pt;">¨</font></div>
+<div style=
+"line-height:120%;text-align:left;padding-left:24px;text-indent:-24px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div><a name="sD275167D4A2F07AF59D7703975272795" id=
+"sD275167D4A2F07AF59D7703975272795"></a></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+5.07.&nbsp;&nbsp;&nbsp;&nbsp;Submission of Matters to a Vote of
+Security Holders</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">First Solar, Inc.
+(“First Solar”) held its 2018 Annual Meeting of Stockholders (the 
+“Annual Meeting”) on May 16, 2018. A description of each matter
+voted upon at the Annual Meeting is described in detail in First
+Solar’s definitive proxy statement filed with the Securities and
+Exchange Commission on April 4, 2018. The number of votes cast for
+and against and the number of abstentions and broker non-votes with
+respect to each matter voted upon are set forth below.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Proposal
+1:</font> <font style="font-family:inherit;font-size:10pt;">To
+elect the following ten nominees to First Solar’s board of
+directors, each to serve on the board of directors until the next
+annual meeting of stockholders or until his or her successor has
+been elected and qualified:</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td style="width:20%;"></td>
+<td style="width:1%;"></td>
+<td style="width:18%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:18%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:18%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:18%;"></td>
+<td style="width:1%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Nominees</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Votes Cast
+For</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Votes Cast
+Against</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Abstentions</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Broker
+Non-Votes</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Michael J.
+Ahearn</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">78,167,295</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">866,291</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">73,932</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Sharon L. Allen</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">77,793,963</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">1,268,629</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">44,926</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Richard D.
+Chapman</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">78,255,577</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">796,320</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">55,621</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">George A. Hambro</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">78,322,162</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">708,949</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">76,407</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Molly E. Joseph</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">78,772,335</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">290,175</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">45,008</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Craig Kennedy</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">78,305,687</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">725,311</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">76,520</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">William J. Post</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">78,473,220</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">577,879</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">56,419</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Paul H. Stebbins</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">75,110,760</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">3,939,545</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">57,213</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Michael Sweeney</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">77,460,803</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">1,589,549</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">57,166</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Mark R. Widmar</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">78,588,959</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">443,882</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">74,677</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style="vertical-align:bottom;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Proposal
+2:</font> <font style="font-family:inherit;font-size:10pt;">To
+ratify the appointment of PricewaterhouseCoopers, LLP as First
+Solar’s independent registered public accounting firm for the year
+ending December 31, 2018:</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:99.14529914529915%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="11"></td>
+</tr>
+<tr>
+<td style="width:24%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:23%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:23%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:23%;"></td>
+<td style="width:1%;"></td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Votes Cast
+For</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Votes Cast
+Against</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Abstentions</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Broker
+Non-Votes</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">90,450,375</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">1,291,083</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">132,624</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">—</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Proposal
+3:</font> <font style="font-family:inherit;font-size:10pt;">To vote
+upon a stockholder proposal requesting a report on conducting
+business in conflict-affected areas:</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:99.14529914529915%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="11"></td>
+</tr>
+<tr>
+<td style="width:24%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:23%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:23%;"></td>
+<td style="width:1%;"></td>
+<td style="width:1%;"></td>
+<td style="width:23%;"></td>
+<td style="width:1%;"></td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Votes Cast
+For</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Votes Cast
+Against</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Abstentions</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="2" style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:8pt;"><font style=
+"font-family:inherit;font-size:8pt;font-weight:bold;">Broker
+Non-Votes</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">4,268,909</font></div>
+</td>
+<td style="vertical-align:bottom;background-color:#cceeff;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">72,264,848</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">2,573,761</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;padding-left:2px;padding-top:2px;padding-bottom:2px;border-top:1px solid #000000;">
+<div style="text-align:right;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12,766,564</font></div>
+</td>
+<td style=
+"vertical-align:bottom;background-color:#cceeff;border-top:1px solid #000000;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div><a name="s221474D34CB5E287B94F7039754F1262" id=
+"s221474D34CB5E287B94F7039754F1262"></a></div>
+<div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURE</font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></div>
+<div style="line-height:120%;text-align:justify;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td style="width:35%;"></td>
+<td style="width:13%;"></td>
+<td style="width:1%;"></td>
+<td style="width:51%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td colspan="3" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">FIRST SOLAR,
+INC.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Date: May 21,
+2018</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">By:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">/s/ PAUL KALETA</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Name:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Paul Kaleta</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Title:</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Executive Vice President,
+General Counsel and Secretary</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div style="text-align:center;">
+<div style="line-height:120%;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+</body>
+</html>
+

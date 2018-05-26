@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>WASHINGTON, DC 20549</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM 8-K</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CURRENTREPORT</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>PURSUANT TO SECTION 13 OR 15(d)</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>OF THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (Date of earliest event reported):
+May 22, 2018</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>CytoDyn Inc.</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exactname of registrant as specified in its
+charter)</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>Delaware</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">000-49908</font></b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">75-3056237</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(State or other jurisdiction</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>of incorporation)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(SEC</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>File Number)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(I.R.S. Employer</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Identification No.)</b></p>
+</td>
+</tr>
+</table>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td WIDTH="50%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="48%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>1111 Main Street, Suite 660</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Vancouver, Washington</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" ALIGN="center"><b>98660</b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center"><b>(Address of principal executive
+offices)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>(Zip Code)</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Registrant’s telephone number, including area
+code:<font STYLE=
+"white-space:nowrap">(360)&nbsp;980-8524</font></b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box belowif the Form <font STYLE=
+"white-space:nowrap">8-K</font> filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2.
+below):</p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☒</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule
+<font STYLE="white-space:nowrap">14a-12</font> under the Exchange
+Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">14d-2(b)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">13e-4(c)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in as defined in Rule 405 of the Securities Act
+of 1933 (§230.405 of this chapter) or Rule <font STYLE=
+"white-space:nowrap">12b-2</font> of the Securities Exchange Act of
+1934 <font STYLE="white-space:nowrap">(§240.12b-2</font> ofthis
+chapter).</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Emerging growth company&nbsp;&nbsp;☐</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new orrevised financial accounting standards
+provided pursuant to Section&nbsp;13(a) of the Exchange
+Act.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="9%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;1.01.</b></td>
+<td ALIGN="left" VALIGN="top"><b>Entry into a Material Definitive
+Agreement.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+On May 22, 2018, CytoDyn Inc. (the“<b>Company</b>”) entered into
+Subscription Agreements (the “<b>Subscription Agreements</b>”) with
+certain investors (the “<b>Investors</b>”) for the sale by the
+Company of 4,640,000 shares (the “<b>CommonShares</b>”) of the
+Company’s common stock, par value $0.001 per share (the “<b>Common
+Stock</b>”), in a registered direct offering (the “<b>Offering</b>”
+). The Investors in the Offering also received warrants topurchase
+4,640,000 shares of Common Stock (the “<b>Warrants</b>”). Each
+share of Common Stock was sold together with one Warrant to
+purchase one share of Common Stock for a combined purchase price of
+$0.50.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The aggregate gross proceeds for the sale of the Common Shares and
+Warrants will be approximately $2.3 million. Subject to certain
+ownership limitations, theWarrants will be exercisable commencing
+on the issuance date at an exercise price equal to $0.75 per share
+of Common Stock, subject to adjustments as provided under the terms
+of the Warrants. The Warrants are exercisable for five years from
+the dateof issuance. The closing of the sales of these securities
+under the Subscription Agreements is expected to occur on or about
+May 22, 2018.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The netproceeds to the Company from the transactions, after
+deducting the fees and expenses of the Placement Agent, as defined
+below (not including the Placement Agent Warrants, as defined
+below), the Company’s estimated offering expenses, andexcluding the
+proceeds, if any, from the exercise of the Warrants, are expected
+to be approximately $2.1 million. The Company intends to use the
+net proceeds from the transactions to fund clinical trials for its
+lead product candidate and forgeneral corporate purposes.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The securities sold in the Offering were offered and sold by the
+Company pursuant to an effective shelf registrationstatement on
+<font STYLE="white-space:nowrap">Form&nbsp;S-3,</font> which was
+initially filed with the Securities and Exchange Commission (the 
+“<b>SEC</b>”) on February&nbsp;23, 2018 and subsequently declared
+effective on March&nbsp;7,2018 (File <font STYLE=
+"white-space:nowrap">No.&nbsp;333-223195)</font> (the 
+“<b>Registration Statement</b>”), and the base prospectus dated as
+of March&nbsp;7, 2018 contained therein. The Company will file a
+prospectus supplement with theSEC in connection with the sale of
+the securities.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The representations, warranties and covenants contained in the
+Subscription Agreements were madesolely for the benefit of the
+parties to the Subscription Agreements. In addition, such
+representations, warranties and covenants (i)&nbsp;are intended as
+a way of allocating the risk between the parties to the
+Subscription Agreements and not asstatements of fact, and
+(ii)&nbsp;may apply standards of materiality in a way that is
+different from what may be viewed as material by stockholders of,
+or other investors in, the Company. Accordingly, the forms of the
+Subscription Agreements areincluded with this filing only to
+provide investors with information regarding the terms of
+transaction, and not to provide investors with any other factual
+information regarding the Company. Stockholders should not rely on
+the representations,warranties and covenants or any descriptions
+thereof as characterizations of the actual state of facts or
+condition of the Company or any of its subsidiaries or affiliates.
+Moreover, information concerning the subject matter of the
+representationsand warranties may change after the date of the
+Subscription Agreements, which subsequent information may or may
+not be fully reflected in public disclosures.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Pursuant to the Placement Agent Agreement, dated as of May&nbsp;4,
+2018 (the “<b>Placement Agent Agreement</b>”) with Paulson
+Investment Company,LLC (the “<b>Placement Agent</b>”), the Company
+has agreed to pay the Placement Agent a cash fee equal to 9% of the
+gross proceeds received by the Company from qualified investors
+first introduced to the Company in the Offering by thePlacement
+Agent, as well as a <font STYLE=
+"white-space:nowrap">one-time</font> <font STYLE=
+"white-space:nowrap">non-accountable</font> expense fee of $25,000
+for aggregate expenses incurred collectively in the Offering.
+Pursuant to the PlacementAgent Agreement, the Company also agreed
+to grant to the Placement Agent or its designees warrants to
+purchase up to 8% of the aggregate number of shares sold to
+qualified investors at an exercise price equal to 110% of the price
+of the Common Stocksold in the Offering, or $0.55 per share (the 
+“<b>Placement Agent Warrants</b>”). The Placement Agent Warrants
+provide for cashless exercise. The Placement Agent is not entitled
+to compensation relating to Investors not first introduced byit to
+the Company in this Offering. The Placement Agent Agreement has
+indemnity and other customary provisions for transactions of this
+nature. The Placement Agent Warrants and the shares issuable upon
+exercise of the Placement Agent Warrants willbe issued in reliance
+on the exemption from registration provided by
+Section&nbsp;4(a)(2)&nbsp;of the Securities Act as transactions not
+involving a public offering and in reliance on similar exemptions
+under applicable state laws. The PlacementAgent Agreement is filed
+as Exhibit 10.2 to this Current Report on Form <font STYLE=
+"white-space:nowrap">8-K</font> and is incorporated herein by
+reference.</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The form of the Subscription Agreement is filed as Exhibit 10.1 to
+this Current Report on Form&nbsp;8-K. The form of Warrant is filed
+as Exhibit 4.1 to this Current Report on Form <font STYLE=
+"white-space:nowrap">8-K.</font> The foregoing summaries of the
+terms of these documents are subject to, andqualified in their
+entirety by, such documents, which are incorporated herein by
+reference.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The legal opinion and consent of Lowenstein Sandler LLPrelating to
+the securities are filed as Exhibit 5.1 to this Current Report on
+Form <font STYLE="white-space:nowrap">8-K.</font></p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Additional Informationand Where to Find It</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+This document may be deemed to be solicitation material in respect
+of the special meeting of stockholders to be held on June 7,2018.
+In connection with the special meeting, the Company has filed a
+definitive proxy statement with the United States Securities and
+Exchange Commission (the “SEC”) on May 8, 2018. BEFORE MAKING ANY
+VOTING OR INVESTMENT DECISIONS,INVESTORS AND SECURITY HOLDERS ARE
+URGED TO READ THE DEFINITIVE PROXY STATEMENT AND ANY OTHER RELEVANT
+DOCUMENTS FILED WITH THE SEC, BECAUSE THEY CONTAIN IMPORTANT
+INFORMATION ABOUT THE SPECIAL MEETING. The definitive proxy
+statement has been mailedto stockholders who are entitled to vote
+at the special meeting. Stockholders will also be able to obtain a
+copy of the definitive proxy statement free of charge by directing
+a request to: 1111 Main Street, Suite 660, Vancouver, Washington
+98660,telephone: (360) 980-8524. In addition, the definitive proxy
+statement is available free of charge at the SEC’s website,
+www.sec.gov.</p>
+<p STYLE=
+"margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Participants in the Solicitation</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The Company and itsdirectors and executive officers and other
+employees may be deemed to be participants in the solicitation of
+proxies in respect of the special meeting. Information regarding
+the Company’s directors and executive officers is available in
+theCompany’s proxy statement for its 2017 annual meeting of
+stockholders, which was filed with the SEC on July 24, 2017.
+Information regarding any persons who may, under the rules of the
+SEC, be considered participants in the solicitation ofstockholders
+in connection with the special meeting is set forth in the
+definitive proxy statement filed with the SEC on May 8, 2018. These
+documents are available free of charge at the SEC’s website at
+www.sec.gov, and by mail at: 1111 MainStreet, Suite 660, Vancouver,
+Washington 98660, telephone: (360) 980-8524.</p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="9%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;3.02.</b></td>
+<td ALIGN="left" VALIGN="top"><b>Unregistered Sales of Equity
+Securities.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+See Item&nbsp;1.01 with respect to the Placement AgentWarrants.</p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="9%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;9.01.</b></td>
+<td ALIGN="left" VALIGN="top"><b>Financial Statements and
+Exhibits.</b></td>
+</tr>
+</table>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="4%"></td>
+<td></td>
+<td VALIGN="bottom" WIDTH="3%"></td>
+<td WIDTH="90%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="bottom" NOWRAP="nowrap" ALIGN="center">
+<p STYLE=
+"margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:9.75pt; display:inline; font-size:8pt; font-family:Times New Roman;"
+ALIGN="center"><b>(d)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Exhibit</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:27.80pt; display:inline; font-size:8pt; font-family:Times New Roman;"
+ALIGN="center">
+<b>&nbsp;&nbsp;&nbsp;&nbsp;No.&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap" ALIGN="center">
+<p STYLE=
+"margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:41.50pt; display:inline; font-size:8pt; font-family:Times New Roman;"
+ALIGN="center"><b>Description.</b></p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">&nbsp;&nbsp;4.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap"><a HREF="d585472dex41.htm">Form
+of Warrant Agreement</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">&nbsp;&nbsp;5.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap"><a HREF=
+"d585472dex51.htm">Opinion of Lowenstein Sandler LLP</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">10.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap"><a HREF=
+"d585472dex101.htm">Form of Subscription Agreement</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">10.2</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap"><a HREF=
+"d585472dex102.htm">Placement Agent Agreement</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">23.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap"><a HREF=
+"d585472dex51.htm">Consent of Lowenstein Sandler LLP (included in
+the opinion of Lowenstein Sandler LLP as Exhibit&nbsp;5.1)</a></td>
+</tr>
+</table>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURES</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersignedhereunto duly authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="45%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="44%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" COLSPAN="3">CytoDyn Inc.</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">May 22, 2018</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">By:</td>
+<td VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">
+&nbsp;</td>
+<td VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><i>/s/
+Michael D. Mulholland</i></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">Name:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">Michael D. Mulholland</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">Title:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Chief Financial Officer</td>
+</tr>
+</table>
+</body>
+</html>
+

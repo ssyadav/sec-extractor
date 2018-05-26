@@ -1,0 +1,1274 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body link="blue" lang="EN-US" xml:lang="EN-US">
+<div>
+<div style=
+"border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;">
+<font size="1" face="Arial" style=
+"font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Arial" style="font-size:18.0pt;font-weight:bold;">UNITED
+STATES</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Arial" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND
+EXCHANGE COMMISSION</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Arial" style="font-size:10.0pt;font-weight:bold;">Washington,
+D.C.&nbsp; 20549</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style=
+"margin:0in 0in .0001pt;text-align:center;">
+<hr size="1" width="25%" noshade="noshade" align="center" style=
+"color:black;" /></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Arial" style=
+"font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style=
+"margin:0in 0in .0001pt;text-align:center;">
+<hr size="1" width="25%" noshade="noshade" align="center" style=
+"color:black;" /></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Arial" style="font-size:12.0pt;font-weight:bold;">CURRENT
+REPORT</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Arial" style="font-size:12.0pt;font-weight:bold;">Pursuant to
+Section&nbsp;13 or 15(d)&nbsp;of</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face=
+"Arial" style="font-size:12.0pt;font-weight:bold;">the Securities
+Exchange Act of 1934</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Arial"
+style="font-size:12.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">Date of Report (Date of earliest
+event reported):&nbsp; <b>May&nbsp;18, 2018</b></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face=
+"Arial" style=
+"font-size:18.0pt;font-weight:bold;">MORNINGSTAR,&nbsp;INC.</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">(Exact name of registrant as
+specified in its charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+<b><font size="2" face="Arial" style=
+"font-size:10.0pt;font-weight:bold;">Illinois</font></b><font face=
+"Arial"><br />
+(State or other jurisdiction<br />
+of incorporation)</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+<b><font size="2" face="Arial" style=
+"font-size:10.0pt;font-weight:bold;">000-51280</font></b><font face="Arial"><br />
+
+(Commission<br />
+File Number)</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="32%" valign="top" style=
+"padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+<b><font size="2" face="Arial" style=
+"font-size:10.0pt;font-weight:bold;">36-3297908</font></b><font face="Arial"><br />
+
+(I.R.S. Employer<br />
+Identification No.)</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="67%" valign="top" style=
+"padding:0in 0in 0in 0in;width:67.5%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Arial" style="font-size:10.0pt;font-weight:bold;">22 West
+Washington Street</font></b></p>
+</td>
+<td width="0%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="31%" valign="top" style=
+"padding:0in 0in 0in 0in;width:31.66%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="67%" valign="top" style=
+"padding:0in 0in 0in 0in;width:67.5%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Arial" style=
+"font-size:10.0pt;font-weight:bold;">Chicago,&nbsp;Illinois</font></b></p>
+</td>
+<td width="0%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="31%" valign="top" style=
+"padding:0in 0in 0in 0in;width:31.66%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Arial" style=
+"font-size:10.0pt;font-weight:bold;">60602</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="67%" valign="top" style=
+"padding:0in 0in 0in 0in;width:67.5%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">(Address of principal executive
+offices)</font></p>
+</td>
+<td width="0%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="31%" valign="top" style=
+"padding:0in 0in 0in 0in;width:31.66%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">(Zip Code)</font></p>
+</td>
+</tr>
+</table>
+</div>
+<p align="center" style=
+"margin:0in 0in .0001pt 6.65pt;text-align:center;"><font size="2"
+face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Arial" style="font-size:10.0pt;font-weight:bold;">(312)
+696-6000</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt 6.65pt;text-align:center;"><font size="2"
+face="Arial" style="font-size:10.0pt;">(Registrant’s telephone
+number, including area code)</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt 5.4pt;text-align:center;"><b><font size="2"
+face="Arial" style=
+"font-size:10.0pt;font-weight:bold;">N/A</font></b></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">(Former name or former address,
+if changed since last report)</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style=
+"margin:0in 0in .0001pt;text-align:center;">
+<hr size="1" width="25%" noshade="noshade" align="center" style=
+"color:black;" /></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Check the appropriate box below if the
+Form&nbsp;8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following
+provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font face="Arial">&nbsp;&nbsp; Written
+communications pursuant to Rule&nbsp;425 under the Securities Act
+(17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font face="Arial">&nbsp;&nbsp;
+Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font face="Arial">&nbsp;&nbsp;
+Pre-commencement communications pursuant to
+Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR
+240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;">
+<font size="2" face="Wingdings" style=
+"font-size:10.0pt;">o</font><font face="Arial">&nbsp;&nbsp;
+Pre-commencement communications pursuant to
+Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR
+240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Indicate by check mark whether the
+registrant is an emerging growth company as defined in
+Rule&nbsp;405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule&nbsp;12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2"
+face="Arial" style="font-size:10.0pt;">Emerging growth
+company</font> <font face="Wingdings">o</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2"
+face="Arial" style="font-size:10.0pt;">If an emerging growth
+company, indicate by check mark if the registrant has elected not
+to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to
+Section&nbsp;13(a)&nbsp;of the Exchange Act.</font> <font face=
+"Wingdings">o</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<div style=
+"border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;">
+<font size="1" face="Arial" style=
+"font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105733\18-14013-1\task8910363\14013-1-ba.htm',USER='105733',CD='May 22 17:27 2018' --><br clear="all"
+style="page-break-before:always;" />
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial"
+style="font-size:10.0pt;font-weight:bold;">Item 5.07.&nbsp;
+Submission of Matters to a Vote of Security Holders.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Morningstar,&nbsp;Inc. (Morningstar) held
+its Annual Shareholders’ Meeting on May&nbsp;18, 2018, for the
+purpose of electing directors and ratifying the appointment of KPMG
+LLP (KPMG) as Morningstar’s independent registered public
+accounting firm for 2018.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Each of the nominees for director, as
+listed in the proxy statement, was elected with the number of votes
+set forth below:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="86%"
+style="border-collapse:collapse;margin-left:.5in;">
+<tr>
+<td width="29%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial"
+style="font-size:8.0pt;font-weight:bold;">Name</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="13%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Votes&nbsp;For</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="13%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Votes&nbsp;Against</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="13%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Abstentions</font></b></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="16%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:16.16%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Broker&nbsp;Non-Votes</font></b></p>
+</td>
+<td width="1%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:1.16%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Joe
+Mansueto</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,412,513</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">232,674</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,429</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" style=
+"padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Kunal
+Kapoor</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,339,712</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">245,250</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,654</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Robin
+Diamonte</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,424,181</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">220,190</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,245</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" style=
+"padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Cheryl
+Francis</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,403,012</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">241,499</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,105</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Steve
+Kaplan</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,395,770</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">248,268</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,578</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" style=
+"padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Gail
+Landis</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,416,134</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">228,220</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,262</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Bill
+Lyons</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,343,584</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">300,819</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,213</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" style=
+"padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Jack
+Noonan</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,399,743</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">244,610</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,263</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Caroline
+Tsay</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,416,927</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">227,426</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,263</font></p>
+</td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="29%" valign="top" style=
+"padding:0in 0in 0in 0in;width:29.62%;">
+<p style="margin:0in 0in .0001pt 10.1pt;text-indent:-10.1pt;">
+<font size="2" face="Arial" style="font-size:10.0pt;">Hugh
+Zentmyer</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">39,420,029</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">224,226</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="13%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:13.84%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">2,361</font></p>
+</td>
+<td width="2%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:2.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="16%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:16.16%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">1,489,226</font></p>
+</td>
+<td width="1%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:1.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">The appointment of KPMG as Morningstar’s
+independent registered public accounting firm for 2018 was ratified
+with the voting as follows:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="53%"
+style="border-collapse:collapse;margin-left:.5in;">
+<tr>
+<td width="34%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:34.52%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Votes&nbsp;For</font></b></p>
+</td>
+<td width="5%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:5.2%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="24%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:24.94%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Votes&nbsp;Against</font></b></p>
+</td>
+<td width="5%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:5.2%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="24%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:24.94%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Abstentions</font></b></p>
+</td>
+<td width="5%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:5.2%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="34%" valign="top" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:34.52%;">
+<p align="right" style=
+"margin:0in 0in .0001pt 10.1pt;text-align:right;text-indent:-10.1pt;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">41,109,178</font></p>
+</td>
+<td width="5%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:5.2%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="24%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:24.94%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">20,614</font></p>
+</td>
+<td width="5%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:5.2%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="24%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:24.94%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">6,050</font></p>
+</td>
+<td width="5%" valign="bottom" bgcolor="#CCEEFF" style=
+"background:#CCEEFF;padding:0in 0in 0in 0in;width:5.2%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial"
+style="font-size:10.0pt;font-weight:bold;">Item 8.01.&nbsp; Other
+Events.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">On May&nbsp;18, 2018, Morningstar issued
+a press release announcing that its Board of Directors has approved
+a quarterly cash dividend of 25 cents per share payable
+July&nbsp;27, 2018 to shareholders of record as of July&nbsp;6,
+2018.&nbsp; A copy of the press release is filed as
+Exhibit&nbsp;99.1 to this Form&nbsp;8-K.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial"
+style="font-size:10.0pt;font-weight:bold;">Item 9.01.&nbsp;
+Financial Statements and Exhibits.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.5in;">
+<font size="2" face="Arial" style=
+"font-size:10.0pt;">(d)</font><font size="1" face="Arial" style=
+"font-size:3.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+<font face="Arial">Exhibits:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="93%"
+style="border-collapse:collapse;margin-left:.5in;">
+<tr>
+<td width="11%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:11.7%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial"
+style=
+"font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.2%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</td>
+<td width="85%" valign="bottom" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:85.1%;">
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face=
+"Arial" style=
+"font-size:8.0pt;font-weight:bold;">Description</font></b></p>
+</td>
+</tr>
+<tr>
+<td width="11%" valign="top" style=
+"padding:0in 0in 0in 0in;width:11.7%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.2%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="85%" valign="top" style=
+"padding:0in 0in 0in 0in;width:85.1%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="11%" valign="top" style=
+"padding:0in 0in 0in 0in;width:11.7%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">99.1</font></p>
+</td>
+<td width="3%" valign="bottom" style=
+"padding:0in 0in 0in 0in;width:3.2%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="85%" valign="top" style=
+"padding:0in 0in 0in 0in;width:85.1%;">
+<p style="margin:0in 0in .0001pt;"><a href=
+"a18-14013_1ex99d1.htm#Exhibit99_1_034726" title=
+"Click to goto "><font size="2" face="Times New Roman" style=
+"font-size:10.0pt;"><font face="Arial">Press Release dated
+May&nbsp;18, 2018 regarding quarterly
+dividend.</font></font></a></p>
+</td>
+</tr>
+</table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+<font face="Arial">2</font><a name="PB_2_034334_3007" id=
+"PB_2_034334_3007"></a></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\105733\18-14013-1\task8910363\14013-1-ba.htm',USER='105733',CD='May 22 17:27 2018' --><br clear="all"
+style="page-break-before:always;" />
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face=
+"Arial" style=
+"font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2"
+face="Arial" style="font-size:10.0pt;">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"
+style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="49%" colspan="2" valign="top" style=
+"padding:0in 0in 0in 0in;width:49.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">MORNINGSTAR,&nbsp;INC.</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+<td width="49%" colspan="2" valign="top" style=
+"padding:0in 0in 0in 0in;width:49.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Date: May&nbsp;22, 2018</font></p>
+</td>
+<td width="6%" valign="top" style=
+"padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">By:</font></p>
+</td>
+<td width="42%" valign="top" style=
+"border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:42.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">/s/ Jason Dubinsky</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="6%" valign="top" style=
+"padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Name:</font></p>
+</td>
+<td width="42%" valign="top" style=
+"padding:0in 0in 0in 0in;width:42.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Jason Dubinsky</font></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style=
+"padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:1.0pt;">&nbsp;</font></p>
+</td>
+<td width="6%" valign="top" style=
+"padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Title:</font></p>
+</td>
+<td width="42%" valign="top" style=
+"padding:0in 0in 0in 0in;width:42.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"
+style="font-size:10.0pt;">Chief Financial Officer</font></p>
+</td>
+</tr>
+</table>
+<p align="center" style=
+"margin:0in 0in .0001pt;text-align:center;"><font size="2" face=
+"Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style=
+"font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">
+<font face="Arial">3</font><a name="PB_3_034427_7056" id=
+"PB_3_034427_7056"></a></p>
+<div style="margin:0in 0in .0001pt;">
+<hr size="3" width="100%" noshade="noshade" align="left" style=
+"color:#010101;" /></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\105733\18-14013-1\task8910363\14013-1-ba.htm',USER='105733',CD='May 22 17:27 2018' -->
+</body>
+</html>
+

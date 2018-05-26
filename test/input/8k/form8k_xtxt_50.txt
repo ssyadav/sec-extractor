@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body>
+<div style="margin-top: 3pt; margin-bottom: 12pt;">
+<div style=
+"font-size: 1pt; border-top: Black 2.5pt solid; border-bottom: Black 1.1pt solid; width: 100%;">
+<font style="font-size: 10pt;">&nbsp;</font></div>
+</div>
+<p style="text-align: center;"><font style=
+"font-size: 14pt;"><strong>UNITED STATES</strong><br />
+<strong>SECURITIES AND EXCHANGE COMMISSION</strong><br />
+<strong>Washington, D.C. 20549</strong><br />
+_____________________</font></p>
+<p style="text-transform: uppercase; text-align: center;">
+<font style="font-size: 14pt;"><strong>Form 8-K</strong><br />
+_____________________</font></p>
+<p style="text-align: center;"><font style=
+"font-size: 12pt;"><strong>CURRENT REPORT</strong></font></p>
+<p style="text-align: center;"><font style=
+"font-size: 12pt;"><strong>Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934</strong></font></p>
+<p align="center"><font style="font-size: 10pt;">Date of Report
+(Date of earliest event Reported): <!--May 22, 2018-->May 22, 2018
+&nbsp;</font></p>
+<p align="center"><font style="font-size: 12pt;"><strong>AutoZone,
+Inc.</strong></font><br />
+<font style="font-size: 10pt;">(Exact Name of Registrant as
+Specified in Charter)</font></p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding=
+"0">
+<tr valign="top">
+<td align="center" width="33%"><font style=
+"font-size: 10pt;"><strong>Nevada</strong></font></td>
+<td align="center" width="34%"><font style=
+"font-size: 10pt;"><strong>1-10714</strong></font></td>
+<td align="center" width="33%"><font style=
+"font-size: 10pt;"><strong>62-1482048</strong></font></td>
+</tr>
+<tr valign="top">
+<td align="center" width="33%"><font style=
+"font-size: 10pt;">(State or Other Jurisdiction of
+Incorporation)</font></td>
+<td align="center" width="34%"><font style=
+"font-size: 10pt;">(Commission File Number)</font></td>
+<td align="center" width="33%"><font style=
+"font-size: 10pt;">(I.R.S. Employer Identification
+Number)</font></td>
+</tr>
+</table>
+<p><font style="font-size: 10pt;">&nbsp;</font></p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding=
+"0">
+<tr valign="bottom">
+<td align="center" width="50%"><font style=
+"font-size: 10pt;"><strong>123 South Front Street, Memphis,
+Tennessee 38103</strong><!----></font></td>
+</tr>
+<tr valign="top">
+<td align="center" width="50%"><font style=
+"font-size: 10pt;">(Address of Principal Executive Offices) (Zip
+Code)</font></td>
+</tr>
+</table>
+<p align="center"><font style="font-size: 10pt;"><strong>(901)
+495-6500</strong><br />
+(Registrant's telephone number, including area code)</font></p>
+<p align="center"><font style="font-size: 10pt;"><br />
+(Former name or former address, if changed since last
+report)</font></p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding=
+"0">
+<tr valign="top">
+<td colspan="3"><font style="font-size: 10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:<br />
+<br /></font></td>
+</tr>
+<tr valign="top">
+<td width="21"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="40"><font style="font-size: 10pt;">[ &nbsp;
+]</font></td>
+<td nowrap="nowrap"><font style=
+"font-size: 10pt;">&nbsp;&nbsp;Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</font></td>
+</tr>
+<tr valign="top">
+<td width="21"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="40"><font style="font-size: 10pt;">[ &nbsp;
+]</font></td>
+<td nowrap="nowrap"><font style=
+"font-size: 10pt;">&nbsp;&nbsp;Soliciting material pursuant to Rule
+14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></td>
+</tr>
+<tr valign="top">
+<td width="21"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="40"><font style="font-size: 10pt;">[ &nbsp;
+]</font></td>
+<td nowrap="nowrap"><font style=
+"font-size: 10pt;">&nbsp;&nbsp;Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</font></td>
+</tr>
+<tr valign="top">
+<td width="21"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="40"><font style="font-size: 10pt;">[ &nbsp;
+]</font></td>
+<td nowrap="nowrap"><font style=
+"font-size: 10pt;">&nbsp;&nbsp;Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</font></td>
+</tr>
+</table>
+<p style="font-size: 10pt; margin: 0pt;">&nbsp;</p>
+<p style="font-size: 10pt; margin: 0pt;">Indicate by check mark
+whether the registrant is an emerging growth company as defined in
+Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or
+Rule&nbsp;12b-2&nbsp;of the Securities Exchange Act of 1934 (17
+CFR&nbsp;§240.12b-2).&nbsp;Emerging growth company [&nbsp;&nbsp;
+]</p>
+<p style="font-size: 10pt; margin: 0pt;">&nbsp;</p>
+<p style="font-size: 10pt; margin: 0pt;">If an emerging growth
+company, indicate by check mark if the registrant has elected not
+to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. [&nbsp;&nbsp; ]</p>
+<div style="margin-top: 12pt; margin-bottom: 3pt;">
+<div style=
+"font-size: 1pt; border-top: Black 1.1pt solid; border-bottom: Black 2.5pt solid; width: 100%;">
+<font style="font-size: 10pt;">&nbsp;</font></div>
+&nbsp;</div>
+<hr style="page-break-after: always;" noshade="noshade" />
+<p><font style="font-size: 10pt;"><strong>Item 2.02. Results of
+Operations and Financial Condition.</strong></font></p>
+<p><font style="font-size: 10pt;">On May 22, 2018, AutoZone, Inc.
+issued a press release announcing its earnings for the fiscal
+quarter ended May 5, 2018, which is furnished as Exhibit
+99.1.</font></p>
+<p><font style="font-size: 10pt;"><strong>Item 9.01. Financial
+Statements and Exhibits.</strong></font></p>
+<p><font style="font-size: 10pt;">The following exhibits are
+furnished with this Current Report pursuant to Item
+2.02:<br /></font></p>
+<p><font style="font-size: 10pt;">(d) Exhibits<br /></font></p>
+<p><font style="font-size: 10pt;">&nbsp; &nbsp; &nbsp;
+&nbsp;<a href="exh_991.htm">99.1</a>&nbsp; &nbsp; &nbsp;<a href=
+"exh_991.htm">Press Release dated May 22, 2018</a></font></p>
+<hr style="page-break-after: always;" noshade="noshade" />
+<p align="center"><font style=
+"font-size: 10pt;"><strong>SIGNATURE</strong></font></p>
+<p><font style="font-size: 10pt;">Pursuant to the requirements of
+the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</font></p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding=
+"0">
+<tr valign="top">
+<td valign="top" width="49%"><font style=
+"font-size: 10pt;">&nbsp;</font></td>
+<td style="font-size: 12pt;" colspan="2" valign="top"><font style=
+"font-size: 10pt;"><strong>AutoZone, Inc.</strong></font></td>
+</tr>
+<tr valign="top">
+<td width="49%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="2%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="49%"><font style="font-size: 10pt;">&nbsp;</font></td>
+</tr>
+<tr valign="top">
+<td width="49%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="2%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="49%"></td>
+</tr>
+<tr valign="top">
+<td width="49%"><font style="font-size: 10pt;">Date: May 22,
+2018</font></td>
+<td width="2%"><font style="font-size: 10pt;">By:&nbsp;</font></td>
+<td style="text-decoration: underline;" width="49%"><font style=
+"font-size: 10pt;">/s/ William T.
+Giles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr valign="top">
+<td width="49%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="2%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="49%"><font style="font-size: 10pt;">William T.
+Giles</font></td>
+</tr>
+<tr valign="top">
+<td width="49%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="2%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="49%"><font style="font-size: 10pt;">Chief Financial
+Officer and Executive Vice President - Finance, Information
+Technology</font></td>
+</tr>
+<tr valign="top">
+<td width="49%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="2%"><font style="font-size: 10pt;">&nbsp;</font></td>
+<td width="49%"></td>
+</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Washington, D.C. 20549</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM&nbsp;8-K</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CurrentReport</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Pursuant To Section&nbsp;13 or 15 (d)</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>of the Securities Exchange Act of 1934</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (Date of earliest event reported) —
+ May&nbsp;21, 2018</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>ENVESTNET,&nbsp;INC.</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact name of registrant as specified in its
+charter)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>Delaware</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">001-34835</font></b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">20-1409613</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(State or other</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>jurisdiction)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Commission</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>File Number)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(I.R.S. Employer of Incorporation</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Identification No.)</b></p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16" COLSPAN="3"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>35 East Wacker Drive, Suite&nbsp;2400</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Chicago,&nbsp;Illinois</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" ALIGN="center"><b>60601</b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center"><b>(Address of
+principal executive offices)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>(Zip Code)</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Registrant’s telephone number, including area
+code: (312)<font STYLE="white-space:nowrap">827-2800</font></b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Not applicable</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Former name or former address, if changed since
+last report)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box below if the <font STYLE=
+"white-space:nowrap">Form&nbsp;8-K</font> filing is intended to
+simultaneously satisfy the filingobligation of the registrant under
+any of the following provisions ( <i>see</i> General Instruction
+A.2. below):</p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to
+<font STYLE="white-space:nowrap">Rule&nbsp;14a-12</font> under the
+Exchange Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to <font STYLE=
+"white-space:nowrap">Rule&nbsp;14d-2(b)&nbsp;under</font> the
+Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to <font STYLE=
+"white-space:nowrap">Rule&nbsp;13e-4(c)&nbsp;under</font> the
+Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule <font STYLE=
+"white-space:nowrap">12b-2</font> of the Securities Exchange Act of
+1934 <font STYLE="white-space:nowrap">(§240.12b-2</font> of this
+chapter).</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="right">Emerging growth company&nbsp;&nbsp;☐</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new orrevised financial accounting standards
+provided pursuant to Section&nbsp;13(a) of the Exchange
+Act.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>Item&nbsp;8.01 Other Events.</b></p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;21, 2018, Envestnet, Inc. (the “Company”) issued a
+press release announcing the Company’s proposed private offeringof
+$300&nbsp;million aggregate principal amount of convertible notes
+due 2023 pursuant to Rule 144A under the Securities Act of 1933, as
+amended (the “Securities Act”).</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+As required by Rule 135c under the Securities Act, a copy of the
+press release is filed herewith as Exhibits 99.1.</p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="10%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;9.01.</b></td>
+<td ALIGN="left" VALIGN="top"><b>Financial Statements and
+Exhibits.</b></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%">&nbsp;</td>
+<td WIDTH="4%" VALIGN="top" ALIGN="left">(d)</td>
+<td ALIGN="left" VALIGN="top">Exhibits.</td>
+</tr>
+</table>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="5%"></td>
+<td WIDTH="92%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="bottom" NOWRAP="nowrap" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Exhibit</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:28.45pt; display:inline; font-size:8pt; font-family:Times New Roman;"
+ALIGN="center"><b>Number</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap">
+<p STYLE=
+"margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; display:inline; font-size:8pt; font-family:Times New Roman;">
+<b>Description</b></p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">99.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top">Press Release, dated May&nbsp;21, 2018, Announcing
+the Launch of the Offering of the Notes.</td>
+</tr>
+</table>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">2</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>EXHIBIT INDEX</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="5%"></td>
+<td WIDTH="92%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="bottom" NOWRAP="nowrap" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Exhibit</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:28.45pt; display:inline; font-size:8pt; font-family:Times New Roman;"
+ALIGN="center"><b>Number</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap">
+<p STYLE=
+"margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; display:inline; font-size:8pt; font-family:Times New Roman;">
+<b>Description</b></p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">99.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d568022dex991.htm">Press Release, dated
+May&nbsp;21, 2018, Announcing the Launch of the Offering of the
+Notes.</a></td>
+</tr>
+</table>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">3</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURES</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on
+its behalf bythe undersigned hereunto duly authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<div ALIGN="right">
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0"
+STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="6%"></td>
+<td VALIGN="bottom" WIDTH="2%"></td>
+<td WIDTH="92%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" COLSPAN="3">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+<b>ENVESTNET,&nbsp;INC.</b></p>
+<p STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt">
+&nbsp;</p>
+</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">By:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">
+/s/ Shelly O’Brien</p>
+</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Name: Shelly O’Brien</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Title: Chief Legal Officer, General Counsel and
+Corporate Secretary</td>
+</tr>
+</table>
+</div>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Date: May&nbsp;21, 2018</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">4</p>
+</body>
+</html>
+

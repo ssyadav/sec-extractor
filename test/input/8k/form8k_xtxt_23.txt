@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+<!--Copyright 2018 Business Wire, a Berkshire Hathaway company.-->
+<!--All rights reserved www.businesswire.com-->
+</head>
+<body style="font-family: Times New Roman; font-size: 10pt">
+<p style="text-align: center"></p>
+<p style="text-align: center"><font style=
+"font-size: 12pt; font-family: Times New Roman">UNITED
+STATES</font><br />
+<br />
+<font style=
+"font-size: 12pt; font-family: Times New Roman">SECURITIES AND
+EXCHANGE COMMISSION</font><br />
+<br />
+<font style=
+"font-size: 12pt; font-family: Times New Roman">WASHINGTON, DC
+20549</font><br />
+<font style=
+"font-family: Times New Roman">______________</font><br />
+<br />
+<font style="font-size: 12pt; font-family: Times New Roman">FORM
+8-K</font><br />
+<br />
+<font style="font-size: 12pt; font-family: Times New Roman">CURRENT
+REPORT</font><br />
+<br />
+<font style="font-size: 12pt">P</font><font style=
+"font-size: 12pt; font-family: Times New Roman">ursuant to Section
+13 or 15(d) of the</font><br />
+<font style=
+"font-size: 12pt; font-family: Times New Roman">Securities Exchange
+Act of 1934</font><br />
+<br />
+<font style="font-size: 12pt; font-family: Times New Roman">Date of
+report (Date of earliest event reported): May 22, 2018</font><br />
+<br />
+<font style=
+"font-family: Times New Roman"><b>______________</b></font><br /></p>
+<p style="text-align: center"><font style="font-size: 12pt"><b>THE
+TJX COMPANIES, INC</b></font><b><font style=
+"font-size: 18pt">.</font></b><br />
+<font style="font-size: 12pt; font-family: Times New Roman">(Exact
+Name of Registrant as Specified in Its Charter)</font><br />
+<br /></p>
+<div style="text-align:left">
+<table style=
+"font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px"
+cellspacing="0">
+<tr>
+<td valign="bottom" style=
+"width: 46%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px"><u>DELAWARE</u></p>
+</td>
+<td valign="bottom" style=
+"white-space: nowrap; width: 30%; text-align: left; padding-left: 0.0px; padding-right: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px"><u>1-4908</u></p>
+</td>
+<td valign="bottom" style=
+"white-space: nowrap; width: 24%; text-align: left; padding-left: 0.0px; padding-right: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">
+<u>04-2207613</u></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style=
+"width: 46%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">(State or other
+jurisdiction</p>
+<p style="margin-bottom: 0px; margin-top: 0px">of
+incorporation)</p>
+</td>
+<td valign="top" style=
+"width: 30%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">(Commission File</p>
+<p style="margin-bottom: 0px; margin-top: 0px">Number)</p>
+</td>
+<td valign="top" style=
+"width: 24%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">(I.R.S. Employer</p>
+<p style="margin-bottom: 0px; margin-top: 0px">Identification
+No.)</p>
+</td>
+</tr>
+</table>
+</div>
+<p style="text-align: center"><font style=
+"font-family: Times New Roman"><b>______________</b></font><br /></p>
+<div style="text-align:left">
+<table style=
+"font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px"
+cellspacing="0">
+<tr>
+<td valign="bottom" style=
+"text-align: center; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px"><u>770 Cochituate
+Road, Framingham, MA&nbsp;&nbsp;01701</u></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style=
+"text-align: center; padding-left: 0.0px"><font style=
+"font-size: 10pt; font-family: Times New Roman">(Address of
+Principal Executive Offices)</font> <font style=
+"font-size: 10pt; font-family: Times New Roman">(Zip
+Code)</font></td>
+</tr>
+</table>
+</div>
+<p style="text-align: center"><font style=
+"font-size: 10pt; font-family: Times New Roman">Registrant’s
+telephone number, including area code:</font> <font style=
+"font-size: 10pt">(508) 390-1000</font><br />
+<br />
+<u>N/A</u><br />
+<font style="font-size: 10pt; font-family: Times New Roman">(Former
+name or former address,</font> i<font style=
+"font-size: 10pt; font-family: Times New Roman">f changed since
+last report)</font></p>
+<p style="text-align: center"></p>
+<p><font style=
+"font-size: 10pt; font-family: Times New Roman">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></p>
+<p><font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style="font-size: 10pt; font-family: Times New Roman">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font><br />
+<font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style=
+"font-size: 10pt; font-family: Times New Roman">Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font><br />
+<font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style=
+"font-size: 10pt; font-family: Times New Roman">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font><br />
+<font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style=
+"font-size: 10pt; font-family: Times New Roman">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></p>
+<p>Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emerging
+growth company <font style=
+"font-size: 12pt; font-family: Arial Unicode MS">⃞</font></p>
+<p>If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange
+Act.&nbsp;&nbsp;<font style=
+"font-size: 12pt; font-family: Arial Unicode MS">⃞</font></p>
+<div style=
+"margin-right: 0pt; margin-left: 0pt; width: 100%; text-indent: 0pt; margin-bottom: 10pt">
+<div>
+<div style="text-align: left"></div>
+</div>
+<div style="page-break-after: always">
+<div style=
+"font-size: 10pt; text-align: center; font-family: Times New Roman">
+1</div>
+<div style="text-align: center">
+<hr style="height: 1.5pt; color: black" /></div>
+</div>
+<div>
+<div style="text-align: right"></div>
+</div>
+</div>
+<p>ITEM 2.02. &nbsp;&nbsp;&nbsp;Results of Operations and Financial
+Condition</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On May 22,
+2018, The TJX Companies, Inc. issued a press release that included
+financial results for the fiscal quarter ended May 5,
+2018.&nbsp;&nbsp;A copy of the press release is furnished as
+Exhibit 99.1
+hereto.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+information contained in this report, and the exhibit attached
+hereto, is being furnished and shall not be deemed to be “filed”
+for purposes of Section 18 of, or otherwise regarded as filed
+under, the Securities Exchange Act of 1934, as amended (the 
+“Exchange Act”), nor shall it be deemed incorporated by reference
+into any filing under the Securities Act of 1933, as amended, or
+the Exchange Act, except as shall be expressly set forth by
+specific reference in such filing.<br />
+<br />
+<br />
+ITEM 9.01.&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and
+Exhibits</p>
+<p>(d)&nbsp;&nbsp;Exhibits</p>
+<p>Exhibit
+99.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press
+Release of The TJX Companies, Inc. dated May 22, 2018.</p>
+<p style="margin-left: 150.0px; white-space: nowrap"></p>
+<div style=
+"margin-right: 0pt; margin-left: 0pt; width: 100%; text-indent: 0pt; margin-bottom: 10pt">
+<div>
+<div style="text-align: left"></div>
+</div>
+<div style="page-break-after: always">
+<div style=
+"font-size: 10pt; text-align: center; font-family: Times New Roman">
+2</div>
+<div style="text-align: center">
+<hr style="height: 1.5pt; color: black" /></div>
+</div>
+<div>
+<div style="text-align: right"></div>
+</div>
+</div>
+<p style="text-align: center"><font style=
+"font-size: 10pt; font-family: Times New Roman">SIGNATURES</font></p>
+<p style=
+"font-size: 10pt; text-indent: 30.0px; font-family: Times New Roman">
+<font style=
+"font-size: 10pt; font-family: Times New Roman">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the Registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></p>
+<p style=
+"font-size: 10pt; text-indent: 30.0px; font-family: Times New Roman">
+</p>
+<div style="text-align:left">
+<table style=
+"font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px"
+cellspacing="0">
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 49%"></td>
+<td valign="top" style=
+"width: 45%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">THE TJX COMPANIES,
+INC.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 49%"></td>
+<td valign="top" style=
+"width: 45%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 49%"></td>
+<td style="width: 45%">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" style=
+"width: 6%; text-align: left; padding-left: 0.0px; padding-bottom: 2.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">&nbsp;</p>
+</td>
+<td valign="top" style=
+"width: 49%; text-align: left; padding-left: 0.0px; padding-bottom: 2.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">&nbsp;</p>
+</td>
+<td valign="top" style=
+"border-bottom-color: black; border-bottom-width: 1.0pt; width: 45%; text-align: left; padding-left: 0.0px; border-bottom-style: solid">
+<p style="margin-bottom: 0px; margin-top: 0px">/s/ Scott
+Goldenberg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 49%"></td>
+<td valign="top" style=
+"width: 45%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">Scott Goldenberg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 49%"></td>
+<td valign="top" style=
+"width: 45%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">Chief Financial
+Officer</p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 49%"></td>
+<td style="width: 45%">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" style=
+"width: 6%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">Dated:</p>
+</td>
+<td valign="top" style=
+"width: 49%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">May 22, 2018</p>
+</td>
+<td style="width: 45%"></td>
+</tr>
+</table>
+</div>
+<div style=
+"margin-right: 0pt; margin-left: 0pt; width: 100%; text-indent: 0pt; margin-bottom: 10pt">
+<div>
+<div style="text-align: left"></div>
+</div>
+<div style="page-break-after: always">
+<div style=
+"font-size: 10pt; text-align: center; font-family: Times New Roman">
+3</div>
+<div style="text-align: center">
+<hr style="height: 1.5pt; color: black" /></div>
+</div>
+<div>
+<div style="text-align: right"></div>
+</div>
+</div>
+<p style="text-align: center">EXHIBIT INDEX</p>
+<div style="text-align:left">
+<table style=
+"font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px"
+cellspacing="0">
+<tr>
+<td valign="top" style=
+"width: 15%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px"><u>Exhibit
+Number</u></p>
+</td>
+<td valign="top" style=
+"width: 85%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px">
+<u>Description</u></p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%"></td>
+<td valign="top" style=
+"width: 85%; text-align: left; padding-left: 0.0px">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" style=
+"white-space: nowrap; width: 15%; text-align: left; padding-left: 0.0px; padding-right: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px"><a href=
+"a51809960ex99_1.htm">99.1</a></p>
+</td>
+<td valign="top" style=
+"width: 85%; text-align: left; padding-left: 0.0px">
+<p style="margin-bottom: 0px; margin-top: 0px"><a href=
+"a51809960ex99_1.htm">Press Release of The TJX Companies, Inc.
+dated May 22, 2018.</a></p>
+</td>
+</tr>
+</table>
+</div>
+<p style="text-align: center">4</p>
+<!--<!DOCTYPE html     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">-->
+</body>
+</html>
+

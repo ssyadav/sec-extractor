@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>prmw20180521_8ka.htm</title>
+<!-- Created by RDG HTML Converter v1.1.0.0 5/21/2018 4:11:19 PM -->
+<meta charset="utf-8" />
+<meta name="format-detection" content="telephone=no" />
+</head>
+<body style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin-left: 10px; margin-right: 10px; cursor: auto;">
+
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>UNITED STATES</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Washington, D.C. 20549</b></p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: center;">
+<b>FORM 8-K/A</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>(Amendment No. 1)</b></p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>CURRENT REPORT</b></p>
+</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Pursuant to Section 13 or 15(d) of the</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Securities Exchange Act of 1934</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+Date of Report (Date of earliest event reported): May 17, 2018</p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<u><b>PRIMO WATER CORPORATION</b></u></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Exact Name of Registrant as Specified in Charter)</p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="2" style=
+"vertical-align: top; width: 33%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Delaware</b></p>
+</td>
+<td colspan="2" style=
+"vertical-align: top; width: 34%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>001-34850</b></p>
+</td>
+<td style=
+"vertical-align: top; width: 33%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>82-1161432</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align: top; width: 33%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+&nbsp;</td>
+<td colspan="2" style=
+"vertical-align: top; width: 34%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+&nbsp;</td>
+<td style=
+"vertical-align: top; width: 33%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+&nbsp;</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="2" style=
+"vertical-align: top; width: 33%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(State or Other Jurisdiction<br />
+of Incorporation)</p>
+</td>
+<td colspan="2" style=
+"vertical-align: top; width: 34%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Commission<br />
+File Number)</p>
+</td>
+<td style=
+"vertical-align: top; width: 33%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(I.R.S. Employer<br />
+Identification No.)</p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 64.1%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin-bottom:0pt;margin-left:0pt;margin-top:0pt;text-align:center;">
+<b>101 North Cherry Street</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin-bottom:0pt;margin-left:0pt;margin-top:0pt;text-align:center;">
+<b>Suite 501</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin-bottom:0pt;margin-left:0pt;margin-top:0pt;text-align:center;">
+<b>Winston-Salem, NC 27101</b></p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Address of Principal Executive Offices)(Zip Code)</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Registrant’s telephone number, including area code: (336)
+331-4000</b></p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>Not Applicable</b></p>
+</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+(Former Name or Former Address, if Changed Since Last Report)</p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td colspan="5" style=
+"vertical-align: top; width: 100%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</p>
+</td>
+</tr>
+</table>
+<p style="margin: 0pt;">&nbsp;</p>
+<table border="0" cellpadding="0" cellspacing="0" style=
+"width: 100%; text-indent: 0px;">
+<tr style="vertical-align: top;">
+<td style="width: 18pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+☐</p>
+</td>
+<td>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 18pt;">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: top;">
+<td style="width: 18pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+☐</p>
+</td>
+<td>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 18pt;">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: top;">
+<td style="width: 18pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+☐</p>
+</td>
+<td>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))</p>
+</td>
+</tr>
+<tr>
+<td style="width: 18pt;">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: top;">
+<td style="width: 18pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+☐</p>
+</td>
+<td>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))</p>
+</td>
+</tr>
+</table>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+Emerging growth company ☐</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.
+☐</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<div id="PGBK" style=
+"width: 100%; margin-left: 0pt; margin-right: 0pt">
+<div id="PGNUM" style="text-align: center; width: 100%">
+&nbsp;</div>
+<hr style=
+"PAGE-BREAK-AFTER: always; border: none; width: 100%; height: 2px; color: #000000; background-color: #000000" />
+
+<div id="PGHDR" style="text-align: left; width: 100%">&nbsp;</div>
+</div>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin: 0pt; text-align: left">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin-bottom:0pt;margin-left:72pt;margin-right:0pt;margin-top:0pt;text-align:left;text-indent:-72pt;">
+<b>Explanatory Note</b></p>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+This Current Report on Form 8-K/A amends the Current Report on Form
+8-K filed on May 18, 2018 (the “Initial Form 8-K”) by Primo Water
+Corporation, a Delaware corporation (the “Company”), solely for the
+purpose of correcting a typographical error with respect to the
+Company’s signature page on the Initial Form 8-K. No other changes
+were made to the Initial Form 8-K.</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+<b>Item 1.01.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Entry into a
+Material Definitive Agreement.</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt 7.5pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+On May 17, 2018, Primo Water Corporation (the “Company”) entered
+into an Underwriting Agreement (the “Underwriting Agreement”) with
+William Blair &amp; Company, L.L.C. and BMO Capital Markets Corp.,
+as representatives (the “Representatives”) of the several
+underwriters named therein (the “Underwriters”), relating to the
+issuance and sale of 4,643,000 shares of the Company’s common
+stock, par value $0.001 per share (“Common Stock”). Under the terms
+of the Underwriting Agreement, the Company also granted to the
+Underwriters an option, exercisable in whole or in part at any time
+for a period of 30 days from the date of the Underwriting
+Agreement, to purchase up to an additional 696,450 shares of Common
+Stock. The net proceeds to the Company from this offering are
+expected to be approximately $61.6 million, after deducting
+underwriting discounts and commissions and other estimated offering
+expenses. The offering is expected to close on or about May 22,
+2018, subject to customary closing conditions.</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt 7.5pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+The Underwriting Agreement contains customary representations,
+warranties and covenants made by the Company. It also provides for
+customary indemnification by each of the Company and the
+Underwriters, severally and not jointly, for losses or damages
+arising out of or in connection with the offering, including for
+liabilities under the Securities Act of 1933, as amended, and other
+obligations of the parties. In addition, pursuant to the terms of
+the Underwriting Agreement, each of the Company’s directors and
+executive officers have entered into “lock-up” agreements with the
+Underwriters that, subject to certain exceptions, generally
+prohibit, without the prior written consent of the Representatives,
+the sale, transfer or other disposition of the Company’s securities
+for a period of 90 days from the date of the Underwriting
+Agreement.</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+&nbsp;</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+The offering is being made pursuant to an effective registration
+statement on Form S-3 (Registration Statement No. 333-221938)
+previously filed by the Company with the Securities and Exchange
+Commission and a prospectus supplement thereunder. The Underwriting
+Agreement is filed as Exhibit 1.1 to this report, and the
+description of the terms of the Underwriting Agreement is qualified
+in its entirety by reference to such exhibit. A copy of the opinion
+of K&amp;L Gates LLP relating to the legality of the issuance and
+sale of the Common Stock in the offering is attached as Exhibit 5.1
+hereto.</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+&nbsp;</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">
+On each of May 14, 2018 and May 18, 2018, the Company issued a
+press release with respect to the offering. These press releases
+are attached as Exhibit 99.1 and Exhibit 99.2 hereto,
+respectively.</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+<div id="PGBK" style=
+"width: 100%; margin-left: 0pt; margin-right: 0pt">
+<div id="PGNUM" style="text-align: center; width: 100%">2</div>
+<hr style=
+"PAGE-BREAK-AFTER: always; border: none; width: 100%; height: 2px; color: #000000; background-color: #000000" />
+
+<div id="PGHDR" style="text-align: left; width: 100%">&nbsp;</div>
+</div>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin: 0pt; text-align: left">
+&nbsp;</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt 0pt 0pt 72pt; text-align: left; text-indent: -72pt;">
+<b>Item 9.01.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Financial Statements and Exhibits.</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt 7.5pt;text-align:left;">
+&nbsp;</p>
+<p style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt 0pt 0pt 72pt; text-align: left; text-indent: -72pt;">
+<b>(d)&nbsp; Exhibits.</b></p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt 7.5pt;text-align:left;">
+&nbsp;</p>
+<table border="0px" cellpadding="0pt" cellspacing="0pt" style=
+"margin: 0pt; width: 100%; text-indent: 0px; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td style=
+"vertical-align: top; width: 8%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; border-bottom: thin solid rgb(0, 0, 0);">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<b>Exhibit No.</b></p>
+</td>
+<td style=
+"vertical-align: top; width: 4%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td style=
+"vertical-align: top; width: 35%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; border-bottom: thin solid rgb(0, 0, 0);">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<b>Exhibit Description</b></p>
+</td>
+<td style=
+"vertical-align: top; width: 53%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<b>&nbsp;</b></p>
+</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td style=
+"vertical-align: top; width: 8%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:right;">
+1.1</p>
+</td>
+<td style=
+"vertical-align: top; width: 4%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td colspan="2" style=
+"vertical-align: top; width: 35%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<a href=
+"http://www.sec.gov/Archives/edgar/data/1365101/000143774918010377/ex_114837.htm"
+style="-sec-extract:exhibit;">Underwriting Agreement, dated May 17,
+2018 (incorporated by reference to Exhibit 1.1 to the Registrant’s
+Current Report on Form 8-K filed May 18, 2018)</a></p>
+</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td style=
+"vertical-align: top; width: 8%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:right;">
+5.1</p>
+</td>
+<td style=
+"vertical-align: top; width: 4%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td colspan="2" style=
+"vertical-align: top; width: 35%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<a href=
+"http://www.sec.gov/Archives/edgar/data/1365101/000143774918010377/ex_114838.htm"
+style="-sec-extract:exhibit;">Opinion of K&amp;L Gates LLP
+(incorporated by reference to Exhibit 5.1 to the Registrant’s
+Current Report on Form 8-K filed May 18, 2018)</a></p>
+</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td style=
+"vertical-align: top; width: 8%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:right;">
+23.1</p>
+</td>
+<td style=
+"vertical-align: top; width: 4%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td colspan="2" style=
+"vertical-align: top; width: 35%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<a href=
+"http://www.sec.gov/Archives/edgar/data/1365101/000143774918010377/ex_114838.htm"
+style="-sec-extract:exhibit;">Consent of K&amp;L Gates LLP
+(included in Exhibit 5.1) (incorporated by reference to Exhibit
+23.1 to the Registrant’s Current Report on Form 8-K filed May 18,
+2018)</a></p>
+</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td style=
+"vertical-align: top; width: 8%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:right;">
+99.1</p>
+</td>
+<td style=
+"vertical-align: top; width: 4%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td colspan="2" style=
+"vertical-align: top; width: 35%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<a href=
+"http://www.sec.gov/Archives/edgar/data/1365101/000143774918009801/ex_114481.htm"
+style="-sec-extract:exhibit;">Press release, dated May 14, 2018
+(incorporated by reference to Exhibit 99.2 to the Registrant’s
+Current Report on Form 8-K filed May 14, 2018)</a></p>
+</td>
+</tr>
+<tr style=
+"font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<td style=
+"vertical-align: top; width: 8%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:right;">
+99.2</p>
+</td>
+<td style=
+"vertical-align: top; width: 4%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+&nbsp;</p>
+</td>
+<td colspan="2" style=
+"vertical-align: top; width: 35%; font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt;">
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">
+<a href=
+"http://www.sec.gov/Archives/edgar/data/1365101/000143774918010377/ex_114839.htm"
+style="-sec-extract:exhibit;">Press release, dated May 18, 2018
+(incorporated by reference to Exhibit 99.2 to the Registrant’s
+Current Report on Form 8-K filed May 18, 2018)</a></p>
+</td>
+</tr>
+</table>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt 7.5pt;text-align:left;">
+&nbsp;</p>
+<div id="PGBK" style=
+"width: 100%; margin-left: 0pt; margin-right: 0pt">
+<div id="PGNUM" style="text-align: center; width: 100%">3</div>
+<hr style=
+"PAGE-BREAK-AFTER: always; border: none; width: 100%; height: 2px; color: #000000; background-color: #000000" />
+
+<div id="PGHDR" style="text-align: left; width: 100%">&nbsp;</div>
+</div>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin: 0pt; text-align: left">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;">
+<b>SIGNATURES</b></p>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;text-indent:36pt;">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;text-indent:36pt;">
+&nbsp;</p>
+<p style=
+"font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;text-indent:36pt;">
+&nbsp;</p>
+<table border="0" cellpadding="0" cellspacing="0" style=
+"text-indent: 0; width: 100%;font-family: 'Times New Roman', Times, serif; font-size: 10pt">
+<tr>
+<td valign="top" width="50%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td colspan="2" valign="top" width="38%">
+<p style="margin-top: 0; margin-bottom: 0;"><b>PRIMO WATER
+CORPORATION</b></p>
+</td>
+<td valign="top" width="12%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td valign="top" width="3%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td align="left" nowrap="nowrap" valign="bottom" width="35%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td valign="top" width="12%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td align="left" style="text-align: left;" valign="top" width=
+"50%">
+<p style="margin-top: 0; margin-bottom: 0;">Date: May 21, 2018</p>
+</td>
+<td style="text-align: left" valign="top" width="3%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">By:</font></p>
+</td>
+<td align="left" nowrap="nowrap" style=
+"BORDER-BOTTOM: #000000 1px solid" valign="top" width="35%">/s/
+David J. Mills</td>
+<td valign="top" width="12%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td valign="top" width="3%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td valign="top" width="35%">
+<p style="margin-top: 0; margin-bottom: 0;">David J. Mills</p>
+</td>
+<td valign="top" width="12%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td valign="top" width="3%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td valign="top" width="35%">
+<p style="margin-top: 0; margin-bottom: 0;">Chief Financial
+Officer</p>
+</td>
+<td valign="top" width="12%">
+<p style="margin-top: 0; margin-bottom: 0;"><font style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+</table>
+<p style=
+"font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">
+&nbsp;</p>
+</body>
+</html>
+

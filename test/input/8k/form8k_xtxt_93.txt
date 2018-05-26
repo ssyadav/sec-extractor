@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>mainbody.htm</title>
+<!--Licensed to: 123EdgarDirect, Inc.    Document created using EDGARfilings PROfile 4.4.0.0    Copyright 1995 - 2018 Broadridge-->
+</head>
+<body style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"
+bgcolor="#FFFFFF">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+UNITED STATES</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+SECURITIES AND EXCHANGE COMMISSION</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Washington, D.C. 20549</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+________________________</div>
+<div style=
+"FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+FORM 8-K</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;<font style=
+"FONT-WEIGHT: bold; DISPLAY: inline">_______________________</font></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+CURRENT REPORT</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Pursuant to Section 13 or 15(d)</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+of the Securities Exchange Act of 1934</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Date of Report (Date of earliest event
+reported):&nbsp;&nbsp;&nbsp;May 16,&nbsp;2018</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<img src="logo.jpg" /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; FONT-WEIGHT: bold; FONT-STYLE: normal; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<u>OrangeHook, Inc.</u></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+(Exact name of Registrant as Specified in its Charter)</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div>
+<table id="ade506fcd5d74dbb945d86055eb863ee" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 28%" valign="bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;<font style=
+"TEXT-DECORATION: underline; FONT-WEIGHT: bold; DISPLAY: inline">Florida</font></div>
+</td>
+<td style="WIDTH: 26%" valign="bottom">
+<div style=
+"FONT-SIZE: 10pt; TEXT-DECORATION: underline; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<u>000-54249</u></div>
+</td>
+<td style="WIDTH: 25%" valign="bottom">
+<div style=
+"FONT-SIZE: 10pt; TEXT-DECORATION: underline; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+27-1230588</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 28%" valign="middle">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp; (State or Other Jurisdiction of Incorporation</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+or Organization)&nbsp;</div>
+</td>
+<td style="WIDTH: 26%" valign="top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+(Commission file number)</div>
+</td>
+<td style="WIDTH: 25%" valign="top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+(I.R.S. Employer Identification Number)</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+319 Barry Avenue South&nbsp;#300</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-VARIANT: normal; FONT-WEIGHT: bold; FONT-STYLE: normal; TEXT-ALIGN: center">
+<u>Wayzata, Minnesota 55391</u></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: center">
+&nbsp;(Address of Principal Executive Offices including Zip
+Code)</div>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-VARIANT: normal; FONT-WEIGHT: bold; FONT-STYLE: normal; TEXT-ALIGN: center">
+<u>(442) 500-4665</u></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: center">
+(Registrant’s Telephone Number, including Area Code)</div>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; FONT-WEIGHT: bold; FONT-STYLE: normal; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div>
+<table id="91a8ecb8f394423598eb6263bb8a806d" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; WIDTH: 100%"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 5%" valign="top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: wingdings; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+o</div>
+</td>
+<td style="WIDTH: 84%" valign="top" align="left">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 5%" valign="top">&nbsp;</td>
+<td style="WIDTH: 84%" valign="top" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 5%" valign="top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: wingdings; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+o</div>
+</td>
+<td style="WIDTH: 84%" valign="top" align="left">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 5%" valign="top">&nbsp;</td>
+<td style="WIDTH: 84%" valign="top" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 5%" valign="top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: wingdings; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+o</div>
+</td>
+<td style="WIDTH: 84%" valign="top" align="left">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 5%" valign="top">&nbsp;</td>
+<td style="WIDTH: 84%" valign="top" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 5%" valign="top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: wingdings; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+o</div>
+</td>
+<td style="WIDTH: 84%" valign="top" align="left">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).&nbsp;&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: right">
+Emerging growth company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+☐<font style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif">&nbsp;</font></div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange
+Act.&nbsp; ☐</div>
+</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="DSPFPageBreakArea" style=
+"MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style=
+"BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000"
+noshade="noshade" /></div>
+</div>
+<!--PROfilePageNumberReset%Num%2%- % -%-->
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+Item 1.01 Entry into a Material Definitive Agreement.</div>
+<div style="MARGIN-TOP: 3pt">&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3pt; TEXT-ALIGN: justify; BACKGROUND-COLOR: #ffffff">
+On May 16, 2018, OrangeHook, Inc., a Minnesota corporation
+("OrangeHook MN"), a wholly-owned subsidiary of OrangeHook, Inc., a
+Florida corporation (the "Company"), entered into a Commercial
+Promissory Note effective May 10, 2018, for $740,076.75 with MEZ
+Capital LLC, a Minnesota limited liability company ("MEZ"). The
+principal amount includes loan discount and other fees totaling
+$35,241.75. The note matures on June 9, 2018 and calls for payment
+of a stated amount of interest of $22,202.30 due along with the
+outstanding principal balance at maturity. The note is supported by
+five personal guarantees, including those of Company board members
+James L. Mandel and Jeffrey J. Hattara, President and CEO and Chief
+Strategy Officer, respectively, and board members Whitney E. Peyton
+and Donald M. Miller. The note includes a default rate of interest
+equal to four percent (4%) on the outstanding principal balance.
+The note replaces the March 7, 2018 note issued by OrangeHook MN to
+MEZ in the amount of $659,000 which matured on May 10, 2018 and was
+disclosed previously in the Company's Current Report on Form 8-K
+filed on March 13, 2018.</div>
+<div style="BACKGROUND-COLOR: #ffffff">&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+Item 2.03 Creation of a Direct Financial Obligation or an
+Obligation under an Off-Balance Sheet Arrangement of a
+Registrant.</div>
+<div style="MARGIN-TOP: 3pt"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3pt; TEXT-ALIGN: left">
+The information included in Item 1.01 above is incorporated by
+reference into this Item 2.03.</div>
+<div style="MARGIN-TOP: 3pt"><br /></div>
+</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+<div id="DSPFPageBreakArea" style=
+"MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id=
+"DSPFPageNumber" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; FONT-STYLE: normal">
+- 2 -</font></div>
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style=
+"BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000"
+noshade="noshade" /></div>
+</div>
+</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+SIGNATURES</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 27pt">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+ORANGEHOOK, INC.</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style="TEXT-ALIGN: left; DISPLAY: block">
+Dated:&nbsp;&nbsp;&nbsp;May 21,&nbsp;2018</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+By:<font style="DISPLAY: inline">&nbsp;</font><font style=
+"TEXT-DECORATION: underline; FONT-WEIGHT: bold; FONT-STYLE: italic"><font style="FONT-WEIGHT: bold; FONT-STYLE: italic; DISPLAY: inline">&nbsp;/s/</font><font style="FONT-WEIGHT: bold; FONT-STYLE: italic; DISPLAY: inline">&nbsp;&nbsp;
+James L.
+Mandel&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; James L. Mandel</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-ALIGN: left; MARGIN-LEFT: 234pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President
+and Chief&nbsp;Executive Officer</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div style=
+"TEXT-ALIGN: left; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+&nbsp;</div>
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id=
+"DSPFPageNumber" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; FONT-STYLE: normal">
+- 3 -</font></div>
+</body>
+</html>
+

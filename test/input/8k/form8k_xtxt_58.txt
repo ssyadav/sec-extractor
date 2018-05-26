@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Washington, D.C. 20549</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM 8-K</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CURRENTREPORT</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Pursuant to Section&nbsp;13 OR 15(d)</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>of the Securities Exchange Act of 1934</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (Date of earliest event reported):
+May 22, 2018</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman"
+ALIGN="center"><b>CLEAR CHANNEL OUTDOOR HOLDINGS, INC.</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact name of registrant as specified in its
+charter)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>Delaware</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">001-32663</font></b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">86-0812139</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(State or other jurisdiction</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>of incorporation)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Commission</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>File Number)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(I.R.S. Employer</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Identification No.)</b></p>
+</td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>20880 Stone Oak Pkwy</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>San Antonio, Texas 78258</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Address of principal executive offices)</b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Registrant’s telephone number, including area
+code: <font STYLE=
+"white-space:nowrap">(210)&nbsp;832-3700</font></b></p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Not Applicable</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Formername or former address, if changed since
+last report)</b></p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box belowif the Form <font STYLE=
+"white-space:nowrap">8-K</font> filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule
+<font STYLE="white-space:nowrap">14a-12</font> under the Exchange
+Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">14d-2(b)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">13e-4(c)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in as defined in Rule 405 of the Securities
+Act&nbsp;of 1933 (§230.405 of this chapter) or <font STYLE=
+"white-space:nowrap">Rule&nbsp;12b-2&nbsp;of</font> the Securities
+Exchange Act of<font STYLE=
+"white-space:nowrap">1934&nbsp;(§240.12b-2&nbsp;of</font> this
+chapter).</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+☐&nbsp;&nbsp;Emerging growth company</p>
+<p STYLE=
+"margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new orrevised financial accounting standards
+provided pursuant to Section&nbsp;13(a) of the Exchange
+Act.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="9%" VALIGN="top" ALIGN="left"><b>Item&nbsp;2.02</b></td>
+<td ALIGN="left" VALIGN="top"><b>Results of Operations and
+Financial Condition</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;22, 2018, Clear ChannelOutdoor Holdings, Inc. (the 
+“Company”) issued a press release announcing its financial results
+for the quarter ended March&nbsp;31, 2018. A copy of the press
+release is furnished herewith as Exhibit 99.1 and is incorporated
+herein byreference.</p>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+In accordance with General Instruction B.2 of Form <font STYLE=
+"white-space:nowrap">8-K,</font> the information under this
+Item2.02, including Exhibit 99.1, shall not be deemed “filed” for
+the purposes of Section&nbsp;18 of the Exchange Act or otherwise
+subject to the liabilities of that section, nor shall such
+information, including Exhibit 99.1, be deemedincorporated by
+reference in any filing under the Securities Act of 1933 or the
+Exchange Act, except as shall be expressly set forth by specific
+reference in such filing.</p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="9%" VALIGN="top" ALIGN="left"><b>Item&nbsp;7.01</b></td>
+<td ALIGN="left" VALIGN="top"><b>Regulation FD Disclosure</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to Section&nbsp;4.03 of the Indenture, dated as
+ofDecember&nbsp;16, 2015, among Clear Channel International B.V. (
+“CCI BV”), the guarantors party thereto, and U.S. Bank National
+Association, as trustee (the “Trustee”), paying agent, registrar,
+authentication agent and transferagent (the “Indenture”), CCI BV,
+an indirect, wholly-owned subsidiary of the Company, agreed to
+furnish to the holders of its 8.75% senior notes due 2020 and the
+Trustee unaudited consolidated financial statements of CCI BV and
+itssubsidiaries prepared in accordance with GAAP (the “Consolidated
+Financial Statements”), including a Management’s Discussion and
+Analysis of Financial Condition and Results of Operations (the 
+“MD&amp;A”). The ConsolidatedFinancial Statements and the MD&amp;A
+are furnished herewith as Exhibit 99.2 and are incorporated herein
+by reference.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+In accordance withGeneral Instruction B.2 of Form <font STYLE=
+"white-space:nowrap">8-K,</font> the information under this Item
+7.01, including Exhibit 99.2, shall not be deemed “filed” for the
+purposes of Section&nbsp;18 of the Exchange Act or otherwisesubject
+to the liabilities of that section, nor shall such information,
+including Exhibit 99.2, be deemed incorporated by reference in any
+filing under the Securities Act of 1933 or the Exchange Act, except
+as shall be expressly set forth byspecific reference in such
+filing.</p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="9%" VALIGN="top" ALIGN="left"><b>Item&nbsp;9.01</b></td>
+<td ALIGN="left" VALIGN="top"><b>Financial Statements and
+Exhibits</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+(d) Exhibits</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="7%"></td>
+<td WIDTH="90%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="bottom" NOWRAP="nowrap">
+<p STYLE=
+"margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.10pt; display:inline; font-size:8pt; font-family:Times New Roman;">
+<b>Exhibit&nbsp;No.</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" ALIGN="center" STYLE=
+"border-bottom:1.00pt solid #000000">
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Description</b></p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">99.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d591490dex991.htm">Press Release issued
+by Clear Channel Outdoor Holdings, Inc. on May&nbsp;22,
+2018</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">99.2</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d591490dex992.htm">Unaudited Consolidated
+Financial Statements as of and for the quarter ended March&nbsp;31,
+2018 of Clear Channel International B.V. and Management’s
+Discussion and Analysis of Financial Condition and Results of
+Operations</a></td>
+</tr>
+</table>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURES</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf bythe undersigned hereunto duly authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="48%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="2%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="48%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" COLSPAN="3"><b>CLEAR CHANNEL OUTDOOR HOLDINGS,
+INC.</b></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">Date:&nbsp;May 22, 2018</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">By:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">
+/s/ Scott D. Hamilton</p>
+</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">Scott D. Hamilton</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Senior Vice President, Chief Accounting Officer and</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">
+Assistant Secretary</p>
+</td>
+</tr>
+</table>
+</body>
+</html>
+

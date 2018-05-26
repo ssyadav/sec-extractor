@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+<p style="margin: 0"></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>UNITEDSTATES</b>&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>SECURITIESAND
+EXCHANGE COMMISSION</b>&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>Washington,DC
+20549</b></font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>FORM8-K</b></font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt">CURRENTREPORT</font><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuantto
+Section 13 OR 15(d) of the Securities and Exchange Act of
+1934</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Dateof
+Report (Date of earliest event reported): May 17, 2018</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">CommissionFile
+Number 000-54530</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>GOPHERPROTOCOL
+INC.</b>&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Exactname
+of small business issuer as specified in its charter)</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"font-size: 10pt; width: 100%; background-color: white">
+<tr>
+<td style=
+"width: 50%; font: 10pt Calibri,sans-serif; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Nevada</b></font></td>
+<td style=
+"width: 50%; font: 10pt Calibri,sans-serif; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>27-0603137</b></font></td>
+</tr>
+<tr>
+<td style="font: 10pt Calibri,sans-serif; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(State
+or other jurisdiction of incorporation or<br />
+organization)</font></td>
+<td style="font: 10pt Calibri,sans-serif; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S.
+Employer Identification No.)</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2500Broadway,
+Suite F-125, Santa Monica, CA 90404</b>&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Addressof
+principal executive offices)</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>424-238-4589</b>&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(Issuer’
+stelephone number)</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Checkthe
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrantunder
+any of the following provisions (see General Instructions A.2.
+below):</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;Indicateby
+check mark whether the registrant is an emerging growth company as
+defined in as defined in Rule 405 of the Securities Actof 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Calibri,sans-serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Emerginggrowth
+company&nbsp;☐</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Calibri,sans-serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Ifan
+emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period forcomplying
+with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.&nbsp;☐</font></p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0"></p>
+<!-- Field: Page; Sequence: 1; Options: NewSection -->
+<div style=
+"margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid">
+<p style=
+"margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 6pt">
+<p style="margin: 0pt"></p>
+</div>
+<!-- Field: /Page -->
+<p style="font: 10pt Times New Roman,serif; margin: 0pt 0">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellpadding="0" cellspacing="0" width="100%" style=
+"font: 10pt Times New Roman,serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style="vertical-align: top">
+<td style="width: 0"></td>
+<td style="width: 1in"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1.01</b></font></td>
+<td style="text-align: justify"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Entry
+Into a Material Definitive Agreement.</b></font></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" style=
+"font: 10pt Times New Roman,serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style="vertical-align: top">
+<td style="width: 0"></td>
+<td style="width: 1in"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+3.02</b></font></td>
+<td style="text-align: justify"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Unregistered
+Sales of Equity Securities</b></font></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" style=
+"font: 10pt Times New Roman,serif; margin-top: 0pt; margin-bottom: 0pt">
+<tr style="vertical-align: top">
+<td style="width: 0"></td>
+<td style="width: 1in"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item&nbsp;5.02</b></font></td>
+<td style="text-align: justify"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Departure
+of Directors or Certain Officers; Election of Directors;
+Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers.</b></font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>BoardAppointments</i></font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">
+On May 17, 2018, RobertYaspan, Judit Nagypal and Ambassador Ned L.
+Siegel were appointed to the Board of Directors of Gopher Protocol
+Inc. (the “Company”)to serve as directors of the Company. Mr.
+Yaspan will also serve as Chairman of the Board of Directors. Ms.
+Nagypal and AmbassadorSiegel are considered independent directors
+and entered into agreements pursuant to which each will serve as a
+director. The directoragreements provide that each will received a
+one-time grant of 100,000 shares of common stock and a stock option
+to acquire 100,000shares of common stock exercisable for a period
+of five years at $2.50 per share. Mr. Yaspan, in consideration for
+serving as Chairmanof the Board, entered into an agreement
+providing a one-time grant of 250,000 shares of common stock and a
+stock option to acquire250,000 shares of common stock exercisable
+for a period of five years at $2.50 per share. Each director will
+receive 100,000 sharesof common stock per year vesting in
+increments of 25,000 per quarter commencing January 1, 2019. The
+Company will also pay Mr.Yaspan, Ms. Nagypal and Ambassador Siegel
+$5,000 per quarter.</p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+</p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Thereis
+no understanding or arrangement between each of the above directors
+and any other person pursuant to which the director wasappointed as
+director.&nbsp; Each of the directors do not have any family
+relationship with any director, executive officer orperson
+nominated or chosen by us to become a director or an executive
+officer.&nbsp; The directors do not have direct or indirectmaterial
+interest in any transaction or proposed transaction, in which the
+Company was or is a proposed participant,
+exceeding$120,000.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">RobertYaspan,
+age 72, has owned and operated Law Offices of Robert M. Yaspan
+since 1997 where has focused his practice on business
+reorganizationsand real property law. Mr. Yaspan received a
+Bachelor of Arts degree in History from the University of Chicago
+in 1968 and a JurisDoctorate from University of Southern California
+in 1971. Mr. Yaspan is the manager of REKO Holdings LLC, a
+significant shareholderof the Company.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">JudityNagypal,
+age 48, has extensive experience in human resources and business,
+with multicultural understanding coming from diverseinternational
+positions with over 18 years of successful track record in field
+and headquarters positions, both in specialistand generalist roles.
+Since 2013, Ms. Nagypal has held various positions in Microsoft
+including HRD Leadership Development andTalent Management from 2013
+to 2015, Independent Software Vendor Acquisition Lead from 2015 to
+2016 and Independent Software VendorGo-To-Market Lead from 2016 to
+present. Prior to Microsoft, Mr. Nagypal held positions with AXA
+Group, Kraft Biscuits and DanoneGroup. Ms. Nagypal received a
+Postgraduate Diploma in Human Resources Management from Middlesex
+University in 2002, a Law Degreefrom Eotvos Lorand University in
+1998 and a Masters in Economic Sciences from Budapest University of
+Economics in 1994.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">NedL.
+Siegel, 66, has had a long and distinguished career as a senior
+U.S. government official and businessman. He was appointedby then
+President George W. Bush as the U.S. Ambassador to the Commonwealth
+of the Bahamas from October 2007 to January 2009.He was also
+appointed by President Bush to serve under Ambassador John R.
+Bolton at the United Nations in New York, serving asthe Senior
+Advisor to the U.S. Mission and as the U.S. representative to the
+61st Session of the United Nations General Assembly.Prior to his
+ambassadorship, he was appointed to the Board of Directors of the
+Overseas Private Investment Corporation (OPIC).In addition to his
+public service, Ambassador Siegel has over 30 years of
+entrepreneurial successes. Presently, he serves as Presidentof The
+Siegel Group, a multi-disciplined international business management
+advisory firm specializing in real estate, energy,utilities,
+infrastructure, financial services, oil and gas and cyber and
+secure technology. Ambassador Siegel also serves on theBoard of
+Directors and Advisory Boards of other numerous public and private
+companies, and private equity groups. He graduatedPhi Beta Kappa
+from the University of Connecticut in 1973 and received a juris
+doctorate from the Dickinson School of Law in 1976.In December
+2014, he received an honorary degree of Doctor of Business
+Administration from the University of South Carolina. Mr.Siegel has
+previously served as a member of the Board of Directors of
+Healthwarehouse.com, Inc. from June 2013 to September
+2016,PositiveID Corporation from February 2011 to the present,
+Notis Global, Inc. from April 2014 to the present, Viscount
+Systemsfrom April 2013 to the present and <font style=
+"color: #222222">Baltia Air Lines, Inc. (dba USGlobal Airways) from
+June 2017 topresent</font>.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 2 -->
+<div style=
+"margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid">
+<p style=
+"margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 6pt">
+<p style="margin: 0pt"></p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>ExecutiveOfficer
+Positions</i></font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">OnMay
+17, 2018, Mansour Khatib, Chief Marketing Officer and director of
+the Company, was engaged as Interim Chief Executive Officerto fill
+the vacancy resulting from Gregory Bauer’s resignation as Chief
+Executive Officer and director of the Company. Inaddition, Michael
+Murray, a director of the Company, was engaged as President of the
+Company. The Company and Mr. Bauer enteredinto a Consulting
+Agreement for a period of one year for compensation of $15,000 per
+month to provide services associated withprepaid financial
+services.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Theabove
+offer and sale of the securities were made to an accredited
+investor and the Company relied upon the exemptions containedin
+Section 4(a)(2) of the Securities Act of 1933, as amended (the 
+“Securities Act”), and/or Rule 506 of RegulationD promulgated there
+under with regards to the sales. No advertising or general
+solicitation was employed in offerings the securities.The offers
+and sales were made to accredited investors and transfer of the
+securities was restricted by the Company in accordancewith the
+requirements of the Securities Act.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Theforegoing
+information is a summary of each of the agreements involved in the
+transactions described above, is not complete, andis qualified in
+its entirety by reference to the full text of those agreements,
+each of which is attached an exhibit to this CurrentReport on Form
+8-K.&nbsp;&nbsp;Readers should review those agreements for a
+complete understanding of the terms and conditionsassociated with
+this transaction.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; background-color: white">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&nbsp;</b></font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; background-color: white">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item9.01
+Financial Statements and Exhibits.</b></font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; background-color: white">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; background-color: white">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">(d)&nbsp;Exhibits.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; border-collapse: collapse; font-size: 10pt">
+<tr style="vertical-align: top">
+<td style=
+"width: 20%; border: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Exhibit
+No.</b></font></td>
+<td style=
+"width: 80%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Description</b></font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex4-1.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">4.1</font></a></td>
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex4-1.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Form
+of Stock Option issued to directors</font></a></td>
+</tr>
+<tr style="vertical-align: top">
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-1.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10.1</font></a></td>
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-1.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director
+Agreement by and between Gopher Protocol Inc. and Robert Yaspan
+dated May 17, 2018</font></a></td>
+</tr>
+<tr style="vertical-align: top">
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-2.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10.2</font></a></td>
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-2.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director
+Agreement by and between Gopher Protocol Inc. and Judit Nagypal
+dated May 17, 2018</font></a></td>
+</tr>
+<tr style="vertical-align: top">
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-3.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10.3</font></a></td>
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-3.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Director
+Agreement by and between Gopher Protocol Inc. and Ambassador Siegel
+dated May 17, 2018</font></a></td>
+</tr>
+<tr style="vertical-align: top">
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-4.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">10.4</font></a></td>
+<td style=
+"border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 6pt; padding-left: 5.4pt; text-align: justify; font-family: Calibri,sans-serif">
+<a href="s110346_ex10-4.htm"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Form
+of Indemnification Agreement by and between Gopher Protocol Inc.
+and directors</font></a></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 3 -->
+<div style=
+"margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid">
+<p style=
+"margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">
+&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 6pt">
+<p style="margin: 0pt"></p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>SIGNATURES</b></font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: center">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuantto
+the requirements of the Securities Exchange Act 1934, the
+registrant has duly caused this report to be signed on its behalfby
+the undersigned, thereunto duly authorized.</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; border-collapse: collapse; font-size: 10pt">
+<tr style="vertical-align: top">
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td colspan="2" style="font-family: Calibri,sans-serif">
+<font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">
+GOPHER PROTOCOL INC.</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="width: 5%; font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="width: 35%; font-family: Calibri,sans-serif">
+<font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">
+&nbsp;</font></td>
+<td style="width: 10%; font-family: Calibri,sans-serif">
+<font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">
+&nbsp;</font></td>
+<td style="width: 5%; font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</font></td>
+<td style=
+"width: 35%; border-bottom: black 1pt solid; font-family: Calibri,sans-serif">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+Mansour Khatib</font></td>
+<td style="width: 10%; font-family: Calibri,sans-serif">
+<font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">
+&nbsp;</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Mansour
+Khatib</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Interim
+Chief Executive Officer</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">May
+21, 2018</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">Santa
+Monica, California</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+<td style="font-family: Calibri,sans-serif"><font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+<font style=
+"font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style=
+"font: 10pt Times New Roman,serif; margin: 0pt 0; text-align: justify">
+</p>
+<!-- Field: Page; Sequence: 1; Options: Last -->
+<div style=
+"margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+</body>
+</html>
+

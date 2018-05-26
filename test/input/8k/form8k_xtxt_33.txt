@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+<p style="margin: 0">&nbsp;</p>
+<p style="margin: 0"></p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 12pt; margin-bottom: 3pt">
+<div style=
+"font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style="margin: 0">&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+<b>UNITED STATES</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+<b>SECURITIES ANDEXCHANGE COMMISSION</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+<b>Washington,D.C. 20549</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+<b>FORM 8-K</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+<b>CURRENT REPORT</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+<b>Pursuant toSection 13 OR 15(d) of The Securities Exchange Act of
+1934</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">
+Date of Report(Date of earliest event reported):&nbsp;May 16,
+2018</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+&nbsp; <b>Moxian, Inc.</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(Exact name of registrant as specified inits charter)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%">
+<tr style="vertical-align: top">
+<td style=
+"width: 32%; border-bottom: Black 1pt solid; text-align: center">
+<font style="font-size: 10pt"><b>Nevada</b></font></td>
+<td style="width: 2%; padding-bottom: 1pt">&nbsp;</td>
+<td style=
+"width: 32%; border-bottom: Black 1pt solid; text-align: center">
+<font style="font-size: 10pt"><b>000-55017</b></font></td>
+<td style="width: 2%; padding-bottom: 1pt">&nbsp;</td>
+<td style=
+"width: 32%; border-bottom: Black 1pt solid; text-align: center">
+<font style="font-size: 10pt"><b>27-3729742</b></font></td>
+</tr>
+<tr style="vertical-align: top">
+<td style="text-align: center"><font style="font-size: 10pt">(State
+or other jurisdiction</font><br />
+<font style="font-size: 10pt">of incorporation)</font></td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style=
+"font-size: 10pt">(Commission File Number)</font></td>
+<td>&nbsp;</td>
+<td style="text-align: center"><font style="font-size: 10pt">(IRS
+Employer</font><br />
+<font style="font-size: 10pt">Identification Number)</font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Block A, 9/F, Union Plaza, 5022 BinjiangAvenue, Futian
+District,</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Shenzhen City, Guangdong Province, China</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(address of principal executive offices)&nbsp;(zipcode)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>Tel: +86 (0)755-66803251</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+(registrant’s telephone number, includingarea code)</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in; background-color: white">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">
+Check the appropriate box below ifthe Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions(see General Instruction A.2.
+below):</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in; background-color: white">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%">
+<tr style="vertical-align: top">
+<td style="width: 0.25in"><font style=
+"font-family: Wingdings; font-size: 10pt">¨</font></td>
+<td><font style="font-size: 10pt">Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425)</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: top">
+<td><font style=
+"font-family: Wingdings; font-size: 10pt">¨</font></td>
+<td><font style="font-size: 10pt">Soliciting material pursuant to
+Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: top">
+<td><font style=
+"font-family: Wingdings; font-size: 10pt">¨</font></td>
+<td><font style="font-size: 10pt">Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</font></td>
+</tr>
+<tr style="vertical-align: top">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="vertical-align: top">
+<td><font style=
+"font-family: Wingdings; font-size: 10pt">¨</font></td>
+<td><font style="font-size: 10pt">Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</font></td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Indicate by check mark whether the registrant is an emerginggrowth
+company as defined in as defined in Rule 405 of the Securities Act
+of 1933 (§230.405 of this chapter) or Rule 12b-2of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Emerging growth company <font style=
+"font-family: Wingdings">¨</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+If an emerging growth company, indicate by check mark if
+theregistrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standardsprovided pursuant to Section 13(a) of the Exchange Act.
+<font style="font-family: Wingdings">¨</font></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+</p>
+<!-- Field: Rule-Page -->
+<div align="left" style="margin-top: 3pt; margin-bottom: 12pt">
+<div style=
+"font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid; width: 100%">
+&nbsp;</div>
+</div>
+<!-- Field: /Rule-Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+</p>
+<!-- Field: Page; Sequence: 1 -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<div style=
+"page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: top">
+<td style="width: 1in"><font style="font-size: 10pt"><b>ITEM
+3.01</b></font></td>
+<td style="text-align: justify"><font style=
+"font-size: 10pt"><b>NOTICE OF DELISTING OR FAILURE TO SATISFY A
+CONTINUED LISTING RULE OR STANDARD; TRANSFER OR
+LISTING.</b></font></td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+On May 16, 2018, Moxian, Inc. (the “Registrant”)received
+notification from The Nasdaq Stock Market (“Nasdaq”) that the
+Registrant has regained compliance with theNasdaq Listing Rule
+5605(b)(1) requirement for continued listing on Nasdaq, and that
+this matter is now closed.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+On April 19, 2018, the Registrant had receiveda letter from Nasdaq
+notifying the Registrant of the Nasdaq Staff’s determination that
+the Registrant no longer compliedwith Nasdaq’s independent director
+requirement as set forth in Listing Rule 5605 due to the
+resignation of Ms. Wang YingJie from the Board of Directors (the 
+“Board”) of the Registrant, effective March 27, 2018.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+Ms. Wang’s departure from the Boardcreated a vacancy on the Board.
+And as a result, the Registrant was not in compliance with the
+requirements of Nasdaq Listing Rules5605(b)(1), which requires that
+a majority of the board of directors of a company with
+Nasdaq-listed securities be composed ofindependent directors.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+With the appointment of Mr. “Lionel”Choong Khuat Leok to the Board
+effective May 11, 2018, a majority of the Registrant’s Board is
+again composed of independentdirectors.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"width: 100%; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: top">
+<td style="width: 1in"><font style=
+"font-size: 10pt; text-transform: uppercase"><b>ITEM
+8.01</b></font></td>
+<td style="text-align: justify"><font style=
+"font-size: 10pt; text-transform: uppercase"><b>Other
+Events.</b></font></td>
+</tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+The disclosure contained in Item 3.01 ofthis Current Report on Form
+8-K is incorporated by reference in its entirety into this Item
+8.01.</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>&nbsp;</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">
+<b>SIGNATURE</b></p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">
+<b>&nbsp;</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">
+Pursuant to the requirements of the Securities Exchange Actof 1934,
+as amended, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly
+authorized.&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">
+&nbsp;</p>
+<table cellspacing="0" cellpadding="0" style=
+"font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+<td style="vertical-align: top">&nbsp;</td>
+<td colspan="3"><font style="font-size: 10pt"><b>MOXIAN,
+INC.</b></font></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align: top">&nbsp;</td>
+<td colspan="3">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><font style="font-size: 10pt">Date: May 22, 2018</font></td>
+<td style="vertical-align: top"><font style=
+"font-size: 10pt">By:</font></td>
+<td colspan="2" style="border-bottom: Black 1pt solid"><font style=
+"font-size: 10pt">/s/ Yin Yi Jun</font></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%">&nbsp;</td>
+<td style="width: 5%">&nbsp;</td>
+<td style="width: 5%"><font style=
+"font-size: 10pt">Name:&nbsp;</font></td>
+<td style="width: 25%"><font style="font-size: 10pt">&nbsp;Yin Yi
+Jun</font></td>
+<td style="width: 15%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><font style=
+"font-size: 10pt">Title:&nbsp;&nbsp;&nbsp;</font></td>
+<td style="white-space: nowrap"><font style=
+"font-size: 10pt">&nbsp;Chief Executive Officer</font></td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">
+&nbsp;</p>
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">
+</p>
+<!-- Field: Page; Sequence: 2; Options: Last -->
+<div style=
+"margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid">
+<p style="margin: 0pt">&nbsp;</p>
+</div>
+<!-- Field: /Page -->
+<p style=
+"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">
+&nbsp;</p>
+</body>
+</html>
+

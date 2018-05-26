@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html XMLNS="http://www.w3.org/1999/xhtml">
+<head>
+<meta NAME="generator" CONTENT=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title>8-K</title>
+</head>
+<body BGCOLOR="white">
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>UNITED STATES</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>WASHINGTON, D.C. 20549</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman"
+ALIGN="center"><b>FORM 8-K</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>CURRENTREPORT</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>PURSUANT TO SECTION 13 OR 15(d)</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>OF THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"
+ALIGN="center"><b>Date of Report (Date of earliest event reported):
+May&nbsp;20, 2018</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman"
+ALIGN="center"><b>LOWE’S COMPANIES, INC.</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>(Exact Name of Registrant as Specified in
+Charter)</b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt"
+ALIGN="center">
+<tr>
+<td WIDTH="34%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="32%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="32%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" ALIGN="center"><b>North Carolina</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">1-7898</font></b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b><font STYLE=
+"white-space:nowrap">56-0578072</font></b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(State or other jurisdiction</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>of incorporation)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(Commission</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>File Number)</b></p>
+</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center">
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>(I.R.S. Employer</b></p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"
+ALIGN="center"><b>Identification No.)</b></p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16" COLSPAN="3"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center"><b>1000 Lowe’s Blvd.,
+Mooresville, NC</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>28117</b></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="top" COLSPAN="3" ALIGN="center"><b>(Address of
+principal executive offices)</b></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="top" ALIGN="center"><b>(Zip Code)</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>Registrant’s telephone number, including area
+code: (704)<font STYLE="white-space:nowrap">758-1000</font></b></p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<center>
+<p STYLE=
+"line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">
+&nbsp;</p>
+</center>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Check the appropriate box belowif the Form <font STYLE=
+"white-space:nowrap">8-K</font> filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (<i>see</i> General
+Instruction A.2. below):</p>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule
+<font STYLE="white-space:nowrap">14a-12</font> under the Exchange
+Act (17 CFR <font STYLE=
+"white-space:nowrap">240.14a-12)</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">14d-2(b)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.14d-2(b))</font></td>
+</tr>
+</table>
+<p STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="4%" VALIGN="top" ALIGN="left">☐</td>
+<td ALIGN="left" VALIGN="top"><font STYLE=
+"white-space:nowrap">Pre-commencement</font> communications
+pursuant to Rule <font STYLE="white-space:nowrap">13e-4(c)</font>
+under the Exchange Act (17 CFR<font STYLE=
+"white-space:nowrap">240.13e-4(c))</font></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Indicate by check mark whether the registrant is an emerging growth
+company asdefined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule <font STYLE=
+"white-space:nowrap">12b-2</font> of the Securities Exchange Act of
+1934 <font STYLE="white-space:nowrap">(§240.12b-2</font> of this
+chapter).</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Emerging growth company&nbsp;&nbsp;☐</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+If an emerginggrowth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section&nbsp;13(a) of the
+ExchangeAct.&nbsp;&nbsp;☐</p>
+<p STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<p STYLE=
+"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE=
+"line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">
+&nbsp;</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="12%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;5.02</b></td>
+<td ALIGN="left" VALIGN="top"><b>Departure of Directors or Certain
+Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;20, 2018, the Board of Directors of Lowe’s Companies,
+Inc. (the “Company”) appointed Marvin R. Ellison as President and
+ChiefExecutive Officer, in each case, effective as of July&nbsp;2,
+2018 (the “Effective Date”), at which time he will also join the
+Board of Directors (the “Board”). On May&nbsp;20, 2018, the Board
+also appointed Richard W. Dreilingas Chairman of the Board,
+effective as of the Effective Date. Mr.&nbsp;Ellison and
+Mr.&nbsp;Dreiling will succeed Robert A. Niblock, who will be
+retiring as Chairman, President and Chief Executive Officer of the
+Company and member of the Board, ineach case, effective as of the
+Effective Date.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Mr.&nbsp;Ellison, 53, has served as Chairman of the Board of major
+retailer J. C. Penney Company, Inc.since 2016, Chief Executive
+Officer since 2015 and President from 2014 to 2015. Previously, he
+was Executive Vice President – U.S. Stores of The Home Depot, Inc.
+from 2008 to 2014. Mr.&nbsp;Ellison also previously served in a
+variety ofoperational roles at Target Corporation from 1987 to
+2002.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;21, 2018, the Company and Mr. Ellison entered into an
+offer letter (the“Offer Letter”). Pursuant to the Offer Letter,
+during the term of his employment with the Company, Mr. Ellison
+will receive (i) an annual base salary of $1,450,000, (ii)
+eligibility for an annual cash incentive bonus with a target
+payoutof 200% of Mr. Ellison’s annual base salary and a maximum
+payout of 200% of target, provided that Mr. Ellison’s annual cash
+incentive bonus for the current fiscal year will be (a) calculated
+at no less than target if certain strategicplans are formulated by
+Mr. Ellison by November&nbsp;8, 2018, and such plans are approved
+by the Board, and (b) prorated based on Mr. Ellison’s start date,
+(iii) an annual equity incentive award grant (consisting of a
+mixture ofperformance-based restricted share units, time-based
+restricted shares and stock options) with a target award value
+equal to 565% of Mr. Ellison’s annual base salary (to be prorated
+for the current fiscal year based on Mr. Ellison’s startdate), (iv)
+a <font STYLE="white-space:nowrap">sign-on</font> equity incentive
+grant consisting of (a) time-based restricted shares with an award
+value of $3,500,000, which such grant will vest in full on the
+third anniversary of the grant date, and(b) nonqualified stock
+options with an award value of $2,500,000, which such grant will
+vest in equal annual installments on the first three anniversaries
+of the grant date, in each case generally subject to Mr. Ellison’s
+continued employmentwith the Company through the applicable vesting
+date, (v) reimbursement for certain expenses incurred by Mr.
+Ellison in connection with his relocation from Texas to the
+Charlotte, North Carolina area, (vi) reimbursement of up to $12,000
+annually forcosts incurred by Mr. Ellison for his personal tax and
+financial planning, (vii) reimbursement of up to $25,000 for
+reasonable legal fees incurred by Mr. Ellison in connection with
+the negotiation of the Offer Letter, (viii) personal use
+(includingimmediate family members accompanying Mr. Ellison) of the
+Company’s aircraft(s) in accordance with the Company’s aircraft
+usage policy as in effect from time to time, (ix) four weeks of
+vacation per year and (x) an annual executivephysical exam. Mr.
+Ellison is also eligible to participate in those change in control,
+retirement, welfare and fringe benefits programs available to
+senior executives of the Company generally. Upon an involuntary
+termination of Mr. Ellison’semployment with the Company other than
+for cause, subject to Mr. Ellison’s (x) execution and <font STYLE=
+"white-space:nowrap">non-revocation</font> of a general release and
+waiver of claims in favor of the Company and certain related
+partiesand (y) compliance with certain post-termination obligations
+set forth in the Offer Letter, Mr. Ellison</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">2</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+will be entitled to receive severance payments to be paid over
+twenty-four (24)&nbsp;months in accordance with the Company’s
+payroll practices equal in the aggregate to two(2)&nbsp;multiplied
+by the sum of Mr.&nbsp;Ellison’s annual base salary and target
+annual bonus. Pursuant to the Offer Letter, Mr.&nbsp;Ellison is
+subject to certain <font STYLE=
+"white-space:nowrap">non-competition</font> and non-solicitation
+restrictions, in each case that apply during the term of his
+employment and for twenty-four (24)&nbsp;months thereafter, and
+confidentiality restrictions that apply indefinitely.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The foregoing summary of Mr.&nbsp;Ellison’s compensation and terms
+of employment generally is not complete and is qualified in its
+entirety by the OfferLetter, a copy of which is filed as Exhibit
+10.1 to this Form <font STYLE="white-space:nowrap">8-K</font> and
+is incorporated herein by reference in its entirety.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+There are no family relationships between Mr.&nbsp;Ellison and any
+director or executive officer of the Company, and Mr.&nbsp;Ellison
+has no direct orindirect material interest in any transaction
+required to be disclosed pursuant to Item 404(a) of Regulation
+<font STYLE="white-space:nowrap">S-K.</font></p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="12%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;5.03</b></td>
+<td ALIGN="left" VALIGN="top"><b>Amendments to Articles of
+Incorporation or Bylaws; Change in Fiscal Year</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+At a meeting of the Board heldon May&nbsp;20, 2018, the Board
+approved and adopted effective immediately amendments (the 
+“Amendment”) to the Bylaws of the Company (the “Bylaws”) to reflect
+the separation of the roles of Chairman of the Board and
+ChiefExecutive Officer of the Company, including but not limited to
+amendments in respect of, among other things, (i)&nbsp;the ability
+of each of the Chairman and the Chief Executive Officer to call a
+special meeting of the shareholders and of the Board(if the Chief
+Executive Officer is a director), (ii) the ability of the Chief
+Executive Officer to act as chairman and preside at each meeting of
+the shareholders in the absence of the Chairman of the Board and
+(iii)&nbsp;the allocation ofresponsibilities to the Chief Executive
+Officer position, including the general supervision, direction and
+control of the business of the Company, subject to the oversight of
+the Board of Directors and the power of the Chief Executive Officer
+tosign certificates for shares of the Company and any deeds,
+mortgages, bonds, contracts, or any other instruments or documents
+which may be lawfully executed on behalf of the Company. The Bylaws
+were also amended to clarify that the compensation of non-employee
+directors shall be recommended to the Board by the appropriate
+committee thereof.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+The foregoingdescription of the Amendment does not purport to be
+complete and is qualified in its entirety by reference to the full
+text of the Bylaws, attached hereto as Exhibit 3.1 and incorporated
+herein by reference.</p>
+<p STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="12%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;7.01</b></td>
+<td ALIGN="left" VALIGN="top"><b>Regulation FD Disclosure.</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+On May&nbsp;22, 2018, the Company issued a press release announcing
+theplanned retirement of Mr.&nbsp;Niblock and the appointments of
+Mr.&nbsp;Ellison and Mr.&nbsp;Dreiling, in each case, effective as
+of July&nbsp;2, 2018. A copy of the Company’s press release is
+attached as Exhibit 99.1 to this Current Report onForm <font STYLE=
+"white-space:nowrap">8-K</font> and is incorporated by reference
+into this Item 7.01.</p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+This information, including Exhibit 99.1, is beingfurnished and
+shall not be deemed “filed” for purposes of Section&nbsp;18 of the
+Securities Exchange Act of 1934, as amended (the “Exchange Act”),
+or incorporated by reference in any filing under the Securities Act
+of 1933, asamended, or the Exchange Act, except as shall be
+expressly set forth by specific reference in such a filing.</p>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">3</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<table STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<tr STYLE="page-break-inside:avoid">
+<td WIDTH="12%" VALIGN="top" ALIGN="left">
+<b>Item&nbsp;9.01</b></td>
+<td ALIGN="left" VALIGN="top"><b>Financial Statements and
+Exhibits</b></td>
+</tr>
+</table>
+<p STYLE=
+"margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+(d) Exhibits:</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt"
+ALIGN="center">
+<tr>
+<td></td>
+<td VALIGN="bottom" WIDTH="5%"></td>
+<td WIDTH="92%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td VALIGN="bottom" NOWRAP="nowrap" ALIGN="center" STYLE=
+"border-bottom:1.00pt solid #000000"><b>Exhibit</b><br />
+<b>No.</b></td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="bottom" NOWRAP="nowrap">
+<p STYLE=
+"margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; display:inline; font-size:8pt; font-family:Times New Roman;">
+<b>Description</b></p>
+</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">&nbsp;&nbsp;3.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d577212dex31.htm">Bylaws of Lowe’s
+Companies, Inc., as amended and restated on May&nbsp;20,
+2018</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">10.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d577212dex101.htm">Offer Letter between
+Marvin R. Ellison and Lowe’s Companies, Inc. entered into on
+May&nbsp;21, 2018</a></td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="8"></td>
+<td HEIGHT="8" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top" NOWRAP="nowrap">99.1</td>
+<td VALIGN="bottom">&nbsp;&nbsp;</td>
+<td VALIGN="top"><a HREF="d577212dex991.htm">Press Release dated
+May&nbsp;22, 2018</a></td>
+</tr>
+</table>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">4</p>
+<p STYLE='page-break-before:always'></p>
+<hr SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="center" />
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center"><b>SIGNATURE</b></p>
+<p STYLE=
+"margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf bythe undersigned hereunto duly authorized.</p>
+<p STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">
+&nbsp;</p>
+<table CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0"
+STYLE=
+"BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<tr>
+<td WIDTH="45%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom"></td>
+<td WIDTH="4%"></td>
+<td VALIGN="bottom" WIDTH="1%"></td>
+<td WIDTH="44%"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top">Date: May&nbsp;22, 2018</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom" COLSPAN="3">LOWE’S COMPANIES, INC.</td>
+</tr>
+<tr STYLE="font-size:1pt">
+<td HEIGHT="16"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+<td HEIGHT="16" COLSPAN="2"></td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">By:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">
+<p STYLE=
+"margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">
+/s/ Ross W. McCanless</p>
+</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Name:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Ross W. McCanless</td>
+</tr>
+<tr STYLE=
+"page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td VALIGN="top"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom"></td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Title:</td>
+<td VALIGN="bottom">&nbsp;</td>
+<td VALIGN="bottom">Chief Legal Officer and Secretary</td>
+</tr>
+</table>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">
+&nbsp;</p>
+<p STYLE=
+"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+ALIGN="center">5</p>
+</body>
+</html>
+

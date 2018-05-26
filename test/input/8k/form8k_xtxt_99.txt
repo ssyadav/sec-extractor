@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+<!--Copyright 2018 Business Wire, a Berkshire Hathaway company.-->
+<!--All rights reserved www.businesswire.com-->
+</head>
+<body style="font-size: 10pt; font-family: Times New Roman">
+<hr style=
+"width: 100%; color: #000000; text-align: center; height: 4.0 pt" />
+
+<hr style=
+"width: 100%; color: #000000; text-align: center; height: 1.0 pt" />
+
+<p style="text-align: center"></p>
+<p style="text-align: center"><font style=
+"font-size: 16pt"><b>UNITED STATES</b></font><br />
+<font style="font-size: 16pt"><b>SECURITIES AND EXCHANGE
+COMMISSION</b></font><br />
+<b>Washington, D.C. 20549</b></p>
+<p style="text-align: center">&nbsp;<font style=
+"font-size: 16pt"><b>FORM 8-K</b></font><br />
+<br />
+<b>Current Report Pursuant to Section 13 or 15(d)</b><br />
+<b>Of the Securities Exchange Act of 1934</b></p>
+<p style="white-space: nowrap; text-align: center">Date of Report
+(Date of earliest event reported):&nbsp;&nbsp;&nbsp;<font style=
+"font-size: 10pt; font-family: Times New Roman"><b>May 21,
+2018</b></font><br />
+<br />
+<font style="font-size: 16pt"><b>Papa John's International,
+Inc.</b></font><br />
+<font style="font-size: 10pt; font-family: Times New Roman">(Exact
+name of registrant as specified in its charter)</font></p>
+<p style="text-align: center"><b>Delaware</b><br />
+(State or other jurisdiction of incorporation)</p>
+<div style="text-align:left">
+<table cellspacing="0" style=
+"width: 100%; font-size: 10pt; margin-bottom: 10.0px; font-family: Times New Roman">
+<tr>
+<td style="width: 14%">&nbsp;</td>
+<td valign="bottom" style=
+"padding-right: 0.0px; width: 28%; text-align: center; padding-left: 0.0px; white-space: nowrap">
+<p style="margin-top: 0px; margin-bottom: 0px"><b>0-21660</b></p>
+</td>
+<td valign="bottom" style=
+"padding-right: 0.0px; width: 16%; text-align: center; padding-left: 0.0px; white-space: nowrap">
+<p style="margin-top: 0px; margin-bottom: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"padding-right: 0.0px; width: 28%; text-align: center; padding-left: 0.0px; white-space: nowrap">
+<p style="margin-top: 0px; margin-bottom: 0px">
+<b>61-1203323</b></p>
+</td>
+<td style="width: 14%"></td>
+</tr>
+<tr>
+<td style="width: 14%"></td>
+<td valign="bottom" style=
+"width: 28%; text-align: center; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px">(Commission File
+Number)</p>
+<p style="margin-top: 0px; margin-bottom: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"width: 16%; text-align: center; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px">&nbsp;</p>
+</td>
+<td valign="bottom" style=
+"width: 28%; text-align: center; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px">(IRS Employer
+Identification No.)</p>
+<p style="margin-top: 0px; margin-bottom: 0px">&nbsp;</p>
+</td>
+<td style="width: 14%"></td>
+</tr>
+</table>
+</div>
+<p style="text-align: center"><b>2002 Papa John's
+Boulevard</b><br />
+<b>Louisville, Kentucky 40299-2367</b><br />
+(Address of principal executive offices) (Zip Code)</p>
+<p style="text-align: center"><b>(502) 261-7272</b><br />
+(<font style=
+"font-size: 10pt; font-family: Times New Roman">Registrant’s
+telephone number, including area code)</font></p>
+<p style="text-align: center"><b>N/A</b><br />
+<font style="font-size: 10pt; font-family: Times New Roman">(Former
+name or former address, if changed since last report)</font></p>
+<p><font style=
+"font-size: 10pt; font-family: Times New Roman">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></p>
+<p><font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style="font-size: 10pt; font-family: Times New Roman">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font><br />
+<font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style=
+"font-size: 10pt; font-family: Times New Roman">Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font><br />
+<font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style=
+"font-size: 10pt; font-family: Times New Roman">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font><br />
+<font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font>
+<font style=
+"font-size: 10pt; font-family: Times New Roman">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></p>
+<p><font style=
+"font-size: 10pt; font-family: Times New Roman">Indicate by check
+mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).</font></p>
+<p>Emerging growth company <font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font></p>
+<p><font style="font-size: 10pt; font-family: Times New Roman">If
+an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange
+Act.</font> <font style=
+"font-size: 10pt; font-family: Arial Unicode MS">⃞</font></p>
+<hr style=
+"width: 100%; color: #000000; height: 1.0 pt; text-align: center" />
+
+<hr style=
+"width: 100%; color: #000000; height: 4.0 pt; text-align: center" />
+
+<div style=
+"width: 100%; margin-right: 0pt; margin-left: 0pt; margin-bottom: 10pt; text-indent: 0pt">
+<div>
+<div style="text-align: left"></div>
+</div>
+<div style="page-break-after: always">
+<div style="text-align: center"></div>
+<div style="text-align: center">
+<hr style="color: black; height: 1.5pt" /></div>
+</div>
+<div>
+<div style="text-align: right"></div>
+</div>
+</div>
+<p style="white-space: nowrap"><b>Item 8.01.&nbsp;&nbsp;Other
+Events</b>.</p>
+<p>On May 14, 2018, Papa John’s International, Inc. (the "Company")
+completed its previously announced accelerated share repurchase
+program (the "ASR") with Bank of America, N.A.&nbsp; The Company
+repurchased a total of 1,659,942 shares of its common stock under
+the ASR (or approximately 5% of its outstanding common stock on
+March 1, 2018, the date the agreement governing the ASR was entered
+into) for an aggregate purchase price of $100 million.&nbsp;
+Following the completion of the ASR, the Company had approximately
+$286.0 million remaining availability under its share repurchase
+program.</p>
+<div style=
+"width: 100%; margin-right: 0pt; margin-left: 0pt; margin-bottom: 10pt; text-indent: 0pt">
+<div>
+<div style="text-align: left"></div>
+</div>
+<div style="page-break-after: always">
+<div style=
+"font-size: 10pt; text-align: center; font-family: Times New Roman">
+2</div>
+<div style="text-align: center">
+<hr style="color: black; height: 1.5pt" /></div>
+</div>
+<div>
+<div style="text-align: right"></div>
+</div>
+</div>
+<p style="text-align: center"><font style=
+"font-size: 10pt; font-family: Times New Roman"><b>SIGNATURES</b></font></p>
+<p style="text-align: left"><font style=
+"font-size: 10pt; font-family: Times New Roman">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font><br />
+<br /></p>
+<div style="text-align:left">
+<table cellspacing="0" style=
+"width: 100%; font-size: 10pt; margin-bottom: 10.0px; font-family: Times New Roman">
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 44%"></td>
+<td valign="top" style=
+"width: 50%; text-align: left; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px"><b>PAPA JOHN'S
+INTERNATIONAL, INC.</b></p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 44%"></td>
+<td valign="top" style=
+"width: 50%; text-align: left; padding-left: 0.0px">
+(Registrant)</td>
+</tr>
+<tr>
+<td valign="top" style=
+"width: 6%; text-align: left; padding-left: 0.0px"></td>
+<td style="width: 44%"></td>
+<td style="width: 50%">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" style=
+"width: 6%; text-align: left; padding-bottom: 2.0px; padding-left: 0.0px">
+Date:</td>
+<td valign="top" style=
+"width: 44%; text-align: left; padding-bottom: 2.0px; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px">May 21, 2018</p>
+</td>
+<td valign="top" style=
+"border-bottom-width: 1.0pt; width: 50%; border-bottom-style: solid; text-align: left; border-bottom-color: black; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px">/s/ Joseph H. Smith,
+IV</p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 44%"></td>
+<td valign="top" style=
+"width: 50%; text-align: left; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px">Joseph H. Smith,
+IV</p>
+</td>
+</tr>
+<tr>
+<td style="width: 6%"></td>
+<td style="width: 44%"></td>
+<td valign="top" style=
+"width: 50%; text-align: left; padding-left: 0.0px">
+<p style="margin-top: 0px; margin-bottom: 0px">Senior Vice
+President, Chief Financial Officer</p>
+</td>
+</tr>
+</table>
+</div>
+<p style="text-align: center">3</p>
+<!--<!DOCTYPE html     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">-->
+</body>
+</html>
+

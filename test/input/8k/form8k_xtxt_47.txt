@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<title></title>
+<!--Licensed to: Alliance Data    Document created using EDGARfilings PROfile 4.4.0.0    Copyright 1995 - 2018 Broadridge-->
+</head>
+<body style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"
+text="#000000" bgcolor="#FFFFFF">
+<div>
+<hr style=
+"BORDER-TOP: black 4px solid; HEIGHT: 10px; BORDER-RIGHT: medium none; BORDER-BOTTOM: black 1px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto"
+align="center" />
+<br />
+<div id="DSPFPageHeader"></div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+SECURITIES AND EXCHANGE COMMISSION</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+WASHINGTON, D.C. 20549</div>
+<div><br /></div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+FORM 8-K</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+CURRENT REPORT</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+PURSUANT TO SECTION 13 OR 15(d) OF THE</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+SECURITIES EXCHANGE ACT OF 1934</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+Date of report (Date of earliest event reported):</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+May 22, 2018</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 18pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+ALLIANCE DATA SYSTEMS CORPORATION</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+(Exact Name of Registrant as Specified in Charter)</div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<table id="z77b83bdf2a32485a96739091abc07785" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+DELAWARE</div>
+</td>
+<td style="WIDTH: 2.06%; VERTICAL-ALIGN: bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+001-15749</div>
+</td>
+<td style="WIDTH: 2.06%; VERTICAL-ALIGN: bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+31-1429215</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+(State or Other Jurisdiction</div>
+</td>
+<td style="WIDTH: 2.06%; VERTICAL-ALIGN: bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+(Commission</div>
+</td>
+<td style="WIDTH: 2.06%; VERTICAL-ALIGN: bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+(IRS Employer</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+of Incorporation)</div>
+</td>
+<td style="WIDTH: 2.06%; VERTICAL-ALIGN: bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+File Number)</div>
+</td>
+<td style="WIDTH: 2.06%; VERTICAL-ALIGN: bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+&nbsp;</div>
+</td>
+<td style="WIDTH: 31.96%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+Identification No.)</div>
+</td>
+</tr>
+</table>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+7500 DALLAS PARKWAY, SUITE 700</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+PLANO, TEXAS 75024</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+(Address and Zip Code of Principal Executive Offices)</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+(214) 494-3000</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+(Registrant's Telephone Number, including Area Code)</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+NOT APPLICABLE</div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+(Former name or former address, if changed since last report)</div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Check the appropriate box below if the Form 8-K is intended to
+simultaneously satisfy the filing obligation of the Registrant
+under any of the following provisions:</div>
+<div><br /></div>
+<table id="zcc7b8cda7a274378bca6f69a3c573aa1" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 3.77%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+[&nbsp; &nbsp;&nbsp; ]</div>
+</td>
+<td style="WIDTH: 1.04%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 95.97%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Written communications pursuant to Rule 425 under the Securities
+Act</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3.77%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 1.04%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 95.97%; VERTICAL-ALIGN: top">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 3.77%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+[&nbsp; &nbsp;&nbsp; ]</div>
+</td>
+<td style="WIDTH: 1.04%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 95.97%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3.77%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 1.04%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 95.97%; VERTICAL-ALIGN: top">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 3.77%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+[&nbsp; &nbsp;&nbsp; ]</div>
+</td>
+<td style="WIDTH: 1.04%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 95.97%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3.77%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 1.04%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 95.97%; VERTICAL-ALIGN: top">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 3.77%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+[&nbsp; &nbsp;&nbsp; ]</div>
+</td>
+<td style="WIDTH: 1.04%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 95.97%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act</div>
+</td>
+</tr>
+</table>
+<div><br /></div>
+<table id="z9df6d6ae40d9446fa53bd4396af05b2a" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style=
+"WIDTH: 100%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1px solid">
+&nbsp;</td>
+</tr>
+</table>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">
+Emerging growth company&nbsp;&nbsp; [&nbsp; ]</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange
+Act.&nbsp; &nbsp; [&nbsp; ]</div>
+<div id="DSPFPageBreakArea" style=
+"MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageFooter"></div>
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style=
+"BORDER-LEFT-WIDTH: 0px; HEIGHT: 1px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000"
+noshade="noshade" /></div>
+<div id="DSPFPageHeader"></div>
+</div>
+<div style="TEXT-ALIGN: left"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+Item 7.01 Regulation FD Disclosure.</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+<div id="DSPFPageHeader"></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+On May 22, 2018, Alliance Data Systems Corporation issued a press
+release announcing that its Epsilon and Conversant businesses have
+expanded their relationship with Signet Jewelers Ltd., the largest
+specialty jewelry retailer in the United States. A copy of this
+press release is attached hereto as Exhibit 99.1.</div>
+</div>
+<div><br /></div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+Item 9.01 Financial Statements and Exhibits.</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+(d) Exhibits</div>
+<div><br /></div>
+<table id="zcf05a56ed656466f8758eb2333424242" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse"
+cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 8%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+<u>Exhibit No.</u></div>
+</td>
+<td style="WIDTH: 1%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style="WIDTH: 91%; VERTICAL-ALIGN: bottom">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">
+<u>Document Description</u></div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 8%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 1%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style="WIDTH: 91%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 8%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+<a href="exhibit_99-1.htm">99.1</a></div>
+</td>
+<td style="WIDTH: 1%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style="WIDTH: 91%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+<font style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">
+Press</font> release dated May 22, 2018 announcing an agreement
+with Signet Jewelers Ltd.</div>
+</td>
+</tr>
+</table>
+<div><br /></div>
+<div style="BACKGROUND-COLOR: #ffffff">
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+<font style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">
+The information contained in this report (including Exhibit 99.1)
+shall not be deemed "filed" for purposes of Section 18 of the
+Securities Exchange Act of 1934, as amended, or otherwise subject
+to the liabilities of that section, nor shall it be deemed
+incorporated by reference in any filing under the Securities Act of
+1933, as amended, except as expressly set forth by specific
+reference in such a filing.</font></div>
+</div>
+<div><br /></div>
+<div><br /></div>
+<div id="DSPFPageBreakArea" style=
+"MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageFooter"></div>
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style=
+"BORDER-LEFT-WIDTH: 0px; HEIGHT: 1px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000"
+noshade="noshade" /></div>
+<div id="DSPFPageHeader"></div>
+</div>
+<div style="TEXT-ALIGN: left"><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+SIGNATURES</div>
+<div><br /></div>
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Pursuant to the requirements of the Securities Exchange Act of
+1934, as amended, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned hereunto duly
+authorized.</div>
+<div><br /></div>
+<div><br /></div>
+<table id="zad46b8e9ffa24a149c25902658613dcb" style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse"
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 55.9%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 44.1%; VERTICAL-ALIGN: top" colspan="3">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Alliance Data Systems Corporation</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 55.9%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 4.63%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 2.56%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style="WIDTH: 36.91%; VERTICAL-ALIGN: top">&nbsp;</td>
+</tr>
+<tr>
+<td style="WIDTH: 55.9%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Date:&nbsp; May 22, 2018</div>
+</td>
+<td style="WIDTH: 4.63%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+By:</div>
+</td>
+<td style="WIDTH: 2.56%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style=
+"WIDTH: 36.91%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1px solid">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+/s/ Charles L. Horn</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 55.9%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 4.63%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 2.56%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style="WIDTH: 36.91%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Charles L. Horn</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 55.9%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 4.63%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 2.56%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style="WIDTH: 36.91%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Executive Vice President and</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 55.9%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 4.63%; VERTICAL-ALIGN: top">&nbsp;</td>
+<td style="WIDTH: 2.56%; VERTICAL-ALIGN: bottom">&nbsp;</td>
+<td style="WIDTH: 36.91%; VERTICAL-ALIGN: top">
+<div style=
+"FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">
+Chief Financial Officer</div>
+</td>
+</tr>
+</table>
+<div><br /></div>
+<div id="DSPFPageFooter">&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<hr style=
+"BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-BOTTOM: medium none; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000; MARGIN-RIGHT: auto"
+align="center" noshade="noshade" /></div>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Mac OS X version 5.4.0" />
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2018 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="sF9B8A8951A0E416AB6C583D98F79441B" id=
+"sF9B8A8951A0E416AB6C583D98F79441B"></a></div>
+<div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">UNITED
+STATES</font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+<div style=
+"line-height:120%;padding-bottom:9px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Washington,
+D.C. 20549</font></div>
+<div style="line-height:120%;text-align:center;font-size:18pt;">
+<font style=
+"font-family:inherit;font-size:18pt;font-weight:bold;">FORM
+8-K</font></div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">CURRENT
+REPORT</font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Pursuant to
+Section 13 OR 15(d) of the Securities Exchange Act of
+1934</font></div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Date of Report
+(Date of earliest event
+reported)&nbsp;&nbsp;&nbsp;&nbsp;</font><font style=
+"font-family:inherit;font-size:10pt;text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;May
+21,
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="1"></td>
+</tr>
+<tr>
+<td style="width:100%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Web.com
+Group, Inc.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Exact name of registrant as
+specified in its charter)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:34%;"></td>
+<td style="width:33%;"></td>
+<td style="width:33%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="3" style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;text-indent:66px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">&nbsp;&nbsp;Delaware
+000-51595 94-3327894</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;padding-left:13px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">(State or other
+jurisdiction</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Commission</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(IRS Employer</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;padding-left:26px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">of
+incorporation)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">File Number)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Identification
+No.)</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">12808 Gran Bay Parkway West,
+Jacksonville, FL</font></div>
+</td>
+<td style=
+"vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">32258</font></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Address of principal
+executive offices)</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Zip Code)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style="line-height:120%;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;text-align:center;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Registrant’s
+telephone number, including area code:
+&nbsp;&nbsp;&nbsp;&nbsp;</font><font style=
+"font-family:inherit;font-size:10pt;text-decoration:underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(904)
+680-6600&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
+<div style="line-height:120%;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="1"></td>
+</tr>
+<tr>
+<td style="width:100%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">____________________________________________________________________________________________</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:center;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">(Former name or former
+address, if changed since last report.)</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;padding-bottom:8px;padding-top:8px;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style=
+"line-height:120%;padding-bottom:8px;padding-top:8px;text-align:left;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></div>
+<div style=
+"line-height:120%;padding-bottom:9px;text-align:left;font-size:10pt;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font>
+<font style="font-family:inherit;font-size:10pt;">Written
+communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)</font></div>
+<div style=
+"line-height:120%;padding-bottom:9px;text-align:left;font-size:10pt;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font>
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;&nbsp;&nbsp;&nbsp;Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+<div style=
+"line-height:120%;padding-bottom:9px;text-align:left;font-size:10pt;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font>
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</font></div>
+<div style=
+"line-height:120%;padding-bottom:2px;text-align:left;font-size:10pt;">
+<font style="font-family:Wingdings;font-size:10pt;">¨</font>
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</font></div>
+<div><br /></div>
+<hr style="page-break-after:always" />
+<div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style=
+"line-height:120%;padding-bottom:2px;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<table cellpadding="0" cellspacing="0" style=
+"padding-bottom:13px;font-family:Times New Roman; font-size:10pt;">
+<tr>
+<td style="width:96px;"></td>
+<td></td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+<div style="line-height:120%;font-size:10pt;padding-left:0px;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Item
+5.02</font></div>
+</td>
+<td style="vertical-align:top;">
+<div style="line-height:120%;text-align:left;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">Departure of
+Directors or Certain Officers; Election of Directors; Appointment
+of Certain Officers; Compensatory Arrangements of Certain
+Officers</font></div>
+</td>
+</tr>
+</table>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">On May 9, 2018,
+the Board of Directors of Web.com Group, Inc. (the “Company” or 
+“Web.com”) approved the appointment of Jennifer Lada, to the
+position of Senior Vice President and Chief Financial Officer to be
+effective on July 1, 2018, upon the departure of Kevin M. Carney,
+current Chief Financial Officer.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Ms. Lada has
+served as the Company’s Chief Accounting Officer since April 2,
+2018 and as Vice President, Financial Reporting since March 20,
+2017. Prior to joining the Company, Ms. Lada was Vice President,
+Financial Reporting with the PGA Tour and served in that position
+since 2015 until 2016. From 2012 to 2015, she was Vice President,
+Financial Reporting with ADS Waste Holdings, Inc., and was Senior
+Manager with PricewaterhouseCoopers from 1997 to 2012. She holds a
+B.S., Accounting and an M.S., Accounting, both from the University
+of Florida, and she is a Certified Public Accountant.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">As Chief
+Financial Officer, Ms. Lada’s salary will be $300,000, representing
+a 36.4% increase over her current base salary to reflect her new
+responsibilities, with a 2018 bonus potential of 50%. Ms. Lada was
+also awarded 25,000 shares of restricted stock, which will vest in
+equal annual installments over four years, and 25,000 of
+performance stock units having a 3-year payout period, provided the
+performance metrics are achieved.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to her
+appointment, Ms. Lada will also be a participant in the Executive
+Severance Plan of the Company, and will be indemnified pursuant to
+the Company’s indemnity agreement for officers and
+directors.</font></div>
+<div style=
+"line-height:120%;padding-bottom:13px;text-align:justify;text-indent:24px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">A copy of the
+press release announcing this appointment and dated May 21, 2018 is
+attached hereto as</font> <a style=
+"text-decoration:underline;color:#0000FF;-sec-extract:exhibit;"
+href="pressrelease-webcomappoint.htm"><font style=
+"font-family:inherit;font-size:10pt;">Exhibit
+99.1</font></a><font style=
+"font-family:inherit;font-size:10pt;">.</font></div>
+<div style=
+"line-height:120%;text-align:center;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<hr style="page-break-after:always" />
+<div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+<div><br /></div>
+<div style="line-height:120%;text-align:right;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">&nbsp;</font></div>
+<div style=
+"line-height:120%;padding-bottom:10px;text-align:center;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURE</font></div>
+<div style=
+"line-height:120%;text-align:left;text-indent:48px;font-size:10pt;">
+<font style="font-family:inherit;font-size:10pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div style="line-height:120%;font-size:10pt;">
+<div style=
+"padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;">
+<table cellpadding="0" cellspacing="0" style=
+"font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;">
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="width:50%;"></td>
+<td style="width:50%;"></td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Web.com Group,
+Inc.</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">Date: May 21,
+2018</font></div>
+</td>
+<td style=
+"vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="text-align:left;font-size:10pt;"><font style=
+"font-family:inherit;font-size:10pt;">By:</font> <font style=
+"font-family:inherit;font-size:10pt;text-decoration:underline;">/s/
+Matthew P. McClure, Secretary</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+<tr>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+<td style=
+"vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;">
+<div style="overflow:hidden;height:18px;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;">&nbsp;</font></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div style=
+"line-height:120%;text-align:right;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+<div><br /></div>
+<div>
+<div style=
+"line-height:120%;text-align:left;-sec-extract:summary;font-size:10pt;">
+<font style=
+"font-family:inherit;font-size:10pt;"><br /></font></div>
+</div>
+</body>
+</html>
+

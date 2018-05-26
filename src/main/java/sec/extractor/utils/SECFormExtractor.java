@@ -54,6 +54,18 @@ public class SECFormExtractor {
 		return listOfItemSections;
 	}
 
+	public static List<SECItemSection> extractForm8K(String xhtml, List<String> expectedItems) {
+		LOGGER.info("SECFormExtractor extractForm8K : STARTED");
+		String sectionTitlesFileName = SECConstants.FORM_8K_FILE_NAME;
+		List<SECItemSection> listOfItemSections = SECForm8KExtractor.extractFormContent(xhtml, sectionTitlesFileName, expectedItems);
+		
+		if(listOfItemSections.size() == 0) {
+			LOGGER.info("SECFormExtractor extractForm8K : LIST SIZE found ZERO : trying extracting content using DIV");
+			listOfItemSections = SECForm8KExtractor.extractForm8KUsingDiv(xhtml, sectionTitlesFileName, expectedItems);
+		}
+		return listOfItemSections;
+	}
+
 	
 	
 	
