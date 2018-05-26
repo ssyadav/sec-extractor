@@ -151,6 +151,9 @@ public class SECForm8KExtractor extends BaseSECFormExtractor {
 				String currentNodeText = currentElement.text();
 				boolean canBreak = false;
 				boolean isTitleNode = false;
+				if(currentNodeText.equalsIgnoreCase("INFORMATION TO BE INCLUDED IN THE REPORT")) {
+					System.out.println(currentNodeText);
+				}
 				if (null != currentNodeText && !currentNodeText.equals(SECConstants.EMPTY_STRING) 
 						&& !currentNodeText.equals(SECConstants.STRING_WITH_SINGLE_SPACE)) {
 					String nodeText = prepareTitle(currentNodeText);
@@ -180,7 +183,8 @@ public class SECForm8KExtractor extends BaseSECFormExtractor {
 							break;
 						}
 					}
-					if ((currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_1))
+					if ((currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_1)
+							|| currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE_1))
 							&& nextTitle == null) {
 						canBreak = true;
 						isTitleNode = true;
@@ -190,7 +194,8 @@ public class SECForm8KExtractor extends BaseSECFormExtractor {
 				if(!isTitleNode) {
 					sectionContent.append(currentElement);
 				}
-				if ((currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_1))
+				if ((currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_1)
+						|| currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE) || currentNodeText.contains(SECConstants.STRING_END_THE_ITEM_XHTML_LOWER_CASE_1))
 						&& nextTitle == null && canBreak) {
 					break;
 				}

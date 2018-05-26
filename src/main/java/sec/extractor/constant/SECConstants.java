@@ -21,6 +21,8 @@ public class SECConstants {
 	public static final String STRING_DOT = ".";
 	public static final String STRING_END_THE_ITEM_XHTML = "SIGNATURES";
 	public static final String STRING_END_THE_ITEM_XHTML_1 = "SIGNATURE";
+	public static final String STRING_END_THE_ITEM_XHTML_LOWER_CASE = "Signatures";
+	public static final String STRING_END_THE_ITEM_XHTML_LOWER_CASE_1 = "SIGNATURE";
 	public static final String STRING_BODY = "body";
 	public static final String STRING_DIV = "div";
 	public static final String STRING_TABLE_OF_CONTENT = "tableofcontents";

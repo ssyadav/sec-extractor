@@ -35,7 +35,7 @@ public class Item8KProcessor {
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
 		LOGGER.info(" ***** FORM 8K EXTRATION STARTED ***** ");
-		int itemnumber = 10;
+		int itemnumber = 28;
 		
 		//1. Read the xhtml from the file by passing the file path
 		String inputFile = localInput + "form8k_xtxt_"+ itemnumber +".txt";
@@ -101,7 +101,7 @@ public class Item8KProcessor {
 			
 			//4 Iterate the list of item and create the item specific html
 			for (SECItemSection item : listOfItemSections) {
-				File newHtmlFile = new File(localOutput + item.getSectionTitle() + ".html");
+				File newHtmlFile = new File(localOutput + item.getSectionTitle().replaceAll(";", " ") + ".html");
 				String htmlString;
 				try {
 					if(!newHtmlFile.exists()) {

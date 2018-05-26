@@ -60,6 +60,9 @@ public class BaseSECFormExtractor {
 			String currentNodeText = currentElement.text();
 			if (null != currentNodeText && !currentNodeText.equals(SECConstants.EMPTY_STRING) 
 					&& !currentNodeText.equals(SECConstants.STRING_WITH_SINGLE_SPACE)) {
+				if(currentNodeText.equalsIgnoreCase("INFORMATION TO BE INCLUDED IN THE REPORT")) {
+					System.out.println(currentNodeText);
+				}
 				String foundTitle = findMatchedTitleFromXhtml(currentNodeText, titles);
 				if(!foundTitle.isEmpty()) {
 					String temptitles[] = foundTitle.split(SECConstants.STRING_COLON_HYFHAN);
