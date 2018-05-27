@@ -59,9 +59,10 @@ public class BaseSECFormExtractor {
 			Element currentElement = bodyElements.get(elementIndex);
 			String currentNodeText = currentElement.text();
 			if (null != currentNodeText && !currentNodeText.equals(SECConstants.EMPTY_STRING) 
-					&& !currentNodeText.equals(SECConstants.STRING_WITH_SINGLE_SPACE)) {
-				if(currentNodeText.equalsIgnoreCase("INFORMATION TO BE INCLUDED IN THE REPORT")) {
-					System.out.println(currentNodeText);
+					&& !currentNodeText.equals(SECConstants.STRING_WITH_SINGLE_SPACE)
+					&& !currentElement.equals(SECConstants.SPACE_HTML_NBSP)) {
+				if(currentNodeText.contains("ITEM 5.02")) {
+					//System.out.println(currentNodeText);
 				}
 				String foundTitle = findMatchedTitleFromXhtml(currentNodeText, titles);
 				if(!foundTitle.isEmpty()) {
@@ -167,7 +168,10 @@ public class BaseSECFormExtractor {
 							&& !nodeText.contains("seeitem") && !nodeText.contains("fromitem") 
 							&& !nodeText.contains("refertoitem") && !nodeText.contains("partiitem")
 							&& !nodeText.contains("partivitem") && !nodeText.contains("seeaccompany")
-							&& !nodeText.contains("theaccompanying") ) {
+							&& !nodeText.contains("theaccompanying") && !nodeText.equals("dexhibits") 
+							&& !nodeText.contains("madetotheexhibit") && !nodeText.equals("cexhibits")
+							&& !nodeText.contains("indextoexhibits")
+							&& !nodeText.contains("thefollowingexhibits")) {
 						matchedString =   currentNodeText + ":-" + subTitles[0];
 						isFound = true;
 						break;

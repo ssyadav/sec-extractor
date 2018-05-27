@@ -5,6 +5,7 @@ package sec.extractor.utils;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -84,7 +85,8 @@ public class SECForm8KExtractor extends BaseSECFormExtractor {
 			List<TitleDetails> titles = new ArrayList<>();
 			Elements bodyElements = new Elements();
 			
-			for(Element elem : mainBodyElements){
+			for(Element elem : mainBodyElements) {
+				//System.out.println(elem.text());
 				titles.add(extractTitlesWithStdTitle(elem.children(), sectionTitlesFileName));
 				bodyElements.addAll(elem.children());
 			}
@@ -113,20 +115,6 @@ public class SECForm8KExtractor extends BaseSECFormExtractor {
 		List<String> titles = new ArrayList<>();
 		Map<String, String> standardTitles = new HashMap<>();
 		
-/*		String expectedItem[] = expectedItemList.get(0).split("\\|");
-		
-		for (TitleDetails titleDetail : titlesObj) {
-			List<String> titleList = titleDetail.getTitlesFoundInFile();
-			for (int i = 1; i < expectedItem.length; i++) {
-				for (String title : titleList) {
-					if(title.contains(expectedItem[i])) {
-						titles.add(title);
-					}
-				}
-			}
-			standardTitles.putAll(titleDetail.getStandardTitle());
-		}
-*/
 		//2. prepare titles
 		for (TitleDetails titleDetail : titlesObj) {
 			titles.addAll(titleDetail.getTitlesFoundInFile());
@@ -152,7 +140,7 @@ public class SECForm8KExtractor extends BaseSECFormExtractor {
 				boolean canBreak = false;
 				boolean isTitleNode = false;
 				if(currentNodeText.equalsIgnoreCase("INFORMATION TO BE INCLUDED IN THE REPORT")) {
-					System.out.println(currentNodeText);
+					//System.out.println(currentNodeText);
 				}
 				if (null != currentNodeText && !currentNodeText.equals(SECConstants.EMPTY_STRING) 
 						&& !currentNodeText.equals(SECConstants.STRING_WITH_SINGLE_SPACE)) {
